@@ -208,7 +208,8 @@ Corporation, IFC);
 ж) Международный банк реконструкции и развития (International
 Bank for Reconstruction and Development, IBRD);
 з) Северный инвестиционный банк (Nordic Investment Bank, NIB);
-и) Евразийский банк развития (Eurasian Development Bank, EDB).
+и) Евразийский банк развития (Eurasian Development Bank, EDB);
+к) Международный инвестиционный банк.
 8. Ценные бумаги, указанные в подпунктах "б" - "г" пункта 2
 настоящих Правил, должны соответствовать одному из следующих
 требований:
