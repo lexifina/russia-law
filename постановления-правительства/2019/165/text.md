@@ -1,0 +1,68 @@
+ПРАВИТЕЛЬСТВО РОССИЙСКОЙ ФЕДЕРАЦИИ ПОСТАНОВЛЕНИЕ от 20 февраля 2019 г. № 165 МОСКВА Об утверждении Правил предоставления иных межбюджетных трансфертов из федерального бюджета бюджетам субъектов Российской Федерации на осуществление спортивной подготовки в организациях, получивших статус "Детский футбольный центр" Правительство Российской Федерации постановляет:1. Утвердить прилагаемые Правила предоставления иных межбюджетных трансфертов из федерального бюджета бюджетам субъектов Российской Федерации на осуществление спортивной подготовки в организациях, получивших статус "Детский футбольный центр".2. Настоящее постановление вступает в силу со дня его официального опубликования. Председатель Правительства
+Российской Федерации Д.Медведев УТВЕРЖДЕНЫ
+постановлением Правительства
+Российской Федерации
+от 20 февраля 2019 г. № 165 ПРАВИЛАпредоставления иных межбюджетных трансфертов из федерального бюджета бюджетам субъектов Российской Федерации на осуществление спортивной подготовки в организациях, получивших статус "Детский футбольный центр" 1. Настоящие Правила устанавливают цели, порядок и условия предоставления иных межбюджетных трансфертов из федерального бюджета бюджетам субъектов Российской Федерации на реализацию спортивно-оздоровительного этапа спортивной подготовки в организациях, получивших статус "Детский футбольный центр" (далее - иные межбюджетные трансферты).2. Иные межбюджетные трансферты предоставляются в пределах бюджетных ассигнований, предусмотренных в федеральном законе о федеральном бюджете на соответствующий финансовый год и плановый период, и лимитов бюджетных обязательств, доведенных до Министерства спорта Российской Федерации как получателя средств федерального бюджета, на цели, указанные в пункте 1 настоящих Правил.3. Условиями предоставления иных межбюджетных трансфертов являются:а) наличие на территории субъекта Российской Федерации организаций, получивших статус "Детский футбольный центр";б) наличие правовых актов субъекта Российской Федерации, утверждающих перечень мероприятий, в целях софинансирования которых предоставляются иные межбюджетные трансферты, в том числе в полном объеме, в соответствии с требованиями нормативных правовых актов Российской Федерации;в) заключение соглашения между Министерством спорта Российской Федерации и высшим исполнительным органом государственной власти субъекта Российской Федерации о предоставлении иного межбюджетного трансферта (далее - соглашение).4. Иные межбюджетные трансферты предоставляются на основании соглашения, подготавливаемого (формируемого) и заключаемого в государственной интегрированной информационной системе управления общественными финансами "Электронный бюджет" в соответствии с типовой формой соглашения, утвержденной Министерством финансов Российской Федерации.5. Оценка эффективности использования иного межбюджетного трансферта в отчетном финансовом году осуществляется Министерством спорта Российской Федерации путем сравнения планового и фактически достигнутого субъектом Российской Федерации в отчетном периоде значения установленного соглашением такого показателя результативности использования иного межбюджетного трансферта, как сохранение численности занимающихся видом спорта "футбол" на спортивно-оздоровительном этапе спортивной подготовки в организациях, получивших статус "Детский футбольный центр".6. Размер предоставляемого бюджету субъекта Российской Федерации иного межбюджетного трансферта (Si) определяется по формуле: ![](data:image/png;base64,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
+s4yb278Lv5mi9K7qswAAAABJRU5ErkJggg==) , где:Fi - количество человек, занимающихся видом спорта "футбол" на спортивно-оздоровительном этапе спортивной подготовки в организациях, получивших статус "Детский футбольный центр", i-гo субъекта Российской Федерации; ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAXCAIAAABrvZPKAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACXSURBVDhP3ZLdGcAQDEXNZSDzZBrLGEZVUZK4
++vPQ7+t5azk3CUx8x3/8QNascL5sbvT1W4LclthXLYXyVWH9e3ckyI2JQG7l4yYCEf+pnF9LUJtg
+KH4CjjGg+3iMnpl/JuCAuZ+nWFQHfir//Pwulc5oPigtXoD0UWnveDDz0dT5Qnj04NdnA5j79b4h
+ojnt/O7wrR/jBvMf4Zis27xEAAAAAElFTkSuQmCC) Fi - общее количество человек, занимающихся видом спорта "футбол" на спортивно-оздоровительном этапе спортивной подготовки в организациях, получивших статус "Детский футбольный центр", в субъектах Российской Федерации;Aфб - размер средств, предусмотренных федеральным законом о федеральном бюджете на соответствующий финансовый год и плановый период на соответствующие цели.Количество человек, занимающихся видом спорта "футбол" на спортивно-оздоровительном этапе спортивной подготовки в одной организации, получившей статус "Детский футбольный центр", не может составлять более 200 человек.Количество человек, занимающихся видом спорта "футбол" на спортивно-оздоровительном этапе спортивной подготовки в организациях, получивших статус "Детский футбольный центр", i-гo субъекта Российской Федерации, определяется по данным утверждаемой Федеральной службой государственной статистики формы федерального статистического наблюдения за деятельностью учреждений по физической культуре и спорту в субъектах Российской Федерации за отчетный год.7. Распределение между бюджетами субъектов Российской Федерации иных межбюджетных трансфертов на очередной финансовый год утверждается Правительством Российской Федерации.8. Перечисление иных межбюджетных трансфертов осуществляется в установленном порядке на счета, открытые территориальным органам Федерального казначейства в учреждениях Центрального банка Российской Федерации для учета операций со средствами бюджетов субъектов Российской Федерации.9. В случае если субъектом Российской Федерации по состоянию на 31 декабря года предоставления иного межбюджетного трансферта не достигнуто значение показателя, предусмотренного пунктом 5 настоящих Правил, размер средств, подлежащих возврату из бюджета субъекта Российской Федерации в федеральный бюджет до 1 июня года, следующего за годом предоставления иных межбюджетных трансфертов (Vвозврата), определяется по формуле: Vвозврата = Vмбт x k x 0,1, где:Vмбт - размер иного межбюджетного трансферта, предоставленного бюджету субъекта Российской Федерации в отчетном финансовом году;k - коэффициент возврата иного межбюджетного трансферта.10. При расчете размера средств, подлежащих возврату из бюджета субъекта Российской Федерации в федеральный бюджет в размере иного межбюджетного трансферта, предоставленного бюджету субъекта Российской Федерации в отчетном финансовом году (Vмбт), не учитывается размер остатка иного межбюджетного трансферта, не использованного по состоянию на 1 января года, следующего за годом предоставления иного межбюджетного трансферта.11. Коэффициент возврата иного межбюджетного трансферта (k) определяется по формуле: ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAmCAIAAAAOWIF+AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARtSURBVGhD5ZjZK7RxFMfHMpaxFrIWWQopXhSy
+JMuFG0JkuXDBhe1OuVP8A5QLF5KiJNxQLjChwSAXoiS7RFkzGMswmPdrzm/GLMwrpul9Hp+Lxznn
+eeYZ3+ec5/c7Z6xUKpXgF2DN/vIdrubz5eXl9vYWR2BjY+Ps7Pz6+iqXy3HK1tZWKBSKRCJr6/cs
+clLn1dVVRkbG8/Ozn5+fj4/P9fX15OSkg4NDQUGBQqE4PDxcXl5OS0sbGRlhHwDQyTm2t7fxn6+u
+rpK7tLQE19fXl1ylUikWi5FScglO5vP8/BwlGhwcTO7BwUFcXBwKWCaTUcQYTq5DXl5eWpHAzc3N
+09MTryXzP4IP6+3Gxsbm5ib/dWKxtbL6xwvIB50uLi4eHh7YV5j/EXzQ6ejoCKn8z+fZ2dn+/v5X
+8/n09FRbW2tvb19WVsZC5ub+/n5qauro6Ij55kAikdTU1MC4vLwsLi4+OTmhuCFvm6iGhYUFRDIz
+M5lvVoaHh+kb29raWMgcHB8fPz4+ko3GCM0g2Qbo1W1iYiKOphfob4OtfHR0FIarqytFzAL6Pjs7
+O7JxZycnJ7INMPV+SqVSVMXY2BgMFvoBAQEBWBVh4OlSxJKY0pmVlZWeno4kfPhGXVxcoEg+5Obm
+Bq8iu04HdN7MsjxUvloQKSoqglFSUpKTk7O+vk5xAyAD8wFWc5SKMSikyspKdqkOs7OzuH9XVxfz
+LYhhG4HGAtWFnGDt6u3tZVGT0ASII1Z2gNcbLjunz9zcXGpqKnTiKbCQmr29vdLSUjw77cQIA+7W
+1ha5+GBycjLZGFMwf6GhJfczIATjW3l5eVNT05trrDMpKenh4WFlZWVxcTEhIYGd0Aeqdnd3Ozs7
+/6gZGhrKy8vDfh0YGIgSaG9vr6+vj4+PZ1dr+Ezn3d3dwMAAlk18OwsJBNjhMF4iAsG5ubnaR4D9
+Y2JiAtVE7mfgg7hhaGhobGzsm6/O6juIIJMwoBZ2Y2MjxY1BeYeHh8fExERFRUVHR+MYGRmJCAwc
+m5ub2XU6zM/P4559fX3MtyB6Ond2dvB/IA/k0uyD5gEDHkV+yPT0NG5YVVXFfAvyrrOlpQW1QftP
+XV0dIpjQqTxQA93d3XTZt6moqMBgIRKJcDeUNyYpdsIicPL3BANmZmawXiBJKSkpWALX1tbw7rBz
+GritExt1Q0MDFjY0WwqFQigUhoSEKJVKvV/ACHVWOQmEubu7G0jw9/fPz89njg6m+qH/HOw32CGZ
+o0EsFuPNZ44OHNapJSwsDJs22RERER0dHWTrwfLKTSAvKCiIhKBcMXKwE0ZwWyfAYN3a2opWjNSi
+PRwfH2fndOCwTvTScrmcOSoVkqntqwcHB1lUA4d1YlpE78EcDdhCKavM18DhdQi9Wk9Pz+npKfPV
+VFdX45idnU2uFg73CRhc6AcKiUSCAQtFixEKOjE5YaLEGEyXERzWiT6hv7/f29tbKpXKZDK0zdCG
+IaSwsJBdoQMf+tuvwIc+4Sv8Dp0CwV9Oi2/Zj6WUsAAAAABJRU5ErkJggg==) , где:Т - фактически достигнутое на конец года значение показателя результативности использования иного межбюджетного трансферта;S - плановое значение показателя результативности использования иного межбюджетного трансферта, установленное соглашением.12. В случае нецелевого использования иного межбюджетного трансферта и (или) нарушения субъектом Российской Федерации условий его предоставления, в том числе невозврата субъектом Российской Федерации средств в федеральный бюджет в соответствии с пунктом 9 настоящих Правил, к нему применяются меры принуждения, предусмотренные бюджетным законодательством Российской Федерации.13. Контроль за соблюдением субъектами Российской Федерации условий предоставления иных межбюджетных трансфертов осуществляется Министерством спорта Российской Федерации и уполномоченными органами государственного финансового контроля. ____________
