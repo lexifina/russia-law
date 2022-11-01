@@ -1,11 +1,11 @@
-ПРАВИТЕЛЬСТВО РОССИЙСКОЙ ФЕДЕРАЦИИ ПОСТАНОВЛЕНИЕ от 27 декабря 2019 г. № 1910 МОСКВА Об утверждении Правил предоставления межбюджетных трансфертов из бюджета Федерального фонда обязательного медицинского страхования бюджетам территориальных фондов обязательного медицинского страхования для софинансирования расходов медицинских организаций на оплату труда врачей и среднего медицинского персонала Правительство Российской Федерации постановляет:1. Утвердить прилагаемые Правила предоставления межбюджетных трансфертов из бюджета Федерального фонда обязательного медицинского страхования бюджетам территориальных фондов обязательного медицинского страхования для софинансирования расходов медицинских организаций на оплату труда врачей и среднего медицинского персонала.2. Министерству здравоохранения Российской Федерации совместно с Федеральным фондом обязательного медицинского страхования давать необходимые разъяснения по вопросам применения Правил, утвержденных настоящим постановлением.3. Настоящее постановление вступает в силу с 1 января 2020 г. Председатель Правительства
+ПРАВИТЕЛЬСТВО РОССИЙСКОЙ ФЕДЕРАЦИИ ПОСТАНОВЛЕНИЕ от 27 декабря 2019 г. № 1910 МОСКВА Об утверждении Правил предоставления межбюджетных трансфертов из бюджета Федерального фонда обязательного медицинского страхования бюджетам территориальных фондов обязательного медицинского страхования для софинансирования расходов медицинских организаций на оплату труда врачей и среднего медицинского персонала Список изменяющих документов Правительство Российской Федерации постановляет:1. Утвердить прилагаемые Правила предоставления межбюджетных трансфертов из бюджета Федерального фонда обязательного медицинского страхования бюджетам территориальных фондов обязательного медицинского страхования для софинансирования расходов медицинских организаций на оплату труда врачей и среднего медицинского персонала.2. Министерству здравоохранения Российской Федерации совместно с Федеральным фондом обязательного медицинского страхования давать необходимые разъяснения по вопросам применения Правил, утвержденных настоящим постановлением.3. Настоящее постановление вступает в силу с 1 января 2020 г. Председатель Правительства
 Российской Федерации Д.Медведев УТВЕРЖДЕНЫ
 постановлением Правительства
 Российской Федерации
 от 27 декабря 2019 г. № 1910 ПРАВИЛА
-предоставления межбюджетных трансфертов из бюджета Федерального фонда обязательного медицинского страхования бюджетам территориальных фондов обязательного медицинского страхования для софинансирования расходов медицинских организаций на оплату труда врачей и среднего медицинского персонала 1. Настоящие Правила определяют порядок, цели и условие предоставления межбюджетных трансфертов из бюджета Федерального фонда обязательного медицинского страхования бюджетам территориальных фондов обязательного медицинского страхования для софинансирования расходов медицинских организаций на оплату труда врачей и среднего медицинского персонала (далее соответственно - Федеральный фонд, территориальный фонд, медицинские работники, средства для софинансирования).2. Указанные в пункте 1 настоящих Правил межбюджетные трансферты предоставляются Федеральным фондом за счет средств нормированного страхового запаса, предусмотренных в бюджете Федерального фонда на текущий финансовый год и плановый период, с внесением соответствующих изменений в сводную бюджетную роспись бюджета Федерального фонда в форме иных межбюджетных трансфертов бюджетам территориальных фондов на финансовое обеспечение формирования нормированного страхового запаса территориального фонда на цели, указанные в пункте 4 части 6 статьи 26 Федерального закона "Об обязательном медицинском страховании в Российской Федерации" (далее - иные межбюджетные трансферты).3. Распределение иных межбюджетных трансфертов между субъектами Российской Федерации утверждается Правительством Российской Федерации в соответствии с методикой распределения межбюджетных трансфертов из бюджета Федерального фонда обязательного медицинского страхования бюджетам территориальных фондов обязательного медицинского страхования для софинансирования расходов медицинских организаций на оплату труда врачей и среднего медицинского персонала согласно приложению.3<sup>1</sup>. При распределении иных межбюджетных трансфертов утверждается объем не распределенных между субъектами Российской Федерации иных межбюджетных трансфертов в размере 20 процентов общего объема иных межбюджетных трансфертов (далее - нераспределенный резерв). Средства нераспределенного резерва направляются на предоставление иных межбюджетных трансфертов бюджетам территориальных фондов в случае недостаточности предусмотренных в бюджете территориального фонда средств нормированного страхового запаса, источником финансового обеспечения которых являются иные межбюджетные трансферты, в соответствии с решениями Федерального фонда, принимаемыми на основании обращений территориальных фондов, сформированных на основании заявок медицинских организаций на предоставление средств нормированного страхового запаса из бюджета территориального фонда по утвержденной Министерством здравоохранения Российской Федерации форме.4. Перечисление иных межбюджетных трансфертов осуществляется из бюджета Федерального фонда на казначейские счета для осуществления и отражения операций по учету и распределению поступлений, открытые территориальными органами Федерального казначейства, для последующего перечисления в установленном порядке в бюджет территориального фонда.5. Иные межбюджетные трансферты перечисляются в установленном порядке ежемесячно, в течение 10 рабочих дней с начала текущего месяца, исходя из одной двенадцатой годового объема бюджетных ассигнований, предусмотренных на предоставление иных межбюджетных трансфертов, бюджету территориального фонда соответствующего субъекта Российской Федерации.6. Условием предоставления иных межбюджетных трансфертов является наличие средств в бюджете Федерального фонда в размере не менее одной двенадцатой годового объема бюджетных ассигнований, предусмотренных на предоставление иных межбюджетных трансфертов.7. Иные межбюджетные трансферты являются источником формирования нормированного страхового запаса территориального фонда в части средств для софинансирования расходов медицинских организаций государственной системы здравоохранения и муниципальной системы здравоохранения, оказывающих медицинскую помощь в соответствии с территориальной программой обязательного медицинского страхования (далее соответственно - средства нормированного страхового запаса, медицинские организации). Виды медицинских организаций, которым предоставляются указанные средства, и виды оказываемой ими медицинской помощи в целях предоставления указанных средств определяются Министерством здравоохранения Российской Федерации в соответствии с частью 6<sup>6</sup> статьи 26 Федерального закона "Об обязательном медицинском страховании в Российской Федерации".8. Направление иных межбюджетных трансфертов на формирование средств нормированного страхового запаса территориального фонда и перечисление средств для софинансирования медицинским организациям осуществляются с внесением соответствующих изменений в сводную бюджетную роспись бюджета территориального фонда без внесения изменений в закон субъекта Российской Федерации о бюджете территориального фонда.9. Территориальный фонд перечисляет средства для софинансирования медицинским организациям, заключившим с территориальным фондом соглашение о предоставлении средств нормированного страхового запаса территориального фонда на цели, указанные в пункте 1 настоящих Правил (далее - соглашение), на счета, на которых в соответствии с законодательством Российской Федерации учитываются операции со средствами обязательного медицинского страхования, поступающими медицинским организациям. Порядок заключения соглашения и типовая форма соглашения утверждаются Министерством здравоохранения Российской Федерации.10. Средства для софинансирования предоставляются медицинским организациям с учетом расходов медицинской организации на предоставление медицинским работникам гарантий, установленных Трудовым кодексом Российской Федерации, а также расходов на уплату страховых взносов на обязательное пенсионное страхование, на обязательное социальное страхование на случай временной нетрудоспособности и в связи с материнством, на обязательное социальное страхование от несчастных случаев на производстве и профессиональных заболеваний, на обязательное медицинское страхование.11. Медицинские организации ведут раздельный аналитический учет по операциям со средствами для софинансирования.12. Средства для софинансирования, использованные медицинской организацией не по целевому назначению, подлежат возврату в бюджет территориального фонда в соответствии с бюджетным законодательством Российской Федерации.13. Остатки средств для софинансирования, не использованные медицинской организацией на 1 января очередного финансового года, используются в очередном финансовом году на те же цели.14. Территориальный фонд представляет в Федеральный фонд ежемесячно, не позднее 10-го числа месяца, следующего за отчетным, отчет о расходах бюджета территориального фонда, источником финансового обеспечения которых являются иные межбюджетные трансферты, в порядке и по форме, которые утверждаются Федеральным фондом.15. Контроль за использованием медицинскими организациями средств нормированного страхового запаса территориального фонда на цели, указанные в пункте 1 настоящих Правил, осуществляется Федеральным фондом, органом исполнительной власти субъекта Российской Федерации в сфере охраны здоровья и территориальным фондом.16. Контроль за осуществлением расходов бюджета территориального фонда, источником финансового обеспечения которых являются иные межбюджетные трансферты, осуществляется Федеральным фондом и уполномоченными органами государственного финансового контроля. ____________ ПРИЛОЖЕНИЕ
+предоставления межбюджетных трансфертов из бюджета Федерального фонда обязательного медицинского страхования бюджетам территориальных фондов обязательного медицинского страхования для софинансирования расходов медицинских организаций на оплату труда врачей и среднего медицинского персонала Список изменяющих документов 1. Настоящие Правила определяют порядок, цели и условие предоставления межбюджетных трансфертов из бюджета Федерального фонда обязательного медицинского страхования бюджетам территориальных фондов обязательного медицинского страхования для софинансирования расходов медицинских организаций на оплату труда врачей и среднего медицинского персонала (далее соответственно - Федеральный фонд, территориальный фонд, медицинские работники, средства для софинансирования).2. Указанные в пункте 1 настоящих Правил межбюджетные трансферты предоставляются Федеральным фондом за счет средств нормированного страхового запаса, предусмотренных в бюджете Федерального фонда на текущий финансовый год и плановый период, с внесением соответствующих изменений в сводную бюджетную роспись бюджета Федерального фонда в форме иных межбюджетных трансфертов бюджетам территориальных фондов на финансовое обеспечение формирования нормированного страхового запаса территориального фонда на цели, указанные в пункте 4 части 6 статьи 26 Федерального закона "Об обязательном медицинском страховании в Российской Федерации" (далее - иные межбюджетные трансферты).3. Распределение иных межбюджетных трансфертов между субъектами Российской Федерации утверждается Правительством Российской Федерации в соответствии с методикой распределения межбюджетных трансфертов из бюджета Федерального фонда обязательного медицинского страхования бюджетам территориальных фондов обязательного медицинского страхования для софинансирования расходов медицинских организаций на оплату труда врачей и среднего медицинского персонала согласно приложению.3.1. При распределении иных межбюджетных трансфертов утверждается объем не распределенных между субъектами Российской Федерации иных межбюджетных трансфертов в размере 20 процентов общего объема иных межбюджетных трансфертов (далее - нераспределенный резерв). Средства нераспределенного резерва направляются на предоставление иных межбюджетных трансфертов бюджетам территориальных фондов в случае недостаточности предусмотренных в бюджете территориального фонда средств нормированного страхового запаса, источником финансового обеспечения которых являются иные межбюджетные трансферты, в соответствии с решениями Федерального фонда, принимаемыми на основании обращений территориальных фондов, сформированных на основании заявок медицинских организаций на предоставление средств нормированного страхового запаса из бюджета территориального фонда по утвержденной Министерством здравоохранения Российской Федерации форме.4. Перечисление иных межбюджетных трансфертов осуществляется из бюджета Федерального фонда на казначейские счета для осуществления и отражения операций по учету и распределению поступлений, открытые территориальным органам Федерального казначейства, для последующего перечисления в установленном порядке в бюджет территориального фонда.5. Иные межбюджетные трансферты перечисляются в установленном порядке ежемесячно, в течение 10 рабочих дней с начала текущего месяца, исходя из одной двенадцатой годового объема бюджетных ассигнований, предусмотренных на предоставление иных межбюджетных трансфертов, бюджету территориального фонда соответствующего субъекта Российской Федерации.Начиная с 7-го месяца года предоставления иных межбюджетных трансфертов размер иных межбюджетных трансфертов, подлежащих ежемесячному перечислению бюджету территориального фонда соответствующего субъекта Российской Федерации, уменьшается на сумму остатков средств, образовавшихся в результате неполного использования территориальным фондом иных межбюджетных трансфертов в текущем году.6. Условием предоставления иных межбюджетных трансфертов является наличие средств в бюджете Федерального фонда в размере не менее одной двенадцатой годового объема бюджетных ассигнований, предусмотренных на предоставление иных межбюджетных трансфертов.7. Иные межбюджетные трансферты являются источником формирования нормированного страхового запаса территориального фонда в части средств для софинансирования расходов медицинских организаций государственной системы здравоохранения и муниципальной системы здравоохранения, оказывающих медицинскую помощь в соответствии с территориальной программой обязательного медицинского страхования (далее соответственно - средства нормированного страхового запаса, медицинские организации). Виды медицинских организаций, которым предоставляются указанные средства, и виды оказываемой ими медицинской помощи в целях предоставления указанных средств определяются Министерством здравоохранения Российской Федерации в соответствии с частью 6.6 статьи 26 Федерального закона "Об обязательном медицинском страховании в Российской Федерации".8. Направление иных межбюджетных трансфертов на формирование средств нормированного страхового запаса территориального фонда и перечисление средств для софинансирования медицинским организациям осуществляются с внесением соответствующих изменений в сводную бюджетную роспись бюджета территориального фонда без внесения изменений в закон субъекта Российской Федерации о бюджете территориального фонда.9. Территориальный фонд перечисляет средства для софинансирования медицинским организациям, заключившим с территориальным фондом соглашение о предоставлении средств нормированного страхового запаса территориального фонда на цели, указанные в пункте 1 настоящих Правил (далее - соглашение), на счета, на которых в соответствии с законодательством Российской Федерации учитываются операции со средствами обязательного медицинского страхования, поступающими медицинским организациям. Порядок заключения соглашения и типовая форма соглашения утверждаются Министерством здравоохранения Российской Федерации.10. Средства для софинансирования предоставляются медицинским организациям с учетом расходов медицинской организации на предоставление медицинским работникам гарантий, установленных Трудовым кодексом Российской Федерации, а также расходов на уплату страховых взносов на обязательное пенсионное страхование, на обязательное социальное страхование на случай временной нетрудоспособности и в связи с материнством, на обязательное социальное страхование от несчастных случаев на производстве и профессиональных заболеваний, на обязательное медицинское страхование.11. Медицинские организации ведут раздельный аналитический учет по операциям со средствами для софинансирования.12. Средства для софинансирования, использованные медицинской организацией не по целевому назначению, подлежат возврату в бюджет территориального фонда в соответствии с бюджетным законодательством Российской Федерации.13. Остатки средств для софинансирования, не использованные медицинской организацией на 1 января очередного финансового года, используются в очередном финансовом году на те же цели.14. Территориальный фонд представляет в Федеральный фонд ежемесячно, не позднее 10-го числа месяца, следующего за отчетным, отчет о расходах бюджета территориального фонда, источником финансового обеспечения которых являются иные межбюджетные трансферты, в порядке и по форме, которые утверждаются Федеральным фондом.15. Контроль за использованием медицинскими организациями средств нормированного страхового запаса территориального фонда на цели, указанные в пункте 1 настоящих Правил, осуществляется Федеральным фондом, органом исполнительной власти субъекта Российской Федерации в сфере охраны здоровья и территориальным фондом.16. Контроль за осуществлением расходов бюджета территориального фонда, источником финансового обеспечения которых являются иные межбюджетные трансферты, осуществляется Федеральным фондом и уполномоченными органами государственного финансового контроля. ____________ ПРИЛОЖЕНИЕ
 к Правилам предоставления межбюджетных трансфертов из бюджета Федерального фонда обязательного медицинского страхования бюджетам территориальных фондов обязательного медицинского страхования для софинансирования расходов медицинских организаций на оплату труда врачей и среднего медицинского персонала МЕТОДИКА
-распределения межбюджетных трансфертов из бюджета Федерального фонда обязательного медицинского страхования бюджетам территориальных фондов обязательного медицинского страхования для софинансирования расходов медицинских организаций на оплату труда врачей и среднего медицинского персонала 1. Размер межбюджетных трансфертов из бюджета Федерального фонда обязательного медицинского страхования бюджету территориального фонда обязательного медицинского страхования i-го субъекта Российской Федерации для софинансирования расходов медицинских организаций, оказывающих медицинскую помощь в соответствии с территориальной программой обязательного медицинского страхования i-го субъекта Российской Федерации, на оплату труда врачей и среднего медицинского персонала (Рi) (далее соответственно - иные межбюджетные трансферты, медицинские организации) рассчитывается по формуле: ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUQAAAApCAIAAADClcehAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+распределения межбюджетных трансфертов из бюджета Федерального фонда обязательного медицинского страхования бюджетам территориальных фондов обязательного медицинского страхования для софинансирования расходов медицинских организаций на оплату труда врачей и среднего медицинского персонала Список изменяющих документов 1. Размер межбюджетных трансфертов из бюджета Федерального фонда обязательного медицинского страхования бюджету территориального фонда обязательного медицинского страхования i-го субъекта Российской Федерации для софинансирования расходов медицинских организаций, оказывающих медицинскую помощь в соответствии с территориальной программой обязательного медицинского страхования i-го субъекта Российской Федерации, на оплату труда врачей и среднего медицинского персонала (Рi) (далее соответственно - иные межбюджетные трансферты, медицинские организации) рассчитывается по формуле: ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUQAAAApCAIAAADClcehAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
 jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASbSURBVHhe7ZbhleM6CIVTVwpKPalmmplW3jl5
 IMW2hMBCtpyRsvc7/FhLGC5gNnN7vf6DwWATmgTLDINNahIsMww2qUmwzDDYpCbBMsNgk5oEywyD
 zWUmWGYYbC4zwTLDYBPZHlhmGGwi2wPLDIPNYhXEMgMAZgXLDMCXgGUG4EvAMgPwJQyxzL/P+/35
@@ -74,7 +74,7 @@ GpUQPvZUHBqMFUlcAAAAAElFTkSuQmCC) - среднемесячная начисле�
 jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACvSURBVEhL7ZLZEYAgDESpy4Koh2poxmIwWR1M
 OOQY9Yv3pcHJywZN+JglaPKXwFsjsD4vzCIS7G4zZnP79UqwRRUmkCvifmrWPwX8eKILTf9AArQU
 57TSjrtJBXcHXIkaERVxblvTM1IQcwPqrBMQouBtx/iEFiRkghiytB460x+DQcG1Jte3HmZUcIfo
-pCZAm4jqV/t7JlY0Aib6UoBkS/AE/t/CLbyYoMwSNAjhAH8TkfejCHw8AAAAAElFTkSuQmCC) - прогнозное значение годового прироста численности врачей, осуществляющих деятельность в медицинских организациях, виды которых и виды оказываемой ими медицинской помощи определяются в соответствии с частью 6<sup>6</sup> статьи 26 Федерального закона "Об обязательном медицинском страховании в Российской Федерации", по данным Министерства здравоохранения Российской Федерации (в единицах); ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAZCAIAAADbmGv7AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+pCZAm4jqV/t7JlY0Aib6UoBkS/AE/t/CLbyYoMwSNAjhAH8TkfejCHw8AAAAAElFTkSuQmCC) - прогнозное значение годового прироста численности врачей, осуществляющих деятельность в медицинских организациях, виды которых и виды оказываемой ими медицинской помощи определяются в соответствии с частью 6.6 статьи 26 Федерального закона "Об обязательном медицинском страховании в Российской Федерации", по данным Министерства здравоохранения Российской Федерации (в единицах); ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAZCAIAAADbmGv7AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
 jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADeSURBVEhL7ZPRFcMgCEUzVwbKPE7jMhnGgmAL
 Cto2nHzl/jRR4fo03cotPJo/uFVzpn37sKdTj9FAv6zRZmeINPmAmiPzGwAD8pWprvd4LdJlFkIz
 1Du12FlMUcRFJFvjO4BOw4H89ciowZ9pTUQaYlqkNFw0z2IeGh2Cb6J5wcoBuHcDOKbu0L7C1gC+
@@ -88,7 +88,102 @@ jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAC4SURBVEhL7ZPhDYQgDEaZy4E6D9N0GYbhCkWh
 BS5g6iWX+H6J1udHLS4+xqtW/EqN4KYAlqJl+tTkr5rgD+cOH8pyi15NNqXeD5wZqaGm/Bs1QqMy
 VYvQpmppXlfTXOlBUmrRDcIsNYL+soE6K75S/GdhWvI1P5g3hKvGx46Pf43eHFf0/EYumavHXqax
 EVfC00wMBJdaDEaH/L1pj4DB+3pvrt4ldUCo7NRqm2kbXbfvqhd41YIYPyZj/nFXH7FRAAAAAElF
-TkSuQmCC) - доля средств обязательного медицинского страхования в общем фонде оплаты труда врачей, участвующих в реализации территориальной программы обязательного медицинского страхования i-го субъекта Российской Федерации, за год, предшествующий году, в котором рассчитывается размер средств для софинансирования, по данным Федерального фонда обязательного медицинского страхования (с округлением до четвертого знака после запятой).3. Годовой размер средств для софинансирования расходов медицинских организаций на оплату труда среднего медицинского персонала i-го субъекта Российской Федерации ( ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACkAAAAZCAIAAAAjeJAMAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+TkSuQmCC) - доля средств обязательного медицинского страхования в общем фонде оплаты труда врачей, участвующих в реализации территориальной программы обязательного медицинского страхования i-го субъекта Российской Федерации, за год, предшествующий году, в котором рассчитывается размер средств для софинансирования, по данным Федерального фонда обязательного медицинского страхования (с округлением до четвертого знака после запятой).2.1. Расчет прогнозного значения годового прироста численности врачей, осуществляющих деятельность в медицинских организациях, виды которых и виды оказываемой ими медицинской помощи определяются в соответствии с частью 6.6 статьи 26 Федерального закона "Об обязательном медицинском страховании в Российской Федерации" (ЧVi) (в единицах), осуществляется по формуле: ЧVi = Nдефицит вр x Iтруд вр , где:Nдефицит вр - прогнозное значение дефицита врачей (в единицах);Iтруд вр - индекс трудоустройства врачей, учитывающий отношение количества трудоустроенных врачей к дефициту врачей за соответствующий период.Прогнозное значение дефицита врачей (Nдефицит вр) рассчитывается по формуле: ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANUAAAAhCAIAAADBIXnbAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAOVSURBVHhe7ZrbgeMgDEVTVwpyPa4mzaSYrARC
+SDwSwA/sWZ2fkUGGi3TtbGb28TGMeZj/jJmY/4yZmP+MmZj/jGbe6/PxXN90tQvmP6OR1/IAzH/G
+LOz9Z0wBjadZXjTl34oIDnEiXPh4WTgByNxr/juTvI/Yklcy6ppU7itOyfgcQIvbDHfmwDkQAi9D
+joQD0A+yIl691zX4ljD/nQu3R8fULB6BwM/giO5rEp8APgqJhuBIDz0rnBOviLrg4D9+3LI0XhA5
+8dT3oLdushMiTv3nKfaVEGkDdMnG5Jr/3EI4CYHM4XscybkE6v1HexcyYaZ8vwF01E12QsSZ/2p9
+xWQVbwCXaZINGtwl74sBqgo/fY7SybmIulAkn7/u2AAtysAC6ZAhaK6b7ISLlwUyIOK+hubRfQf6
+r0N2SGRoGpUI8DQ+gnk/Bzo5qaA5899zXd1eOjcTZCga6xY6gUncFYccgVhPxr4mabTsMJ3txp13
+2FVS8B+fUEioCDKIm9atUzYmnuE/F6Ak3uziddyf7AMnUurATevWJZtLUirAKDX/ebMDXsd/579O
+blq3+bLr/gPI8SBlgyA82J5PzCVprxvOtZQSy9Zfcn5H5ZR6cEC7O/nqP34q/Lc0GuvCn+l+/tvU
+yM11o9sP90Cj7NZnZoAf/gNI07AAvP9+/utkY93e61K6/XT/AVvb3clv/wHuZaAEBZUBuCsM8QJp
+Di2h8ug1U/79ghzkTPp9AcGbRfS2PgHH4t9ZDyhta91ISZp6If8BBdmHEf1HDXZkqqAaqSDSTgWF
+H/4mWEYHXHGuqBhZ0GM6TSdkmT/+no3EpbyGcDJaCUy4Z3F76uZzsyxIO91/HbJjPfcnef91oPyn
+/wsHasfzuTNE9TAkbgHLQtF5Vh4yHdSZMqEIzkYhYYTzWdkMlJIoNCKPOE2lpPbM7MOw/6A+wl7o
+P12tX/6D9xnHKpC3FDNlQpE4G0So/CBjCmXlE95/HXyv9jaG/ec+BwESJzTSjHJbCNiRIVnN0pge
+zDKTOEfMkgi3DnVzqv0qys1/veCbhXHiXI8RrprKQaL76CLE/FUjAmsWM2Er3qlYFJ71qD0drO98
+5Ckkmf+4dBPFMqi6WOodGPIfCFJ6oFr1Og2q/7pmL0dW8K9Te2b2YdB/2eO6u//gvtJ32zHMf1dl
++N9/jfAHycT2X+rDzFAc7T/D+Ib5z5iJ+c+YifnPmMfn8w8CvnHGexEr5QAAAABJRU5ErkJggg==) , где: ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAdCAIAAABjUng4AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEvSURBVFhH7ZTREcMgCEAzlwM5j9O4TIaxoEBA
+7RnT9uL18n5KFPCFJN3SYjxCIx6hEf8gtAe31bgQq1UX9pSip6vNx6MQt3RsuDQh7MadVBx9DmQF
+grKDK2j0rlDDQnIvTQ4WCscBnb61UIE6i5BGpTFmQpTfSYMdtaqPVHEjlF3QBILZCRE8qFyugGq1
+1PT1HrYhMkL4S0WfCLkQspTNhWoRwk6cwXFBr0BsN7N2CWwatSU6QpJtZ6KufklXKAfG/34heTLF
+YwUhgF5xUFlESMZUPiNaA9D0jCCWT97IQAggp9nG1TM/zVgIyI9u2HgPvnczl4Xohcn0xqQa4zmt
++LeFTlP9Iwi3CVUTwosa3rxFSFhlQsJtQniKfi5MIySfyYzTpQn9kkdoxGJCKb0AdwJkbAcsGMAA
+AAAASUVORK5CYII=) - потребность во врачах на следующий отчетный год; ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAeCAIAAADlxgqWAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAE7SURBVFhH7ZLBFYQgDAWti4Koh2psxmLcfBIi
+URSfK7scmIsgIZlEp7UzhlCNIVTjO6EluMmFRXav8I3Q7CeiI6GeJgQTi5/liOcG8EoDacNr7zWA
+OLTzTIiKxkw6ISyiEi24Rv6GY2YvD3HDbgkhNSIkIe2L02XgrsKnCLbFVJGRbBqz7YTt4h4zIblb
+iKSTXb0zoeiCQ1rkMXonclNIWzPdAEqQv0rlNS8WCEhPjomrFKOxwGwMByEXQpSy4ZTAOiZzRY5R
+KcN5v30wPqPEGlRwKghxM0SmcBBiEFhu9DFFobgwHfxfSIfPHkUh/WxvOp0LEVKRVE4m1IBLIR0T
+/s1cCKaNBCtChDi1EthTFyLip/u5kP6iRGlMmRCGVhJ/g92E7sDmHQl1N6EhVAM67f6iRxNqyRC6
+Zl0/WrUqh7AAnewAAAAASUVORK5CYII=) - фактическая численность врачей на текущий отчетный год.2.2. Индекс трудоустройства врачей (Iтруд вр) рассчитывается для каждого субъекта Российской Федерации по формуле: ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOgAAAA5CAIAAACzqfClAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAV/SURBVHhe7ZxruqMgDEBnXV1Q1+NquhkXcych
+IRCI4rMVzfkzlpc8Dil1/O6/P8fpEBfX6RIX1+kSF9fpEhfX6RIXtwc+73/Eaxg5iRmHF2cBVe6N
+cXG7gR017IScJzkbcHE7Igbe94cTGBC3TLo9Lm5HfN6vYQjy6gDr4jqXBsUd45EhU9XFdS4NiRsu
+VNh1cZ1LI+IGV1PYdXGdS5OJC/BPNVC2FFeenlEqf8zr9o+L2xFaXAm7r/e7jrhgayr8GW4lLeLi
+5hSh6mqU4gLsrtFhzIkR95rD2YWLmxiH97UDkyEuEHabpSYF3XEYJrSVbYqEki/455NvBb2TeZe8
+By4SsXp1Ni6uwIv0i1Vok0tW9RCEMmNqEG1yPCEQk6zyjC22Hj4mWaV12du8h2L17+PiasI6/WYp
+zgB8N5UWcvOUhbhTqGqWnA4dLu4Faa52P+wSV64xA5rJjlKQEtrdK+720xmLi/sr8Zs9dCw4pUuw
+1vU+v2ZWixuL594C5EdKiTO0U1ztbS5hs9E84mLFHb24HnEmpgaF+ca6wmrcQdy0dSdHI0XCDKUK
+QFkH5iol5YrtUEZ5q+7ebvPW4gIyHfbiWbHV/u3+AHCupoaujwmqlFJ6Dcrbta3cXVxA3LXGlh7N
+SxTZtgo3YEbcfINX59KNJ6vSW2S5fg8QF3Erm9hTxKknTFvurcSWwCIHOxNXZrem1fPZwOt8GxVv
+x5EuV8SXh0RcBkbo2l6C6rwhUIBpmvskcWFKrjc8ijCPAkY97S0wc9ZOPOeoAFX9gHsRZr1dtlQP
+ibgnBVucseW7wbcO0/AWFqs9T48Q9xLGhLObiwtU3ipTi8VCKa15Y3EpO8L2qkRIo7PH3tfeuBBD
+WUbLh4Ftz7X4pZes4TaDR1ykjrdKCT1FMasKqHnELQjPlUmpY197S4ngPVxE+4uWDwGaq+6vSE/P
+7U041xNzdCbhLnCD4wb2LOroMiNuIF8btU64zLQMWXJuQUgylxYTiVh6ouXdtFQpuhc6JhXiJkzd
+TWAhEr0anQG/y+3ibsR6F36PuHKNGbAk2XcApIQ1UlUiKTE6OtnyHrDRBah7ZR1Z8B+ZqtvW7aiF
+GC5scXEOAtWgVYuHTEmH4PRYY18rbpz6wi6a/ZQSV10tbSRL5GZmWt5KaHIJhUtYD5L0JuSiiZnR
+VdDcCGYFvoeRBzlHTMftmBdX1izMnVrBYr1xeVKSWqti3lUr3M5sy9+GOr/EFuz2CqvUFJXEKStL
+wD1+PSGXpBVxc+bWSUcoVWp2vYiVBpzNgh4D2Glkcccb4vrfBVvDQeLmB8LMYaJ9WryWuNUAvgH9
+muXNkM2Xi2uzXNz4XaajBqfumlu75Z+x4FfZCcjr6zQbso1dXJs1EffuHLEJNyPi0veP9MPFtXFx
+L0ImLpD2kItr4+JeBC2uhN3q74IV5yr+qOtuAe+3v5Xv4eJehFJcgN2tzy5gayp8yLsW5L+L66zG
+EBcIQtVHBVQ6Rtw6dxMecZ21yLc/YIVdS00KutN/0A6IATtCTcdUuVFZjDeKKpf3MKRILpxk6CIr
+Fh9IM3KnQ3FxOyWo03KCwziWpaJwRRckfnYhZfBC1OWUN/pJ751SraK8LjaGr4GYPru5tuPidgso
+1zomlOLiRQJrY5DUmpYqh/+Ooes5cbNiRYFzcHG7pS0uuKOlxAtdpyUuBFG5nhFXFSsKnIOL2y1t
+ceMvt+RQZhNnFvGVLkTlWJhyJ8XVxYoC5+DidkmwRb7vJ8BoKuQ+BaSiKoYkbflDupsG2rSK4a2k
+ylnuurg3BcxRzrTiM5q2VrJ2zD8PF/emVK+4NZ74bhEXKp3yxGAJLq4DyHHhrG/2w3FxnS5xcZ0u
+cXGdLnFxnQ75+/sP2XFSE29EP0AAAAAASUVORK5CYII=) где: ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAAcCAIAAACyMksTAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFNSURBVFhH7ZXbEYMgEEVTFwVRz1ZDMxRjln0J
+i4mTjCEw4/lRl4eHKyGPbUFu6VHc0qNQ6RQfTIAsJSFDkCaka/0LTdLid2CGLXP4Em57aOAxSUFA
+aV/6I510ACDxNtjppbNuk0pzAWm6aeJeQ5o897hXkUbkZ4m6jbQdj1ySx3rgj3krbXGHGF3SaLr3
+TDBOuHAijYi3PwVLWZN2TT/nXBqhDdCZcdgZ4LWybaQCdQ54SRaDtdPkEk8EaVc6pV26fsFR3H2c
+9JKjRSr0DVjUzlGdnR5jkosMyBB5OglPxzpc0h+CC+3X4qhf3EiUlKpFUUVnm1ma70uV7CVmqtC8
+00jrCHPme9028sydLpcmAeKdt/Wid+9jkGZYs3xeg3Cp9De8SK401Fuj6XLwNeeQro/6yp/p/wdG
+SttX7zaCtzphbNIXcUuPYkHpbXsCNmf/adZ2Ti8AAAAASUVORK5CYII=) - количество трудоустроенных врачей за соответствующий год; ![](data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMCAgMDAgMDAwMDBAcFBAQEBAkGBwUHCgkLCwoJ
+CgoMDREODAwQDAoKDhQPEBESExMTCw4UFhQSFhESExL/2wBDAQMDAwQEBAgFBQgSDAoMEhISEhIS
+EhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhL/wAARCAAbAFEDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD74+LH
+7Ruj/BPxd4d0/wCI2kaxpfhvxLeR6fb+Lme3bToLyRXZIJwJfOjyIz+8MfljPLDBxr/Ej4r6h4B1
+/wAN6ZpvgnxB4pHia4a2gutNvbCGOGVUeQq4uLiNv9XHI+VVh8uM5IB5T9oy68Fat4g+HPhb4k33
+hw2Oua5dRXWl6rfQxfaoJNKvovuOwYguyqCP4iuDnFeUeFbLxn8G/jP8NPhP4yXUPEXg+31m8u/A
+/iyRvMlWzj026DabenH+viDjy5P+WkanIBU06erSff5O26fZrp323XvVONotr+Vv0etmvJ217b7P
+3fsUcilrwvXPiz470fx14o8ISaf4OTWp7a3u/AqyXV3t1aFpvLn8/CZQw5jL+XuAEit0Br2GXVf7
+F8OvqPiaSCD7FZ+ffyQq7RptTMhUY3FRgkcZxUKS5Ofp/V/u69hWfNydf6/M06K8b0r9r74Sa5aX
+txpPjG0uU09YGuFjsrreizZ8ttnlbipALbgCAoLEhRmsT46fteeGfg7r3g3TYrrTdTbxDqlrHqLJ
+LNIdPsJ0dkulWGN/MLbAFTIJB3YI6V1SfVpfN/192oJXTa6K/wAl/X6Hv9FeZ3X7SXw1sZZ0uvF2
+lR/ZvD48QyufM2LppIUXO8Lt2bjt65zkYyCKz4/2rvhVNo+qapH4wsfsGivZpqExtrgC3a7/AOPY
+MDHn95xt45yvqMltbf1vb8016qwm/wCvkn+TT9GeuUV5M37VXwqj02DUJvGelxWlxq0+kxySxzJu
+vIUDzRYKA5RTluMLzkjBrf8Ahj8b/BPxj/tL/hW+vW+tHSHVLwRQyxmFiWXBEiLzuR1OM4KkHBoX
+vbf1t/mvvQm7b/10/RndUUUUDMvVPC2ja3dw3WsaVpt9c22BDNc2ccrx4ORtZgSOeeO9aEkKSMjS
+IrGNtyFlB2nBGR6HBI/E1JRQB5t42+Huv+JPit4G8S6XqHh+20nwqbprm2utNllu5zPEYmEUyyqk
+Y2nPKNkgV0/xA/tZvBerp4Vs1v8AV5rR4rSFpxCC7jbuLHoFzu9eMCuiooavHle3+YL3Zcy3/wAj
+4n1T9i3xj4m8VLdeNL/wXrssFjZrazXGk3R0spb272b289qbwzPI8MrSCVZQqkFSrBs1F+0B8HvE
+vwv8TeDNU+F1zZNbat4o0CS7sl8IajqEWnzadbPbxzKtk4EVoEZQY2A5xtcAGvt2kq4zlFprun62
+d/6+/crm1bfZx+TVv6+7Y+T2/Yr1ZbOaztvF2myWQ+Htx4ZghuNKlIN5PLNK15IqzBWVDczbI8Ar
+lcsSM1R1b9ln4pRaH4mtbfxZ4K1G112TRby4s4tFvLe4lk0mO2EMUUzXbJH5ptEBd0fbvJw2MV9f
+0Ue0lzXT1/4Ll+b/AE2QSm5O8tf+GS/9tX57ny94e/ZU8TWWp6NrGpeI9An1C3+IV14svY5NLuHV
+ba4WcNYQ/wCkYUBry5YuchmKkrgEH1b4F/DfXfhlouvWPizVdI1iTVPEeo6vbTafYzW3lJeXD3DR
+OJJZCxWSRwCCoxjIzkn0uipUrKy22/8ASV/7av6bIl72stXv8/ef/tz/AKSCiiikM//Z) - значение дефицита врачей за соответствующий год;5 - период расчета индекса трудоустройства врачей (лет).3. Годовой размер средств для софинансирования расходов медицинских организаций на оплату труда среднего медицинского персонала i-го субъекта Российской Федерации ( ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACkAAAAZCAIAAAAjeJAMAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
 jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAC1SURBVEhL7ZLRFYAgCEWbi4Gap2lcxmFMkQyy
 POSJ/PH+cTQuj1zCOKb7f8a7/QZLDWweT61guXGA1VHlVvSX2gC+86RjrrwMw/ANN0UXm0iT0Eby
 wVH0jKjMzR9EcQJALuTfUvPoJhvriLoSr7r8PvnVLZBRpMDALXUCtTseqQaxcGth7tSg1cHIjdqT
@@ -119,7 +214,7 @@ jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAC3SURBVEhL7ZLBEYQwCEVTFwVZj9XYjMVEQJDg
 7uwkOsxyyLs4kJj/JJaagCmhTAlFJLalNCzbZyOSZhL7CqXAukuJkIlrBNFeB2W6b84poQ16Xtek
 xXPdfgm+LeEKB4Cz4FX38gB3CTtIQr9Owiq3/eksWgnREPBEn4n4pCCJG68kcLVXKk5igNQSFGBw
 FMWcYJgVtGi7nWKv1M9JvIC1/i3Bg5sSTAIJ+XH7NOImMcCUUBJI1HoACiPKC5cqieYAAAAASUVO
-RK5CYII=) - прогнозное значение годового прироста численности среднего медицинского персонала, осуществляющего деятельность в медицинских организациях, виды которых и виды оказываемой ими медицинской помощи определяются в соответствии с частью 6<sup>6</sup> статьи 26 Федерального закона "Об обязательном медицинском страховании в Российской Федерации", по данным Министерства здравоохранения Российской Федерации (в единицах); ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAZCAIAAADSc8uBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+RK5CYII=) - прогнозное значение годового прироста численности среднего медицинского персонала, осуществляющего деятельность в медицинских организациях, виды которых и виды оказываемой ими медицинской помощи определяются в соответствии с частью 6.6 статьи 26 Федерального закона "Об обязательном медицинском страховании в Российской Федерации", по данным Министерства здравоохранения Российской Федерации (в единицах); ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAZCAIAAADSc8uBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
 jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADgSURBVEhL7ZLdGYMgDEWdi4Gch2lcxmHsNbna
 EIyVr9i+eF5ayc8hwLD8nEd5E39TzjkNb1KeyzVd8GkbW/QqZsppRP048QtgwX4S8e7rUlSWfcIo
 q15Bn9ViQjp6w6jHytgHnJKDxvmeWrn+nNb3nlI5bVAoWXR9xsOD1YOKrRo3tPhAeJcgsLqDbeZY
@@ -133,7 +228,259 @@ jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADQSURBVEhL7ZLLEcUgCEWty4KsJ9XYTIox+IkE
 RIc3at4mZxVH4XiJJrzL51vLX33emS7Ol0NztPlAir3Pwxpjj7Ms52l9oGC+RdESks9hHuaLA49p
 78GnnXuhGoPelz4L1WOtzQvtIKT/9yjr5MNV3YsnFQkbH4nHfbTpCh/VzfhgV/AzHxkmMOGTIT7v
 eMUuX+o7xHk8A30fBaCM5gy5jeAnPvl+uRmGVJGKhj5ZloHqH329ltVHnmUDf0cKhr4NvOvLD6L9
-g/vyyXy+lYRwAUH9qCKhQ3qNAAAAAElFTkSuQmCC) - доля средств обязательного медицинского страхования в общем фонде оплаты труда среднего медицинского персонала, участвующего в реализации территориальной программы обязательного медицинского страхования i-го субъекта Российской Федерации, за год, предшествующий году, в котором рассчитывается размер средств для софинансирования, по данным Федерального фонда обязательного медицинского страхования (с округлением до четвертого знака после запятой).4. Сумма средств на оплату ежегодного отпуска врачей i-го субъекта Российской Федерации, необходимых с учетом средств для софинансирования расходов медицинских организаций на оплату труда врачей (Оvi), рассчитывается по формуле: ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJ4AAAA1CAIAAAA/PMUBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+g/vyyXy+lYRwAUH9qCKhQ3qNAAAAAElFTkSuQmCC) - доля средств обязательного медицинского страхования в общем фонде оплаты труда среднего медицинского персонала, участвующего в реализации территориальной программы обязательного медицинского страхования i-го субъекта Российской Федерации, за год, предшествующий году, в котором рассчитывается размер средств для софинансирования, по данным Федерального фонда обязательного медицинского страхования (с округлением до четвертого знака после запятой).3.1. Расчет прогнозного значения годового прироста численности среднего медицинского персонала, осуществляющего деятельность в медицинских организациях, виды которых и виды оказываемой ими медицинской помощи определяются в соответствии с частью 6.6 статьи 26 Федерального закона "Об обязательном медицинском страховании в Российской Федерации" ( ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAZCAIAAACtotlwAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALPSURBVEhLY/hPA0AzQ/+BwF8YAPNQuRA1YPVE
+AQZiVANNhrKIA2CX/v369OrpMxev3rx+4dz5Kw/ffn3/8OKpC0AukLx2/90voBqSzAUZ+vfn9Unu
+IgLsDEAgaORSs+76gWodEAcI9IPKtr4Aqvnx+y9YPVEA5H2IG36tTueW630DZgPBg8UFbsZN90HM
+3z/+kOx9sKG/3t2cGMokXnnu/79v734ADbq1vSdRMXUHSApkJmkRBVP+9cHcKG7B6ttg0f//ny1P
+s7cxKDsKZP75SYrXQQBu6P9PlxeFCPN5102f1NvX21EWqi2uZVF9DChBjqHwNPj399l5ob7eXi62
+vjld87btmZumkLIHKE6eS4EUMLWjhdrVxeURqpm7gKxfP//8/fPn968fPyHgx89ff6CaUHQgAJJL
+//378+v7929fv3wH8V5urA82aXkMYv74hqn53++/YHMhPDQAMhQOoKZ/e31qTryOBA8DA79eesuc
+07///7z15NiswrKGSRP6msoLKxccfgdS9wdsLhaAzdAfb86v761snTBjUktJ84yd774/nRulKabr
+FxPmHBAREBsQV7fw6COgur+4TEUxFAhAgQtlIsDHbbVhaROOnNjROnXe2pO7N6zZuvM8KIyAxQ0Q
+Q2MDKYSxuRRo8J9fP3/+AoGf378CRT7sO3z5zMXTh6cu33Hm4fkdB46eAqdnoEv/gGiYTpip6C5F
+Bf/+glPTq3VpRlru0VlJfubM3BIibAz21RvvAU0AGXLjzuUf30AW43IpBoAGxpcX148dPHX+yuXL
+J7du3bZ968bjt159/vUf5MoLtVG9R669hygmzqUggC2QweA32Bc7p80+9/QNiEWsoUB1IIVIFcEf
+MABFzt/fwHLn/40W1aS5J5+hFrmEXYoLQOz79vbB64/fwUUjKd7HA4DOhbKQTAQCSl0KJMEALgAC
+FLkUO/j/HwDY1ZZ3zddbgAAAAABJRU5ErkJggg==) ) (в единицах), осуществляется по формуле: ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOYAAAAeCAIAAAC3yfWYAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAObSURBVHhe7ZjZgcIwDES3LgpKPakmzVAMOzqs
+WD4gHCEHel+OrcjSePDC/t2C4FCEZYODEZYNDkZYNjgYYdngYIhlr+PlL2eYyqnLeOXILZiGXhGu
+yC1L3DsmIXNspfJblvuCW2fYEvtoUN3ZKAYr4dYl0PmeQKnSskVLe+oy3RTuQwVg2XIqaBGW/TbT
+cBlHtq2vKCy7kLDstyHLXtMXhMykP27Z1vciHFtDkrDse1DmDp0NxbI8cFFxy3oFunqc0LLo1fWk
+rtpLl2ZZrTRdtWFZgLNiESBG97xOaFmgLhWgwZ66zCwLtFLU+J5lyf0nOEfAitxr5ZyWLVmvS7Vc
+i86G3rJ21V6G4XXLShUnOEcQlmX21GVpWaCubf3WWMpJblkcFIuAdrrd/IRl2RJFl2j8Mk7sFayI
+ab4iRMOygM7BWzb5OCFvpVnLUYZpFhfHyTHGRS4DTFpAPmmR+m84xTYr0GifMGuirk1pJ0S4f9np
+YdCuRQIrhMAabZxOVyuykFyeYSwq7OW936BpmJOlkjRFN13Lpn2UlEdrsUrSoC3Sp8iVzToSsH25
+u7qbCpNwjGSATH5gMdZFNjOQpD7MB1SR04Acaf46jg1ZaFUKprZ4hHovc348AjySddJkXoADC9U8
+EntJcgEzCYtq04nzOj9ylnlEoFd5vRI5QTMS/qjB4vUyFW+c6jEefDFoYAXVg91Qqpl6F6hWE9Ni
+aCp/i4/GZZCwIm0VmQe0wGK1RvWSP1NFw8TFLLLs23QrN43yaXY507MsJtwz0WmweL1KJUyjmzul
+ZVGQFWa6+AofWRa3gI3dIH+lGZkHtKDFUi05fSkgG29vWRtr1XbF8kwhoKKhjk6DeCt/vUpFVH+q
+1rMsaqonv0O6CWYJMjF0sZLMtZOC3arO+ckqshjX+Ei2gJyi5JMiuLxtLJuOLSmk4BHMM7XICZ/w
+XoM6NQcXqWhPN0E8a1nZFLvaYJ7SkM0RcZVcDsbqdGEEr6Q4ekjjxq8EpG1GYjfbqRLbmLfGyxrP
+0XK0loHJZ/opX8VX63Y2pRRUPU81RTYWNuh+wi7t8flbdimuwe+Bxl3Pj8ogoR6J1GCj7tbmnhr+
+S8FTIn+UtSzLH5ltLGvCCvPvhSYvWhbvtf4bcHTuqJHr+KzIH2W9Wxbdb2HZ57A/YK+49nSYGu7g
+dHY3h/njlg2Ox2qW5c9m3F3Bx1nvlg2CVQjLBgcjLBscjLBscChut3+tr26nkIO5kwAAAABJRU5E
+rkJggg==) где: ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF4AAAAcCAIAAABnIJ9eAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHtSURBVFhH7ZbrdYMwDIUzFwMxD9OwDMOk17Ks
+J05S9zQ9pL4/GkcWV+JDJr3dpzqaaLqaaLqaaLqaaLpqaPb1VrVsB4dYx7bwFpR2P1huapjCyf1j
+5z9RIYUD1YZn3TnAApoY+nglNMu2ER4/JBMNoTnawTIwJhpGQws3OhONoiEaOjoTjUUD8UsZUH6A
+piC2ppfRQzQyOsu6DqIJB/NKeoIGYjrp9/xVferUVNGjd2garyZc1UJiEHPYwuXxkS1TWRcISoIN
+Sib/b8GSYlac6t1M+xwSfytjqGjEEEoV4RanhimWOljgo14EG7/ghLoQOBxZS3s+zSekzH2FR4sf
+2xa6oq3aarkhWqHTRc3xFQr+kF2TwtR8Qw7Njr+q0pA0piUDLNxunTUbJOsY9Jk2IQk7aaN0Whps
+7ax7emx1w3sOo6ES9ROOUln0DA2enGtO02IwZtqEpLLjG6loDq5u1088h9HQYEPsaIx5J5UvC4HV
+kt0ux3wwZYZ1kE8jqGa+5Yipf9dzFA3MVaYyJA/N5RQpGP7S1idvRHieZqKUVHJ3otK6uJKTKbUy
+SkVdUC2H0MDHdYVehEdSKeqyX9NDz7doEA0NqqqdrjMNosF16dfnvRp+17woGe4ROn+r30ZzYU00
+XU00XU00Hd3vX1v/wuS6tDI8AAAAAElFTkSuQmCC) - прогнозное значение дефицита среднего медицинского персонала (в единицах); ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAAAcCAIAAAC2x5suAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFESURBVFhH7ZPtEYMgDIady4EyD9OwjMPYfBES
+qVqv9qh3PD9aEpI3L6jT+liG9R4M6z1Q6xkmx5wWSf81/tbJ/zNcM8N6D4b1HgzrPRjWe3BknWID
+N5Y041/GXwKyL+GICmidtKSwuQ9rorz2iICgqRkgyhBOSq0Hl7qfAeXEbp2gmxxWuzZ3SSDaGazO
+TUMoI+U0k1dYO7synAtQx5R8I+Vv/R27zTbYp/m0zJ51TISYoFp6ltyLBZBRvGlvpL6xbmvawLl2
+5ZwpRuI8LQ3IMUXQr2N7I3XVepnrnSMYlndJY6lr5m0E+azuCdkrJDXb6UHq2LqoFVMWEe3VuZSc
+RAnziLqLHSrKRXKGMsY+05CsYme37qH2xocSX5ZQFQ51IzdZr99nOIXgN2/kc+v2mIMPzf7E2wlX
+bv3PGNZ78Fjr6/oCM8RuNAVd9f0AAAAASUVORK5CYII=) - индекс трудоустройства, учитывающий отношение количества трудоустроенных работников среднего медицинского персонала к дефициту среднего медицинского персонала за соответствующий период. 3.2. Прогнозное значение дефицита среднего медицинского персонала ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGwAAAAcCAIAAAALJs1bAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJNSURBVGhD7ZbbdYMwDEAzFwN5HqZhmQyT6mVZ
+kkUIhdMmwfejdbAsyRcTcnsMDjMknsCQeAJD4glkEpcyzXcZDyr3eSqLjANRIoTeIHYpN6bTiQHK
+tWTj1tMdO4lisCK+knUwc83DGgwJViIcv6CmHsi4DnKtHe1vJ9PYJGaz+O04k0hv98ISs7OmEtFh
+94jyKwan/HG8tMTeVJVIojox+p7m51qXXloiyXAWq8RugjA/dtxxvLbE7sC9LBHg44jLj0nEJvpa
+n8MhiXocp1J+L5FvxVdK7CaIKBEQj33s62CKT5bYHbgqMd9ZIhGgs+QkVrMVXlWvao4YJllcnHxn
+MHhFZ+H488CE1V9gglYKaFKb0OxALmkJS5cTg/1FlUhzJq/dTJYnnkTx3SrAiAeQyQ80RkuaKwU3
+Ms2L5gnxPuy+FEhQr9/nOXSFaBXaE42g2anlh49AKAHYsUH3ozSJ2ewOokQcNLB13UJrLmgFN/gH
+x88kmrAQkAGT3Rw2ixVqO2UJnVBUmhYv8i1pWIlHNFIn/L9144ttSYTToOMnEl1YCMjAybhrvuNc
+3Y6306aGvMSNfp5AjxXQ1ptMMtk1igPVWoN5dlWiDwsBKT6S7oB5bPQBbyVW06YGgSgRkRJ7gPQN
+2wShB8GFIU2hfNA1AciZhWEpXbLedasLiyWeonmrms2+u2wJBD7rPgKZxL1Aetc/tLxWjsD23IIX
+2Mr5r5wjkZ6RRn22V/iNRFiUvXnfgzMk7kMfrd0e35a/l/iFDIknMCSewJB4mMfjB9hH47ARPSp1
+AAAAAElFTkSuQmCC) рассчитывается по формуле: ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOAAAAAhCAIAAABP+zCnAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAO6SURBVHhe7ZtrmusgCIa7ri4o68lqspkupgOi
+CF5azdVMeX+cIQYR4dOenmfO420YA2MCNYbGBGoMjQnUGBoTqLGW1/x8POeXfzoIE6ixjmV6ACZQ
+Y1jsBjXGBJWpmRb/iu5VBIfYER7IniZ2ABrkbQK9irzL2LAlGXUtLHcdX0n7NCAdtx4uzoaTKBiU
+iRwJe/A/vFbx6TXPQdhVTKDXwc3Ttm8lj4BBb3BEdz2xzwGPS5JGkCzhzxP7xCdPT85BoHxIs4m8
+BHJuKW5Gbw1ln4SdCpQodt0j3FbQmzb61wTqYuFLMKQPz3EkW/uIukF9QoW58KY14o/TUUPZJ2Fn
+Aq11HZ2VvQEM09p6SMON8NJoYGLhJ/moVNkXUQ9fSD7iXS0AvwwDIdMho0JzDWWfnD1N4AEWdz20
+1s87UKB9rQ++jPfAZAS4IbLgPb2DVNmpKe1MoM95dqvr2aUsjTKNNQx9QifumUOOgK1fxq4nbj7s
+avpbj4vvsPBnCgLlbYu86lkaKTetYX/a6HuNQJ2BefLygxf3QLJPs0ilOTetYW/aXJhKGXaiJlA6
+HwAl97sC7eemNRw07bpAAX9IIL9tWeKGjz1nI9FeQ3zXUlasX3/5+YrLKTXjmNZv5qNA+SzR90s/
+1gvt9a4C7WwzsHMN/fTDRdKeduu52oUvAgV8oltSwhB3FWg/G2v4mqfS9NMFCuzQ+s18FyjgbhGV
+ZUg9QLPCKMdI3TCKcvL3U/mfTuQge4bQEr7l5HSRrx/igJJiwE201tCllbsOJFCgkPZhUBuTxaJA
+uctAliqUKM3SbyhWGSwyIJI22IcqLR4n1Iz2oUjZxOiZQDHRwh04C1J7CucF5qaZANLeiZ4akm+e
+wAUC7Un7kLo5MG6eQXKDdpAKNMQncE8smLglGKLf2IFH1wk1nXySmJmnBoazUUwNFwmLT4tbt7bK
+VagE8CFFZnqkQHuonavdWGYVe7VAoWhafHkVPwoULrUwi6fLhsTB1FODw2nz6OyQKKVdWeUqyglc
+cIP2cWjdst/AWy1Q94t9QExXJO5fZrKgSuOfwVO98mN6MPNM0BNdc8Xlzh/6MWB0Lgc8jXICvytQ
+aFIeeK1AMRgjW+7gaio3JH5JQp9gF76+QMyiZ6kycRVw9Z7OkZSaraIGSwHPoJZAJlDe3SAaxcTP
+q9oqgUKKKkMo4cfirdnSt5jGNZx9sFcKNDvkuwsUJn3//wDGv2f130Hb4Y+o8z4XjH/DCQI1jPWY
+QI2hMYEaQ2MCNQbm/f4DSESWoD4qj0wAAAAASUVORK5CYII=) где: ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAdCAIAAABjUng4AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEvSURBVFhH7ZTREcMgCEAzlwM5j9O4TIaxoEBA
+7RnT9uL18n5KFPCFJN3SYjxCIx6hEf8gtAe31bgQq1UX9pSip6vNx6MQt3RsuDQh7MadVBx9DmQF
+grKDK2j0rlDDQnIvTQ4WCscBnb61UIE6i5BGpTFmQpTfSYMdtaqPVHEjlF3QBILZCRE8qFyugGq1
+1PT1HrYhMkL4S0WfCLkQspTNhWoRwk6cwXFBr0BsN7N2CWwatSU6QpJtZ6KufklXKAfG/34heTLF
+YwUhgF5xUFlESMZUPiNaA9D0jCCWT97IQAggp9nG1TM/zVgIyI9u2HgPvnczl4Xohcn0xqQa4zmt
++LeFTlP9Iwi3CVUTwosa3rxFSFhlQsJtQniKfi5MIySfyYzTpQn9kkdoxGJCKb0AdwJkbAcsGMAA
+AAAASUVORK5CYII=) - потребность в среднем медицинском персонале на следующий отчетный год; ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAeCAIAAADlxgqWAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAE7SURBVFhH7ZLBFYQgDAWti4Koh2psxmLcfBIi
+URSfK7scmIsgIZlEp7UzhlCNIVTjO6EluMmFRXav8I3Q7CeiI6GeJgQTi5/liOcG8EoDacNr7zWA
+OLTzTIiKxkw6ISyiEi24Rv6GY2YvD3HDbgkhNSIkIe2L02XgrsKnCLbFVJGRbBqz7YTt4h4zIblb
+iKSTXb0zoeiCQ1rkMXonclNIWzPdAEqQv0rlNS8WCEhPjomrFKOxwGwMByEXQpSy4ZTAOiZzRY5R
+KcN5v30wPqPEGlRwKghxM0SmcBBiEFhu9DFFobgwHfxfSIfPHkUh/WxvOp0LEVKRVE4m1IBLIR0T
+/s1cCKaNBCtChDi1EthTFyLip/u5kP6iRGlMmRCGVhJ/g92E7sDmHQl1N6EhVAM67f6iRxNqyRC6
+Zl0/WrUqh7AAnewAAAAASUVORK5CYII=) - фактическая численность среднего медицинского персонала на текущий отчетный год.3.3. Индекс трудоустройства среднего медицинского персонала ![](data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMCAgMDAgMDAwMDBAcFBAQEBAkGBwUHCgkLCwoJ
+CgoMDREODAwQDAoKDhQPEBESExMTCw4UFhQSFhESExL/2wBDAQMDAwQEBAgFBQgSDAoMEhISEhIS
+EhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhL/wAARCAAbAEwDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9JPGn
+xAXw3rOjaBpFk+reJPEHmPZ2KyeWkcERQTXM0mDsiTzIwTgks6qoJOK5j4Y/HS4+JHj3xZ4Xk8D+
+JfD8vg2dLbUr7ULzT5IfOeNJYo1EFzI5LRSK+duBypIYYrE0I3P/AA2Z4w/tbzPJX4e6V/Y+77nl
+m9u/tW333i3z/wABrkfgZ8SvCdv8av2j71vE2gSW9rrdjfStDqUUxW2h0q3WWXajE7VYFSccMCvU
+EUqbVuZ/yyf3TUfwV3636IJJ87iujivvjzfrb0R9P0V4vY/tkfBrULTz7Xx/oZ3SSxxwN5qTztGj
+vII4WQSSFRG4O1Thht+9xXQab+0T8O9Z1vTtI0nxRYXuoatoja5ZQ26SyefYLu3TqwTbtBRgecgj
+bjPFP+vwv+Sb9ENK+39a2/PT1PSKK8bj/a++EsmoaXYr4wtRda19mFjG1jdL55uCRAATFgFyp2g4
+Jwa67x58aPBXwy1HTLHx34hsNGudXkVLZLgt/E4jVnKqRGhdlTe5VdxAzmnyv8bfPt6k3/DU7aiu
+Csfjr4D1Lw54n1208Taa2leDLiW31+4ZmQadLEAXWUMoZSAQenOeM1x8/wC2h8G7aSRJvGtopi8n
+zT9hu9sRmCmIO3k4UuHQqCQW3LjqKS952XW347ff07jemr8/w3+7qd5qfxCGgeP9N8O+ILGSztPE
+ClNF1UShobm6VGd7RxgGOXy0d06h1R8HKla7GvDP2vJLhvhbosmgmb+2D418OHSvK++ZjqdvnHt5
+Zkz/ALOa9yohrBvtJr8Iv/263ol3CT95W6pP8Wvu0++5xvjn4enxLrGia/od+2j+JfDzutperH5i
+T20pXz7SdMjfDJsQkAgqyIykFa2LLwZoelSzT6Touj2dzNGyPLDYRxswY5IYqoJBOCRnmtuijpb+
+tf6/XqB8R+KvhX43+GuvfBjSdPu9D1nxNaeNtd1KDXP+EL1G9sbGC9juH23JjkZk/wBIudoYzRj7
+rEHaxrvNU+C8Gg6f4H8E+D9U1uy8a6ZeXGoXGu2ehyi1Nne3DyanEZWjNuiP5jBITIZFwjDLDdX0
+/RQtEl2d/wDgen8382tx1Jc7b6v87t39fedu3Q+YfHnwb+Imv+Lv7c0NNEtdA0HxFpV7YeH281r2
++i07KR7bnzxDEjiV22tEzDZgklsr6J44+FfibUfHw8TeAdb0GwGq6bDpeuWWuaO2oRvbxys6yW+2
+VNko3uMPvjPynZkHPrVLTTtbyd/m1Z39VuEnzb+nyTuvu6Hy74g/ZD13xJH4rnuvFmkW954qGqrf
+29vpE32S+Fxv+xvco05dnt/On5VlD/uQQBGBTH/ZZ8eXHhbxfpt14y8Km78Tal4evo5k0O7CQHS1
+t12spu8t5n2SE5DAjc/X5cfUtFOEnDby/B3X4hJuW/n+P/DHGal8P28ReNtI1zxJe/arTw4fP0jT
+Y49kcV40bxvcyEkl3CSSKg4Ch2OC3I7OiipWit/X9f8ADC8/6/r/AIfqf//Z) рассчитывается для каждого субъекта Российской Федерации по формуле: ![](data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMCAgMDAgMDAwMDBAcFBAQEBAkGBwUHCgkLCwoJ
+CgoMDREODAwQDAoKDhQPEBESExMTCw4UFhQSFhESExL/2wBDAQMDAwQEBAgFBQgSDAoMEhISEhIS
+EhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhL/wAARCAA4AO0DASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9U6KK
+KACiiigAooooAKKKKACiiigAoopKAForj/DfxS0fxZ4s1bQNDg1meTRiy3Go/wBkzrp7yKQHjiuy
+vlSSKWwyKxIKtkcGuwo6J9GD0duwUUUUAFFFFAHlHxa/aK0T4I+JPD1n8RtJ1vTfDviO9i0+HxZ/
+ozabbXcgcxwz4m8+PPln5zF5YyMuMHGt8SvitefD3VfDllYeCfE/iz/hJbo2lvPo9xp6JFMI3k2v
+9puoW5jikfKhhhCM5IB539obTfDvia++Hvh3xwulXWlaz4klt7yxv5ECXEL6XfqwKsRnkgAjnOMc
+4rxrwr/wl/wX+MHwz+D3jZdR8QeFY/EVxd+A/FkreY5sotMvQ2m3p/57wh12P0kjHYqcuCvJJ9/v
+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
+rDDAg6KiKAFHsBWlRRTbvqxJW2CiiikB/9k=) где: ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAAcCAIAAACyMksTAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFNSURBVFhH7ZXbEYMgEEVTFwVRz1ZDMxRjln0J
+i4mTjCEw4/lRl4eHKyGPbUFu6VHc0qNQ6RQfTIAsJSFDkCaka/0LTdLid2CGLXP4Em57aOAxSUFA
+aV/6I510ACDxNtjppbNuk0pzAWm6aeJeQ5o897hXkUbkZ4m6jbQdj1ySx3rgj3krbXGHGF3SaLr3
+TDBOuHAijYi3PwVLWZN2TT/nXBqhDdCZcdgZ4LWybaQCdQ54SRaDtdPkEk8EaVc6pV26fsFR3H2c
+9JKjRSr0DVjUzlGdnR5jkosMyBB5OglPxzpc0h+CC+3X4qhf3EiUlKpFUUVnm1ma70uV7CVmqtC8
+00jrCHPme9028sydLpcmAeKdt/Wid+9jkGZYs3xeg3Cp9De8SK401Fuj6XLwNeeQro/6yp/p/wdG
+SttX7zaCtzphbNIXcUuPYkHpbXsCNmf/adZ2Ti8AAAAASUVORK5CYII=) - количество трудоустроенных работников среднего медицинского персонала за соответствующий год; ![](data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMCAgMDAgMDAwMDBAcFBAQEBAkGBwUHCgkLCwoJ
+CgoMDREODAwQDAoKDhQPEBESExMTCw4UFhQSFhESExL/2wBDAQMDAwQEBAgFBQgSDAoMEhISEhIS
+EhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhL/wAARCAAbAFEDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD74+LH
+7Ruj/BPxd4d0/wCI2kaxpfhvxLeR6fb+Lme3bToLyRXZIJwJfOjyIz+8MfljPLDBxr/Ej4r6h4B1
+/wAN6ZpvgnxB4pHia4a2gutNvbCGOGVUeQq4uLiNv9XHI+VVh8uM5IB5T9oy68Fat4g+HPhb4k33
+hw2Oua5dRXWl6rfQxfaoJNKvovuOwYguyqCP4iuDnFeUeFbLxn8G/jP8NPhP4yXUPEXg+31m8u/A
+/iyRvMlWzj026DabenH+viDjy5P+WkanIBU06erSff5O26fZrp323XvVONotr+Vv0etmvJ217b7P
+3fsUcilrwvXPiz470fx14o8ISaf4OTWp7a3u/AqyXV3t1aFpvLn8/CZQw5jL+XuAEit0Br2GXVf7
+F8OvqPiaSCD7FZ+ffyQq7RptTMhUY3FRgkcZxUKS5Ofp/V/u69hWfNydf6/M06K8b0r9r74Sa5aX
+txpPjG0uU09YGuFjsrreizZ8ttnlbipALbgCAoLEhRmsT46fteeGfg7r3g3TYrrTdTbxDqlrHqLJ
+LNIdPsJ0dkulWGN/MLbAFTIJB3YI6V1SfVpfN/192oJXTa6K/wAl/X6Hv9FeZ3X7SXw1sZZ0uvF2
+lR/ZvD48QyufM2LppIUXO8Lt2bjt65zkYyCKz4/2rvhVNo+qapH4wsfsGivZpqExtrgC3a7/AOPY
+MDHn95xt45yvqMltbf1vb8016qwm/wCvkn+TT9GeuUV5M37VXwqj02DUJvGelxWlxq0+kxySxzJu
+vIUDzRYKA5RTluMLzkjBrf8Ahj8b/BPxj/tL/hW+vW+tHSHVLwRQyxmFiWXBEiLzuR1OM4KkHBoX
+vbf1t/mvvQm7b/10/RndUUUUDMvVPC2ja3dw3WsaVpt9c22BDNc2ccrx4ORtZgSOeeO9aEkKSMjS
+IrGNtyFlB2nBGR6HBI/E1JRQB5t42+Huv+JPit4G8S6XqHh+20nwqbprm2utNllu5zPEYmEUyyqk
+Y2nPKNkgV0/xA/tZvBerp4Vs1v8AV5rR4rSFpxCC7jbuLHoFzu9eMCuiooavHle3+YL3Zcy3/wAj
+4n1T9i3xj4m8VLdeNL/wXrssFjZrazXGk3R0spb272b289qbwzPI8MrSCVZQqkFSrBs1F+0B8HvE
+vwv8TeDNU+F1zZNbat4o0CS7sl8IajqEWnzadbPbxzKtk4EVoEZQY2A5xtcAGvt2kq4zlFprun62
+d/6+/crm1bfZx+TVv6+7Y+T2/Yr1ZbOaztvF2myWQ+Htx4ZghuNKlIN5PLNK15IqzBWVDczbI8Ar
+lcsSM1R1b9ln4pRaH4mtbfxZ4K1G112TRby4s4tFvLe4lk0mO2EMUUzXbJH5ptEBd0fbvJw2MV9f
+0Ue0lzXT1/4Ll+b/AE2QSm5O8tf+GS/9tX57ny94e/ZU8TWWp6NrGpeI9An1C3+IV14svY5NLuHV
+ba4WcNYQ/wCkYUBry5YuchmKkrgEH1b4F/DfXfhlouvWPizVdI1iTVPEeo6vbTafYzW3lJeXD3DR
+OJJZCxWSRwCCoxjIzkn0uipUrKy22/8ASV/7av6bIl72stXv8/ef/tz/AKSCiiikM//Z) - значение дефицита среднего медицинского персонала за соответствующий год;5 - период расчета индекса трудоустройства среднего медицинского персонала (лет).4. Сумма средств на оплату ежегодного отпуска врачей i-го субъекта Российской Федерации, необходимых с учетом средств для софинансирования расходов медицинских организаций на оплату труда врачей (Оvi), рассчитывается по формуле: ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJ4AAAA1CAIAAAA/PMUBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
 jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAOdSURBVHhe7ZnblYQgDECnrinIeqxmmrGY3ZCA
 EggPHzNi4H6tgAFzCe4ZX38DpQy1ahlq1TLUqmWoVctQqxZtaj/TS+I9L3ZAP6is2mV+v17Tx145
 3b3p7UGtbeBN+ulDrXXbV912opbOZGiy9YvQCNeiznsPaq08544uffPQwjaCDvSq5TB1gfrPpPKk
