@@ -1,0 +1,886 @@
+ПРАВИТЕЛЬСТВО РОССИЙСКОЙ ФЕДЕРАЦИИ ПОСТАНОВЛЕНИЕ от 16 октября 2025 г. № 1610 МОСКВА О введении временного количественного ограничения на вывоз отдельных видов удобрений В целях обеспечения продовольственной безопасности Российской Федерации в соответствии с Федеральным законом "Об основах государственного регулирования внешнеторговой деятельности" и Договором о Евразийском экономическом союзе от 29 мая 2014 г. (приложение № 7) Правительство Российской Федерации постановляет: 1. Установить с 1 декабря 2025 г. по 31 мая 2026 г. включительно количественное ограничение на вывоз за пределы территории Российской Федерации в государства, не являющиеся членами Евразийского экономического союза, минеральных удобрений в объеме 18690257 тонн, из них по кодам ТН ВЭД ЕАЭС 3102 10 100 0, 3102 10 900 0 и 3102 80 000 0 в объеме 8021175 тонн, по кодам ТН ВЭД ЕАЭС 3102 30 100 0 и 3102 30 900 0 в объеме 2618238 тонн и по кодам ТН ВЭД ЕАЭС 3105 20 100 0, 3105 20 900 0, 3105 40 000, 3105 59 000 0 в объеме 8050844 тонн (далее соответственно - удобрения, нетарифные квоты).2. Установить, что нетарифные квоты:а) распространяются также на удобрения, вывозимые с таможенной территории Евразийского экономического союза с 1 декабря 2025 г., задекларированные и выпущенные в соответствии с таможенными процедурами;б) не распространяются:на удобрения, вывозимые с территории Российской Федерации в рамках международных транзитных перевозок, начинающихся и заканчивающихся за пределами территории Российской Федерации, а также на удобрения, происходящие с территории Российской Федерации и перемещаемые между частями территории Российской Федерации через территории иностранных государств;на удобрения, вывозимые в Республику Абхазия и Республику Южная Осетия;на жидкости - восстановители оксидов азота AUS 32 и AUS 40, классифицируемые кодами ТН ВЭД ЕАЭС 3102 10 100 0 и 3102 10 900 0, вывозимые на основании разрешения, выданного Министерством промышленности и торговли Российской Федерации в установленном им порядке, а также вывозимые с территории Российской Федерации в рамках международных транзитных перевозок, начинающихся и заканчивающихся за пределами территории Российской Федерации, или происходящие с территории Российской Федерации и перемещаемые между частями территории Российской Федерации через территории иностранных государств;на удобрения, выпущенные в соответствии с таможенными процедурами, допускающими их вывоз с таможенной территории Евразийского экономического союза на основании лицензий, выданных Министерством промышленности и торговли Российской Федерации в соответствии с постановлением Правительства Российской Федерации от 8 мая 2025 г. № 601 "О введении временного количественного ограничения на вывоз отдельных видов удобрений", при наличии поручения на отгрузку на морское судно или принятые открытым акционерным обществом "Российские железные дороги" к перевозке до 1 декабря 2025 г.;на удобрения, вывозимые с территории Российской Федерации для оказания международной гуманитарной помощи иностранным государствам на основании поручения и (или) указания Президента Российской Федерации и (или) на основании решений Правительства Российской Федерации.3. Установить, что в соответствии с положениями пунктов 3 - 5 части 6 статьи 102 Федерального закона "О таможенном регулировании в Российской Федерации и о внесении изменений в отдельные законодательные акты Российской Федерации" ограничения по применению временного периодического таможенного декларирования не распространяются на удобрения при вывозе таких товаров на основании лицензий, выданных Министерством промышленности и торговли Российской Федерации.4. Утвердить прилагаемые Правила распределения между участниками внешнеторговой деятельности объемов количественных ограничений на вывоз за пределы территории Российской Федерации в государства, не являющиеся членами Евразийского экономического союза, минеральных удобрений.5. Установить, что использование нетарифных квот осуществляется на основании лицензий, выдаваемых Министерством промышленности и торговли Российской Федерации в соответствии с Правилами лицензирования в сфере внешней торговли товарами, утвержденными постановлением Правительства Российской Федерации от 18 ноября 2024 г. № 1577 "Об утверждении Правил лицензирования в сфере внешней торговли товарами" (далее - Правила выдачи лицензий). Срок действия указанных лицензий устанавливается со дня их выдачи (но не ранее 1 декабря 2025 г.) по 31 мая 2026 г. включительно. 6. Министерству сельского хозяйства Российской Федерации до 14 ноября 2025 г. распределить между участниками внешнеторговой деятельности объемы нетарифных квот в соответствии с Правилами, утвержденными настоящим постановлением, с учетом объемов, установленных в утвержденном Министерством сельского хозяйства Российской Федерации плане приобретения удобрений сельскохозяйственными производителями и организациями, осуществляющими производство комбикормов (в физическом весе) (далее - план).7. Министерству промышленности и торговли Российской Федерации:а) осуществлять выдачу (оформление) лицензии на экспорт удобрений (далее - лицензия) участникам внешнеторговой деятельности, которым распределены объемы нетарифных квот, в соответствии с Правилами выдачи лицензий;б) приостанавливать действие лицензии на основании решения оперативного штаба по осуществлению контроля за поставками азотных удобрений сельскохозяйственными товаропроизводителями и порядком их использования, созданного Министерством сельского хозяйства Российской Федерации, со дня принятия такого решения в следующих случаях:если цена поставки удобрений для осуществления сельскохозяйственных работ на условиях "франко-завод" от производителя удобрений не соответствует цене, зафиксированной в торгово-сбытовой политике, согласованной участником внешнеторговой деятельности с Федеральной антимонопольной службой и размещенной на официальном сайте участника внешнеторговой деятельности в информационно-телекоммуникационной сети "Интернет";если не соблюдены объемы поставок удобрений в соответствии с планом по вине производителя удобрений. В случае если у производителя удобрений имеются письменные отказы от приобретения удобрений со стороны сельскохозяйственных товаропроизводителей и организаций, осуществляющих производство комбикормов, на недопоставленный объем поставок удобрений, предусмотренный планом, обязательства производителя удобрений в отношении плана считаются исполненными и такая недопоставка не является основанием для приостановления действия лицензии;в) возобновлять действие приостановленной лицензии на основании решения оперативного штаба по осуществлению контроля за поставками азотных удобрений сельскохозяйственными товаропроизводителями и порядком их использования, созданного Министерством сельского хозяйства Российской Федерации, после устранения причин, вызвавших приостановление ее действия, со дня, следующего за последним днем срока приостановления действия лицензии, в порядке, установленном пунктом 16 Правил выдачи лицензий. 8. Федеральной антимонопольной службе: а) предоставлять участникам внешнеторговой деятельности разъяснения по вопросам применения методических рекомендаций по разработке торгово-сбытовых политик, предусматривающих реализацию удобрений, утверждаемых Федеральной антимонопольной службой, в том числе по определению в торгово-сбытовых политиках порядка ценообразования для потребителей удобрений, условий предоставления и размеров скидок (надбавок, доплат) к цене;б) при проведении антимонопольного контроля исключить применение предусмотренных антимонопольным законодательством мер ответственности к хозяйствующим субъектам - производителям удобрений и поставщикам удобрений, входящим в одну группу лиц с хозяйствующими субъектами - производителями удобрений, в соответствии с принятыми ими в торгово-сбытовых политиках обязательствами в отношении реализации удобрений сельскохозяйственным товаропроизводителям.9. Федеральной налоговой службе при проведении налогового контроля учитывать установленный торгово-сбытовыми политиками порядок ценообразования и условия хозяйствующих субъектов - производителей удобрений и поставщиков удобрений, входящих в одну группу лиц с хозяйствующими субъектами - производителями удобрений.10. Федеральной таможенной службе:а) обеспечить контроль помещения удобрений под таможенную процедуру экспорта в объеме, не превышающем объема нетарифных квот в соответствии с лицензиями; б) допускать убытие товаров с территории Российской Федерации в пределах срока действия лицензий, за исключением убытия товаров, выпущенных в соответствии с таможенными процедурами, допускающими их вывоз с таможенной территории Евразийского экономического союза на основании лицензий, выданных Министерством промышленности и торговли Российской Федерации в соответствии с постановлением Правительства Российской Федерации от 8 мая 2025 г. № 601 "О введении временного количественного ограничения на вывоз отдельных видов удобрений", при наличии поручения на отгрузку на морское судно или принятых открытым акционерным обществом "Российские железные дороги" к перевозке до 1 декабря 2025 г.;в) еженедельно представлять в Министерство сельского хозяйства Российской Федерации данные об объемах удобрений, фактически вывезенных каждым участником внешнеторговой деятельности за пределы территории Российской Федерации в государства, не являющиеся членами Евразийского экономического союза, в соответствии с таможенной процедурой экспорта (с указанием наименования участника внешнеторговой деятельности и идентификационного номера налогоплательщика, информации о выданных лицензиях, вывезенного объема, кода ТН ВЭД ЕАЭС и стоимости удобрений). 11. Реализация настоящего постановления осуществляется Министерством сельского хозяйства Российской Федерации, Министерством промышленности и торговли Российской Федерации и Федеральной таможенной службой в пределах установленной Правительством Российской Федерации предельной численности работников и бюджетных ассигнований федерального бюджета, предусмотренных указанным федеральным органам исполнительной власти на руководство и управление в сфере установленных функций.12. Настоящее постановление вступает в силу со дня его официального опубликования. Председатель Правительства
+Российской Федерации М.Мишустин УТВЕРЖДЕНЫ
+постановлением Правительства
+Российской Федерации
+от 16 октября 2025 г. № 1610 ПРАВИЛА
+распределения между участниками внешнеторговой деятельности объемов количественных ограничений на вывоз за пределы территории Российской Федерации в государства, не являющиеся членами Евразийского экономического союза, минеральных удобрений 1. Распределение объемов количественных ограничений на вывоз за пределы территории Российской Федерации в государства, не являющиеся членами Евразийского экономического союза, минеральных удобрений, указанных в пункте 1 постановления Правительства Российской Федерации от 16 октября 2025 г. № 1610 "О введении временного количественного ограничения на вывоз отдельных видов удобрений" (далее соответственно - удобрения, нетарифные квоты), осуществляется Министерством сельского хозяйства Российской Федерации по группам удобрений согласно приложению № 1 между участниками внешнеторговой деятельности, являющимися производителями удобрений, имеющими заключение о подтверждении производства промышленной продукции на территории Российской Федерации, выданное Министерством промышленности и торговли Российской Федерации до дня вступления в силу постановления Правительства Российской Федерации от 29 июня 2024 г. № 894 "О внесении изменений в некоторые акты Правительства Российской Федерации", или регистрационный номер реестровой записи в реестре российской промышленной продукции в соответствии со статьей 17.1 Федерального закона "О промышленной политике в Российской Федерации" (далее - группы, производитель удобрений), либо между уполномоченными производителями удобрений юридическими лицами, занимающимися внешнеторговой деятельностью (далее соответственно - уполномоченное юридическое лицо, участники внешнеторговой деятельности), имеющими утвержденную торгово-сбытовую политику, согласованную участниками внешнеторговой деятельности с Федеральной антимонопольной службой и размещенную на официальных сайтах участников внешнеторговой деятельности в информационно-телекоммуникационной сети "Интернет".2. Заявления и документы (копии документов), предусмотренные настоящими Правилами, представляются на русском языке.Документы (копии документов), предусмотренные настоящими Правилами, составленные на иностранном языке, подлежат переводу на русский язык.Верность перевода либо подлинность подписи переводчика необходимо нотариально засвидетельствовать в соответствии с Основами законодательства Российской Федерации о нотариате.Заявления, предусмотренные настоящими Правилами и направленные заявителем посредством использования федеральной государственной информационной системы "Единый портал государственных и муниципальных услуг (функций)" (далее - единый портал), подписываются усиленной квалифицированной электронной подписью, а в случае подачи таких заявлений уполномоченным лицом, действующим на основании доверенности, - усиленной неквалифицированной электронной подписью, сертификат ключа проверки которой создан и используется в инфраструктуре, обеспечивающей информационно-технологическое взаимодействие информационных систем, используемых для предоставления государственных и муниципальных услуг в электронной форме, в соответствии с постановлением Правительства Российской Федерации от 1 декабря 2021 г. № 2152 "Об утверждении Правил создания и использования сертификата ключа проверки усиленной неквалифицированной электронной подписи в инфраструктуре, обеспечивающей информационно-технологическое взаимодействие информационных систем, используемых для предоставления государственных и муниципальных услуг в электронной форме".Уведомление о ходе рассмотрения заявлений, предусмотренных настоящими Правилами и направленных посредством использования единого портала, направляются в личный кабинет заявителя на едином портале в соответствии с Правилами направления в личный кабинет заявителя в федеральной государственной информационной системе "Единый портал государственных и муниципальных услуг (функций)" сведений о ходе выполнения запроса о предоставлении государственной или муниципальной услуги, заявления о предоставлении услуги, указанной в части 3 статьи 1 Федерального закона "Об организации предоставления государственных и муниципальных услуг", а также результатов предоставления государственной или муниципальной услуги, результатов предоставления услуги, указанной в части 3 статьи 1 Федерального закона "Об организации предоставления государственных и муниципальных услуг", утвержденными постановлением Правительства Российской Федерации от 1 марта 2022 г. № 277 "О направлении в личный кабинет заявителя в федеральной государственной информационной системе "Единый портал государственных и муниципальных услуг (функций)" сведений о ходе выполнения запроса о предоставлении государственной или муниципальной услуги, заявления о предоставлении услуги, указанной в части 3 статьи 1 Федерального закона "Об организации предоставления государственных и муниципальных услуг", а также результатов предоставления государственной или муниципальной услуги, результатов предоставления услуги, указанной в части 3 статьи 1 Федерального закона "Об организации предоставления государственных и муниципальных услуг".Поступившие в Министерство сельского хозяйства Российской Федерации заявления и прилагаемые к ним документы (копии документов), предусмотренные настоящими Правилами, в день их поступления направляются в уполномоченное структурное подразделение Министерства сельского хозяйства Российской Федерации (далее - уполномоченный департамент).3. Производители удобрений самостоятельно или через уполномоченных представителей, действующих на основании доверенностей, оформленных в соответствии с законодательством Российской Федерации (далее - уполномоченные лица), направляют в Министерство сельского хозяйства Российской Федерации заявление о распределении объемов нетарифных квот по форме согласно приложению № 2 (далее соответственно - заявление о распределении, заявитель) в период со дня вступления в силу постановления Правительства Российской Федерации от 16 октября 2025 г. № 1610 "О введении временного количественного ограничения на вывоз отдельных видов удобрений" по 1 ноября 2025 г. включительно.4. Заявление о распределении и прилагаемые к нему документы (копии документов) направляются в Министерство сельского хозяйства Российской Федерации почтовым отправлением или посредством использования единого портала или передаются при личном обращении заявителя (его уполномоченного лица).Заявление о распределении и прилагаемые к нему документы (копии документов), предусмотренные настоящими Правилами, направляемые в Министерство сельского хозяйства Российской Федерации почтовым отправлением или передаваемые при личном обращении заявителя (его уполномоченного лица), пронумеровываются, подписываются руководителем заявителя (уполномоченным лицом), заверяются печатью заявителя (при наличии).5. К заявлению о распределении прилагаются:а) документы (копии документов), подтверждающие полномочия лица, подающего заявление о распределении, в случае направления в Министерство сельского хозяйства Российской Федерации почтовым отправлением или передаваемые при личном обращении заявителя (его уполномоченного лица);б) копия утвержденной торгово-сбытовой политики (производителя удобрений и всех уполномоченных юридических лиц), согласованной производителем удобрений с Федеральной антимонопольной службой и размещенной на официальном сайте производителя удобрений в информационно-телекоммуникационной сети "Интернет", а также копия письма Федеральной антимонопольной службы, подтверждающего указанное согласование.6. Уполномоченный департамент в течение 2 рабочих дней со дня поступления заявления о распределении и документов (копий документов), указанных в пункте 5 настоящих Правил, осуществляет их проверку на соответствие требованиям, установленным пунктами 2 - 5 настоящих Правил, и на наличие у производителя удобрений заключения о подтверждении производства промышленной продукции на территории Российской Федерации, выданного Министерством промышленности и торговли Российской Федерации до дня вступления в силу постановления Правительства Российской Федерации от 29 июня 2024 г. № 894 "О внесении изменений в некоторые акты Правительства Российской Федерации", или регистрационного номера реестровой записи в реестре российской промышленной продукции в соответствии со статьей 17.1 Федерального закона "О промышленной политике в Российской Федерации".7. В случае наличия оснований для отказа в распределении объемов нетарифных квот, установленных пунктом 11 настоящих Правил, уполномоченный департамент в течение одного рабочего дня со дня выявления такого основания подготавливает проект решения об отказе в распределении объемов нетарифных квот с указанием соответствующего основания для отказа, представляет его на подпись уполномоченному заместителю Министра сельского хозяйства Российской Федерации и после его подписания направляет заявителю посредством использования единого портала или почтовым отправлением в случае, если заявление о распределении было направлено в Министерство сельского хозяйства Российской Федерации почтовым отправлением или передано при личном обращении заявителя (его уполномоченного лица).8. В случае отсутствия оснований для отказа в распределении объемов нетарифных квот, установленных пунктом 11 настоящих Правил, уполномоченный департамент после осуществления проверки заявления о распределении и указанных в пункте 5 настоящих Правил документов (копий документов) на соответствие требованиям, установленным пунктами 2 - 5 настоящих Правил, принимает решение о распределении объемов нетарифных квот.9. В целях распределения объемов нетарифных квот между участниками внешнеторговой деятельности Министерство сельского хозяйства Российской Федерации до 14 ноября 2025 г. осуществляет расчет объемов нетарифных квот в отношении удобрений по каждой из групп 1, 3, 4, 5 и 6 ( ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFIAAAAbCAIAAABgGU9oAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHBSURBVFhH7ZfrlYQgDIWnLguiHquxGYtxb0KA
+PNAZ96yzHvX7sxhIyE3AcV/LLXlk34lH9p3IsudxeFXSxDYwJTEN4yymi9C6zRqDPhTkcpqBOuTc
+8tbqzJS85RKYu00NN72dx3TBVgP7SnO6L6vaybYHfUpXvNaMk511Z7XhWtPcu5uONf//MsChlYat
+dc7Lrgc95M8F2ZaNJac7H60EmihbGj50rjVCbMg+RaN7dFrekS26O20T2bnvfoWtCZ2ZAi/k6WIt
+lgy7SdCUlCPRnAqyi3U3YMokh2e3qCeb1sVYoLhPY6wJ0rZ1qAb8HqTEmmRzVkjDOmDK70ZNcmNQ
+o4dteZHrSVzUl70CAg6DzlQRQjtDyxjUOQxKhrXUUWQcZMi7FlPhc/HPv5A9jt13RAztDCZjNYch
+TahPhA21KgiGlIe4W3wu/nm/bNoCf1wUQqXEuL20kw2AJ3Mqa6CNQR19JLu5FXbIhrMcqTbSYLNm
+CUvEwJicgE6rOm4M1Dq+dM2boErQjKqj33Bft9/RLb2ANNemDv0G9p3P/KlsYFquWZd95D95n3+l
+HYGcO3e6zaH9Lt+RfToe2XfilrKX5QfXENXu7pynLQAAAABJRU5ErkJggg==) ) по формуле: ![](data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMCAgMDAgMDAwMDBAcFBAQEBAkGBwUHCgkLCwoJ
+CgoMDREODAwQDAoKDhQPEBESExMTCw4UFhQSFhESExL/2wBDAQMDAwQEBAgFBQgSDAoMEhISEhIS
+EhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhL/wAARCABIAnADASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9U6KK
+KACvMPin8edP+E3jPwN4e13RNZuf+Fgar/ZWmajbNALaK72lljmLyKylgDtwrZIIr0+vG/2tfgvc
+fHL4J6to3h+eSz8VaRLFrXha8jID22q2p8y3IJ4G4gxk9hIaAOz+I3xHT4eDw+p0bVNbn8SazDpN
+pb6e0IkE0is24iR0GxUjkdiCSFRjg4rsK+af2ePi0/7TNtovxKvbKa3s/BmhfZ5dPSLH/E/mhU34
+Xfj/AFEYWFDkf8fMwbpXunw48dWHxP8AAHh3xdoMN3BpvibTINRtIrtFWZIpkDqHClgGwRkAkZ7m
+gDo6Kyv+Eks28SHQoDJPqEdqt1crGuVtoXLLG0hzxvZHCjknYxxgEjVoAKKKKACiiigAorNuNXmh
+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) ![](data:image/png;base64,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
+gg==) , где: ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAaCAIAAAAi3QukAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAC6SURBVEhL7ZPbEcQgCEVTlwVRj9XQjMW4gNmo
+gKvM7GfOX3ycuV7NVf/EK9rTRCWnqwMog0yfSLncYz49EYK/nl07CzEeTVRDnEbJsNeojjwTwkEc
+Yi5bKpk2IpiIPrNIm+jz0KNF8/EO6xGMaAil6+GZZUArekzK055HRPTdYzZFExGrF9VEElm/XV9E
+a52an0SY7eRC5MKilCiNd76wCMD/9aIiDkMNWtW56K6YVd6tRhL95BXtqPUDa6+t+XAk8cgAAAAA
+SUVORK5CYII=) - общий объем нетарифных квот в отношении удобрений, классифицируемых кодами 3102 10 100 0, 3102 10 900 0 и 3102 80 000 0 ТН ВЭД ЕАЭС (при расчете объемов нетарифных квот в отношении удобрений по группам 1 и 3), или общий объем нетарифных квот в отношении удобрений, классифицируемых кодами 3105 20 100 0, 3105 20 900 0, 3105 40 000 и 3105 59 000 0 (при расчете объемов нетарифных квот в отношении удобрений по группам 4 - 6); ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAbCAIAAABzzg+cAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGzSURBVFhH7ZbbkYMwDEWpi4JcD9XQDMVkJVkW
+epFAQoYs4/OzlqwXdwWT4dFRdDkMXQ5Dl8PQ5TBUOZZpHF5QZoq8OWo75jIM47SwxaTO+9LlMByV
+g+32dt1NqUNyoIEaAOiqmtzqo3J0O0gCUcBaN+AdOZQdcyAgFAHAfbFsMCoPNpdsQuJ0OTI2JLqO
+VRrHZ3I4cXKuX4yMfEWcHOFDkMkhUVHApAa4lIMCGEql6+Ztngql1YZDKSoRWZMaGG5zDXBlZgU7
+BlU5uCfDWdbJqegcS+EbqwXhu0CCjRLHMsEz1kI1gxriUQ4ExFG8VN48tNKhJ0W4cZMgsx27wElj
+FYWMyISuzmHi5U61mQvf+4fPDgCmisIKP4i3iR+VozaCi7YawBMV2gH+4nSca/GDeJv4uhzB4caA
+azH1uT6bXnAptHlo9i45JFlzSA6o0IiVmNgF5lg9XCI4CDMuoGtJ4pNDC4JfzdVeQYXwRonruyFH
+t+MlMJGZA0n/W0wWz6gX5WT8pghfkCNtZFZEsy2HfEPPZt+v0k9Zd3Y3vMLuLXmj0Fmcvh3/my6H
+octh6HIoHo8/pLDUAdFMrBUAAAAASUVORK5CYII=) - плановый объем производства j-м производителем удобрений по группе i за период с 1 декабря 2025 г. по 31 мая 2026 г. включительно, указанный в заявлении о распределении, по соответствующему коду Общероссийского классификатора продукции по видам экономической деятельности (далее - общероссийский классификатор); ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAbCAIAAABzzg+cAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHFSURBVFhH7ZhheoMwCEA9lwfyPJ7Gy3gYBwQI
+JMS6Vb9Zm/dnKSEJecV227B1DF2Ho+twdB2OrsNR6VimQRnnFQPTwnPPx+pY51EcJFJg+EoddHfj
+goFu+UYd9JDUNlDTBFFuFITspGcqyv9oREfTRoaMpE5Z5/mZHcM6qo+NANUBg6c+P7/tDqSdBinR
+5C38wQ1zbcsUX0J0pLvuFk0pkIHm9sU5Gor+G2dH0Y/SZn/oWys68uAAuvqGBC2SdbAQf1Hr0Fig
+zOqaQRRCJsAHELQtTUtUIglaRkemsV2L5HWCy/JlIDBV3h5CRZ7VgXABgmabOMX43GK3cn9Y5UvQ
+AHx9T1PaMq2gA3CoAyJ9zRO6eXMgu1fHUkbd+3VeqeM9tD6mOq8IuHydg4FUbv9CKC8fDQBcrZIN
+VS1R6I46aIgTpjWAHQsygJ8okpd7qlqi0LU6qkBRAEzrSztOFyu6W/dqDuT1UR26XrlYBxaRIzDt
++5gDxItade3OQJLGEZ8XVwkawhnvtzzzch2Nt4qJ8hn/oJxP0CzA2TqCI4oWsbR1XPxflle/lb5L
+btjDcP8WT8kfNjqRc7vj4+k6HF2Ho+swbNsPy8AWXOdaAGQAAAAASUVORK5CYII=) - сумма планируемых нереализованных товарных остатков в тоннах физического веса, принадлежащих j-му производителю удобрений по группе i на 1 декабря 2025 г., указанных в заявлении о распределении, по соответствующему коду общероссийского классификатора; ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHAAAAAbCAIAAAArsZyFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJESURBVGhD7ZdtksMgCIZ7rhzI8+Q0uUwO0+VL
+BNRu2nFnbcb3TxUB5QlO0sdzaagW0MFaQAdrAR2sBXSwGOi5bw9ROsgSdSRZf2z7KTZSWZClI2EK
+awZJkLV2Nvp2mQ6VagMwUgbuIbDV+IubeklGF4U+rS3uIgP03FNKSKTqHYCw4ZIDQfRqNADRxhPT
+4gVBVfZ7yQPdzwCARIxiZ7UcSZRGxigCz5CP1Aq4lyJQWz8LDIghAO3ybImcfdbbqgIaWVF7wq8H
+ytivAn2T/1erAZRpSfWZZwD6HiG86gc9gl97FLZpZQXz/7c31KxUuqW3gAouqMCUF4Di9Noddo/k
+ozY1p5hGBW5QGygXv21bQRaACvRGUnAsnN2kH/NKIcU8arepAaqtRIq109xXRiZvBJPG0EMJLMjW
+Z9reJJ5KREloOVuzhUVhsiF8EJJNVYKy0N3HRsGqOzjMaz8GKtuSckzpDLsaYfg13cCaddNXebLi
+ISGm2pANcKH4sznvQOlxqAOSedeyrTvIqas9SeAUDt30Mx06hbRIUXXoYHD+ugaDXDv/E6ZBh6NP
+gqH6jLziWeKcdE+gNMQF/6Jlz/4AfvE5SGyleJY4J80OtDKEKmBZp3bMdOwd1UTdQZ5fBarxVtMD
+xTKKBZb9hRQDyVULsrk08MUgO+HXjd2DhZhx0TyhuCFqfqD9jkG1/EX2M3C4Yreq5gPaPKdrU6s+
+UH0b/YGu/VP6Z5Wbd1lyC8Nd/yDRQM3WoV+vBXSwFtDBWkCH6vn8AeYOMf5id4JzAAAAAElFTkSu
+QmCC) - планируемый объем приобретения удобрений, указанный в заявлении о распределении, по соответствующему коду общероссийского классификатора; ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHAAAAAbCAIAAAArsZyFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAImSURBVGhD7ZbhmYMwCIady4Gcx2lcxmF6QIAA
+ia3e8Vxtn7x/DAQI+Rpjp8cglSFoMkPQZIagyQxBkymC7us8vWDZKHLwAnNCt2Wa5nVni+k6B8cM
+QZO5Kijbcke4eHtx1AnM8B4T+X0XySVBWZsZQFeRhTVBIwSqWsWstfd1mSH1K6/lqyeURFQl1PJu
+gBySuC3zstQA0HNdoe4QFHAHsU63uegRyUDQdUcH2ahntQJQ39cpgPv98kPP3BttiHwNiYJ6geiI
+WkEpBhzOOMWByG8F+u/39DdB1SL5nEJWMf5BqRbfv3b6OVD6rPL/S/+YBkGbTfYE1Sg7Sdma7nWX
+pc0KOGx1MgECuIyjrFKgmjQtXvEUKK30S2Obi9Q8wUX5NhCYqnsCwG6DiqC8LMNZ3smppBR9YRBX
+3yXUlaRD9EAEPupGmoZik5DRLFIccBVLHyWDludVTGW6sstQix8OpHqzLEWEDXeC3Ak9BTbbVslD
+d8g0TQeHi9c50+W21PkoX28AYLb+TIbYS7SJ7xS09AkT5ngCT3SUATxxf5zuib1Em7i7oI0j7AKm
+1bTjIk14R7XW4UDsU4JqsuWSoFBBaCvl0DYJ26ge7qBxEG63QKiluU8GEgT/RYpdQY1xRhd5+ZW/
+BbAhtw2ke1yYXjzjX/dk4mlV7idot093TC3HgtqvUTYHXSL3EbS+dqfhtzC8678olMjdTujHMwRN
+ZgiazBA0lcfjB67iC1YtHy5tAAAAAElFTkSuQmCC) - заявленный j-м производителем удобрений плановый объем поставок удобрений по группе i для нужд российских промышленных предприятий в период с 1 декабря 2025 г. по 31 мая 2026 г. включительно, указанный в заявлении о распределении, по соответствующему коду общероссийского классификатора.10. Расчет объемов нетарифных квот в отношении удобрений по группам 1 - 6 в отношении заявителя ( ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE8AAAAcCAIAAACvTHWIAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG3SURBVFhH7ZfbecMgDIUzlwdiHqbxMh4m1QWQ
+hA/90qZuYuLzEjhcpB9hJ7ndP0kX7by6aOeV0m55uZnSKibLBpa8Fe/EstquCUMx8BSoJH+ThdcV
+VrXlNAlr99wi3DXNUlhSfEvJYxro1rQr9okVaXtc6s4E29PG2zzTIyva0bryokeWDgM+x+S//BZw
+oSSJ4btmT9twH38/jY7gdWIGcPqAVg8JfRlhvUNZgVBakFZxIcKujHSKZsi1qGKbjSWvxZYdy1GW
+XllB7bC2aEkJmByu7WJpaizLjfox1REtzUTvJw0RtuAQ/lgs5JZzKimJITRG6JKsoWyta49M9djR
+nUBuZPnUSAPakXxsUYtb1E0IXU5IwzvbfaH7ya0NTVWpb13fjYoR+v9O29o8QGmGO+QntzY0FZQx
+Xf38TBEZof8ntC0cq5vA3TruYUlaGe/4ta2NTP60TYe0bqzoWVp2zODhwFANURe6y8avbe36lgpm
+3sK2u1Hb0Dqqp2nREZrQ/KqDf6mhtH5Bu0ejjQdI39Ae+n8D5/k4La9nDVKkYXgKqjBU3ANZh7ft
+h7U9uS7aefVJtPf7F4RHlTxD72J9AAAAAElFTkSuQmCC) ) осуществляется по формуле: ![](data:image/png;base64,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
+mvB4/g/XDuw7MofOvwAAAABJRU5ErkJggg==) ![](data:image/png;base64,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) . В случае если значения объемов нетарифных квот, распределенных заявителю, имеют дробные единицы, такие значения округляются до целой величины по правилам округления в пределах установленных объемов нетарифных квот.В случае если производитель удобрений указал в заявлении о распределении уполномоченное юридическое лицо, нетарифные квоты распределяются уполномоченному юридическому лицу в соответствии с долей, указанной в заявлении о распределении.11. Основаниями для отказа в распределении объемов нетарифных квот являются:а) непредставление в срок, указанный в пункте 3 настоящих Правил, заявления о распределении и прилагаемых к нему документов (копий документов), указанных в пунктах 2 - 5 настоящих Правил;б) несоответствие представленных заявителем заявления о распределении и прилагаемых к нему документов (копий документов), указанных в пунктах 2 - 5 настоящих Правил, требованиям, предусмотренным пунктами 2 - 4 настоящих Правил;в) наличие недостоверной, искаженной или неполной информации, представленной заявителем в заявлении о распределении и прилагаемых к нему документах (копиях документов), указанных в пунктах 2 - 5 настоящих Правил;г) прекращение или приостановление действия документов (одного или нескольких), необходимых для распределения объемов нетарифных квот;д) отсутствие информации о том, что заявитель имеет заключение о подтверждении производства промышленной продукции на территории Российской Федерации, выданное Министерством промышленности и торговли Российской Федерации до дня вступления в силу постановления Правительства Российской Федерации от 29 июня 2024 г. № 894 "О внесении изменений в некоторые акты Правительства Российской Федерации", или имеет регистрационный номер реестровой записи в реестре российской промышленной продукции в соответствии со статьей 17.1 Федерального закона "О промышленной политике в Российской Федерации".12. По результатам расчета, осуществленного в соответствии с пунктами 9 и 10 настоящих Правил, Министерство сельского хозяйства Российской Федерации до 14 ноября 2025 г. принимает решение о распределении объемов нетарифных квот и в течение одного рабочего дня со дня принятия указанного решения с использованием единой системы межведомственного электронного взаимодействия направляет его в Министерство промышленности и торговли Российской Федерации.13. В период с 1 декабря 2025 г. по 11 мая 2026 г. включительно производитель удобрений и (или) уполномоченное юридическое лицо при условии, что таким производителю удобрений и (или) уполномоченному юридическому лицу ранее в соответствии с настоящими Правилами были распределены объемы нетарифных квот, вправе представить заявление о внесении изменений в ранее распределенный объем (часть объема) нетарифных квот (далее соответственно - заявление о внесении изменений, заявитель на внесение изменений) для передачи распределенных объемов нетарифных квот (или их части):а) в рамках одной группы удобрений - другим участникам внешнеторговой деятельности и иным юридическим лицам, занимающимся внешнеторговой деятельностью, по форме согласно приложению № 3;б) между группами удобрений - по форме согласно приложению № 4.14. Передача квот юридическим лицам, которым ранее в соответствии с настоящими Правилами не были распределены объемы нетарифных квот, возможна исключительно от производителя удобрений при условии представления копии утвержденной торгово-сбытовой политики (производителя удобрений и всех уполномоченных юридических лиц), согласованной производителем удобрений с Федеральной антимонопольной службой и размещенной на официальном сайте производителя удобрений в информационно-телекоммуникационной сети "Интернет", и копии письма Федеральной антимонопольной службы, подтверждающего указанное согласование, а также соблюдения подпунктов "а" и "б" пункта 13 настоящих Правил.15. Заявление о внесении изменений направляется в Министерство сельского хозяйства Российской Федерации посредством использования единого портала.К заявлению о внесении изменений в части передачи распределенных объемов нетарифных квот (или их части) прилагается письмо о согласии лица, в адрес которого осуществляется передача распределенных объемов нетарифных квот, с внесением изменений.16. Уполномоченный департамент в течение 2 рабочих дней со дня поступления заявления о внесении изменений и документов (копий документов), предусмотренных пунктом 15 настоящих Правил, осуществляет их проверку на соответствие требованиям, установленным пунктами 3, 13 и 15 настоящих Правил, и с использованием единой системы межведомственного электронного взаимодействия направляет в Министерство промышленности и торговли Российской Федерации запрос об объеме удобрений, в отношении которых заявителю на внесение изменений выданы разовые лицензии на экспорт удобрений в период с 1 декабря 2025 г. по 31 мая 2026 г. включительно.17. Министерство промышленности и торговли Российской Федерации в течение 5 рабочих дней со дня получения запроса, указанного в пункте 16 настоящих Правил, направляет в Министерство сельского хозяйства Российской Федерации запрашиваемую информацию.18. В случае наличия оснований для отказа во внесении изменений в ранее распределенный объем (часть объема) нетарифных квот, предусмотренных пунктом 20 настоящих Правил, уполномоченный департамент в течение одного рабочего дня со дня выявления такого основания подготавливает проект решения об отказе во внесении изменений в ранее распределенный объем (часть объема) нетарифных квот с указанием соответствующего основания для отказа, представляет его на подпись уполномоченному заместителю Министра сельского хозяйства Российской Федерации и после его подписания направляет заявителю на внесение изменений посредством использования единого портала.19. В случае отсутствия оснований для отказа во внесении изменений в ранее распределенный объем (часть объема) нетарифных квот Министерство сельского хозяйства Российской Федерации в течение 2 рабочих дней со дня поступления информации, представленной в соответствии с пунктом 17 настоящих Правил, принимает решение о внесении изменений в ранее принятое решение о распределении объемов нетарифных квот в объемах, указанных в заявлении о внесении изменений, и в течение одного рабочего дня со дня принятия указанного решения с использованием единой системы межведомственного электронного взаимодействия направляет его в Министерство промышленности и торговли Российской Федерации.20. Основаниями для отказа во внесении изменений в ранее распределенный объем (часть объема) нетарифных квот являются:а) непредставление в срок, указанный в пункте 13 настоящих Правил, заявления о внесении изменений и прилагаемых к нему документов (копий документов);б) несоответствие представленных заявителем на внесение изменений заявления о внесении изменений и прилагаемых к нему документов (копий документов) требованиям, предусмотренным пунктами 3, 13 - 15 настоящих Правил;в) наличие недостоверной, искаженной или неполной информации, представленной заявителем на внесение изменений в заявлении о внесении изменений и прилагаемых к нему документах (копиях документов);г) поступление в Министерство сельского хозяйства Российской Федерации от Министерства промышленности и торговли Российской Федерации в соответствии с пунктом 17 настоящих Правил информации о том, что в отношении объема удобрений, распределенного заявителю на внесение изменений, в отношении которого вносятся изменения, выданы разовые лицензии на экспорт;д) внесение изменений в распределенный объем нетарифных квот в отношении удобрений групп 1 и 3 за счет перераспределения объема нетарифных квот в отношении удобрений групп 4 - 6 и наоборот;е) внесение изменений в распределенный объем нетарифных квот в отношении удобрений группы 2.21. В период с 2 по 6 марта 2026 г. включительно участники внешнеторговой деятельности, которым распределены объемы нетарифных квот, вправе представить заявления об уменьшении распределенного объема нетарифных квот в отношении удобрений по форме согласно приложению № 5 (далее соответственно - заявление об уменьшении, заявитель на уменьшение).22. Заявление об уменьшении направляется в Министерство сельского хозяйства Российской Федерации посредством единого портала.23. Уполномоченный департамент в течение 2 рабочих дней со дня поступления заявления об уменьшении проверяет его на соответствие требованиям, установленным пунктами 3, 21 и 22 настоящих Правил, и с использованием единой системы межведомственного электронного взаимодействия направляет в Министерство промышленности и торговли Российской Федерации запрос об объеме удобрений, в отношении которых заявителю на уменьшение выданы разовые лицензии на экспорт в период с 1 декабря 2025 г. по 31 мая 2026 г. включительно.24. Министерство промышленности и торговли Российской Федерации в течение 5 рабочих дней со дня получения запроса, указанного в пункте 23 настоящих Правил, направляет в Министерство сельского хозяйства Российской Федерации запрашиваемую информацию.25. В случае наличия оснований для отказа в уменьшении распределенного объема нетарифных квот, предусмотренных пунктом 26 настоящих Правил, уполномоченный департамент в течение одного рабочего дня со дня выявления таких оснований подготавливает проект решения об отказе в уменьшении распределенного объема нетарифных квот с указанием соответствующего основания для отказа, представляет его на подпись уполномоченному заместителю Министра сельского хозяйства Российской Федерации и после его подписания направляет заявителю на уменьшение посредством использования единого портала.26. Основаниями для отказа в уменьшении распределенного объема нетарифных квот являются:а) наличие недостоверной, искаженной или неполной информации, представленной в заявлении об уменьшении;б) превышение объема удобрений, указанного в заявлении об уменьшении, над распределенным объемом нетарифных квот заявителя на уменьшение, в отношении которого не получены разовые лицензии на экспорт, в соответствии с информацией, полученной в соответствии с пунктом 24 настоящих Правил;в) непредставление заявителем на уменьшение в сроки, установленные пунктом 21 настоящих Правил, заявления об уменьшении;г) несоответствие представленного заявителем на уменьшение заявления об уменьшении требованиям, предусмотренным пунктами 3 и 22 настоящих Правил.27. Министерство сельского хозяйства Российской Федерации до 26 марта 2026 г. принимает решение об уменьшении объема распределенных нетарифных квот удобрений и с использованием единой системы межведомственного электронного взаимодействия направляет его в Министерство промышленности и торговли Российской Федерации.28. Объем нетарифных квот, образованный в результате принятия решения в соответствии с пунктом 27 настоящих Правил, составляет объем дополнительной части нетарифных квот.29. Дополнительная часть нетарифных квот распределяется Министерством сельского хозяйства Российской Федерации в период с 27 марта по 11 мая 2026 г. включительно между участниками внешнеторговой деятельности, которым распределены объемы нетарифных квот (далее - заявитель на распределение дополнительной части нетарифных квот).30. Заявители на распределение дополнительной части нетарифных квот в срок, установленный пунктом 29 настоящих Правил, направляют в Министерство сельского хозяйства Российской Федерации заявления о распределении дополнительной части нетарифных квот по форме согласно приложению № 6.31. Заявление о распределении дополнительной части нетарифных квот направляется в Министерство сельского хозяйства Российской Федерации посредством использования единого портала.К заявлению о распределении дополнительной части нетарифных квот прилагаются заверенные руководителем заявителя на распределение дополнительной части нетарифных квот копии подписанных внешнеторгового договора (контракта), содержащего информацию об объемах удобрений, которые должны быть поставлены получателю в период действия нетарифных квот, и приложений, и (или) спецификаций, и (или) дополнений к указанному договору (контракту).32. Уполномоченный департамент в течение 2 рабочих дней со дня поступления заявления о распределении дополнительной части нетарифных квот и документов (копий документов), предусмотренных пунктом 31 настоящих Правил, осуществляет их проверку на соответствие требованиям, установленным пунктами 3, 29, 30 и 31 настоящих Правил, и направляет в Министерство промышленности и торговли Российской Федерации запрос об объеме удобрений, в отношении которых заявителю на распределение дополнительной части нетарифных квот выданы разовые лицензии на экспорт в период с 1 декабря 2025 г. по 31 мая 2026 г. включительно.33. Министерство промышленности и торговли Российской Федерации в течение 5 рабочих дней со дня получения запроса, указанного в пункте 32 настоящих Правил, направляет в Министерство сельского хозяйства Российской Федерации запрашиваемую информацию.34. В случае наличия оснований для отказа в распределении дополнительной части нетарифных квот, установленных пунктом 35 настоящих Правил, уполномоченный департамент в течение одного рабочего дня со дня выявления такого основания подготавливает проект решения об отказе в распределении дополнительной части нетарифных квот с указанием соответствующего основания для отказа, представляет его на подпись уполномоченному заместителю Министра сельского хозяйства Российской Федерации и после его подписания направляет заявителю на распределение дополнительной части нетарифных квот посредством использования единого портала.35. Основаниями для отказа в распределении дополнительной части нетарифных квот являются:а) непредставление заявителем на распределение дополнительной части нетарифных квот в сроки, установленные пунктом 29 настоящих Правил, заявления о распределении дополнительной части нетарифных квот и документов (копий документов), указанных в пункте 31 настоящих Правил;б) несоответствие представленных заявителем на распределение дополнительной части нетарифных квот заявления о распределении дополнительной части нетарифных квот и документов (копий документов), указанных в пункте 30 настоящих Правил, положениям пунктов 3, 29, 30 и 31 настоящих Правил;в) наличие недостоверной, искаженной или неполной информации, представленной заявителем на распределение дополнительной части нетарифных квот в документах (копиях документов), указанных в пункте 31 настоящих Правил;г) превышение заявленного объема дополнительной части нетарифной квоты над объемом удобрений, указанным в копиях документов, указанных в пункте 31 настоящих Правил;д) прекращение или приостановление действия документов (копий документов) (одного или нескольких), указанных в пункте 31 настоящих Правил и являющихся основаниями для распределения дополнительной части нетарифных квот;е) нулевой остаток объема дополнительной части нетарифных квот;ж) равный нулю или менее нуля объем дополнительной части нетарифных квот, рассчитанный заявителю на распределение дополнительной части нетарифных квот.36. В случае отсутствия оснований для отказа в распределении дополнительной части нетарифных квот Министерство сельского хозяйства Российской Федерации в течение 2 рабочих дней со дня поступления информации в соответствии с пунктом 33 настоящих Правил осуществляет распределение объемов дополнительной части нетарифных квот в отношении удобрений по группе i ( ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG0AAAAbCAIAAAD54ZbdAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIhSURBVGhD7ZhZksIgEIY9Vw7EeXKaXMbDaK/Q
+C1hxCjNaxfciNvTCnwYnc3ssZrB0nMPScQ5LxzksHefAOt737VYpB9mAo4hp2+9iWvRp/UiiJcFA
+4SXiCcy5pqZszcgcJVoWPdz9iC3puu++l9WMp/C/M0HIJeNpvI7+bB9lXY1nCTqykCxfuhpx7vLb
+EpL+/w0N57S1VLe9oo71bKf6SeGLdYSc33gknKxM1lFacutcjeB/pY5f0YoDYlN2dBQhO30gOnJn
+dlbIhEIiVBsvx263vBDKPzXrSKFoWq1qYWziUlJGGwrB5d43ArNxt2CyS3s64qJROLIfe5JQEU9d
+CZvhAmhXbqoN+lRXxcQCcfjpcIAavGVhM5+pnDEONHTKScCi3DVhaV/HARBw22ylCYhOk6E+BJ1x
+LFNm0CftKRice52DgW65NkPO2K0BXeuj8aRakultHfc993hDrw2pD0vTujRxdw8dUu3B4NzNnOQ0
+f/vmjGkAn7gr8U2kWpLpXR0xC3zEqEK9fbU+LIxNNa9OtcGAOB8qt1XYMX1zB7EGGg70O5bLE56Q
+GqkhmDd0BE/p+zayYBEOSl2tvLq6xhi4LtQKppYi5RQD8WqTOWMe6CK6tZqrIFtwSc78Xv+R8BY5
+46USdxB3pcDWR1MzUr8CyopPbqKOn8E1pWWs44f/R3XyfeYnkKMWDnQ7p5fzozp+HUvHOSwd57B0
+nMHj8QQ4IcIdBNveZgAAAABJRU5ErkJggg==) ) по формуле: ![](data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMCAgMDAgMDAwMDBAcFBAQEBAkGBwUHCgkLCwoJ
+CgoMDREODAwQDAoKDhQPEBESExMTCw4UFhQSFhESExL/2wBDAQMDAwQEBAgFBQgSDAoMEhISEhIS
+EhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhL/wAARCAAcAawDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD7c8c/
+Fvxp4C/aP8A+E9am8KR+BfiALyGxvDYTi7jvYEWQWrP53l5kjLFW2dUIxXU+L/F3i/8A4XJ4X8Ke
+BpvDv9mz6dNqfiI39hNNNbWySLHH5bpMqq0rMyqGU/6qRuduDzf7Y/wi1H4tfBm5bwbI1v408GXs
+PiTwrOgyy6haZdEH++u+P/gYrD+F3xQ1PXf2ffFXx4u9D/s7W9c8Ovqdtpl7u/dW1jauY4TjB2NK
+LiUd8TigD6OorI0nxVpus6jeadY3STX+mrGb2JFbELOoYKWxjOCDjOeRWXrnxS8LeGtZi0rXdXis
+7+e6gtY4Xik+eaf/AFSAhcZbnAz2NAHV0VzEPxL8Mz6qdNh1aB7zFxtQK2JDbnEwRsYZk5yFJPB9
+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) , где: ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAAbCAIAAABk7J9VAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGzSURBVFhH7ZdRcgMhCIZzrj2Q59nTeJk9zBYQ
+ERA7cSbbJma/lyoK8gsm6eP8Mm7Bq3MLXp0i+Ni3h5Ay2YCc2LTtB5s+nlZhUtcpg6tYSC2gWprK
+3MpbyMlbPhzzhrHIpp7HnpYqL2A/tJziBfU6wbatc1rr+RJOcFFcdE4+X/D8/+cOLcpFGlXLC5a2
+nssfdr9dNzTxml4wF3mbeL5vUdyIoMyBYN3WFlqAN77nrBfhKpVe7JAKBaHlaq2WArnVqEk5Is2p
+gtutrwdWTeIwd/siwbgvClfvy90bJGzmzQCf8imRGj6WtOFQBkT9NpD0hoMaujuTgE2uUv2+WHAM
+ZdmXvgvqDJI0ImsYjHfJ9Q512iAlDxW04XPx8znBRDlNH9YFdYZYcIkEC+rL/gnB8BfviX07fC5+
+Pic47+zrelqyYtwpsCxTPaaZaRkJNBzU+bOCxV+YE7xRL3XdBMc0C5xht7CBMNkAOiFx/GVQN22U
+iUuDrgEX1Q36A+dbOmZ04wjkOFq69Lerr3bhRYIBU2bNWPCV/4oFxSVeJziGu8z1cmvRP+dqwW/H
+LXh1vkzwef4AmmRLMYYyE9UAAAAASUVORK5CYII=) - заявленный объем дополнительной части нетарифных квот в отношении удобрений группы i; ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFIAAAAbCAIAAABgGU9oAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGkSURBVFhH7ZfttcMgCIY7lwM5T6bJMhkmRUSU
+D3PSnpvmHs3zpxZFeMHY9LVPySN7Jh7ZM5Flb0t4MXFFG7BGMoVlI9Mg1G6jRqMPCjKcZqA55Njy
+2urMGrVlCMSznRouerstccBWA/JKU7qHVa1ky4O+xhEfa0TJzrqz2oPHun/RwczNlwGc2Jpbr3Na
+Nh/0g/z9Ox/oV+M+RBUYK5saHo4ea1ff/Y3u4LTckU26XdXYaMTMw1Sjui6kpThdrMWSQTcMCuPY
+OCaqUyEtl74CmNK5gUmt82SndXa7nBmnqLcGmzSxAX4PYkRNFBwVpiEPkPK7wUl2B2VrExNX2JbY
+db5sl8bZiWdMysCpJ3gOBiVJLnVXrdwkuXIlG0winulm2ThME80rwgnZ8JmqRb4Sk4hn+kA2BstR
+UjxdaM6NULFgmr+247xtezB5o+6gfD8rm/2ZT2SjP+PFqzZaaQzIUVrseDAoi0Iw1c8NkRFO3uRf
+41afgEx7U5e+AzvNB/5UNiBa3tKXfeWfvPNvaVdAR0+d7npof85vZP87HtkzMaXsfX8DjAzUeGrE
+z6YAAAAASUVORK5CYII=) - ранее распределенный объем нетарифных квот в отношении удобрений группы i заявителя на распределение дополнительной части нетарифных квот; ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAAbCAIAAABk7J9VAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGlSURBVFhH7ZfttcMgCIY7lwM5T6bJMhkmBUQU
+0J7Y06/YPH+uQRFewTT3tv8Zl+DZuQTPThK8LeEmxJVswBrZFJaNTaenVJjUOWVwFBOpBaqWpjKX
+8ibWaC0nR91hLLKq57bEqcoL6JeWUTyhXiNYt/Ua57q+hBGcFCed49cXnL9846FFS5GaBbOCpa2H
+kweHn2sIpT/hBXORw9j1/X5xO9gyNwTXbW3A6je/Q2Ci0svLCFpL09maLQlyo4gwjpUjUpwyuFz7
+KmDKJgemel1LMC7ye6E1beZ3de0sBnjRx0hqOCxpw6EMiPyDIOl1B3lrF5NW+GqYdW3BTSjDjGRK
+uODGIEkjMocb8io54a5OvQnnIs8Zl4gzjQl2ARgXxxjagmmIE9Xv/QHB8BfPiX01LhFnGhBcQsPI
+hCpTCRMFpuWxHtMTUAyyUXeQn48KFv/EiGByJlwgjFSMvMwZiEcJieODQV4UAna1ygTPAGfqCEfe
+0s/RPHEGcuxNvfXztVHw1wkGVJlr+oLf+d/YwS+tl8ONZnq5tOhn+YDg3+ISPDt/Jnjf7yRbRueF
+dX58AAAAAElFTkSuQmCC) - объем нетарифных квот, в отношении которого заявителем на распределение дополнительной части нетарифных квот получены разовые лицензии на экспорт.37. По результатам расчета, осуществленного в соответствии с пунктом 36 настоящих Правил, Министерство сельского хозяйства Российской Федерации принимает решение о распределении дополнительной части нетарифных квот и с использованием единой системы межведомственного электронного взаимодействия направляет его в Министерство промышленности и торговли Российской Федерации.38. После окончания календарного месяца (но не позднее 3-го рабочего дня после дня окончания отчетного периода) производитель удобрений направляет в Министерство сельского хозяйства Российской Федерации посредством использования единого портала отчет о производстве, запасах и реализации отдельных видов удобрений по форме согласно приложению № 7.39. После окончания календарной недели (но не позднее 3-го рабочего дня после дня окончания отчетного периода) производитель удобрений направляет посредством использования единого портала в Министерство сельского хозяйства Российской Федерации отчет о фактической реализации отдельных видов удобрений по форме согласно приложению № 8. ___________ ПРИЛОЖЕНИЕ № 1
+к Правилам распределения
+между участниками внешнеторговой деятельности объемов количественных ограничений на вывоз за пределы территории Российской Федерации в государства, не являющиеся членами Евразийского экономического союза, минеральных удобрений ГРУППЫ
+минеральных удобрений для расчета объемов количественных ограничений на их вывоз за пределы территории Российской Федерации в государства, не являющиеся членами Евразийского экономического союза Номер группыКод ТН ВЭД ЕАЭСКод Общероссийского классификатора продукции по видам экономической деятельности13102 10 100 020.15.313102 10 900 023102 30 100 020.15.333102 30 900 033102 80 000 020.15.3943105 20 100 020.15.713105 20 900 053105 40 000 120.15.733105 40 000 963105 59 000 020.15.79 ___________ ПРИЛОЖЕНИЕ № 2
+к Правилам распределения
+между участниками внешнеторговой деятельности объемов количественных ограничений на вывоз за пределы территории Российской Федерации в государства, не являющиеся членами Евразийского экономического союза, минеральных удобрений (форма) Бланк организации
+(при наличии)В Министерство сельского хозяйства
+Российской Федерации ЗАЯВЛЕНИЕ
+о распределении объемов количественных ограничений на вывоз за пределы территории Российской Федерации в государства, не являющиеся членами Евразийского экономического союза, минеральных удобрений В соответствии с постановлением Правительства Российской Федерации от 16 октября 2025 г. № 1610 "О введении временного количественного ограничения на вывоз отдельных видов удобрений" прошу распределить объем количественных ограничений на вывоз за пределы территории Российской Федерации в государства, не являющиеся членами Евразийского экономического союза, минеральных удобрений (далее соответственно - удобрения, нетарифные квоты). Информация о производителе удобренийПолное наименование (для юридического лица)Сокращенное (если имеется) наименование
+(для юридического лица)Идентификационный номер налогоплательщика (ИНН)Номер телефона и адрес электронной почтыГруппа удобрений в соответствии с приложением
+№ 1 к Правилам распределения между участниками внешнеторговой деятельности объемов количественных ограничений на вывоз за пределы территории Российской Федерации в государства, не являющиеся членами Евразийского экономического союза, минеральных удобрений, утвержденным постановлением Правительства Российской Федерации от 16 октября 2025 г. № 1610 "О введении временного количественного ограничения на вывоз отдельных видов удобрений"Информация о плановых объемах производства производителем удобрений за период с 1 декабря 2025 г. по 31 мая 2026 г. включительноМесяцдекабрьянварьфевральмартапрельмайОбъем (тонн) Итого (тонн)Информация о плановых поставках удобрений
+для нужд российских промышленных предприятий
+в период с 1 декабря 2025 г. по 31 мая 2026 г. включительноМесяцдекабрьянварьфевральмартапрельмайОбъем (тонн)Итого (тонн)Информация о плане реализации сельскохозяйственным товаропроизводителям удобрений в период
+с 1 декабря 2025 г. по 31 мая 2026 г. включительноМесяцдекабрьянварьфевральмартапрельмайОбъем (тонн) Итого (тонн)Информация о планируемых нереализованных товарных остатках, принадлежащих производителю удобрений на 1 декабря 2025 г. (тонн) Информация об уполномоченных производителем удобрений юридических лицахПолное наименование (для юридического лица)Сокращенное (если имеется) наименование
+(для юридического лица)Идентификационный номер налогоплательщика (ИНН)Номер телефона и адрес электронной почтыГруппа удобрений в соответствии с приложением
+№ 1 к Правилам распределения между участниками внешнеторговой деятельности объемов количественных ограничений на вывоз за пределы территории Российской Федерации в государства, не являющиеся членами Евразийского экономического союза, минеральных удобрений, утвержденным постановлением Правительства Российской Федерации от 16 октября 2025 г. № 1610 "О введении временного количественного ограничения на вывоз отдельных видов удобрений"Процентное распределение нетарифной квоты Достоверность сведений, указанных в настоящем заявлении и прилагаемых к нему документах, подтверждаю.На обработку персональных данных согласен. Приложение: 1. Документы (копии документов), подтверждающие полномочия лица, подающего настоящее заявление.2. Копия утвержденной торгово-сбытовой политики (производителя удобрений и всех уполномоченных производителем удобрений юридических лиц), согласованной производителем удобрений с Федеральной антимонопольной службой и размещенной на официальном сайте производителя удобрений в информационно-телекоммуникационной сети "Интернет", а также копия письма Федеральной антимонопольной службы, подтверждающего указанное согласование. ____________________________________________________
+<sup>(подпись заявителя или его уполномоченного представителя)</sup>_____________
+<sup>(дата)</sup> МП (при наличии) ___________ ПРИЛОЖЕНИЕ № 3
+к Правилам распределения
+между участниками внешнеторговой деятельности объемов количественных ограничений на вывоз за пределы территории Российской Федерации в государства, не являющиеся членами Евразийского экономического союза, минеральных удобрений (форма) В Министерство сельского хозяйства
+Российской Федерации ЗАЯВЛЕНИЕ
+участника внешнеторговой деятельности о внесении изменений в ранее распределенный объем (часть объема) количественных ограничений на вывоз за пределы территории Российской Федерации в государства, не являющиеся членами Евразийского экономического союза, минеральных удобрений в части передачи распределенных объемов (или их части) количественных ограничений на вывоз за пределы территории Российской Федерации в государства, не являющиеся членами Евразийского экономического союза, минеральных удобрений другим участникам внешнеторговой деятельности и иным юридическим лицам, занимающимся внешнеторговой деятельностью В соответствии с постановлением Правительства Российской Федерации от 16 октября 2025 г. № 1610 "О введении временного количественного ограничения на вывоз отдельных видов удобрений" прошу передать распределенный объем (часть объема) количественных ограничений на вывоз за пределы территории Российской Федерации в государства, не являющиеся членами Евразийского экономического союза, минеральных удобрений (далее - нетарифные квоты). Информация о юридическом лице,
+передающем распределенные объемы нетарифных квотПолное наименование (для юридического лица)Сокращенное (если имеется) наименование
+(для юридического лица)Идентификационный номер налогоплательщика (ИНН)Информация о юридическом лице,
+получающем объемы нетарифных квотПолное наименование (для юридического лица)Сокращенное (если имеется) наименование
+(для юридического лица)Идентификационный номер налогоплательщика (ИНН)Передаваемый объем нетарифных квотГруппа минеральных удобрений в соответствии
+с приложением № 1 к Правилам распределения между участниками внешнеторговой деятельности объемов количественных ограничений на вывоз за пределы территории Российской Федерации в государства, не являющиеся членами Евразийского экономического союза, минеральных удобрений, утвержденным постановлением Правительства Российской Федерации от 16 октября 2025 г. № 1610 "О введении временного количественного ограничения на вывоз отдельных видов удобрений"Передаваемый объем нетарифных квот Достоверность сведений, указанных в настоящем заявлении и прилагаемых к нему документах, подтверждаю.На обработку персональных данных согласен. ____________________________________________________
+<sup>(подпись заявителя или его уполномоченного представителя)</sup>_____________
+<sup>(дата)</sup> ___________ ПРИЛОЖЕНИЕ № 4
+к Правилам распределения
+между участниками внешнеторговой деятельности объемов количественных ограничений на вывоз за пределы территории Российской Федерации в государства, не являющиеся членами Евразийского экономического союза, минеральных удобрений (форма) ЗАЯВЛЕНИЕ
+участника внешнеторговой деятельности о внесении изменений в ранее распределенный объем (часть объема) количественных ограничений на вывоз за пределы территории Российской Федерации в государства, не являющиеся членами Евразийского экономического союза, минеральных удобрений в части передачи объемов между группами минеральных удобрений В соответствии с постановлением Правительства Российской Федерации от 16 октября 2025 г. № 1610 "О введении временного количественного ограничения на вывоз отдельных видов удобрений" прошу передать распределенный объем (часть объема) количественных ограничений на вывоз за пределы территории Российской Федерации в государства, не являющиеся членами Евразийского экономического союза, минеральных удобрений (далее соответственно - удобрения, нетарифные квоты). Информация об участнике внешнеторговой деятельности,
+осуществлявшем вывоз удобренийПолное наименование (для юридического лица)Сокращенное (если имеется) наименование
+(для юридического лица)Идентификационный номер налогоплательщика (ИНН)Распределенный объем нетарифных квотГруппа удобрений в соответствии с приложением № 1
+к Правилам распределения между участниками внешнеторговой деятельности объемов количественных ограничений на вывоз за пределы территории Российской Федерации в государства, не являющиеся членами Евразийского экономического союза, минеральных удобрений, утвержденным постановлением Правительства Российской Федерации от 16 октября 2025 г.
+№ 1610 "О введении временного количественного ограничения на вывоз отдельных видов удобрений"Объем нетарифных квотВнесение изменений в распределенный объем нетарифных квотГруппа удобрений в соответствии с приложением № 1
+к Правилам распределения между участниками внешнеторговой деятельности объемов количественных ограничений на вывоз за пределы территории Российской Федерации в государства, не являющиеся членами Евразийского экономического союза, минеральных удобрений, утвержденным постановлением Правительства Российской Федерации от 16 октября 2025 г.
+№ 1610 "О введении временного количественного ограничения на вывоз отдельных видов удобрений"Объем нетарифных квот Достоверность сведений, указанных в настоящем заявлении и прилагаемых к нему документах, подтверждаю.На обработку персональных данных согласен. ____________________________________________________
+<sup>(подпись заявителя или его уполномоченного представителя)</sup>_____________
+<sup>(дата)</sup> ___________ ПРИЛОЖЕНИЕ № 5
+к Правилам распределения
+между участниками внешнеторговой деятельности объемов количественных ограничений на вывоз за пределы территории Российской Федерации в государства, не являющиеся членами Евразийского экономического союза, минеральных удобрений (форма) В Министерство сельского хозяйства
+Российской Федерации ЗАЯВЛЕНИЕ
+об уменьшении распределенного объема количественных ограничений на вывоз за пределы территории Российской Федерации в государства, не являющиеся членами Евразийского экономического союза, минеральных удобрений В соответствии с постановлением Правительства Российской Федерации от 16 октября 2025 г. № 1610 "О введении временного количественного ограничения на вывоз отдельных видов удобрений" прошу уменьшить распределенный объем количественных ограничений на вывоз за пределы территории Российской Федерации в государства, не являющиеся членами Евразийского экономического союза, минеральных удобрений (далее - нетарифные квоты). Полное наименование (для юридических лиц)Сокращенное (если имеется) наименование
+(для юридических лиц)Идентификационный номер налогоплательщика (ИНН)
+(для юридических лиц)Номер телефона и адрес электронной почтыУменьшаемая группа минеральных удобрений
+в соответствии с приложением № 1 к Правилам распределения между участниками внешнеторговой деятельности объемов количественных ограничений на вывоз за пределы территории Российской Федерации в государства, не являющиеся членами Евразийского экономического союза, минеральных удобрений, утвержденным постановлением Правительства Российской Федерации от 16 октября 2025 г. № 1610 "О введении временного количественного ограничения на вывоз отдельных видов удобрений" Уменьшаемый объем нетарифных квот Достоверность сведений, указанных в настоящем заявлении и прилагаемых к нему документах, подтверждаю.На обработку персональных данных согласен. ____________________________________________________
+<sup>(подпись заявителя или его уполномоченного представителя)</sup>_____________
+<sup>(дата)</sup> ___________ ПРИЛОЖЕНИЕ № 6
+к Правилам распределения
+между участниками внешнеторговой деятельности объемов количественных ограничений на вывоз за пределы территории Российской Федерации в государства, не являющиеся членами Евразийского экономического союза, минеральных удобрений (форма) В Министерство сельского хозяйства
+Российской Федерации ЗАЯВЛЕНИЕ
+о распределении дополнительной части объемов количественных ограничений на вывоз за пределы территории Российской Федерации в государства, не являющиеся членами Евразийского экономического союза, минеральных удобрений В соответствии с постановлением Правительства Российской Федерации от 16 октября 2025 г. № 1610 "О введении временного количественного ограничения на вывоз отдельных видов удобрений" прошу распределить дополнительную часть объемов количественных ограничений на вывоз за пределы территории Российской Федерации в государства, не являющиеся членами Евразийского экономического союза, минеральных удобрений (далее - нетарифные квоты). Полное наименование (для юридического лица)Сокращенное (если имеется) наименование
+(для юридического лица)Идентификационный номер налогоплательщика (ИНН)Номер телефона и адрес электронной почтыГруппа минеральных удобрений в соответствии
+с приложением № 1 к Правилам распределения между участниками внешнеторговой деятельности объемов количественных ограничений на вывоз за пределы территории Российской Федерации в государства, не являющиеся членами Евразийского экономического союза, минеральных удобрений, утвержденным постановлением Правительства Российской Федерации от 16 октября 2025 г. № 1610 "О введении временного количественного ограничения на вывоз отдельных видов удобрений"Запрашиваемый объем нетарифных квот Достоверность сведений, указанных в настоящем заявлении и прилагаемых к нему документах, подтверждаю.На обработку персональных данных согласен. Приложение. Заверенные руководителем заявителя на распределение дополнительной части нетарифных квот копии подписанных внешнеторгового договора (контракта), содержащего информацию об объемах минеральных удобрений, которые должны быть поставлены получателю в период действия нетарифных квот, и приложений, и (или) спецификаций, и (или) дополнений к указанному договору (контракту). ____________________________________________________
+<sup>(подпись заявителя или его уполномоченного представителя)</sup>_____________
+<sup>(дата)</sup> ___________ ПРИЛОЖЕНИЕ № 7
+к Правилам распределения между участниками внешнеторговой деятельности объемов количественных ограничений на вывоз за пределы территории Российской Федерации в государства, не являющиеся членами Евразийского экономического союза, минеральных удобрений (форма) ОТЧЕТ
+о производстве, запасах и реализации отдельных видов минеральных удобрений ГодМесяцВид минеральных удобрений
+с кодом ОКВЭДОбъем фактического производства, тоннОбъем планового производства, тоннФактические запасы
+на конец месяца, тоннПоставки на внутренний рынокПоставки на внешний рынокдля промышленности, тонндля сельского хозяйства, тоннв государства - члены Евразийского экономического союза, тоннв прочие страны, тонн2025декабрь2026январь2026февраль2026март2026апрель2026май Достоверность сведений, указанных в настоящем отчете, подтверждаю. На обработку персональных данных согласен. ____________________________________________________
+<sup>(подпись заявителя или его уполномоченного представителя)</sup>_____________
+<sup>(дата)</sup> ____________ ПРИЛОЖЕНИЕ № 8
+к Правилам распределения между участниками внешнеторговой деятельности объемов количественных ограничений на вывоз за пределы территории Российской Федерации в государства, не являющиеся членами Евразийского экономического союза, минеральных удобрений (форма) ОТЧЕТ
+о фактической реализации отдельных видов минеральных удобрений Фактическая дата поставкиВид минеральных удобрений
+с кодом ОКВЭДНаименование субъекта Российской ФедерацииВид транспортаНаправление поставкиСхема поставкиОбъем, тоннСумма,
+тыс. рублей Достоверность сведений, указанных в настоящем отчете, подтверждаю. На обработку персональных данных согласен. ____________________________________________________
+<sup>(подпись заявителя или его уполномоченного представителя)</sup>_____________
+<sup>(дата)</sup> __________
