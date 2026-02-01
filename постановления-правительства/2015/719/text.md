@@ -515,7 +515,12 @@
 изготовление корпусных элементов всех блоков;
 изготовление печатных плат;
 монтаж и запайка электронных компонентов на печатные платы;
-программирование программируемой логической интегральной28.99.39.200 28.99.39.210 28.99.39.220 28.99.39.230 28.99.39.240 28.99.39.290Промышленные роботы и робототехнические устройства
+программирование программируемой логической интегральной схемы, микроконтроллеров, процессоров;
+сборка;
+установка, настройка, наладка программного обеспечения
+человеко-машинного интерфейса, математического, технологического программного обеспечения;
+отладка, контрольные и производственные испытания
+на специализированных стендах28.99.39.200 28.99.39.210 28.99.39.220 28.99.39.230 28.99.39.240 28.99.39.290Промышленные роботы и робототехнические устройства
 Промышленные роботы Промышленные робототехнические комплексы Промышленные робототехнические ячейки Промышленные роботизированные линии Промышленные роботыи робототехнические устройства прочие,не включенныев другие группировкиналичие у субъекта деятельности в сфере промышленности - налогового резидента государств - членов Евразийского экономического союза прав на техническую документацию в объеме, достаточном для производства, модернизации и развития соответствующей продукции, на срок не менее 5 лет;наличие у субъекта деятельности в сфере промышленности - налогового резидента государств - членов Евразийского экономического союза в уставном капитале доли резидентов Российской Федерации:для акционерных обществ - не менее 75 процентов;для обществ с ограниченной ответственностью - не менее трех четвертей;наличие у субъекта деятельности в сфере промышленности - налогового резидента государств - членов Евразийского экономического союза необходимого промышленного оборудования, указанного в технологической документации, для выполнения требуемых производственных операций;наличие на территории одной из стран - членов Евразийского экономического союза сервисного центра, уполномоченного осуществлять ремонт, послепродажное и гарантийное обслуживание продукции;производство (осуществление) на территории Российской Федерации следующих компонентов и технологических операций (при отсутствии технологической операции в технологии производства требование по ее выполнению не предъявляется, баллы не начисляются) для каждой единицы продукции:сборка промышленного робота и (или) робототехнического устройства на территории Российской Федерации (2 балла);проведение контрольных испытаний промышленных роботов и (или) робототехнических устройств, подтверждающих работоспособность и функциональные характеристики на соответствие технической документации производителя (до 2028 года - 4 балла, с 2028 года - 1 балл);наличие комплекта конструкторской документации на промышленного робота и (или) робототехническое устройство, исключительные права на который принадлежат российскому юридическому или физическому лицу, согласно
 ГОСТ Р 2.102-2023 (до 2028 года - 2 балла, с 2028 года - 1 балл);наличие комплекта технологической документации, исключительные права на который принадлежат российскому юридическому или физическому лицу, согласно ГОСТ 3.1102-2011 (до 2028 года - 2 балла, с 2028 года - 1 балл);наличие у юридического лица государства - члена Евразийского экономического союза прав на программное обеспечение (обеспечивающее совокупность данных и команд, предназначенных для функционирования промышленных роботов и (или) робототехнических устройств, в целях получения определенного результата), используемое в продукции, включенное в единый реестр российских программ для электронных вычислительных машин и баз данных (если в продукции используется программное обеспечение) (10 баллов);корпуса (являющиеся силовым каркасом) промышленного робота и (или) робототехнического устройства (баллы суммируются):использование российских материалов (сырья) (1 балл);изготовление полуфабрикатов (поковка, отливка) на территории Российской Федерации (3 балла);полная механическая обработка на территории Российской Федерации (3 балла);термическая обработка (при технологической необходимости) и химико-термическая обработка (при технологической необходимости) на территории Российской Федерации (1 балл);использование в промышленном роботе и (или) робототехническом устройстве редукторов, изготовленных на территории Российской Федерации (наличие комплекта конструкторской документации согласно ГОСТ Р 2.102-2023, наличие комплекта технологической документации согласно ГОСТ 3.1102-2011, оформленной с учетом ГОСТ 3.1129-93 на каждый редуктор (каждый типоразмер), использование российских материалов (сырья), полная механическая обработка, термическая обработка
 (при технологической необходимости) и химико-термическая обработка
@@ -8851,7 +8856,3850 @@ ojnt/O7wrR/jBvMf4Zis27xEAAAAAElFTkSuQmCC) (i=1,2…K) Bi/Ki, где:B - сумм
 (КПЕС 2008), при условии, что рассчитанный для электронного модуля балл не меньше минимального балла, необходимого для признания данного электронного модуля произведенным на территории Российской Федерации.
 В случае если заключение о подтверждении производства электронного модуля выдано в период действия постановления Правительства Российской Федерации от 17 июля 2015 г. № 719 в редакции, не предусматривающей требование о совокупном количестве баллов за выполнение на территории Российской Федерации технологических операций (условий) Bi принимается равным 50;применение кабельных сборок российского производства (из кода 27.3 по ОК 034-2014 (КПЕС 2008) (Bтоп = 5 баллов),расчет баллов по формуле: B = Bтоп x K, где К - количество кабельных сборок российского производства, деленное на общее количество кабельных сборок;изготовление или применение шасси (корпуса) российского производства (из кода 26.20.4 по ОК 034-2014 (КПЕС 2008) (Bтоп = 30 баллов),расчет баллов по формуле: B = Bтоп x K, где К - количество шасси (корпусов) российского производства, деленное на общее количество шасси (корпусов);изготовление или применение блоков питания российского производства (из кода 26.20.40.110 по ОК 034-2014 (КПЕС 2008) (Bтоп = 10 баллов),расчет баллов по формуле: B = Bтоп x K, где К - количество блоков питания российского производства, деленное на общее количество блоков питания;применение аккумуляторной батареи российского производства (из кода 27.2 по ОК 034-2014 (КПЕС 2008) (Bтоп = 10 баллов),расчет баллов по формуле: B = Bтоп x K, где К - количество аккумуляторных батарей российского производства, деленное на общее количество аккумуляторных батарей;запись в энергонезависимую память микропрограммного обеспечения для схемотехнического решения (5 баллов, обязательное требование)<sup>32</sup>;сборка, монтаж и функциональное тестирование готового изделия, проведение технического контроля соответствия требованиям технических условий готового изделия (10 баллов, обязательное требование);применение в изделии центрального микроконтроллера<sup>25</sup>
 и (или) коммуникационного процессора<sup>30</sup>, удовлетворяющих требованиям к интегральной схеме первого уровня или интегральной схеме второго уровня, предъявляемым в целях ее отнесения к продукции, произведенной на территории Российской Федерации (Bтоп = 30 баллов)<sup>32</sup>,расчет баллов по формуле: B = Bтоп x K, где К - количество центральных микроконтроллеров и коммуникационных процессоров, удовлетворяющих требованиям к интегральной схеме первого уровня или интегральной схеме второго уровня, предъявляемым в целях
-ее отнесения к продукции, произведенной на территории Российской Федерации, деленное на общее количество центральных микроконтроллеров и коммуникационных процессоров по спецификации;применение в изделии прочей электронной компонентной базы российского производства (Bтоп = 20 баллов)<sup>32</sup>,расчет баллов по формуле: B = Bтоп x K, где К - количество типономиналов электронной компонентной базы<sup>31</sup> российского производства, деленное на общее количество типономиналов электронной компонентной базы по спецификации;применение в изделии модуля сенсора изображения российского производства (10 баллов за все изделие);применение в изделии печатающего механизма российского производства (10 баллов за все изделие)X. Продукция промышленности строительных материалов23.19.12.160Пеностекло в форме блоков, плит или аналогичных формосуществление на территории Российской Федерации следующих операций:
+ее отнесения к продукции, произведенной на территории Российской Федерации, деленное на общее количество центральных микроконтроллеров и коммуникационных процессоров по спецификации;применение в изделии прочей электронной компонентной базы российского производства (Bтоп = 20 баллов)<sup>32</sup>,расчет баллов по формуле: B = Bтоп x K, где К - количество типономиналов электронной компонентной базы<sup>31</sup> российского производства, деленное на общее количество типономиналов электронной компонентной базы по спецификации;применение в изделии модуля сенсора изображения российского производства (10 баллов за все изделие);применение в изделии печатающего механизма российского производства (10 баллов за все изделие)из 29.32.30.320из 29.32.30.321из 29.32.30.322из 29.32.30.323
+Электронный блок управления двигателем, применяемый в составе продукции отрасли специального машиностроениявыполнение на территории Российской Федерации требований
+(в совокупности 140 баллов):наличие у юридического лица - налогового резидента Российской Федерации,
+не находящегося под контролем иностранного государства, и (или) международной организации, и (или) иностранного юридического или физического лица, и (или) иностранной структуры без образования юридического лица<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGHSURBVDhPzZBPqwFhFIdn6WvI1kcYpdQoi5Gw
+sGQlvoDu0geYsvIByCSxUrazRZRSsrDSlCz9ibhj7jPONFm51+7+yus5Z37nvOc9ivtWj8dDTsdx
+BN4VBO4AOL0C6PspWEL6EXKKCe12O/mkBCkEv4ZIwlqtFo1GAbp4N5zP56+nPIvr2rZdLBbj8Xin
+05FMu91WVRXwCyaTSTgczmQyMC2bzSY18/k8EolMp1OSm81G0zSAIZX7/Q61Wq1cLgdcLpfr9Qqg
+QqEwGAyA2WyWSCQAr0D2ZRiGFEiIbrdbuVyWt67X62QyCdDdL2g0GtlsFmBKrEC/3+/1egCq1+uh
+UGg4HMKKbJO5GQAQ92Kx6Ha7AOJVx+PxcDicTidCf62sKBaLyXssy6pUKtvtdrlcjkajYEiE2dvS
+eDzO5/OpVMo0TR5drVZ1XS+VSul0mmIMTIFVWvsjvdHrDci7gRSjI+nEYLCc4g7aI2W1WklK4l+l
+7Pd7/j4o4Pd3N/LX+tkNH+nfFbjuD0sbxWsbwK0pAAAAAElFTkSuQmCC) </sup>:прав на конструкторскую и техническую документацию для проектирования, производства, модернизации и развития соответствующей продукции на территории Российской Федерации в соответствии со спецификацией на готовое изделие в следующем составе:спецификация на готовое изделие с указанием сборочных единиц и деталей;схема электрическая принципиальная;исключительных или неисключительных (но неотзывных) прав на программное обеспечение;подтверждение осуществления на территории Российской Федерации процессов проектирования схемотехники, конструкции модуля, топологии печатных плат,
+встроенного программного обеспечения, а также наличия соответствующих кадров и затрат на их содержание;выполнение на территории Российской Федерации технологической операции - поверхностный монтаж чип-компонентов на печатную плату выполнение на территории Российской Федерации дополнительных требований:установка программного обеспечения, если оно является неотъемлемой частью оборудования (20 баллов);сборка электронного оборудования (корпусирование) (20 баллов);функциональное тестирование готового изделия и проведение технического контроля соответствия требованиям технических условий готового изделия (20 баллов);выполнение дополнительных требований по применению компонентов:применение российских системообразующих микросхем (Bтоп = 14 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VK9isJAGNynyDP4AkJExMYuhY0I
+pjCBYGWvWKUT9A1srFKZNL6ACMFUioWdIihoFRBEYuHf3my+veW4Qs7+plhmZr/5dr9NGH+L1+tF
+6/P5JPIuoKoVwSoCYGjweDyoDUDypxPHMVZUMsopQP5ygE6nUyqVQNBCnHC73Xq9XqFQGAwGaQH3
+PC+Xy1mWdTweSVYqFRAcKAJRFM1mMxBd16/XK07PZrNo1u12HceBv91u6/W6DKgLoA0qQJIkyefz
+k8kkCALf9+Esl0vTNEFEgMZaLBZoD/d0OkGGYcgYazQa4MBms7FtG0TOcL/fU59Xq9XRaAS33W6v
+Vqtardbv9+G7rqtp2nQ6BWfYSIsFms3mfD5fr9eZTAYSs5XLZZDL5XI+nzEeOAMbj8eGYaDfcDgU
+Oc5brVaxWISDu5FDwMDiSsjsdrvD4UAuYb/f0zzph5GAlEMTwOXO99OpXeXIX0OBXClSkCQfEIGP
+8B/4Cz4McP4FzubCOyBWPiQAAAAASUVORK5CYII=) ;применение российских печатных плат (Bтоп = 7 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGbSURBVDhP7VK7isJAFJ2f8DcCiiRp/AHtRLsk
+iIWFFhY2toKFKKROa2UhiHZiYSfaKIjgExW0EPHVKIqv7BnvbhAXl22221PMnHvvOTd3ZsLMN7g/
+QOR2u1n8JwNWSCm0PAzb9Xo9n8/PtcvlgiSAcDKZtNttKr1+AVLLRuh2u9Fo1G63G4aBEC3Y4XBI
+JBKyLOfzeRKVSiWXywXdfr+fzWbI7HY7j8dDVVYul2u1WqfTcTqdm81mtVo5HI7FYoGW8XicROPx
+OJVKEWfH45FYOp0G7/V6MCCsVCqZTIZKuVyu3++D8JGwTafTQCCQzWYfVTMcDnu93mKxuF6vEdbr
+dZhBlsslVm4YDAaRSIQx1mq1EGJCSZJ8Ph+urlqt2my2UCikKAqm5QbrWoLBYKFQ2G63fr8fYTKZ
+RAbHRbtmszkajZCEmL8DttPpFIvF5vM5PiIIAmq4e1VVeacvUGuGk7ndbgzQaDSooOu6KIqapg2H
+Q4Q4KKSk/nw4evNnYuF7ho+EDSt6YH0hVAIeYo63P987/Bt+g782mOYH38fpp3zGW7cAAAAASUVO
+RK5CYII=) ;применение российских вторичных преобразователей питания (Bтоп = 6 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAUCAIAAAALACogAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAF/SURBVDhP5ZK9isJQEIXzOr6CjRGiTSrBwijY
+WKSyEVMGoyAoBIMIgmBtFbCwshG7gFE0T2BsNxDERvxZs+dm5LIou/sAe8DLN5M5k5lrhOhnPR4P
+Oj9jEf9mgKiamIAZkL3H4i0phFhhFLmu6/s+AB6Birh4P67lclmpVCRJOhwOCNkbttutoiipVGq/
+3yNEi2q1inAwGCDc7XY4p9Op53nMcL1ebds+nU7D4TCfzyNlWVaxWASUSqXFYgEYjUblchmVzMAH
+Xa/Xk8kE0G63MQNA1/XVagVwHCeZTPb7ffBzB5RiSiwHDsMwnU6rqkohaTab9Xo9gIAt4dlsNjAk
+EglautPpiKJYr9fBrVYrk8l0u93z+cwM+HHhAU7TNLEGIJfLjcdjzIw7pQXQWgiC4CPWfD5vNpvI
+NhqNQqEAMAwDBgDp+ccdj0dN02RZxqsvlwtSaFmr1bLZLF0rupKIXz8NevBdLxl2S7fbDSOiMW/z
+nomLmf74+N71Dw1R9AUr3ll6ozhRGgAAAABJRU5ErkJggg==) </sup>;применение российских микросхем и модулей связи и навигации
+(Bтоп = 10 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGFSURBVDhP7ZItqwJBGIXnP9ithgWxbrGIGMVs
+WRBkLbqIgs2iwSJ4Yc26Bg0qfiGCimUtYrLabIJoE/zauWd9L6Nc4e4fuCcMzztzzsw7O8v4n7Is
+i0YBDgGIrALY4/Gg4hMgAcfjkdg+gRzvgAWC6/WKsVKpJJNJAAxsMpmEw+FgMLhcLp8ens/nQ6FQ
+LBbb7/cod7udoiiFQgFsB0qlEqjT6ciyDOh2u4FAAGAYRi6XA8xms8FgUC6Xwff7/efSq9WqVqsB
+xuOxSCLT7/e/nopGo4fDAfMMoWaz6XK5RqORHeU8nU77fL56vQ4eDoc4JxKJeL3e9XqNGXa73bbb
+raZpbrebmoY1k8l4PB50b2/A+WazaTQaAJhf7xCPx0+nU6vVUlUVZbvd9vv9gPP5TB8NvWBk8/nc
+NE1d14vFIurpdCpJ0mKxqFarOId8CIjHYdlsNpVK4Vpij16vl0gkKA+JNyG9WqI9KEOCldzvGXZ5
+il6UFnAzmvl0Q84/3y/9B5zF+TcEbIUtK3nojAAAAABJRU5ErkJggg==) </sup>;применение российских интерфейсных микросхем и преобразователей
+(Bтоп = 8 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAVCAIAAAAW+SPgAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAF6SURBVDhP7VExq4JQGHUP+iXSf3CopaA2IWir
+DFobAqEpghoiJJwkRTLHao0kaEgCqalZiAhqElqe6ct39Io8eATv7e8M1/Ode77Ddz+p4D1erxc5
+ExK6fd93XdfzvER9Pp9QoJPyMwI4RT4EuADiIgLacEqSVCwWZVkOs03TrNfrk8kkMgToFwSh0Wjs
+93uU8/m8VCqdz2dw6nK5DIfD3W6Xy+UURYHU6XRqtdp2u2VZ9na7Xa9XTdMYhrFtm/qIAJMoiqqq
+giBJ13WQarVqWRYIsFwux+NxvBOkchxH+Gq1ymQyaFgsFkQBDocDytD9eDy63W4qlWq32ygxd6vV
+SqfT6/Ua5Ww2azabPM87jkMlS9hsNuVyGaTX6xmGgXFpmkYk3ofU+/2OqzCbrAnDYDIQPHc0GoFU
+KpXpdApCgPVTx+MRz8rn8/1+n6in06lQKGSz2cFgQExA/HciQzjrO/L9f4VuUuM6IcSaKElDnP1L
+/Lt/4i/uIPgCazFLcJVt9F4AAAAASUVORK5CYII=) </sup>;применение российских полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGuSURBVDhP7ZI/66lxGMa/Xod3YZBMYjaxKYPN
+QPKnSJks9ItFshCDQUkMZGKwkBKF2MQiKQaD/8/5PL5OP+cM55wXcK7h2/Vc9//7foTyRzyfT/k+
+Ho/7/Q5RA/i4XC63202aATapSKsUJQS2N/2Z79Pjer3yoieTSavVutvt1AqLxSIajVarVWnj7fV6
+4XC42WzCQSQSwQFCvNhut/F4vFwuWyyWQqGA2ul0zGZzsVi02Wzj8Xg0Gul0OqfTmclksIrT6UQh
+WD6fl2nI7fP5IF8vVCqVYDC4Wq0MBsN0On1vaT6fx2Ix2f1kMtFqtYPBIJ1OH49Hui+VSugOh4Pi
+agBFXC6XRqNJpVJqtKIkEgkhBH3Ch8MhveVyuUAgcDgcBFnP5zMG0phMJumRzWb7/b5er6/Vaiit
+VisUCq3Xa/j34Wazmd/vhzAAY0DYm91ufxnf4AZiuVx6PB7GcrvdTIJKbqPR6PV6abrb7aJwRCAn
+FPv9vt1uNxqNzWbDt7wUO6nX6+wE/nlZ8N0SkP/Cp4dUuKY8KBAwPICsKG3w35SXs4pfKvwL/gf8
+HYryA1YLeIUnz/t1AAAAAElFTkSuQmCC) </sup>;применение российских силовых полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGXSURBVDhP7ZI9y4FxFMbvL+Ar2HwHpeRjmAwG
+g/JIJJlkUWIyWNxlMZgYiDKhhMGChCh5yWIk8vb8bke6LU/szzWcruucc/3/5/+i3L/EX4bb7Ua8
+Xq+nB87nM1IzUCB7uVykA7zkKyNAKvoUfURaRQr6/b7f7/d4PPl8HvkcqdlstlotiHgWi0WpVNrt
+dvBardZoNFRVjUQiSM2ANRgMms3mbDaLHI1GNpvN6/U6nc7tdiujTyaTer2uGY7HIx2wTqdjt9sh
+gUAgFApBGIN9ICCVSu33e8jzDIfDIZfLzWYzeLFYtFqt0+k0nU6vViupZjIZ6VRk6EQiYTAYwuEw
+HLjdbqPR2G63RbIEJ4HQrJ2BqYiVSsVkMjHxYDCIx+OFQsFisQyHQ0q9Xm+5XD4NvAhM4HA4iC6X
+KxaLQaLRqNyMQGZRNptNMpn0+Xyclcslxf2y9s8D4/GYDNtKt/ZwsG63W61WpSavNp/Py+Xyer2G
+S+sLb39JuvUvLVz/G7RrZQ0KRCnoMyIlL3jb4RP8Gz7Bl4b7/RfepPBVgm9AugAAAABJRU5ErkJg
+gg==) </sup>;применение российских пассивных элементов стандартных (Bтоп = 3 балла), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAYCAIAAAB8wupbAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAG4SURBVDhP7VI9y0FhGD6/weYP+AEssiLlYziz
+QUZRymAwKLMoOhYDMwZJCrGIkkIxSCGRkrD5/jiuxy0dy5t3eLf3qnOf677OfT3389zP4cRf4ifD
+/X5HvF6vp9MJkRQOD3C73RCfZUxFCoBTHYEUjl4E8LcNOJ/PiNVq1e129/t9cBSwLc3n82azeblc
+WNWzA9LJZAI+HA7tdnsymTQYDPSVg9Xr9er1eofDQZLL5bJYLFartdFoLBYLm822Wq08Hg9tj2u3
+27S2VqtdLpeDwUCpVCLFTpxOJ0g8Hler1ePxGBye15S63W6xWATBYiqVqtVq5XK5QqGw2WwymUyl
+UuF5fr/fo4AZ6vW6QqEwm8273Q5pNpuVyWTRaBS8VqtB3263RqNxOp0yA7ocDofRaCSXy/P5PCRB
+EBKJhE6nS6VSSCORiMlkKpVK4K8pEXw+H9brdDoajQZpr9fDZKRTJs7BGovFwuFwMBjE6dfrNU7v
+9/sDgQB0VED8uOlyuYymmPTxeGTriOJsNguFQul0mlJpE+DjX8I36cUjpWqKBHZo/ALo+1bhkSrS
+auCjwzf4N3yDvzaI4gPLzxFV7uBOcwAAAABJRU5ErkJggg==) </sup>;применение российских конденсаторов большой емкости (Bтоп = 4 балла), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGWSURBVDhP7VG7isJQEE3pP+QXrMU2oIIoGLCw
+kYCIoIWIXcAiTZqAgiCCVQqRtD4QG0HECIJEQbBTtPALRJD4SvYkN9xdhAW334EM55w7Z+5kLmP/
+HpZlIb9eLwCSQR3D8/m83W6Px4NIyPf7HQotogHKQPWYy98qENPpNBQKFYtFdAR1btB1PZfLaZrm
+FtimadZqNSjH4xE0nU5fr9dKpaIoCihzOp3q9fp8Puc4bjAYQBJFsVwu9/t9QRD2+30ymYS4WCwK
+hYJjQD+MC4QGw+EQIBKJjMdjgGg0erlccFU2m02lUrIsOwZ8iFarha4Ed7tdv9/f6XQmkwlRRqNR
+IBA4HA7AjuF8PkuS5PP5qtUqKNaQyWRYlt1sNqAYuFQqrVYrcsTQtfR6vXw+DwDzcrncbrfBYBBd
+Mf1ut4P+vSVsHbnZbGIMAPxDu90GSCQSs9kMAEGq0Z1Zr9c8z8disUajQc4Mw4jH4+FwWFVVUJSS
+t3IfyfJ+mj4fBTh7AyQcA5FQSgGxUeWnx7vh8/g3fBJ/NNj2F7s+g7O79ytMAAAAAElFTkSuQmCC
+) </sup>;применение российских сенсорных элементов (Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAXCAIAAABrvZPKAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAIPSURBVDhP7ZJPq2lRGMb31NfwBSTlT4mvIJGB
+jDBBSZQBRUohJMmAEgZCMhGliBKlJCMhyYASIxH5d/Z99lly3G7nDu4d3brPYO/fetb7rvWudy2K
+/l4fnwLc7/fH40EcwPuQyb/dbpfLBe4r53q9wkEQGCYRmXoOaJosQZEfERbC9z2ILBqJRLxeL3Hy
++bxYLK5UKmDMMvtXq1WbzdbtdomFbywWc7lcy+USfD6fJRKJXq8Hj8djpVIJR6vVzudzOFS73Q6H
+w/F4nMfjTadTWHa7XaVS5XI5uVy+2Wzg1Ot1s9kMwLp+vx/g8/kymQyTv1qt8INMJlOz2QRwOJzR
+aARQq9XD4RCQzWaNRiMgFAql02lAIBBIpVIApn4cuFQqFYtFMOR0OmUyWb/fR9rxeIRTq9UcDgcA
+RXk8HoDb7UZRACZ/MBhIpVIWi9Xr9TCEhEIhl8udzWZkaLFYRCLRbrc7nU44FA6r0WhIsylcFbkC
+hUJhtVoBwWCwXC4XCgU+n4/TIS6ZTKJHk8kEs2ghalmv12Akfr0f9AZxADabvVgsADqdLpFIfE4+
+RW6H6Hn/6Ad6YzAYsMPhcIAVjUYFAgHaiUvdbrdw8JZeZWIJ8rTAaByFelqtVqfTQQSx8EXbG43G
+fr8Hk9Dv9FU/RELfE177kOGvYt4v0SsI8O78Jhn6af8/0P/8v9O/nU/TPwDXmhtQQjVL3QAAAABJ
+RU5ErkJggg==) ;применение российских периферийных микросхем (Bтоп = 8 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAIAAADJt1n/AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHiSURBVDhP7ZK/y4FRFMevv8A/wK6sFiMWm8kk
+RZlIIqIMj2RUYrMgRVn8msgglJCSpEwsRLJZ/PZ+H8f78D71DnrX9zvcPvfcc+45597D7r/r9hDg
+er1eLhdirALzwTg7Ho/n85lMEJgsYMEIEBgCM1zz3H374S7aQqfTCWu9XrfZbHS63W4tFstkMgHz
+mWezWTAYLBaLYPJoNpt+v7/RaIAhj8ejUCjoqFqtymSyXq8HZpvNJhKJ5HI5rVabzWZhQh6dTpfJ
+ZIxGY7/fh2W9Xuv1etRIRTkcjk6nwwfv93tUAkomk6FQCOB2uwOBACAcDkejUcB4PNZoNMITmM3m
+drsNfr72dDrlOI4KGwwGcrl8OBzGYjHUBctqtTIYDAB6IKfTORqNAHwwklutVolEEo/HsYWQkzFW
+LpdpWygUpFIpPdJisVAqlYlEAszQxuFwAKVSKbQK6Ha7aAFdqVSqWq1GwXjRVqsFRkW4Op/Po4vX
+kKAxn88HsNvt1Hw6nUZ7j8OnqG1BDP+EHrxeL2LAMCGnWq12uVwmkwlVwIKBgajh94liu90OtVUq
+leVyiTOaivl8XiqV6K73KRLpVTZEVb17C99DHyESgxXeEA0A+YFFloezWD8yf6r/4A/1h+D7/Qv8
+uGgNZwuOCAAAAABJRU5ErkJggg==) ;применение российских микросхем памяти (Bтоп = 11 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHuSURBVDhP7VJL6+FhFPYR+AC+gZI9G1bKwsqC
+ZEcUJcpSNhYWIiU7JZeFDeW6YKHkllJyi4VQCBss3H//53Wmf9PMv2maWcxmnsXpOZfnPe8578vj
+OO71ej2fz8fjAQIXIBeWOAWBnzkPmu9ln5Zwv99hN5tNLBa7Xq/gyWTSbDb3ej1wVLL+QL1er9Vq
+IHTW4XDI5XLz+fyd5Ewmk0gkQmo8HqfT6Wg0qlAojscjUkyPkMvlkkqlgUAA7n6/VyqVaKLX61ut
+FiLT6dRgMJxOJ3CCVqtdLBYgvMvlMhwOwVCkUqlAIpGIWq0GCYfDXq8XBG0hoIbAarUKBoMguBGb
+H+x2u6VSKTqo2+1KJBJMiJk7nQ4iy+XSaDSiEziQSCRIxeanbYVCIT6fj6J3Aef3+wUCQTweJ7dY
+LIrF4slkcj6frVYrstlstlKpIMXmp4ObzaZQKNxut7vdzuPxVKtVmUyWyWSQws5tNluj0ej3+06n
+E8tyu90oY3p6FYJOp4P1+XxE8vm8RqN5Z74Gm3+9XuM+drvd4XCUy2VEZ7OZXC7Hm1ksFtwCEWwH
+behHgQCI0ArY/O12u1QqDQYD+CiCxRSFQmE0GoGjjkq/xLf/QyAxbZRAkV+AvR8EdLfPPj9Efrf/
+H+C//u/wb/Uc9wFZDq0o+ZNlVwAAAABJRU5ErkJggg==) ;применение российских соединителей (в том числе разъемов, жгутов, кабелей) (Bтоп = 6 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAIAAAAf7rriAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHgSURBVDhP7VJLy6lRGN0lf8IPMMAPMFFKipKJ
+GChz14yQkcsvkJRiggmKDJhQLlGEFCMDIiNMUC65fLzf8j1ffW/n1KlzxmcN9l7r2c/az7Mv7PV6
+fXwBhPsCRZ7PJ3EKAhQhEGf8EFL58vF4YLxer8lkcrfbgW82G7fbnUqlwJHJMDWbzV6vB0I4nU61
+Wm08HpPMZDKMsfV6DZ5Op6vVqslkmkwmkCwWi/n9fo1GEw6HoQ+Hg8FgcLlcRqOxXq8jgiNotdrF
+YgF+uVwwlkolFHibO50OJvSjUChAisWiWq0G6ff7FosFBG2rVKrZbAYOs91uF4vF8/kc8t02kEgk
+BoMByHK5lMlk3W43l8uVy2Va1ev11DbB6/UGg0GQtxn3IRAIrFYrikDm83mhUBgIBN6JHLdarUQi
+UaVSAW+3261WKxqNYndIRobRaCSRSKbT6fl8jkQiOItcLo/H41hCtsPhQAHwUCgETifFXXy3Ddhs
+tuPxmM1mdTod5Ha7lUqltETgvyKcGJnH4/H5fHAWCgVo3JxSqXQ6nWazGf0jcr/fb7cbvTlxcuJT
+sEajgVcdDofQlLHf7xGhl+dX+x0/bZOTdiVQhP9DfwFDNkAVKA+cIiT/ZP6e/wn/zX8FjvsEz7r0
+DN8+OjcAAAAASUVORK5CYII=) ;применение российских катушек индуктивности и трансформаторов
+(Bтоп = 3 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHpSURBVDhP7VI9q8FRHD7lM/gGFpNPwMJiMigs
+XsqEwUsKg1GysDDIYDIoZVBikCJClCiDlwwMLIpE3q77/P1ux73d7h3uHe5yn+H8n+d3fi/POefP
+Xh643W5Y7w+Q5JHr9crjfOWEIY80QJxHkHG5XECGw2GxWAShrfV63Wq1KIHhs1wue73e6XTiGZPJ
+pN/vgwDH41EqlRqNRnBqZ7fbbTYbCKyxbrfr8XjUarXBYCCr6XRaoVBotdpQKEQmM5mM1+sFATqd
+jsPhiEaj4BjGGo3G+XyGUKlU5ArT4AgEXebzOUg2m3W5XCCHw6HZbFar1VgsBgk7gn9gOp3mcjky
+r1Qq4/H4ZrPBzN1uhwi23G43SCQSCQaD5Hc2myEi1NfrdYlEotPpUAOJXmKx2GKx7Pd7SCCVSplM
+JpBarZZIJMxms1wuH4/HiAj12+12MBiIRKJkMglZqVRgT6/XYw4kulitVpwOJ4cE8Bz5fB7k6R8I
+h8PoDSKTyeggqCmVSo/NN+CC6ZmIY2XtdrtcLhcKhUAgsFgsENJoND6fD1bhczQaIYILxij+56A7
+DRDeH1fldDpRsFqtaBu/h9/vxyPhUJCU+hWe/gGk8iEEPofkZzB4w5EAPgfkfeSbYuDD/B/gv/53
++Nv6+/0VdWmkwcFJ5uAAAAAASUVORK5CYII=)
+из 29.32.30.330из 29.32.30.331из 29.32.30.332из 30.99.10.144Электронный блок управления трансмиссией, применяемый в составе продукции отрасли специального машиностроениявыполнение на территории Российской Федерации требований
+(в совокупности 140 баллов):наличие у юридического лица - налогового резидента Российской Федерации,
+не находящегося под контролем иностранного государства, и (или) международной организации, и (или) иностранного юридического или физического лица, и (или) иностранной структуры без образования юридического лица ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGHSURBVDhPzZBPqwFhFIdn6WvI1kcYpdQoi5Gw
+sGQlvoDu0geYsvIByCSxUrazRZRSsrDSlCz9ibhj7jPONFm51+7+yus5Z37nvOc9ivtWj8dDTsdx
+BN4VBO4AOL0C6PspWEL6EXKKCe12O/mkBCkEv4ZIwlqtFo1GAbp4N5zP56+nPIvr2rZdLBbj8Xin
+05FMu91WVRXwCyaTSTgczmQyMC2bzSY18/k8EolMp1OSm81G0zSAIZX7/Q61Wq1cLgdcLpfr9Qqg
+QqEwGAyA2WyWSCQAr0D2ZRiGFEiIbrdbuVyWt67X62QyCdDdL2g0GtlsFmBKrEC/3+/1egCq1+uh
+UGg4HMKKbJO5GQAQ92Kx6Ha7AOJVx+PxcDicTidCf62sKBaLyXssy6pUKtvtdrlcjkajYEiE2dvS
+eDzO5/OpVMo0TR5drVZ1XS+VSul0mmIMTIFVWvsjvdHrDci7gRSjI+nEYLCc4g7aI2W1WklK4l+l
+7Pd7/j4o4Pd3N/LX+tkNH+nfFbjuD0sbxWsbwK0pAAAAAElFTkSuQmCC) :прав на конструкторскую и техническую документацию для проектирования, производства, модернизации и развития соответствующей продукции на территории Российской Федерации в соответствии со спецификацией на готовое изделие в следующем составе:спецификация на готовое изделие с указанием сборочных единиц и деталей;схема электрическая принципиальная;исключительных или неисключительных (но неотзывных) прав на программное обеспечение;подтверждение осуществления на территории Российской Федерации процессов проектирования схемотехники, конструкции модуля, топологии печатных плат, встроенного программного обеспечения, а также наличия соответствующих кадров и затрат на их содержание;выполнение на территории Российской Федерации технологической операции - поверхностный монтаж чип-компонентов на печатную плату
+выполнение на территории Российской Федерации дополнительных требований:установка программного обеспечения, если оно является неотъемлемой частью оборудования (20 баллов);сборка электронного оборудования (корпусирование) (20 баллов);функциональное тестирование готового изделия и проведение технического контроля соответствия требованиям технических условий готового изделия (20 баллов);выполнение дополнительных требований по применению компонентов:применение российских системообразующих микросхем (Bтоп = 14 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VK9isJAGNynyDP4AkJExMYuhY0I
+pjCBYGWvWKUT9A1srFKZNL6ACMFUioWdIihoFRBEYuHf3my+veW4Qs7+plhmZr/5dr9NGH+L1+tF
+6/P5JPIuoKoVwSoCYGjweDyoDUDypxPHMVZUMsopQP5ygE6nUyqVQNBCnHC73Xq9XqFQGAwGaQH3
+PC+Xy1mWdTweSVYqFRAcKAJRFM1mMxBd16/XK07PZrNo1u12HceBv91u6/W6DKgLoA0qQJIkyefz
+k8kkCALf9+Esl0vTNEFEgMZaLBZoD/d0OkGGYcgYazQa4MBms7FtG0TOcL/fU59Xq9XRaAS33W6v
+Vqtardbv9+G7rqtp2nQ6BWfYSIsFms3mfD5fr9eZTAYSs5XLZZDL5XI+nzEeOAMbj8eGYaDfcDgU
+Oc5brVaxWISDu5FDwMDiSsjsdrvD4UAuYb/f0zzph5GAlEMTwOXO99OpXeXIX0OBXClSkCQfEIGP
+8B/4Cz4McP4FzubCOyBWPiQAAAAASUVORK5CYII=) ;применение российских печатных плат (Bтоп = 7 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGbSURBVDhP7VK7isJAFJ2f8DcCiiRp/AHtRLsk
+iIWFFhY2toKFKKROa2UhiHZiYSfaKIjgExW0EPHVKIqv7BnvbhAXl22221PMnHvvOTd3ZsLMN7g/
+QOR2u1n8JwNWSCm0PAzb9Xo9n8/PtcvlgiSAcDKZtNttKr1+AVLLRuh2u9Fo1G63G4aBEC3Y4XBI
+JBKyLOfzeRKVSiWXywXdfr+fzWbI7HY7j8dDVVYul2u1WqfTcTqdm81mtVo5HI7FYoGW8XicROPx
+OJVKEWfH45FYOp0G7/V6MCCsVCqZTIZKuVyu3++D8JGwTafTQCCQzWYfVTMcDnu93mKxuF6vEdbr
+dZhBlsslVm4YDAaRSIQx1mq1EGJCSZJ8Ph+urlqt2my2UCikKAqm5QbrWoLBYKFQ2G63fr8fYTKZ
+RAbHRbtmszkajZCEmL8DttPpFIvF5vM5PiIIAmq4e1VVeacvUGuGk7ndbgzQaDSooOu6KIqapg2H
+Q4Q4KKSk/nw4evNnYuF7ho+EDSt6YH0hVAIeYo63P987/Bt+g782mOYH38fpp3zGW7cAAAAASUVO
+RK5CYII=) ;применение российских вторичных преобразователей питания (Bтоп = 6 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAUCAIAAAALACogAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAF/SURBVDhP5ZK9isJQEIXzOr6CjRGiTSrBwijY
+WKSyEVMGoyAoBIMIgmBtFbCwshG7gFE0T2BsNxDERvxZs+dm5LIou/sAe8DLN5M5k5lrhOhnPR4P
+Oj9jEf9mgKiamIAZkL3H4i0phFhhFLmu6/s+AB6Birh4P67lclmpVCRJOhwOCNkbttutoiipVGq/
+3yNEi2q1inAwGCDc7XY4p9Op53nMcL1ebds+nU7D4TCfzyNlWVaxWASUSqXFYgEYjUblchmVzMAH
+Xa/Xk8kE0G63MQNA1/XVagVwHCeZTPb7ffBzB5RiSiwHDsMwnU6rqkohaTab9Xo9gIAt4dlsNjAk
+EglautPpiKJYr9fBrVYrk8l0u93z+cwM+HHhAU7TNLEGIJfLjcdjzIw7pQXQWgiC4CPWfD5vNpvI
+NhqNQqEAMAwDBgDp+ccdj0dN02RZxqsvlwtSaFmr1bLZLF0rupKIXz8NevBdLxl2S7fbDSOiMW/z
+nomLmf74+N71Dw1R9AUr3ll6ozhRGgAAAABJRU5ErkJggg==) ;применение российских микросхем и модулей связи и навигации
+(Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGFSURBVDhP7ZItqwJBGIXnP9ithgWxbrGIGMVs
+WRBkLbqIgs2iwSJ4Yc26Bg0qfiGCimUtYrLabIJoE/zauWd9L6Nc4e4fuCcMzztzzsw7O8v4n7Is
+i0YBDgGIrALY4/Gg4hMgAcfjkdg+gRzvgAWC6/WKsVKpJJNJAAxsMpmEw+FgMLhcLp8ens/nQ6FQ
+LBbb7/cod7udoiiFQgFsB0qlEqjT6ciyDOh2u4FAAGAYRi6XA8xms8FgUC6Xwff7/efSq9WqVqsB
+xuOxSCLT7/e/nopGo4fDAfMMoWaz6XK5RqORHeU8nU77fL56vQ4eDoc4JxKJeL3e9XqNGXa73bbb
+raZpbrebmoY1k8l4PB50b2/A+WazaTQaAJhf7xCPx0+nU6vVUlUVZbvd9vv9gPP5TB8NvWBk8/nc
+NE1d14vFIurpdCpJ0mKxqFarOId8CIjHYdlsNpVK4Vpij16vl0gkKA+JNyG9WqI9KEOCldzvGXZ5
+il6UFnAzmvl0Q84/3y/9B5zF+TcEbIUtK3nojAAAAABJRU5ErkJggg==) ;применение российских интерфейсных микросхем и преобразователей
+(Bтоп = 8 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAVCAIAAAAW+SPgAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAF6SURBVDhP7VExq4JQGHUP+iXSf3CopaA2IWir
+DFobAqEpghoiJJwkRTLHao0kaEgCqalZiAhqElqe6ct39Io8eATv7e8M1/Ode77Ddz+p4D1erxc5
+ExK6fd93XdfzvER9Pp9QoJPyMwI4RT4EuADiIgLacEqSVCwWZVkOs03TrNfrk8kkMgToFwSh0Wjs
+93uU8/m8VCqdz2dw6nK5DIfD3W6Xy+UURYHU6XRqtdp2u2VZ9na7Xa9XTdMYhrFtm/qIAJMoiqqq
+giBJ13WQarVqWRYIsFwux+NxvBOkchxH+Gq1ymQyaFgsFkQBDocDytD9eDy63W4qlWq32ygxd6vV
+SqfT6/Ua5Ww2azabPM87jkMlS9hsNuVyGaTX6xmGgXFpmkYk3ofU+/2OqzCbrAnDYDIQPHc0GoFU
+KpXpdApCgPVTx+MRz8rn8/1+n6in06lQKGSz2cFgQExA/HciQzjrO/L9f4VuUuM6IcSaKElDnP1L
+/Lt/4i/uIPgCazFLcJVt9F4AAAAASUVORK5CYII=) ;применение российских полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGuSURBVDhP7ZI/66lxGMa/Xod3YZBMYjaxKYPN
+QPKnSJks9ItFshCDQUkMZGKwkBKF2MQiKQaD/8/5PL5OP+cM55wXcK7h2/Vc9//7foTyRzyfT/k+
+Ho/7/Q5RA/i4XC63202aATapSKsUJQS2N/2Z79Pjer3yoieTSavVutvt1AqLxSIajVarVWnj7fV6
+4XC42WzCQSQSwQFCvNhut/F4vFwuWyyWQqGA2ul0zGZzsVi02Wzj8Xg0Gul0OqfTmclksIrT6UQh
+WD6fl2nI7fP5IF8vVCqVYDC4Wq0MBsN0On1vaT6fx2Ix2f1kMtFqtYPBIJ1OH49Hui+VSugOh4Pi
+agBFXC6XRqNJpVJqtKIkEgkhBH3Ch8MhveVyuUAgcDgcBFnP5zMG0phMJumRzWb7/b5er6/Vaiit
+VisUCq3Xa/j34Wazmd/vhzAAY0DYm91ufxnf4AZiuVx6PB7GcrvdTIJKbqPR6PV6abrb7aJwRCAn
+FPv9vt1uNxqNzWbDt7wUO6nX6+wE/nlZ8N0SkP/Cp4dUuKY8KBAwPICsKG3w35SXs4pfKvwL/gf8
+HYryA1YLeIUnz/t1AAAAAElFTkSuQmCC) ;применение российских силовых полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGXSURBVDhP7ZI9y4FxFMbvL+Ar2HwHpeRjmAwG
+g/JIJJlkUWIyWNxlMZgYiDKhhMGChCh5yWIk8vb8bke6LU/szzWcruucc/3/5/+i3L/EX4bb7Ua8
+Xq+nB87nM1IzUCB7uVykA7zkKyNAKvoUfURaRQr6/b7f7/d4PPl8HvkcqdlstlotiHgWi0WpVNrt
+dvBardZoNFRVjUQiSM2ANRgMms3mbDaLHI1GNpvN6/U6nc7tdiujTyaTer2uGY7HIx2wTqdjt9sh
+gUAgFApBGIN9ICCVSu33e8jzDIfDIZfLzWYzeLFYtFqt0+k0nU6vViupZjIZ6VRk6EQiYTAYwuEw
+HLjdbqPR2G63RbIEJ4HQrJ2BqYiVSsVkMjHxYDCIx+OFQsFisQyHQ0q9Xm+5XD4NvAhM4HA4iC6X
+KxaLQaLRqNyMQGZRNptNMpn0+Xyclcslxf2y9s8D4/GYDNtKt/ZwsG63W61WpSavNp/Py+Xyer2G
+S+sLb39JuvUvLVz/G7RrZQ0KRCnoMyIlL3jb4RP8Gz7Bl4b7/RfepPBVgm9AugAAAABJRU5ErkJg
+gg==) ;применение российских пассивных элементов стандартных (Bтоп = 3 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAYCAIAAAB8wupbAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAG4SURBVDhP7VI9y0FhGD6/weYP+AEssiLlYziz
+QUZRymAwKLMoOhYDMwZJCrGIkkIxSCGRkrD5/jiuxy0dy5t3eLf3qnOf677OfT3389zP4cRf4ifD
+/X5HvF6vp9MJkRQOD3C73RCfZUxFCoBTHYEUjl4E8LcNOJ/PiNVq1e129/t9cBSwLc3n82azeblc
+WNWzA9LJZAI+HA7tdnsymTQYDPSVg9Xr9er1eofDQZLL5bJYLFartdFoLBYLm822Wq08Hg9tj2u3
+27S2VqtdLpeDwUCpVCLFTpxOJ0g8Hler1ePxGBye15S63W6xWATBYiqVqtVq5XK5QqGw2WwymUyl
+UuF5fr/fo4AZ6vW6QqEwm8273Q5pNpuVyWTRaBS8VqtB3263RqNxOp0yA7ocDofRaCSXy/P5PCRB
+EBKJhE6nS6VSSCORiMlkKpVK4K8pEXw+H9brdDoajQZpr9fDZKRTJs7BGovFwuFwMBjE6dfrNU7v
+9/sDgQB0VED8uOlyuYymmPTxeGTriOJsNguFQul0mlJpE+DjX8I36cUjpWqKBHZo/ALo+1bhkSrS
+auCjwzf4N3yDvzaI4gPLzxFV7uBOcwAAAABJRU5ErkJggg==) ;применение российских конденсаторов большой емкости (Bтоп = 4 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGWSURBVDhP7VG7isJQEE3pP+QXrMU2oIIoGLCw
+kYCIoIWIXcAiTZqAgiCCVQqRtD4QG0HECIJEQbBTtPALRJD4SvYkN9xdhAW334EM55w7Z+5kLmP/
+HpZlIb9eLwCSQR3D8/m83W6Px4NIyPf7HQotogHKQPWYy98qENPpNBQKFYtFdAR1btB1PZfLaZrm
+FtimadZqNSjH4xE0nU5fr9dKpaIoCihzOp3q9fp8Puc4bjAYQBJFsVwu9/t9QRD2+30ymYS4WCwK
+hYJjQD+MC4QGw+EQIBKJjMdjgGg0erlccFU2m02lUrIsOwZ8iFarha4Ed7tdv9/f6XQmkwlRRqNR
+IBA4HA7AjuF8PkuS5PP5qtUqKNaQyWRYlt1sNqAYuFQqrVYrcsTQtfR6vXw+DwDzcrncbrfBYBBd
+Mf1ut4P+vSVsHbnZbGIMAPxDu90GSCQSs9kMAEGq0Z1Zr9c8z8disUajQc4Mw4jH4+FwWFVVUJSS
+t3IfyfJ+mj4fBTh7AyQcA5FQSgGxUeWnx7vh8/g3fBJ/NNj2F7s+g7O79ytMAAAAAElFTkSuQmCC
+) ;применение российских сенсорных элементов (Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAXCAIAAABrvZPKAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAIPSURBVDhP7ZJPq2lRGMb31NfwBSTlT4mvIJGB
+jDBBSZQBRUohJMmAEgZCMhGliBKlJCMhyYASIxH5d/Z99lly3G7nDu4d3brPYO/fetb7rvWudy2K
+/l4fnwLc7/fH40EcwPuQyb/dbpfLBe4r53q9wkEQGCYRmXoOaJosQZEfERbC9z2ILBqJRLxeL3Hy
++bxYLK5UKmDMMvtXq1WbzdbtdomFbywWc7lcy+USfD6fJRKJXq8Hj8djpVIJR6vVzudzOFS73Q6H
+w/F4nMfjTadTWHa7XaVS5XI5uVy+2Wzg1Ot1s9kMwLp+vx/g8/kymQyTv1qt8INMJlOz2QRwOJzR
+aARQq9XD4RCQzWaNRiMgFAql02lAIBBIpVIApn4cuFQqFYtFMOR0OmUyWb/fR9rxeIRTq9UcDgcA
+RXk8HoDb7UZRACZ/MBhIpVIWi9Xr9TCEhEIhl8udzWZkaLFYRCLRbrc7nU44FA6r0WhIsylcFbkC
+hUJhtVoBwWCwXC4XCgU+n4/TIS6ZTKJHk8kEs2ghalmv12Akfr0f9AZxADabvVgsADqdLpFIfE4+
+RW6H6Hn/6Ad6YzAYsMPhcIAVjUYFAgHaiUvdbrdw8JZeZWIJ8rTAaByFelqtVqfTQQSx8EXbG43G
+fr8Hk9Dv9FU/RELfE177kOGvYt4v0SsI8O78Jhn6af8/0P/8v9O/nU/TPwDXmhtQQjVL3QAAAABJ
+RU5ErkJggg==) ;применение российских периферийных микросхем (Bтоп = 8 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAIAAADJt1n/AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHiSURBVDhP7ZK/y4FRFMevv8A/wK6sFiMWm8kk
+RZlIIqIMj2RUYrMgRVn8msgglJCSpEwsRLJZ/PZ+H8f78D71DnrX9zvcPvfcc+45597D7r/r9hDg
+er1eLhdirALzwTg7Ho/n85lMEJgsYMEIEBgCM1zz3H374S7aQqfTCWu9XrfZbHS63W4tFstkMgHz
+mWezWTAYLBaLYPJoNpt+v7/RaIAhj8ejUCjoqFqtymSyXq8HZpvNJhKJ5HI5rVabzWZhQh6dTpfJ
+ZIxGY7/fh2W9Xuv1etRIRTkcjk6nwwfv93tUAkomk6FQCOB2uwOBACAcDkejUcB4PNZoNMITmM3m
+drsNfr72dDrlOI4KGwwGcrl8OBzGYjHUBctqtTIYDAB6IKfTORqNAHwwklutVolEEo/HsYWQkzFW
+LpdpWygUpFIpPdJisVAqlYlEAszQxuFwAKVSKbQK6Ha7aAFdqVSqWq1GwXjRVqsFRkW4Op/Po4vX
+kKAxn88HsNvt1Hw6nUZ7j8OnqG1BDP+EHrxeL2LAMCGnWq12uVwmkwlVwIKBgajh94liu90OtVUq
+leVyiTOaivl8XiqV6K73KRLpVTZEVb17C99DHyESgxXeEA0A+YFFloezWD8yf6r/4A/1h+D7/Qv8
+uGgNZwuOCAAAAABJRU5ErkJggg==) ;применение российских микросхем памяти (Bтоп = 11 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHuSURBVDhP7VJL6+FhFPYR+AC+gZI9G1bKwsqC
+ZEcUJcpSNhYWIiU7JZeFDeW6YKHkllJyi4VQCBss3H//53Wmf9PMv2maWcxmnsXpOZfnPe8578vj
+OO71ej2fz8fjAQIXIBeWOAWBnzkPmu9ln5Zwv99hN5tNLBa7Xq/gyWTSbDb3ej1wVLL+QL1er9Vq
+IHTW4XDI5XLz+fyd5Ewmk0gkQmo8HqfT6Wg0qlAojscjUkyPkMvlkkqlgUAA7n6/VyqVaKLX61ut
+FiLT6dRgMJxOJ3CCVqtdLBYgvMvlMhwOwVCkUqlAIpGIWq0GCYfDXq8XBG0hoIbAarUKBoMguBGb
+H+x2u6VSKTqo2+1KJBJMiJk7nQ4iy+XSaDSiEziQSCRIxeanbYVCIT6fj6J3Aef3+wUCQTweJ7dY
+LIrF4slkcj6frVYrstlstlKpIMXmp4ObzaZQKNxut7vdzuPxVKtVmUyWyWSQws5tNluj0ej3+06n
+E8tyu90oY3p6FYJOp4P1+XxE8vm8RqN5Z74Gm3+9XuM+drvd4XCUy2VEZ7OZXC7Hm1ksFtwCEWwH
+behHgQCI0ArY/O12u1QqDQYD+CiCxRSFQmE0GoGjjkq/xLf/QyAxbZRAkV+AvR8EdLfPPj9Efrf/
+H+C//u/wb/Uc9wFZDq0o+ZNlVwAAAABJRU5ErkJggg==) ;применение российских соединителей (в том числе разъемов, жгутов, кабелей) (Bтоп = 6 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAIAAAAf7rriAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHgSURBVDhP7VJLy6lRGN0lf8IPMMAPMFFKipKJ
+GChz14yQkcsvkJRiggmKDJhQLlGEFCMDIiNMUC65fLzf8j1ffW/n1KlzxmcN9l7r2c/az7Mv7PV6
+fXwBhPsCRZ7PJ3EKAhQhEGf8EFL58vF4YLxer8lkcrfbgW82G7fbnUqlwJHJMDWbzV6vB0I4nU61
+Wm08HpPMZDKMsfV6DZ5Op6vVqslkmkwmkCwWi/n9fo1GEw6HoQ+Hg8FgcLlcRqOxXq8jgiNotdrF
+YgF+uVwwlkolFHibO50OJvSjUChAisWiWq0G6ff7FosFBG2rVKrZbAYOs91uF4vF8/kc8t02kEgk
+BoMByHK5lMlk3W43l8uVy2Va1ev11DbB6/UGg0GQtxn3IRAIrFYrikDm83mhUBgIBN6JHLdarUQi
+UaVSAW+3261WKxqNYndIRobRaCSRSKbT6fl8jkQiOItcLo/H41hCtsPhQAHwUCgETifFXXy3Ddhs
+tuPxmM1mdTod5Ha7lUqltETgvyKcGJnH4/H5fHAWCgVo3JxSqXQ6nWazGf0jcr/fb7cbvTlxcuJT
+sEajgVcdDofQlLHf7xGhl+dX+x0/bZOTdiVQhP9DfwFDNkAVKA+cIiT/ZP6e/wn/zX8FjvsEz7r0
+DN8+OjcAAAAASUVORK5CYII=) ;применение российских катушек индуктивности и трансформаторов
+(Bтоп = 3 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHpSURBVDhP7VI9q8FRHD7lM/gGFpNPwMJiMigs
+XsqEwUsKg1GysDDIYDIoZVBikCJClCiDlwwMLIpE3q77/P1ux73d7h3uHe5yn+H8n+d3fi/POefP
+Xh643W5Y7w+Q5JHr9crjfOWEIY80QJxHkHG5XECGw2GxWAShrfV63Wq1KIHhs1wue73e6XTiGZPJ
+pN/vgwDH41EqlRqNRnBqZ7fbbTYbCKyxbrfr8XjUarXBYCCr6XRaoVBotdpQKEQmM5mM1+sFATqd
+jsPhiEaj4BjGGo3G+XyGUKlU5ArT4AgEXebzOUg2m3W5XCCHw6HZbFar1VgsBgk7gn9gOp3mcjky
+r1Qq4/H4ZrPBzN1uhwi23G43SCQSCQaD5Hc2myEi1NfrdYlEotPpUAOJXmKx2GKx7Pd7SCCVSplM
+JpBarZZIJMxms1wuH4/HiAj12+12MBiIRKJkMglZqVRgT6/XYw4kulitVpwOJ4cE8Bz5fB7k6R8I
+h8PoDSKTyeggqCmVSo/NN+CC6ZmIY2XtdrtcLhcKhUAgsFgsENJoND6fD1bhczQaIYILxij+56A7
+DRDeH1fldDpRsFqtaBu/h9/vxyPhUJCU+hWe/gGk8iEEPofkZzB4w5EAPgfkfeSbYuDD/B/gv/53
++Nv6+/0VdWmkwcFJ5uAAAAAASUVORK5CYII=) из 29.32.30.339Электронный блок управления приводом вспомогательного оборудования (механизмом
+отбора мощности), применяемый в составе продукции отрасли специального машиностроениявыполнение на территории Российской Федерации требований
+(в совокупности 140 баллов):наличие у юридического лица - налогового резидента Российской Федерации,
+не находящегося под контролем иностранного государства, и (или) международной организации, и (или) иностранного юридического или физического лица, и (или) иностранной структуры без образования юридического лица ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGHSURBVDhPzZBPqwFhFIdn6WvI1kcYpdQoi5Gw
+sGQlvoDu0geYsvIByCSxUrazRZRSsrDSlCz9ibhj7jPONFm51+7+yus5Z37nvOc9ivtWj8dDTsdx
+BN4VBO4AOL0C6PspWEL6EXKKCe12O/mkBCkEv4ZIwlqtFo1GAbp4N5zP56+nPIvr2rZdLBbj8Xin
+05FMu91WVRXwCyaTSTgczmQyMC2bzSY18/k8EolMp1OSm81G0zSAIZX7/Q61Wq1cLgdcLpfr9Qqg
+QqEwGAyA2WyWSCQAr0D2ZRiGFEiIbrdbuVyWt67X62QyCdDdL2g0GtlsFmBKrEC/3+/1egCq1+uh
+UGg4HMKKbJO5GQAQ92Kx6Ha7AOJVx+PxcDicTidCf62sKBaLyXssy6pUKtvtdrlcjkajYEiE2dvS
+eDzO5/OpVMo0TR5drVZ1XS+VSul0mmIMTIFVWvsjvdHrDci7gRSjI+nEYLCc4g7aI2W1WklK4l+l
+7Pd7/j4o4Pd3N/LX+tkNH+nfFbjuD0sbxWsbwK0pAAAAAElFTkSuQmCC) :прав на конструкторскую и техническую документацию для проектирования, производства, модернизации и развития соответствующей продукции
+на территории Российской Федерации в соответствии со спецификацией
+на готовое изделие в следующем составе:спецификация на готовое изделие с указанием сборочных единиц и деталей;схема электрическая принципиальная;исключительных или неисключительных (но неотзывных) прав на программное обеспечение;подтверждение осуществления на территории Российской Федерации процессов проектирования схемотехники, конструкции модуля, топологии печатных плат, встроенного программного обеспечения, а также наличия соответствующих кадров и затрат на их содержание;выполнение на территории Российской Федерации технологической операции - поверхностный монтаж чип-компонентов на печатную плату
+выполнение на территории Российской Федерации дополнительных требований:установка программного обеспечения, если оно является неотъемлемой частью оборудования (20 баллов);сборка электронного оборудования (корпусирование) (20 баллов);функциональное тестирование готового изделия и проведение технического контроля соответствия требованиям технических условий готового изделия (20 баллов);выполнение дополнительных требований по применению компонентов:применение российских системообразующих микросхем (Bтоп = 14 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VK9isJAGNynyDP4AkJExMYuhY0I
+pjCBYGWvWKUT9A1srFKZNL6ACMFUioWdIihoFRBEYuHf3my+veW4Qs7+plhmZr/5dr9NGH+L1+tF
+6/P5JPIuoKoVwSoCYGjweDyoDUDypxPHMVZUMsopQP5ygE6nUyqVQNBCnHC73Xq9XqFQGAwGaQH3
+PC+Xy1mWdTweSVYqFRAcKAJRFM1mMxBd16/XK07PZrNo1u12HceBv91u6/W6DKgLoA0qQJIkyefz
+k8kkCALf9+Esl0vTNEFEgMZaLBZoD/d0OkGGYcgYazQa4MBms7FtG0TOcL/fU59Xq9XRaAS33W6v
+Vqtardbv9+G7rqtp2nQ6BWfYSIsFms3mfD5fr9eZTAYSs5XLZZDL5XI+nzEeOAMbj8eGYaDfcDgU
+Oc5brVaxWISDu5FDwMDiSsjsdrvD4UAuYb/f0zzph5GAlEMTwOXO99OpXeXIX0OBXClSkCQfEIGP
+8B/4Cz4McP4FzubCOyBWPiQAAAAASUVORK5CYII=) ;применение российских печатных плат (Bтоп = 7 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGbSURBVDhP7VK7isJAFJ2f8DcCiiRp/AHtRLsk
+iIWFFhY2toKFKKROa2UhiHZiYSfaKIjgExW0EPHVKIqv7BnvbhAXl22221PMnHvvOTd3ZsLMN7g/
+QOR2u1n8JwNWSCm0PAzb9Xo9n8/PtcvlgiSAcDKZtNttKr1+AVLLRuh2u9Fo1G63G4aBEC3Y4XBI
+JBKyLOfzeRKVSiWXywXdfr+fzWbI7HY7j8dDVVYul2u1WqfTcTqdm81mtVo5HI7FYoGW8XicROPx
+OJVKEWfH45FYOp0G7/V6MCCsVCqZTIZKuVyu3++D8JGwTafTQCCQzWYfVTMcDnu93mKxuF6vEdbr
+dZhBlsslVm4YDAaRSIQx1mq1EGJCSZJ8Ph+urlqt2my2UCikKAqm5QbrWoLBYKFQ2G63fr8fYTKZ
+RAbHRbtmszkajZCEmL8DttPpFIvF5vM5PiIIAmq4e1VVeacvUGuGk7ndbgzQaDSooOu6KIqapg2H
+Q4Q4KKSk/nw4evNnYuF7ho+EDSt6YH0hVAIeYo63P987/Bt+g782mOYH38fpp3zGW7cAAAAASUVO
+RK5CYII=) ;применение российских вторичных преобразователей питания (Bтоп = 6 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAUCAIAAAALACogAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAF/SURBVDhP5ZK9isJQEIXzOr6CjRGiTSrBwijY
+WKSyEVMGoyAoBIMIgmBtFbCwshG7gFE0T2BsNxDERvxZs+dm5LIou/sAe8DLN5M5k5lrhOhnPR4P
+Oj9jEf9mgKiamIAZkL3H4i0phFhhFLmu6/s+AB6Birh4P67lclmpVCRJOhwOCNkbttutoiipVGq/
+3yNEi2q1inAwGCDc7XY4p9Op53nMcL1ebds+nU7D4TCfzyNlWVaxWASUSqXFYgEYjUblchmVzMAH
+Xa/Xk8kE0G63MQNA1/XVagVwHCeZTPb7ffBzB5RiSiwHDsMwnU6rqkohaTab9Xo9gIAt4dlsNjAk
+EglautPpiKJYr9fBrVYrk8l0u93z+cwM+HHhAU7TNLEGIJfLjcdjzIw7pQXQWgiC4CPWfD5vNpvI
+NhqNQqEAMAwDBgDp+ccdj0dN02RZxqsvlwtSaFmr1bLZLF0rupKIXz8NevBdLxl2S7fbDSOiMW/z
+nomLmf74+N71Dw1R9AUr3ll6ozhRGgAAAABJRU5ErkJggg==) ;применение российских микросхем и модулей связи и навигации
+(Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGFSURBVDhP7ZItqwJBGIXnP9ithgWxbrGIGMVs
+WRBkLbqIgs2iwSJ4Yc26Bg0qfiGCimUtYrLabIJoE/zauWd9L6Nc4e4fuCcMzztzzsw7O8v4n7Is
+i0YBDgGIrALY4/Gg4hMgAcfjkdg+gRzvgAWC6/WKsVKpJJNJAAxsMpmEw+FgMLhcLp8ens/nQ6FQ
+LBbb7/cod7udoiiFQgFsB0qlEqjT6ciyDOh2u4FAAGAYRi6XA8xms8FgUC6Xwff7/efSq9WqVqsB
+xuOxSCLT7/e/nopGo4fDAfMMoWaz6XK5RqORHeU8nU77fL56vQ4eDoc4JxKJeL3e9XqNGXa73bbb
+raZpbrebmoY1k8l4PB50b2/A+WazaTQaAJhf7xCPx0+nU6vVUlUVZbvd9vv9gPP5TB8NvWBk8/nc
+NE1d14vFIurpdCpJ0mKxqFarOId8CIjHYdlsNpVK4Vpij16vl0gkKA+JNyG9WqI9KEOCldzvGXZ5
+il6UFnAzmvl0Q84/3y/9B5zF+TcEbIUtK3nojAAAAABJRU5ErkJggg==) ;применение российских интерфейсных микросхем и преобразователей
+(Bтоп = 8 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAVCAIAAAAW+SPgAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAF6SURBVDhP7VExq4JQGHUP+iXSf3CopaA2IWir
+DFobAqEpghoiJJwkRTLHao0kaEgCqalZiAhqElqe6ct39Io8eATv7e8M1/Ode77Ddz+p4D1erxc5
+ExK6fd93XdfzvER9Pp9QoJPyMwI4RT4EuADiIgLacEqSVCwWZVkOs03TrNfrk8kkMgToFwSh0Wjs
+93uU8/m8VCqdz2dw6nK5DIfD3W6Xy+UURYHU6XRqtdp2u2VZ9na7Xa9XTdMYhrFtm/qIAJMoiqqq
+giBJ13WQarVqWRYIsFwux+NxvBOkchxH+Gq1ymQyaFgsFkQBDocDytD9eDy63W4qlWq32ygxd6vV
+SqfT6/Ua5Ww2azabPM87jkMlS9hsNuVyGaTX6xmGgXFpmkYk3ofU+/2OqzCbrAnDYDIQPHc0GoFU
+KpXpdApCgPVTx+MRz8rn8/1+n6in06lQKGSz2cFgQExA/HciQzjrO/L9f4VuUuM6IcSaKElDnP1L
+/Lt/4i/uIPgCazFLcJVt9F4AAAAASUVORK5CYII=) ;применение российских полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGuSURBVDhP7ZI/66lxGMa/Xod3YZBMYjaxKYPN
+QPKnSJks9ItFshCDQUkMZGKwkBKF2MQiKQaD/8/5PL5OP+cM55wXcK7h2/Vc9//7foTyRzyfT/k+
+Ho/7/Q5RA/i4XC63202aATapSKsUJQS2N/2Z79Pjer3yoieTSavVutvt1AqLxSIajVarVWnj7fV6
+4XC42WzCQSQSwQFCvNhut/F4vFwuWyyWQqGA2ul0zGZzsVi02Wzj8Xg0Gul0OqfTmclksIrT6UQh
+WD6fl2nI7fP5IF8vVCqVYDC4Wq0MBsN0On1vaT6fx2Ix2f1kMtFqtYPBIJ1OH49Hui+VSugOh4Pi
+agBFXC6XRqNJpVJqtKIkEgkhBH3Ch8MhveVyuUAgcDgcBFnP5zMG0phMJumRzWb7/b5er6/Vaiit
+VisUCq3Xa/j34Wazmd/vhzAAY0DYm91ufxnf4AZiuVx6PB7GcrvdTIJKbqPR6PV6abrb7aJwRCAn
+FPv9vt1uNxqNzWbDt7wUO6nX6+wE/nlZ8N0SkP/Cp4dUuKY8KBAwPICsKG3w35SXs4pfKvwL/gf8
+HYryA1YLeIUnz/t1AAAAAElFTkSuQmCC) ;применение российских силовых полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGXSURBVDhP7ZI9y4FxFMbvL+Ar2HwHpeRjmAwG
+g/JIJJlkUWIyWNxlMZgYiDKhhMGChCh5yWIk8vb8bke6LU/szzWcruucc/3/5/+i3L/EX4bb7Ua8
+Xq+nB87nM1IzUCB7uVykA7zkKyNAKvoUfURaRQr6/b7f7/d4PPl8HvkcqdlstlotiHgWi0WpVNrt
+dvBardZoNFRVjUQiSM2ANRgMms3mbDaLHI1GNpvN6/U6nc7tdiujTyaTer2uGY7HIx2wTqdjt9sh
+gUAgFApBGIN9ICCVSu33e8jzDIfDIZfLzWYzeLFYtFqt0+k0nU6vViupZjIZ6VRk6EQiYTAYwuEw
+HLjdbqPR2G63RbIEJ4HQrJ2BqYiVSsVkMjHxYDCIx+OFQsFisQyHQ0q9Xm+5XD4NvAhM4HA4iC6X
+KxaLQaLRqNyMQGZRNptNMpn0+Xyclcslxf2y9s8D4/GYDNtKt/ZwsG63W61WpSavNp/Py+Xyer2G
+S+sLb39JuvUvLVz/G7RrZQ0KRCnoMyIlL3jb4RP8Gz7Bl4b7/RfepPBVgm9AugAAAABJRU5ErkJg
+gg==) ;применение российских пассивных элементов стандартных (Bтоп = 3 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAYCAIAAAB8wupbAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAG4SURBVDhP7VI9y0FhGD6/weYP+AEssiLlYziz
+QUZRymAwKLMoOhYDMwZJCrGIkkIxSCGRkrD5/jiuxy0dy5t3eLf3qnOf677OfT3389zP4cRf4ifD
+/X5HvF6vp9MJkRQOD3C73RCfZUxFCoBTHYEUjl4E8LcNOJ/PiNVq1e129/t9cBSwLc3n82azeblc
+WNWzA9LJZAI+HA7tdnsymTQYDPSVg9Xr9er1eofDQZLL5bJYLFartdFoLBYLm822Wq08Hg9tj2u3
+27S2VqtdLpeDwUCpVCLFTpxOJ0g8Hler1ePxGBye15S63W6xWATBYiqVqtVq5XK5QqGw2WwymUyl
+UuF5fr/fo4AZ6vW6QqEwm8273Q5pNpuVyWTRaBS8VqtB3263RqNxOp0yA7ocDofRaCSXy/P5PCRB
+EBKJhE6nS6VSSCORiMlkKpVK4K8pEXw+H9brdDoajQZpr9fDZKRTJs7BGovFwuFwMBjE6dfrNU7v
+9/sDgQB0VED8uOlyuYymmPTxeGTriOJsNguFQul0mlJpE+DjX8I36cUjpWqKBHZo/ALo+1bhkSrS
+auCjwzf4N3yDvzaI4gPLzxFV7uBOcwAAAABJRU5ErkJggg==) ;применение российских конденсаторов большой емкости (Bтоп = 4 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGWSURBVDhP7VG7isJQEE3pP+QXrMU2oIIoGLCw
+kYCIoIWIXcAiTZqAgiCCVQqRtD4QG0HECIJEQbBTtPALRJD4SvYkN9xdhAW334EM55w7Z+5kLmP/
+HpZlIb9eLwCSQR3D8/m83W6Px4NIyPf7HQotogHKQPWYy98qENPpNBQKFYtFdAR1btB1PZfLaZrm
+FtimadZqNSjH4xE0nU5fr9dKpaIoCihzOp3q9fp8Puc4bjAYQBJFsVwu9/t9QRD2+30ymYS4WCwK
+hYJjQD+MC4QGw+EQIBKJjMdjgGg0erlccFU2m02lUrIsOwZ8iFarha4Ed7tdv9/f6XQmkwlRRqNR
+IBA4HA7AjuF8PkuS5PP5qtUqKNaQyWRYlt1sNqAYuFQqrVYrcsTQtfR6vXw+DwDzcrncbrfBYBBd
+Mf1ut4P+vSVsHbnZbGIMAPxDu90GSCQSs9kMAEGq0Z1Zr9c8z8disUajQc4Mw4jH4+FwWFVVUJSS
+t3IfyfJ+mj4fBTh7AyQcA5FQSgGxUeWnx7vh8/g3fBJ/NNj2F7s+g7O79ytMAAAAAElFTkSuQmCC
+) ;применение российских сенсорных элементов (Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAXCAIAAABrvZPKAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAIPSURBVDhP7ZJPq2lRGMb31NfwBSTlT4mvIJGB
+jDBBSZQBRUohJMmAEgZCMhGliBKlJCMhyYASIxH5d/Z99lly3G7nDu4d3brPYO/fetb7rvWudy2K
+/l4fnwLc7/fH40EcwPuQyb/dbpfLBe4r53q9wkEQGCYRmXoOaJosQZEfERbC9z2ILBqJRLxeL3Hy
++bxYLK5UKmDMMvtXq1WbzdbtdomFbywWc7lcy+USfD6fJRKJXq8Hj8djpVIJR6vVzudzOFS73Q6H
+w/F4nMfjTadTWHa7XaVS5XI5uVy+2Wzg1Ot1s9kMwLp+vx/g8/kymQyTv1qt8INMJlOz2QRwOJzR
+aARQq9XD4RCQzWaNRiMgFAql02lAIBBIpVIApn4cuFQqFYtFMOR0OmUyWb/fR9rxeIRTq9UcDgcA
+RXk8HoDb7UZRACZ/MBhIpVIWi9Xr9TCEhEIhl8udzWZkaLFYRCLRbrc7nU44FA6r0WhIsylcFbkC
+hUJhtVoBwWCwXC4XCgU+n4/TIS6ZTKJHk8kEs2ghalmv12Akfr0f9AZxADabvVgsADqdLpFIfE4+
+RW6H6Hn/6Ad6YzAYsMPhcIAVjUYFAgHaiUvdbrdw8JZeZWIJ8rTAaByFelqtVqfTQQSx8EXbG43G
+fr8Hk9Dv9FU/RELfE177kOGvYt4v0SsI8O78Jhn6af8/0P/8v9O/nU/TPwDXmhtQQjVL3QAAAABJ
+RU5ErkJggg==) ;применение российских периферийных микросхем (Bтоп = 8 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAIAAADJt1n/AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHiSURBVDhP7ZK/y4FRFMevv8A/wK6sFiMWm8kk
+RZlIIqIMj2RUYrMgRVn8msgglJCSpEwsRLJZ/PZ+H8f78D71DnrX9zvcPvfcc+45597D7r/r9hDg
+er1eLhdirALzwTg7Ho/n85lMEJgsYMEIEBgCM1zz3H374S7aQqfTCWu9XrfZbHS63W4tFstkMgHz
+mWezWTAYLBaLYPJoNpt+v7/RaIAhj8ejUCjoqFqtymSyXq8HZpvNJhKJ5HI5rVabzWZhQh6dTpfJ
+ZIxGY7/fh2W9Xuv1etRIRTkcjk6nwwfv93tUAkomk6FQCOB2uwOBACAcDkejUcB4PNZoNMITmM3m
+drsNfr72dDrlOI4KGwwGcrl8OBzGYjHUBctqtTIYDAB6IKfTORqNAHwwklutVolEEo/HsYWQkzFW
+LpdpWygUpFIpPdJisVAqlYlEAszQxuFwAKVSKbQK6Ha7aAFdqVSqWq1GwXjRVqsFRkW4Op/Po4vX
+kKAxn88HsNvt1Hw6nUZ7j8OnqG1BDP+EHrxeL2LAMCGnWq12uVwmkwlVwIKBgajh94liu90OtVUq
+leVyiTOaivl8XiqV6K73KRLpVTZEVb17C99DHyESgxXeEA0A+YFFloezWD8yf6r/4A/1h+D7/Qv8
+uGgNZwuOCAAAAABJRU5ErkJggg==) ;применение российских микросхем памяти (Bтоп = 11 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHuSURBVDhP7VJL6+FhFPYR+AC+gZI9G1bKwsqC
+ZEcUJcpSNhYWIiU7JZeFDeW6YKHkllJyi4VQCBss3H//53Wmf9PMv2maWcxmnsXpOZfnPe8578vj
+OO71ej2fz8fjAQIXIBeWOAWBnzkPmu9ln5Zwv99hN5tNLBa7Xq/gyWTSbDb3ej1wVLL+QL1er9Vq
+IHTW4XDI5XLz+fyd5Ewmk0gkQmo8HqfT6Wg0qlAojscjUkyPkMvlkkqlgUAA7n6/VyqVaKLX61ut
+FiLT6dRgMJxOJ3CCVqtdLBYgvMvlMhwOwVCkUqlAIpGIWq0GCYfDXq8XBG0hoIbAarUKBoMguBGb
+H+x2u6VSKTqo2+1KJBJMiJk7nQ4iy+XSaDSiEziQSCRIxeanbYVCIT6fj6J3Aef3+wUCQTweJ7dY
+LIrF4slkcj6frVYrstlstlKpIMXmp4ObzaZQKNxut7vdzuPxVKtVmUyWyWSQws5tNluj0ej3+06n
+E8tyu90oY3p6FYJOp4P1+XxE8vm8RqN5Z74Gm3+9XuM+drvd4XCUy2VEZ7OZXC7Hm1ksFtwCEWwH
+behHgQCI0ArY/O12u1QqDQYD+CiCxRSFQmE0GoGjjkq/xLf/QyAxbZRAkV+AvR8EdLfPPj9Efrf/
+H+C//u/wb/Uc9wFZDq0o+ZNlVwAAAABJRU5ErkJggg==) ;применение российских соединителей (в том числе разъемов, жгутов, кабелей) (Bтоп = 6 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAIAAAAf7rriAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHgSURBVDhP7VJLy6lRGN0lf8IPMMAPMFFKipKJ
+GChz14yQkcsvkJRiggmKDJhQLlGEFCMDIiNMUC65fLzf8j1ffW/n1KlzxmcN9l7r2c/az7Mv7PV6
+fXwBhPsCRZ7PJ3EKAhQhEGf8EFL58vF4YLxer8lkcrfbgW82G7fbnUqlwJHJMDWbzV6vB0I4nU61
+Wm08HpPMZDKMsfV6DZ5Op6vVqslkmkwmkCwWi/n9fo1GEw6HoQ+Hg8FgcLlcRqOxXq8jgiNotdrF
+YgF+uVwwlkolFHibO50OJvSjUChAisWiWq0G6ff7FosFBG2rVKrZbAYOs91uF4vF8/kc8t02kEgk
+BoMByHK5lMlk3W43l8uVy2Va1ev11DbB6/UGg0GQtxn3IRAIrFYrikDm83mhUBgIBN6JHLdarUQi
+UaVSAW+3261WKxqNYndIRobRaCSRSKbT6fl8jkQiOItcLo/H41hCtsPhQAHwUCgETifFXXy3Ddhs
+tuPxmM1mdTod5Ha7lUqltETgvyKcGJnH4/H5fHAWCgVo3JxSqXQ6nWazGf0jcr/fb7cbvTlxcuJT
+sEajgVcdDofQlLHf7xGhl+dX+x0/bZOTdiVQhP9DfwFDNkAVKA+cIiT/ZP6e/wn/zX8FjvsEz7r0
+DN8+OjcAAAAASUVORK5CYII=) ;применение российских катушек индуктивности и трансформаторов
+(Bтоп = 3 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHpSURBVDhP7VI9q8FRHD7lM/gGFpNPwMJiMigs
+XsqEwUsKg1GysDDIYDIoZVBikCJClCiDlwwMLIpE3q77/P1ux73d7h3uHe5yn+H8n+d3fi/POefP
+Xh643W5Y7w+Q5JHr9crjfOWEIY80QJxHkHG5XECGw2GxWAShrfV63Wq1KIHhs1wue73e6XTiGZPJ
+pN/vgwDH41EqlRqNRnBqZ7fbbTYbCKyxbrfr8XjUarXBYCCr6XRaoVBotdpQKEQmM5mM1+sFATqd
+jsPhiEaj4BjGGo3G+XyGUKlU5ArT4AgEXebzOUg2m3W5XCCHw6HZbFar1VgsBgk7gn9gOp3mcjky
+r1Qq4/H4ZrPBzN1uhwi23G43SCQSCQaD5Hc2myEi1NfrdYlEotPpUAOJXmKx2GKx7Pd7SCCVSplM
+JpBarZZIJMxms1wuH4/HiAj12+12MBiIRKJkMglZqVRgT6/XYw4kulitVpwOJ4cE8Bz5fB7k6R8I
+h8PoDSKTyeggqCmVSo/NN+CC6ZmIY2XtdrtcLhcKhUAgsFgsENJoND6fD1bhczQaIYILxij+56A7
+DRDeH1fldDpRsFqtaBu/h9/vxyPhUJCU+hWe/gGk8iEEPofkZzB4w5EAPgfkfeSbYuDD/B/gv/53
++Nv6+/0VdWmkwcFJ5uAAAAAASUVORK5CYII=) из 29.32.30.151Электронный блок управления рулевым управлением, применяемый в составе продукции отрасли специального машиностроениявыполнение на территории Российской Федерации требований
+(в совокупности 140 баллов):наличие у юридического лица - налогового резидента Российской Федерации,
+не находящегося под контролем иностранного государства,
+и (или) международной организации, и (или) иностранного юридического
+или физического лица, и (или) иностранной структуры без образования
+юридического лица ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGHSURBVDhPzZBPqwFhFIdn6WvI1kcYpdQoi5Gw
+sGQlvoDu0geYsvIByCSxUrazRZRSsrDSlCz9ibhj7jPONFm51+7+yus5Z37nvOc9ivtWj8dDTsdx
+BN4VBO4AOL0C6PspWEL6EXKKCe12O/mkBCkEv4ZIwlqtFo1GAbp4N5zP56+nPIvr2rZdLBbj8Xin
+05FMu91WVRXwCyaTSTgczmQyMC2bzSY18/k8EolMp1OSm81G0zSAIZX7/Q61Wq1cLgdcLpfr9Qqg
+QqEwGAyA2WyWSCQAr0D2ZRiGFEiIbrdbuVyWt67X62QyCdDdL2g0GtlsFmBKrEC/3+/1egCq1+uh
+UGg4HMKKbJO5GQAQ92Kx6Ha7AOJVx+PxcDicTidCf62sKBaLyXssy6pUKtvtdrlcjkajYEiE2dvS
+eDzO5/OpVMo0TR5drVZ1XS+VSul0mmIMTIFVWvsjvdHrDci7gRSjI+nEYLCc4g7aI2W1WklK4l+l
+7Pd7/j4o4Pd3N/LX+tkNH+nfFbjuD0sbxWsbwK0pAAAAAElFTkSuQmCC) :прав на конструкторскую и техническую документацию для проектирования, производства, модернизации и развития соответствующей продукции
+на территории Российской Федерации в соответствии со спецификацией
+на готовое изделие в следующем составе:спецификация на готовое изделие с указанием сборочных единиц и деталей;схема электрическая принципиальная;исключительных или неисключительных (но неотзывных) прав на программное обеспечение;подтверждение осуществления на территории Российской Федерации процессов проектирования схемотехники, конструкции модуля, топологии печатных плат, встроенного программного обеспечения, а также наличия соответствующих кадров и затрат на их содержание;выполнение на территории Российской Федерации технологической операции - поверхностный монтаж чип-компонентов на печатную плату
+выполнение на территории Российской Федерации дополнительных требований:установка программного обеспечения, если оно является неотъемлемой частью оборудования (20 баллов);сборка электронного оборудования (корпусирование) (20 баллов);функциональное тестирование готового изделия и проведение технического контроля соответствия требованиям технических условий готового изделия (20 баллов);выполнение дополнительных требований по применению компонентов:применение российских системообразующих микросхем (Bтоп = 14 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VK9isJAGNynyDP4AkJExMYuhY0I
+pjCBYGWvWKUT9A1srFKZNL6ACMFUioWdIihoFRBEYuHf3my+veW4Qs7+plhmZr/5dr9NGH+L1+tF
+6/P5JPIuoKoVwSoCYGjweDyoDUDypxPHMVZUMsopQP5ygE6nUyqVQNBCnHC73Xq9XqFQGAwGaQH3
+PC+Xy1mWdTweSVYqFRAcKAJRFM1mMxBd16/XK07PZrNo1u12HceBv91u6/W6DKgLoA0qQJIkyefz
+k8kkCALf9+Esl0vTNEFEgMZaLBZoD/d0OkGGYcgYazQa4MBms7FtG0TOcL/fU59Xq9XRaAS33W6v
+Vqtardbv9+G7rqtp2nQ6BWfYSIsFms3mfD5fr9eZTAYSs5XLZZDL5XI+nzEeOAMbj8eGYaDfcDgU
+Oc5brVaxWISDu5FDwMDiSsjsdrvD4UAuYb/f0zzph5GAlEMTwOXO99OpXeXIX0OBXClSkCQfEIGP
+8B/4Cz4McP4FzubCOyBWPiQAAAAASUVORK5CYII=) ;применение российских печатных плат (Bтоп = 7 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGbSURBVDhP7VK7isJAFJ2f8DcCiiRp/AHtRLsk
+iIWFFhY2toKFKKROa2UhiHZiYSfaKIjgExW0EPHVKIqv7BnvbhAXl22221PMnHvvOTd3ZsLMN7g/
+QOR2u1n8JwNWSCm0PAzb9Xo9n8/PtcvlgiSAcDKZtNttKr1+AVLLRuh2u9Fo1G63G4aBEC3Y4XBI
+JBKyLOfzeRKVSiWXywXdfr+fzWbI7HY7j8dDVVYul2u1WqfTcTqdm81mtVo5HI7FYoGW8XicROPx
+OJVKEWfH45FYOp0G7/V6MCCsVCqZTIZKuVyu3++D8JGwTafTQCCQzWYfVTMcDnu93mKxuF6vEdbr
+dZhBlsslVm4YDAaRSIQx1mq1EGJCSZJ8Ph+urlqt2my2UCikKAqm5QbrWoLBYKFQ2G63fr8fYTKZ
+RAbHRbtmszkajZCEmL8DttPpFIvF5vM5PiIIAmq4e1VVeacvUGuGk7ndbgzQaDSooOu6KIqapg2H
+Q4Q4KKSk/nw4evNnYuF7ho+EDSt6YH0hVAIeYo63P987/Bt+g782mOYH38fpp3zGW7cAAAAASUVO
+RK5CYII=) ;применение российских вторичных преобразователей питания (Bтоп = 6 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAUCAIAAAALACogAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAF/SURBVDhP5ZK9isJQEIXzOr6CjRGiTSrBwijY
+WKSyEVMGoyAoBIMIgmBtFbCwshG7gFE0T2BsNxDERvxZs+dm5LIou/sAe8DLN5M5k5lrhOhnPR4P
+Oj9jEf9mgKiamIAZkL3H4i0phFhhFLmu6/s+AB6Birh4P67lclmpVCRJOhwOCNkbttutoiipVGq/
+3yNEi2q1inAwGCDc7XY4p9Op53nMcL1ebds+nU7D4TCfzyNlWVaxWASUSqXFYgEYjUblchmVzMAH
+Xa/Xk8kE0G63MQNA1/XVagVwHCeZTPb7ffBzB5RiSiwHDsMwnU6rqkohaTab9Xo9gIAt4dlsNjAk
+EglautPpiKJYr9fBrVYrk8l0u93z+cwM+HHhAU7TNLEGIJfLjcdjzIw7pQXQWgiC4CPWfD5vNpvI
+NhqNQqEAMAwDBgDp+ccdj0dN02RZxqsvlwtSaFmr1bLZLF0rupKIXz8NevBdLxl2S7fbDSOiMW/z
+nomLmf74+N71Dw1R9AUr3ll6ozhRGgAAAABJRU5ErkJggg==) ;применение российских микросхем и модулей связи и навигации
+(Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGFSURBVDhP7ZItqwJBGIXnP9ithgWxbrGIGMVs
+WRBkLbqIgs2iwSJ4Yc26Bg0qfiGCimUtYrLabIJoE/zauWd9L6Nc4e4fuCcMzztzzsw7O8v4n7Is
+i0YBDgGIrALY4/Gg4hMgAcfjkdg+gRzvgAWC6/WKsVKpJJNJAAxsMpmEw+FgMLhcLp8ens/nQ6FQ
+LBbb7/cod7udoiiFQgFsB0qlEqjT6ciyDOh2u4FAAGAYRi6XA8xms8FgUC6Xwff7/efSq9WqVqsB
+xuOxSCLT7/e/nopGo4fDAfMMoWaz6XK5RqORHeU8nU77fL56vQ4eDoc4JxKJeL3e9XqNGXa73bbb
+raZpbrebmoY1k8l4PB50b2/A+WazaTQaAJhf7xCPx0+nU6vVUlUVZbvd9vv9gPP5TB8NvWBk8/nc
+NE1d14vFIurpdCpJ0mKxqFarOId8CIjHYdlsNpVK4Vpij16vl0gkKA+JNyG9WqI9KEOCldzvGXZ5
+il6UFnAzmvl0Q84/3y/9B5zF+TcEbIUtK3nojAAAAABJRU5ErkJggg==) ;применение российских интерфейсных микросхем и преобразователей
+(Bтоп = 8 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAVCAIAAAAW+SPgAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAF6SURBVDhP7VExq4JQGHUP+iXSf3CopaA2IWir
+DFobAqEpghoiJJwkRTLHao0kaEgCqalZiAhqElqe6ct39Io8eATv7e8M1/Ode77Ddz+p4D1erxc5
+ExK6fd93XdfzvER9Pp9QoJPyMwI4RT4EuADiIgLacEqSVCwWZVkOs03TrNfrk8kkMgToFwSh0Wjs
+93uU8/m8VCqdz2dw6nK5DIfD3W6Xy+UURYHU6XRqtdp2u2VZ9na7Xa9XTdMYhrFtm/qIAJMoiqqq
+giBJ13WQarVqWRYIsFwux+NxvBOkchxH+Gq1ymQyaFgsFkQBDocDytD9eDy63W4qlWq32ygxd6vV
+SqfT6/Ua5Ww2azabPM87jkMlS9hsNuVyGaTX6xmGgXFpmkYk3ofU+/2OqzCbrAnDYDIQPHc0GoFU
+KpXpdApCgPVTx+MRz8rn8/1+n6in06lQKGSz2cFgQExA/HciQzjrO/L9f4VuUuM6IcSaKElDnP1L
+/Lt/4i/uIPgCazFLcJVt9F4AAAAASUVORK5CYII=) ;применение российских полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGuSURBVDhP7ZI/66lxGMa/Xod3YZBMYjaxKYPN
+QPKnSJks9ItFshCDQUkMZGKwkBKF2MQiKQaD/8/5PL5OP+cM55wXcK7h2/Vc9//7foTyRzyfT/k+
+Ho/7/Q5RA/i4XC63202aATapSKsUJQS2N/2Z79Pjer3yoieTSavVutvt1AqLxSIajVarVWnj7fV6
+4XC42WzCQSQSwQFCvNhut/F4vFwuWyyWQqGA2ul0zGZzsVi02Wzj8Xg0Gul0OqfTmclksIrT6UQh
+WD6fl2nI7fP5IF8vVCqVYDC4Wq0MBsN0On1vaT6fx2Ix2f1kMtFqtYPBIJ1OH49Hui+VSugOh4Pi
+agBFXC6XRqNJpVJqtKIkEgkhBH3Ch8MhveVyuUAgcDgcBFnP5zMG0phMJumRzWb7/b5er6/Vaiit
+VisUCq3Xa/j34Wazmd/vhzAAY0DYm91ufxnf4AZiuVx6PB7GcrvdTIJKbqPR6PV6abrb7aJwRCAn
+FPv9vt1uNxqNzWbDt7wUO6nX6+wE/nlZ8N0SkP/Cp4dUuKY8KBAwPICsKG3w35SXs4pfKvwL/gf8
+HYryA1YLeIUnz/t1AAAAAElFTkSuQmCC) ;применение российских силовых полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGXSURBVDhP7ZI9y4FxFMbvL+Ar2HwHpeRjmAwG
+g/JIJJlkUWIyWNxlMZgYiDKhhMGChCh5yWIk8vb8bke6LU/szzWcruucc/3/5/+i3L/EX4bb7Ua8
+Xq+nB87nM1IzUCB7uVykA7zkKyNAKvoUfURaRQr6/b7f7/d4PPl8HvkcqdlstlotiHgWi0WpVNrt
+dvBardZoNFRVjUQiSM2ANRgMms3mbDaLHI1GNpvN6/U6nc7tdiujTyaTer2uGY7HIx2wTqdjt9sh
+gUAgFApBGIN9ICCVSu33e8jzDIfDIZfLzWYzeLFYtFqt0+k0nU6vViupZjIZ6VRk6EQiYTAYwuEw
+HLjdbqPR2G63RbIEJ4HQrJ2BqYiVSsVkMjHxYDCIx+OFQsFisQyHQ0q9Xm+5XD4NvAhM4HA4iC6X
+KxaLQaLRqNyMQGZRNptNMpn0+Xyclcslxf2y9s8D4/GYDNtKt/ZwsG63W61WpSavNp/Py+Xyer2G
+S+sLb39JuvUvLVz/G7RrZQ0KRCnoMyIlL3jb4RP8Gz7Bl4b7/RfepPBVgm9AugAAAABJRU5ErkJg
+gg==) ;применение российских пассивных элементов стандартных (Bтоп = 3 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAYCAIAAAB8wupbAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAG4SURBVDhP7VI9y0FhGD6/weYP+AEssiLlYziz
+QUZRymAwKLMoOhYDMwZJCrGIkkIxSCGRkrD5/jiuxy0dy5t3eLf3qnOf677OfT3389zP4cRf4ifD
+/X5HvF6vp9MJkRQOD3C73RCfZUxFCoBTHYEUjl4E8LcNOJ/PiNVq1e129/t9cBSwLc3n82azeblc
+WNWzA9LJZAI+HA7tdnsymTQYDPSVg9Xr9er1eofDQZLL5bJYLFartdFoLBYLm822Wq08Hg9tj2u3
+27S2VqtdLpeDwUCpVCLFTpxOJ0g8Hler1ePxGBye15S63W6xWATBYiqVqtVq5XK5QqGw2WwymUyl
+UuF5fr/fo4AZ6vW6QqEwm8273Q5pNpuVyWTRaBS8VqtB3263RqNxOp0yA7ocDofRaCSXy/P5PCRB
+EBKJhE6nS6VSSCORiMlkKpVK4K8pEXw+H9brdDoajQZpr9fDZKRTJs7BGovFwuFwMBjE6dfrNU7v
+9/sDgQB0VED8uOlyuYymmPTxeGTriOJsNguFQul0mlJpE+DjX8I36cUjpWqKBHZo/ALo+1bhkSrS
+auCjwzf4N3yDvzaI4gPLzxFV7uBOcwAAAABJRU5ErkJggg==) ;применение российских конденсаторов большой емкости (Bтоп = 4 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGWSURBVDhP7VG7isJQEE3pP+QXrMU2oIIoGLCw
+kYCIoIWIXcAiTZqAgiCCVQqRtD4QG0HECIJEQbBTtPALRJD4SvYkN9xdhAW334EM55w7Z+5kLmP/
+HpZlIb9eLwCSQR3D8/m83W6Px4NIyPf7HQotogHKQPWYy98qENPpNBQKFYtFdAR1btB1PZfLaZrm
+FtimadZqNSjH4xE0nU5fr9dKpaIoCihzOp3q9fp8Puc4bjAYQBJFsVwu9/t9QRD2+30ymYS4WCwK
+hYJjQD+MC4QGw+EQIBKJjMdjgGg0erlccFU2m02lUrIsOwZ8iFarha4Ed7tdv9/f6XQmkwlRRqNR
+IBA4HA7AjuF8PkuS5PP5qtUqKNaQyWRYlt1sNqAYuFQqrVYrcsTQtfR6vXw+DwDzcrncbrfBYBBd
+Mf1ut4P+vSVsHbnZbGIMAPxDu90GSCQSs9kMAEGq0Z1Zr9c8z8disUajQc4Mw4jH4+FwWFVVUJSS
+t3IfyfJ+mj4fBTh7AyQcA5FQSgGxUeWnx7vh8/g3fBJ/NNj2F7s+g7O79ytMAAAAAElFTkSuQmCC
+) ;применение российских сенсорных элементов (Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAXCAIAAABrvZPKAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAIPSURBVDhP7ZJPq2lRGMb31NfwBSTlT4mvIJGB
+jDBBSZQBRUohJMmAEgZCMhGliBKlJCMhyYASIxH5d/Z99lly3G7nDu4d3brPYO/fetb7rvWudy2K
+/l4fnwLc7/fH40EcwPuQyb/dbpfLBe4r53q9wkEQGCYRmXoOaJosQZEfERbC9z2ILBqJRLxeL3Hy
++bxYLK5UKmDMMvtXq1WbzdbtdomFbywWc7lcy+USfD6fJRKJXq8Hj8djpVIJR6vVzudzOFS73Q6H
+w/F4nMfjTadTWHa7XaVS5XI5uVy+2Wzg1Ot1s9kMwLp+vx/g8/kymQyTv1qt8INMJlOz2QRwOJzR
+aARQq9XD4RCQzWaNRiMgFAql02lAIBBIpVIApn4cuFQqFYtFMOR0OmUyWb/fR9rxeIRTq9UcDgcA
+RXk8HoDb7UZRACZ/MBhIpVIWi9Xr9TCEhEIhl8udzWZkaLFYRCLRbrc7nU44FA6r0WhIsylcFbkC
+hUJhtVoBwWCwXC4XCgU+n4/TIS6ZTKJHk8kEs2ghalmv12Akfr0f9AZxADabvVgsADqdLpFIfE4+
+RW6H6Hn/6Ad6YzAYsMPhcIAVjUYFAgHaiUvdbrdw8JZeZWIJ8rTAaByFelqtVqfTQQSx8EXbG43G
+fr8Hk9Dv9FU/RELfE177kOGvYt4v0SsI8O78Jhn6af8/0P/8v9O/nU/TPwDXmhtQQjVL3QAAAABJ
+RU5ErkJggg==) ;применение российских периферийных микросхем (Bтоп = 8 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAIAAADJt1n/AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHiSURBVDhP7ZK/y4FRFMevv8A/wK6sFiMWm8kk
+RZlIIqIMj2RUYrMgRVn8msgglJCSpEwsRLJZ/PZ+H8f78D71DnrX9zvcPvfcc+45597D7r/r9hDg
+er1eLhdirALzwTg7Ho/n85lMEJgsYMEIEBgCM1zz3H374S7aQqfTCWu9XrfZbHS63W4tFstkMgHz
+mWezWTAYLBaLYPJoNpt+v7/RaIAhj8ejUCjoqFqtymSyXq8HZpvNJhKJ5HI5rVabzWZhQh6dTpfJ
+ZIxGY7/fh2W9Xuv1etRIRTkcjk6nwwfv93tUAkomk6FQCOB2uwOBACAcDkejUcB4PNZoNMITmM3m
+drsNfr72dDrlOI4KGwwGcrl8OBzGYjHUBctqtTIYDAB6IKfTORqNAHwwklutVolEEo/HsYWQkzFW
+LpdpWygUpFIpPdJisVAqlYlEAszQxuFwAKVSKbQK6Ha7aAFdqVSqWq1GwXjRVqsFRkW4Op/Po4vX
+kKAxn88HsNvt1Hw6nUZ7j8OnqG1BDP+EHrxeL2LAMCGnWq12uVwmkwlVwIKBgajh94liu90OtVUq
+leVyiTOaivl8XiqV6K73KRLpVTZEVb17C99DHyESgxXeEA0A+YFFloezWD8yf6r/4A/1h+D7/Qv8
+uGgNZwuOCAAAAABJRU5ErkJggg==) ;применение российских микросхем памяти (Bтоп = 11 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHuSURBVDhP7VJL6+FhFPYR+AC+gZI9G1bKwsqC
+ZEcUJcpSNhYWIiU7JZeFDeW6YKHkllJyi4VQCBss3H//53Wmf9PMv2maWcxmnsXpOZfnPe8578vj
+OO71ej2fz8fjAQIXIBeWOAWBnzkPmu9ln5Zwv99hN5tNLBa7Xq/gyWTSbDb3ej1wVLL+QL1er9Vq
+IHTW4XDI5XLz+fyd5Ewmk0gkQmo8HqfT6Wg0qlAojscjUkyPkMvlkkqlgUAA7n6/VyqVaKLX61ut
+FiLT6dRgMJxOJ3CCVqtdLBYgvMvlMhwOwVCkUqlAIpGIWq0GCYfDXq8XBG0hoIbAarUKBoMguBGb
+H+x2u6VSKTqo2+1KJBJMiJk7nQ4iy+XSaDSiEziQSCRIxeanbYVCIT6fj6J3Aef3+wUCQTweJ7dY
+LIrF4slkcj6frVYrstlstlKpIMXmp4ObzaZQKNxut7vdzuPxVKtVmUyWyWSQws5tNluj0ej3+06n
+E8tyu90oY3p6FYJOp4P1+XxE8vm8RqN5Z74Gm3+9XuM+drvd4XCUy2VEZ7OZXC7Hm1ksFtwCEWwH
+behHgQCI0ArY/O12u1QqDQYD+CiCxRSFQmE0GoGjjkq/xLf/QyAxbZRAkV+AvR8EdLfPPj9Efrf/
+H+C//u/wb/Uc9wFZDq0o+ZNlVwAAAABJRU5ErkJggg==) ;применение российских соединителей (в том числе разъемов, жгутов, кабелей) (Bтоп = 6 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAIAAAAf7rriAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHgSURBVDhP7VJLy6lRGN0lf8IPMMAPMFFKipKJ
+GChz14yQkcsvkJRiggmKDJhQLlGEFCMDIiNMUC65fLzf8j1ffW/n1KlzxmcN9l7r2c/az7Mv7PV6
+fXwBhPsCRZ7PJ3EKAhQhEGf8EFL58vF4YLxer8lkcrfbgW82G7fbnUqlwJHJMDWbzV6vB0I4nU61
+Wm08HpPMZDKMsfV6DZ5Op6vVqslkmkwmkCwWi/n9fo1GEw6HoQ+Hg8FgcLlcRqOxXq8jgiNotdrF
+YgF+uVwwlkolFHibO50OJvSjUChAisWiWq0G6ff7FosFBG2rVKrZbAYOs91uF4vF8/kc8t02kEgk
+BoMByHK5lMlk3W43l8uVy2Va1ev11DbB6/UGg0GQtxn3IRAIrFYrikDm83mhUBgIBN6JHLdarUQi
+UaVSAW+3261WKxqNYndIRobRaCSRSKbT6fl8jkQiOItcLo/H41hCtsPhQAHwUCgETifFXXy3Ddhs
+tuPxmM1mdTod5Ha7lUqltETgvyKcGJnH4/H5fHAWCgVo3JxSqXQ6nWazGf0jcr/fb7cbvTlxcuJT
+sEajgVcdDofQlLHf7xGhl+dX+x0/bZOTdiVQhP9DfwFDNkAVKA+cIiT/ZP6e/wn/zX8FjvsEz7r0
+DN8+OjcAAAAASUVORK5CYII=) ;применение российских катушек индуктивности и трансформаторов
+(Bтоп = 3 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHpSURBVDhP7VI9q8FRHD7lM/gGFpNPwMJiMigs
+XsqEwUsKg1GysDDIYDIoZVBikCJClCiDlwwMLIpE3q77/P1ux73d7h3uHe5yn+H8n+d3fi/POefP
+Xh643W5Y7w+Q5JHr9crjfOWEIY80QJxHkHG5XECGw2GxWAShrfV63Wq1KIHhs1wue73e6XTiGZPJ
+pN/vgwDH41EqlRqNRnBqZ7fbbTYbCKyxbrfr8XjUarXBYCCr6XRaoVBotdpQKEQmM5mM1+sFATqd
+jsPhiEaj4BjGGo3G+XyGUKlU5ArT4AgEXebzOUg2m3W5XCCHw6HZbFar1VgsBgk7gn9gOp3mcjky
+r1Qq4/H4ZrPBzN1uhwi23G43SCQSCQaD5Hc2myEi1NfrdYlEotPpUAOJXmKx2GKx7Pd7SCCVSplM
+JpBarZZIJMxms1wuH4/HiAj12+12MBiIRKJkMglZqVRgT6/XYw4kulitVpwOJ4cE8Bz5fB7k6R8I
+h8PoDSKTyeggqCmVSo/NN+CC6ZmIY2XtdrtcLhcKhUAgsFgsENJoND6fD1bhczQaIYILxij+56A7
+DRDeH1fldDpRsFqtaBu/h9/vxyPhUJCU+hWe/gGk8iEEPofkZzB4w5EAPgfkfeSbYuDD/B/gv/53
++Nv6+/0VdWmkwcFJ5uAAAAAASUVORK5CYII=)
+из 29.32.30.359Электронный блок управления гидравлическим оборудованием, применяемый в составе продукции отрасли специального машиностроениявыполнение на территории Российской Федерации требований
+(в совокупности 140 баллов):наличие у юридического лица - налогового резидента Российской Федерации,
+не находящегося под контролем иностранного государства, и (или) международной организации, и (или) иностранного юридического
+или физического лица, и (или) иностранной структуры без образования юридического лица ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGHSURBVDhPzZBPqwFhFIdn6WvI1kcYpdQoi5Gw
+sGQlvoDu0geYsvIByCSxUrazRZRSsrDSlCz9ibhj7jPONFm51+7+yus5Z37nvOc9ivtWj8dDTsdx
+BN4VBO4AOL0C6PspWEL6EXKKCe12O/mkBCkEv4ZIwlqtFo1GAbp4N5zP56+nPIvr2rZdLBbj8Xin
+05FMu91WVRXwCyaTSTgczmQyMC2bzSY18/k8EolMp1OSm81G0zSAIZX7/Q61Wq1cLgdcLpfr9Qqg
+QqEwGAyA2WyWSCQAr0D2ZRiGFEiIbrdbuVyWt67X62QyCdDdL2g0GtlsFmBKrEC/3+/1egCq1+uh
+UGg4HMKKbJO5GQAQ92Kx6Ha7AOJVx+PxcDicTidCf62sKBaLyXssy6pUKtvtdrlcjkajYEiE2dvS
+eDzO5/OpVMo0TR5drVZ1XS+VSul0mmIMTIFVWvsjvdHrDci7gRSjI+nEYLCc4g7aI2W1WklK4l+l
+7Pd7/j4o4Pd3N/LX+tkNH+nfFbjuD0sbxWsbwK0pAAAAAElFTkSuQmCC) :прав на конструкторскую и техническую документацию для проектирования, производства, модернизации и развития соответствующей продукции
+на территории Российской Федерации в соответствии со спецификацией
+на готовое изделие в следующем составе:спецификация на готовое изделие с указанием сборочных единиц и деталей;схема электрическая принципиальная;исключительных или неисключительных (но неотзывных) прав на программное обеспечение;подтверждение осуществления на территории Российской Федерации процессов проектирования схемотехники, конструкции модуля, топологии печатных плат, встроенного программного обеспечения, а также наличия соответствующих кадров и затрат на их содержание;выполнение на территории Российской Федерации технологической операции - поверхностный монтаж чип-компонентов на печатную плату
+выполнение на территории Российской Федерации дополнительных требований:установка программного обеспечения, если оно является неотъемлемой частью оборудования (20 баллов);сборка электронного оборудования (корпусирование) (20 баллов); функциональное тестирование готового изделия и проведение технического контроля соответствия требованиям технических условий готового изделия (20 баллов);выполнение дополнительных требований по применению компонентов:применение российских системообразующих микросхем (Bтоп = 14 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VK9isJAGNynyDP4AkJExMYuhY0I
+pjCBYGWvWKUT9A1srFKZNL6ACMFUioWdIihoFRBEYuHf3my+veW4Qs7+plhmZr/5dr9NGH+L1+tF
+6/P5JPIuoKoVwSoCYGjweDyoDUDypxPHMVZUMsopQP5ygE6nUyqVQNBCnHC73Xq9XqFQGAwGaQH3
+PC+Xy1mWdTweSVYqFRAcKAJRFM1mMxBd16/XK07PZrNo1u12HceBv91u6/W6DKgLoA0qQJIkyefz
+k8kkCALf9+Esl0vTNEFEgMZaLBZoD/d0OkGGYcgYazQa4MBms7FtG0TOcL/fU59Xq9XRaAS33W6v
+Vqtardbv9+G7rqtp2nQ6BWfYSIsFms3mfD5fr9eZTAYSs5XLZZDL5XI+nzEeOAMbj8eGYaDfcDgU
+Oc5brVaxWISDu5FDwMDiSsjsdrvD4UAuYb/f0zzph5GAlEMTwOXO99OpXeXIX0OBXClSkCQfEIGP
+8B/4Cz4McP4FzubCOyBWPiQAAAAASUVORK5CYII=) ;применение российских печатных плат (Bтоп = 7 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGbSURBVDhP7VK7isJAFJ2f8DcCiiRp/AHtRLsk
+iIWFFhY2toKFKKROa2UhiHZiYSfaKIjgExW0EPHVKIqv7BnvbhAXl22221PMnHvvOTd3ZsLMN7g/
+QOR2u1n8JwNWSCm0PAzb9Xo9n8/PtcvlgiSAcDKZtNttKr1+AVLLRuh2u9Fo1G63G4aBEC3Y4XBI
+JBKyLOfzeRKVSiWXywXdfr+fzWbI7HY7j8dDVVYul2u1WqfTcTqdm81mtVo5HI7FYoGW8XicROPx
+OJVKEWfH45FYOp0G7/V6MCCsVCqZTIZKuVyu3++D8JGwTafTQCCQzWYfVTMcDnu93mKxuF6vEdbr
+dZhBlsslVm4YDAaRSIQx1mq1EGJCSZJ8Ph+urlqt2my2UCikKAqm5QbrWoLBYKFQ2G63fr8fYTKZ
+RAbHRbtmszkajZCEmL8DttPpFIvF5vM5PiIIAmq4e1VVeacvUGuGk7ndbgzQaDSooOu6KIqapg2H
+Q4Q4KKSk/nw4evNnYuF7ho+EDSt6YH0hVAIeYo63P987/Bt+g782mOYH38fpp3zGW7cAAAAASUVO
+RK5CYII=) ;применение российских вторичных преобразователей питания (Bтоп = 6 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAUCAIAAAALACogAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAF/SURBVDhP5ZK9isJQEIXzOr6CjRGiTSrBwijY
+WKSyEVMGoyAoBIMIgmBtFbCwshG7gFE0T2BsNxDERvxZs+dm5LIou/sAe8DLN5M5k5lrhOhnPR4P
+Oj9jEf9mgKiamIAZkL3H4i0phFhhFLmu6/s+AB6Birh4P67lclmpVCRJOhwOCNkbttutoiipVGq/
+3yNEi2q1inAwGCDc7XY4p9Op53nMcL1ebds+nU7D4TCfzyNlWVaxWASUSqXFYgEYjUblchmVzMAH
+Xa/Xk8kE0G63MQNA1/XVagVwHCeZTPb7ffBzB5RiSiwHDsMwnU6rqkohaTab9Xo9gIAt4dlsNjAk
+EglautPpiKJYr9fBrVYrk8l0u93z+cwM+HHhAU7TNLEGIJfLjcdjzIw7pQXQWgiC4CPWfD5vNpvI
+NhqNQqEAMAwDBgDp+ccdj0dN02RZxqsvlwtSaFmr1bLZLF0rupKIXz8NevBdLxl2S7fbDSOiMW/z
+nomLmf74+N71Dw1R9AUr3ll6ozhRGgAAAABJRU5ErkJggg==) ;применение российских микросхем и модулей связи и навигации
+(Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGFSURBVDhP7ZItqwJBGIXnP9ithgWxbrGIGMVs
+WRBkLbqIgs2iwSJ4Yc26Bg0qfiGCimUtYrLabIJoE/zauWd9L6Nc4e4fuCcMzztzzsw7O8v4n7Is
+i0YBDgGIrALY4/Gg4hMgAcfjkdg+gRzvgAWC6/WKsVKpJJNJAAxsMpmEw+FgMLhcLp8ens/nQ6FQ
+LBbb7/cod7udoiiFQgFsB0qlEqjT6ciyDOh2u4FAAGAYRi6XA8xms8FgUC6Xwff7/efSq9WqVqsB
+xuOxSCLT7/e/nopGo4fDAfMMoWaz6XK5RqORHeU8nU77fL56vQ4eDoc4JxKJeL3e9XqNGXa73bbb
+raZpbrebmoY1k8l4PB50b2/A+WazaTQaAJhf7xCPx0+nU6vVUlUVZbvd9vv9gPP5TB8NvWBk8/nc
+NE1d14vFIurpdCpJ0mKxqFarOId8CIjHYdlsNpVK4Vpij16vl0gkKA+JNyG9WqI9KEOCldzvGXZ5
+il6UFnAzmvl0Q84/3y/9B5zF+TcEbIUtK3nojAAAAABJRU5ErkJggg==) ;применение российских интерфейсных микросхем и преобразователей
+(Bтоп = 8 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAVCAIAAAAW+SPgAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAF6SURBVDhP7VExq4JQGHUP+iXSf3CopaA2IWir
+DFobAqEpghoiJJwkRTLHao0kaEgCqalZiAhqElqe6ct39Io8eATv7e8M1/Ode77Ddz+p4D1erxc5
+ExK6fd93XdfzvER9Pp9QoJPyMwI4RT4EuADiIgLacEqSVCwWZVkOs03TrNfrk8kkMgToFwSh0Wjs
+93uU8/m8VCqdz2dw6nK5DIfD3W6Xy+UURYHU6XRqtdp2u2VZ9na7Xa9XTdMYhrFtm/qIAJMoiqqq
+giBJ13WQarVqWRYIsFwux+NxvBOkchxH+Gq1ymQyaFgsFkQBDocDytD9eDy63W4qlWq32ygxd6vV
+SqfT6/Ua5Ww2azabPM87jkMlS9hsNuVyGaTX6xmGgXFpmkYk3ofU+/2OqzCbrAnDYDIQPHc0GoFU
+KpXpdApCgPVTx+MRz8rn8/1+n6in06lQKGSz2cFgQExA/HciQzjrO/L9f4VuUuM6IcSaKElDnP1L
+/Lt/4i/uIPgCazFLcJVt9F4AAAAASUVORK5CYII=) ;применение российских полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGuSURBVDhP7ZI/66lxGMa/Xod3YZBMYjaxKYPN
+QPKnSJks9ItFshCDQUkMZGKwkBKF2MQiKQaD/8/5PL5OP+cM55wXcK7h2/Vc9//7foTyRzyfT/k+
+Ho/7/Q5RA/i4XC63202aATapSKsUJQS2N/2Z79Pjer3yoieTSavVutvt1AqLxSIajVarVWnj7fV6
+4XC42WzCQSQSwQFCvNhut/F4vFwuWyyWQqGA2ul0zGZzsVi02Wzj8Xg0Gul0OqfTmclksIrT6UQh
+WD6fl2nI7fP5IF8vVCqVYDC4Wq0MBsN0On1vaT6fx2Ix2f1kMtFqtYPBIJ1OH49Hui+VSugOh4Pi
+agBFXC6XRqNJpVJqtKIkEgkhBH3Ch8MhveVyuUAgcDgcBFnP5zMG0phMJumRzWb7/b5er6/Vaiit
+VisUCq3Xa/j34Wazmd/vhzAAY0DYm91ufxnf4AZiuVx6PB7GcrvdTIJKbqPR6PV6abrb7aJwRCAn
+FPv9vt1uNxqNzWbDt7wUO6nX6+wE/nlZ8N0SkP/Cp4dUuKY8KBAwPICsKG3w35SXs4pfKvwL/gf8
+HYryA1YLeIUnz/t1AAAAAElFTkSuQmCC) ;применение российских силовых полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGXSURBVDhP7ZI9y4FxFMbvL+Ar2HwHpeRjmAwG
+g/JIJJlkUWIyWNxlMZgYiDKhhMGChCh5yWIk8vb8bke6LU/szzWcruucc/3/5/+i3L/EX4bb7Ua8
+Xq+nB87nM1IzUCB7uVykA7zkKyNAKvoUfURaRQr6/b7f7/d4PPl8HvkcqdlstlotiHgWi0WpVNrt
+dvBardZoNFRVjUQiSM2ANRgMms3mbDaLHI1GNpvN6/U6nc7tdiujTyaTer2uGY7HIx2wTqdjt9sh
+gUAgFApBGIN9ICCVSu33e8jzDIfDIZfLzWYzeLFYtFqt0+k0nU6vViupZjIZ6VRk6EQiYTAYwuEw
+HLjdbqPR2G63RbIEJ4HQrJ2BqYiVSsVkMjHxYDCIx+OFQsFisQyHQ0q9Xm+5XD4NvAhM4HA4iC6X
+KxaLQaLRqNyMQGZRNptNMpn0+Xyclcslxf2y9s8D4/GYDNtKt/ZwsG63W61WpSavNp/Py+Xyer2G
+S+sLb39JuvUvLVz/G7RrZQ0KRCnoMyIlL3jb4RP8Gz7Bl4b7/RfepPBVgm9AugAAAABJRU5ErkJg
+gg==) ;применение российских пассивных элементов стандартных (Bтоп = 3 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAYCAIAAAB8wupbAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAG4SURBVDhP7VI9y0FhGD6/weYP+AEssiLlYziz
+QUZRymAwKLMoOhYDMwZJCrGIkkIxSCGRkrD5/jiuxy0dy5t3eLf3qnOf677OfT3389zP4cRf4ifD
+/X5HvF6vp9MJkRQOD3C73RCfZUxFCoBTHYEUjl4E8LcNOJ/PiNVq1e129/t9cBSwLc3n82azeblc
+WNWzA9LJZAI+HA7tdnsymTQYDPSVg9Xr9er1eofDQZLL5bJYLFartdFoLBYLm822Wq08Hg9tj2u3
+27S2VqtdLpeDwUCpVCLFTpxOJ0g8Hler1ePxGBye15S63W6xWATBYiqVqtVq5XK5QqGw2WwymUyl
+UuF5fr/fo4AZ6vW6QqEwm8273Q5pNpuVyWTRaBS8VqtB3263RqNxOp0yA7ocDofRaCSXy/P5PCRB
+EBKJhE6nS6VSSCORiMlkKpVK4K8pEXw+H9brdDoajQZpr9fDZKRTJs7BGovFwuFwMBjE6dfrNU7v
+9/sDgQB0VED8uOlyuYymmPTxeGTriOJsNguFQul0mlJpE+DjX8I36cUjpWqKBHZo/ALo+1bhkSrS
+auCjwzf4N3yDvzaI4gPLzxFV7uBOcwAAAABJRU5ErkJggg==) ;применение российских конденсаторов большой емкости (Bтоп = 4 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGWSURBVDhP7VG7isJQEE3pP+QXrMU2oIIoGLCw
+kYCIoIWIXcAiTZqAgiCCVQqRtD4QG0HECIJEQbBTtPALRJD4SvYkN9xdhAW334EM55w7Z+5kLmP/
+HpZlIb9eLwCSQR3D8/m83W6Px4NIyPf7HQotogHKQPWYy98qENPpNBQKFYtFdAR1btB1PZfLaZrm
+FtimadZqNSjH4xE0nU5fr9dKpaIoCihzOp3q9fp8Puc4bjAYQBJFsVwu9/t9QRD2+30ymYS4WCwK
+hYJjQD+MC4QGw+EQIBKJjMdjgGg0erlccFU2m02lUrIsOwZ8iFarha4Ed7tdv9/f6XQmkwlRRqNR
+IBA4HA7AjuF8PkuS5PP5qtUqKNaQyWRYlt1sNqAYuFQqrVYrcsTQtfR6vXw+DwDzcrncbrfBYBBd
+Mf1ut4P+vSVsHbnZbGIMAPxDu90GSCQSs9kMAEGq0Z1Zr9c8z8disUajQc4Mw4jH4+FwWFVVUJSS
+t3IfyfJ+mj4fBTh7AyQcA5FQSgGxUeWnx7vh8/g3fBJ/NNj2F7s+g7O79ytMAAAAAElFTkSuQmCC
+) ;применение российских сенсорных элементов (Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAXCAIAAABrvZPKAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAIPSURBVDhP7ZJPq2lRGMb31NfwBSTlT4mvIJGB
+jDBBSZQBRUohJMmAEgZCMhGliBKlJCMhyYASIxH5d/Z99lly3G7nDu4d3brPYO/fetb7rvWudy2K
+/l4fnwLc7/fH40EcwPuQyb/dbpfLBe4r53q9wkEQGCYRmXoOaJosQZEfERbC9z2ILBqJRLxeL3Hy
++bxYLK5UKmDMMvtXq1WbzdbtdomFbywWc7lcy+USfD6fJRKJXq8Hj8djpVIJR6vVzudzOFS73Q6H
+w/F4nMfjTadTWHa7XaVS5XI5uVy+2Wzg1Ot1s9kMwLp+vx/g8/kymQyTv1qt8INMJlOz2QRwOJzR
+aARQq9XD4RCQzWaNRiMgFAql02lAIBBIpVIApn4cuFQqFYtFMOR0OmUyWb/fR9rxeIRTq9UcDgcA
+RXk8HoDb7UZRACZ/MBhIpVIWi9Xr9TCEhEIhl8udzWZkaLFYRCLRbrc7nU44FA6r0WhIsylcFbkC
+hUJhtVoBwWCwXC4XCgU+n4/TIS6ZTKJHk8kEs2ghalmv12Akfr0f9AZxADabvVgsADqdLpFIfE4+
+RW6H6Hn/6Ad6YzAYsMPhcIAVjUYFAgHaiUvdbrdw8JZeZWIJ8rTAaByFelqtVqfTQQSx8EXbG43G
+fr8Hk9Dv9FU/RELfE177kOGvYt4v0SsI8O78Jhn6af8/0P/8v9O/nU/TPwDXmhtQQjVL3QAAAABJ
+RU5ErkJggg==) ;применение российских периферийных микросхем (Bтоп = 8 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAIAAADJt1n/AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHiSURBVDhP7ZK/y4FRFMevv8A/wK6sFiMWm8kk
+RZlIIqIMj2RUYrMgRVn8msgglJCSpEwsRLJZ/PZ+H8f78D71DnrX9zvcPvfcc+45597D7r/r9hDg
+er1eLhdirALzwTg7Ho/n85lMEJgsYMEIEBgCM1zz3H374S7aQqfTCWu9XrfZbHS63W4tFstkMgHz
+mWezWTAYLBaLYPJoNpt+v7/RaIAhj8ejUCjoqFqtymSyXq8HZpvNJhKJ5HI5rVabzWZhQh6dTpfJ
+ZIxGY7/fh2W9Xuv1etRIRTkcjk6nwwfv93tUAkomk6FQCOB2uwOBACAcDkejUcB4PNZoNMITmM3m
+drsNfr72dDrlOI4KGwwGcrl8OBzGYjHUBctqtTIYDAB6IKfTORqNAHwwklutVolEEo/HsYWQkzFW
+LpdpWygUpFIpPdJisVAqlYlEAszQxuFwAKVSKbQK6Ha7aAFdqVSqWq1GwXjRVqsFRkW4Op/Po4vX
+kKAxn88HsNvt1Hw6nUZ7j8OnqG1BDP+EHrxeL2LAMCGnWq12uVwmkwlVwIKBgajh94liu90OtVUq
+leVyiTOaivl8XiqV6K73KRLpVTZEVb17C99DHyESgxXeEA0A+YFFloezWD8yf6r/4A/1h+D7/Qv8
+uGgNZwuOCAAAAABJRU5ErkJggg==) ; применение российских микросхем памяти (Bтоп = 11 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHuSURBVDhP7VJL6+FhFPYR+AC+gZI9G1bKwsqC
+ZEcUJcpSNhYWIiU7JZeFDeW6YKHkllJyi4VQCBss3H//53Wmf9PMv2maWcxmnsXpOZfnPe8578vj
+OO71ej2fz8fjAQIXIBeWOAWBnzkPmu9ln5Zwv99hN5tNLBa7Xq/gyWTSbDb3ej1wVLL+QL1er9Vq
+IHTW4XDI5XLz+fyd5Ewmk0gkQmo8HqfT6Wg0qlAojscjUkyPkMvlkkqlgUAA7n6/VyqVaKLX61ut
+FiLT6dRgMJxOJ3CCVqtdLBYgvMvlMhwOwVCkUqlAIpGIWq0GCYfDXq8XBG0hoIbAarUKBoMguBGb
+H+x2u6VSKTqo2+1KJBJMiJk7nQ4iy+XSaDSiEziQSCRIxeanbYVCIT6fj6J3Aef3+wUCQTweJ7dY
+LIrF4slkcj6frVYrstlstlKpIMXmp4ObzaZQKNxut7vdzuPxVKtVmUyWyWSQws5tNluj0ej3+06n
+E8tyu90oY3p6FYJOp4P1+XxE8vm8RqN5Z74Gm3+9XuM+drvd4XCUy2VEZ7OZXC7Hm1ksFtwCEWwH
+behHgQCI0ArY/O12u1QqDQYD+CiCxRSFQmE0GoGjjkq/xLf/QyAxbZRAkV+AvR8EdLfPPj9Efrf/
+H+C//u/wb/Uc9wFZDq0o+ZNlVwAAAABJRU5ErkJggg==) ;применение российских соединителей (в том числе разъемов, жгутов, кабелей) (Bтоп = 6 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAIAAAAf7rriAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHgSURBVDhP7VJLy6lRGN0lf8IPMMAPMFFKipKJ
+GChz14yQkcsvkJRiggmKDJhQLlGEFCMDIiNMUC65fLzf8j1ffW/n1KlzxmcN9l7r2c/az7Mv7PV6
+fXwBhPsCRZ7PJ3EKAhQhEGf8EFL58vF4YLxer8lkcrfbgW82G7fbnUqlwJHJMDWbzV6vB0I4nU61
+Wm08HpPMZDKMsfV6DZ5Op6vVqslkmkwmkCwWi/n9fo1GEw6HoQ+Hg8FgcLlcRqOxXq8jgiNotdrF
+YgF+uVwwlkolFHibO50OJvSjUChAisWiWq0G6ff7FosFBG2rVKrZbAYOs91uF4vF8/kc8t02kEgk
+BoMByHK5lMlk3W43l8uVy2Va1ev11DbB6/UGg0GQtxn3IRAIrFYrikDm83mhUBgIBN6JHLdarUQi
+UaVSAW+3261WKxqNYndIRobRaCSRSKbT6fl8jkQiOItcLo/H41hCtsPhQAHwUCgETifFXXy3Ddhs
+tuPxmM1mdTod5Ha7lUqltETgvyKcGJnH4/H5fHAWCgVo3JxSqXQ6nWazGf0jcr/fb7cbvTlxcuJT
+sEajgVcdDofQlLHf7xGhl+dX+x0/bZOTdiVQhP9DfwFDNkAVKA+cIiT/ZP6e/wn/zX8FjvsEz7r0
+DN8+OjcAAAAASUVORK5CYII=) ;применение российских катушек индуктивности и трансформаторов
+(Bтоп = 3 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHpSURBVDhP7VI9q8FRHD7lM/gGFpNPwMJiMigs
+XsqEwUsKg1GysDDIYDIoZVBikCJClCiDlwwMLIpE3q77/P1ux73d7h3uHe5yn+H8n+d3fi/POefP
+Xh643W5Y7w+Q5JHr9crjfOWEIY80QJxHkHG5XECGw2GxWAShrfV63Wq1KIHhs1wue73e6XTiGZPJ
+pN/vgwDH41EqlRqNRnBqZ7fbbTYbCKyxbrfr8XjUarXBYCCr6XRaoVBotdpQKEQmM5mM1+sFATqd
+jsPhiEaj4BjGGo3G+XyGUKlU5ArT4AgEXebzOUg2m3W5XCCHw6HZbFar1VgsBgk7gn9gOp3mcjky
+r1Qq4/H4ZrPBzN1uhwi23G43SCQSCQaD5Hc2myEi1NfrdYlEotPpUAOJXmKx2GKx7Pd7SCCVSplM
+JpBarZZIJMxms1wuH4/HiAj12+12MBiIRKJkMglZqVRgT6/XYw4kulitVpwOJ4cE8Bz5fB7k6R8I
+h8PoDSKTyeggqCmVSo/NN+CC6ZmIY2XtdrtcLhcKhUAgsFgsENJoND6fD1bhczQaIYILxij+56A7
+DRDeH1fldDpRsFqtaBu/h9/vxyPhUJCU+hWe/gGk8iEEPofkZzB4w5EAPgfkfeSbYuDD/B/gv/53
++Nv6+/0VdWmkwcFJ5uAAAAAASUVORK5CYII=)
+из 29.32.30.380Электронный блок управления навесными
+и прицепными модулями (автоматическое управление навесным
+или прицепным технологическим оборудованием), применяемый в составе продукции отрасли специального машиностроениявыполнение на территории Российской Федерации требований
+(в совокупности 140 баллов):наличие у юридического лица - налогового резидента Российской Федерации,
+не находящегося под контролем иностранного государства, и (или) международной организации, и (или) иностранного юридического или физического лица, и (или) иностранной структуры без образования юридического лица ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGHSURBVDhPzZBPqwFhFIdn6WvI1kcYpdQoi5Gw
+sGQlvoDu0geYsvIByCSxUrazRZRSsrDSlCz9ibhj7jPONFm51+7+yus5Z37nvOc9ivtWj8dDTsdx
+BN4VBO4AOL0C6PspWEL6EXKKCe12O/mkBCkEv4ZIwlqtFo1GAbp4N5zP56+nPIvr2rZdLBbj8Xin
+05FMu91WVRXwCyaTSTgczmQyMC2bzSY18/k8EolMp1OSm81G0zSAIZX7/Q61Wq1cLgdcLpfr9Qqg
+QqEwGAyA2WyWSCQAr0D2ZRiGFEiIbrdbuVyWt67X62QyCdDdL2g0GtlsFmBKrEC/3+/1egCq1+uh
+UGg4HMKKbJO5GQAQ92Kx6Ha7AOJVx+PxcDicTidCf62sKBaLyXssy6pUKtvtdrlcjkajYEiE2dvS
+eDzO5/OpVMo0TR5drVZ1XS+VSul0mmIMTIFVWvsjvdHrDci7gRSjI+nEYLCc4g7aI2W1WklK4l+l
+7Pd7/j4o4Pd3N/LX+tkNH+nfFbjuD0sbxWsbwK0pAAAAAElFTkSuQmCC) :прав на конструкторскую и техническую документацию для проектирования, производства, модернизации и развития соответствующей продукции на территории Российской Федерации в соответствии со спецификацией на готовое изделие в следующем составе:спецификация на готовое изделие с указанием сборочных единиц и деталей;схема электрическая принципиальная;исключительных или неисключительных (но неотзывных) прав на программное обеспечение;подтверждение осуществления на территории Российской Федерации процессов проектирования схемотехники, конструкции модуля, топологии печатных плат, встроенного программного обеспечения, а также наличия соответствующих кадров и затрат на их содержание;
+выполнение на территории Российской Федерации технологической операции - поверхностный монтаж чип-компонентов на печатную плату
+выполнение на территории Российской Федерации дополнительных требований:установка программного обеспечения, если оно является неотъемлемой частью оборудования (20 баллов);сборка электронного оборудования (корпусирование) (20 баллов);функциональное тестирование готового изделия и проведение технического контроля соответствия требованиям технических условий готового изделия (20 баллов);выполнение дополнительных требований по применению компонентов:применение российских системообразующих микросхем (Bтоп = 14 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VK9isJAGNynyDP4AkJExMYuhY0I
+pjCBYGWvWKUT9A1srFKZNL6ACMFUioWdIihoFRBEYuHf3my+veW4Qs7+plhmZr/5dr9NGH+L1+tF
+6/P5JPIuoKoVwSoCYGjweDyoDUDypxPHMVZUMsopQP5ygE6nUyqVQNBCnHC73Xq9XqFQGAwGaQH3
+PC+Xy1mWdTweSVYqFRAcKAJRFM1mMxBd16/XK07PZrNo1u12HceBv91u6/W6DKgLoA0qQJIkyefz
+k8kkCALf9+Esl0vTNEFEgMZaLBZoD/d0OkGGYcgYazQa4MBms7FtG0TOcL/fU59Xq9XRaAS33W6v
+Vqtardbv9+G7rqtp2nQ6BWfYSIsFms3mfD5fr9eZTAYSs5XLZZDL5XI+nzEeOAMbj8eGYaDfcDgU
+Oc5brVaxWISDu5FDwMDiSsjsdrvD4UAuYb/f0zzph5GAlEMTwOXO99OpXeXIX0OBXClSkCQfEIGP
+8B/4Cz4McP4FzubCOyBWPiQAAAAASUVORK5CYII=) ;применение российских печатных плат (Bтоп = 7 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGbSURBVDhP7VK7isJAFJ2f8DcCiiRp/AHtRLsk
+iIWFFhY2toKFKKROa2UhiHZiYSfaKIjgExW0EPHVKIqv7BnvbhAXl22221PMnHvvOTd3ZsLMN7g/
+QOR2u1n8JwNWSCm0PAzb9Xo9n8/PtcvlgiSAcDKZtNttKr1+AVLLRuh2u9Fo1G63G4aBEC3Y4XBI
+JBKyLOfzeRKVSiWXywXdfr+fzWbI7HY7j8dDVVYul2u1WqfTcTqdm81mtVo5HI7FYoGW8XicROPx
+OJVKEWfH45FYOp0G7/V6MCCsVCqZTIZKuVyu3++D8JGwTafTQCCQzWYfVTMcDnu93mKxuF6vEdbr
+dZhBlsslVm4YDAaRSIQx1mq1EGJCSZJ8Ph+urlqt2my2UCikKAqm5QbrWoLBYKFQ2G63fr8fYTKZ
+RAbHRbtmszkajZCEmL8DttPpFIvF5vM5PiIIAmq4e1VVeacvUGuGk7ndbgzQaDSooOu6KIqapg2H
+Q4Q4KKSk/nw4evNnYuF7ho+EDSt6YH0hVAIeYo63P987/Bt+g782mOYH38fpp3zGW7cAAAAASUVO
+RK5CYII=) ;применение российских вторичных преобразователей питания (Bтоп = 6 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAUCAIAAAALACogAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAF/SURBVDhP5ZK9isJQEIXzOr6CjRGiTSrBwijY
+WKSyEVMGoyAoBIMIgmBtFbCwshG7gFE0T2BsNxDERvxZs+dm5LIou/sAe8DLN5M5k5lrhOhnPR4P
+Oj9jEf9mgKiamIAZkL3H4i0phFhhFLmu6/s+AB6Birh4P67lclmpVCRJOhwOCNkbttutoiipVGq/
+3yNEi2q1inAwGCDc7XY4p9Op53nMcL1ebds+nU7D4TCfzyNlWVaxWASUSqXFYgEYjUblchmVzMAH
+Xa/Xk8kE0G63MQNA1/XVagVwHCeZTPb7ffBzB5RiSiwHDsMwnU6rqkohaTab9Xo9gIAt4dlsNjAk
+EglautPpiKJYr9fBrVYrk8l0u93z+cwM+HHhAU7TNLEGIJfLjcdjzIw7pQXQWgiC4CPWfD5vNpvI
+NhqNQqEAMAwDBgDp+ccdj0dN02RZxqsvlwtSaFmr1bLZLF0rupKIXz8NevBdLxl2S7fbDSOiMW/z
+nomLmf74+N71Dw1R9AUr3ll6ozhRGgAAAABJRU5ErkJggg==) ;применение российских микросхем и модулей связи и навигации
+(Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGFSURBVDhP7ZItqwJBGIXnP9ithgWxbrGIGMVs
+WRBkLbqIgs2iwSJ4Yc26Bg0qfiGCimUtYrLabIJoE/zauWd9L6Nc4e4fuCcMzztzzsw7O8v4n7Is
+i0YBDgGIrALY4/Gg4hMgAcfjkdg+gRzvgAWC6/WKsVKpJJNJAAxsMpmEw+FgMLhcLp8ens/nQ6FQ
+LBbb7/cod7udoiiFQgFsB0qlEqjT6ciyDOh2u4FAAGAYRi6XA8xms8FgUC6Xwff7/efSq9WqVqsB
+xuOxSCLT7/e/nopGo4fDAfMMoWaz6XK5RqORHeU8nU77fL56vQ4eDoc4JxKJeL3e9XqNGXa73bbb
+raZpbrebmoY1k8l4PB50b2/A+WazaTQaAJhf7xCPx0+nU6vVUlUVZbvd9vv9gPP5TB8NvWBk8/nc
+NE1d14vFIurpdCpJ0mKxqFarOId8CIjHYdlsNpVK4Vpij16vl0gkKA+JNyG9WqI9KEOCldzvGXZ5
+il6UFnAzmvl0Q84/3y/9B5zF+TcEbIUtK3nojAAAAABJRU5ErkJggg==) ;применение российских интерфейсных микросхем и преобразователей
+(Bтоп = 8 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAVCAIAAAAW+SPgAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAF6SURBVDhP7VExq4JQGHUP+iXSf3CopaA2IWir
+DFobAqEpghoiJJwkRTLHao0kaEgCqalZiAhqElqe6ct39Io8eATv7e8M1/Ode77Ddz+p4D1erxc5
+ExK6fd93XdfzvER9Pp9QoJPyMwI4RT4EuADiIgLacEqSVCwWZVkOs03TrNfrk8kkMgToFwSh0Wjs
+93uU8/m8VCqdz2dw6nK5DIfD3W6Xy+UURYHU6XRqtdp2u2VZ9na7Xa9XTdMYhrFtm/qIAJMoiqqq
+giBJ13WQarVqWRYIsFwux+NxvBOkchxH+Gq1ymQyaFgsFkQBDocDytD9eDy63W4qlWq32ygxd6vV
+SqfT6/Ua5Ww2azabPM87jkMlS9hsNuVyGaTX6xmGgXFpmkYk3ofU+/2OqzCbrAnDYDIQPHc0GoFU
+KpXpdApCgPVTx+MRz8rn8/1+n6in06lQKGSz2cFgQExA/HciQzjrO/L9f4VuUuM6IcSaKElDnP1L
+/Lt/4i/uIPgCazFLcJVt9F4AAAAASUVORK5CYII=) ;применение российских полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGuSURBVDhP7ZI/66lxGMa/Xod3YZBMYjaxKYPN
+QPKnSJks9ItFshCDQUkMZGKwkBKF2MQiKQaD/8/5PL5OP+cM55wXcK7h2/Vc9//7foTyRzyfT/k+
+Ho/7/Q5RA/i4XC63202aATapSKsUJQS2N/2Z79Pjer3yoieTSavVutvt1AqLxSIajVarVWnj7fV6
+4XC42WzCQSQSwQFCvNhut/F4vFwuWyyWQqGA2ul0zGZzsVi02Wzj8Xg0Gul0OqfTmclksIrT6UQh
+WD6fl2nI7fP5IF8vVCqVYDC4Wq0MBsN0On1vaT6fx2Ix2f1kMtFqtYPBIJ1OH49Hui+VSugOh4Pi
+agBFXC6XRqNJpVJqtKIkEgkhBH3Ch8MhveVyuUAgcDgcBFnP5zMG0phMJumRzWb7/b5er6/Vaiit
+VisUCq3Xa/j34Wazmd/vhzAAY0DYm91ufxnf4AZiuVx6PB7GcrvdTIJKbqPR6PV6abrb7aJwRCAn
+FPv9vt1uNxqNzWbDt7wUO6nX6+wE/nlZ8N0SkP/Cp4dUuKY8KBAwPICsKG3w35SXs4pfKvwL/gf8
+HYryA1YLeIUnz/t1AAAAAElFTkSuQmCC) ;применение российских силовых полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGXSURBVDhP7ZI9y4FxFMbvL+Ar2HwHpeRjmAwG
+g/JIJJlkUWIyWNxlMZgYiDKhhMGChCh5yWIk8vb8bke6LU/szzWcruucc/3/5/+i3L/EX4bb7Ua8
+Xq+nB87nM1IzUCB7uVykA7zkKyNAKvoUfURaRQr6/b7f7/d4PPl8HvkcqdlstlotiHgWi0WpVNrt
+dvBardZoNFRVjUQiSM2ANRgMms3mbDaLHI1GNpvN6/U6nc7tdiujTyaTer2uGY7HIx2wTqdjt9sh
+gUAgFApBGIN9ICCVSu33e8jzDIfDIZfLzWYzeLFYtFqt0+k0nU6vViupZjIZ6VRk6EQiYTAYwuEw
+HLjdbqPR2G63RbIEJ4HQrJ2BqYiVSsVkMjHxYDCIx+OFQsFisQyHQ0q9Xm+5XD4NvAhM4HA4iC6X
+KxaLQaLRqNyMQGZRNptNMpn0+Xyclcslxf2y9s8D4/GYDNtKt/ZwsG63W61WpSavNp/Py+Xyer2G
+S+sLb39JuvUvLVz/G7RrZQ0KRCnoMyIlL3jb4RP8Gz7Bl4b7/RfepPBVgm9AugAAAABJRU5ErkJg
+gg==) ;применение российских пассивных элементов стандартных (Bтоп = 3 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAYCAIAAAB8wupbAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAG4SURBVDhP7VI9y0FhGD6/weYP+AEssiLlYziz
+QUZRymAwKLMoOhYDMwZJCrGIkkIxSCGRkrD5/jiuxy0dy5t3eLf3qnOf677OfT3389zP4cRf4ifD
+/X5HvF6vp9MJkRQOD3C73RCfZUxFCoBTHYEUjl4E8LcNOJ/PiNVq1e129/t9cBSwLc3n82azeblc
+WNWzA9LJZAI+HA7tdnsymTQYDPSVg9Xr9er1eofDQZLL5bJYLFartdFoLBYLm822Wq08Hg9tj2u3
+27S2VqtdLpeDwUCpVCLFTpxOJ0g8Hler1ePxGBye15S63W6xWATBYiqVqtVq5XK5QqGw2WwymUyl
+UuF5fr/fo4AZ6vW6QqEwm8273Q5pNpuVyWTRaBS8VqtB3263RqNxOp0yA7ocDofRaCSXy/P5PCRB
+EBKJhE6nS6VSSCORiMlkKpVK4K8pEXw+H9brdDoajQZpr9fDZKRTJs7BGovFwuFwMBjE6dfrNU7v
+9/sDgQB0VED8uOlyuYymmPTxeGTriOJsNguFQul0mlJpE+DjX8I36cUjpWqKBHZo/ALo+1bhkSrS
+auCjwzf4N3yDvzaI4gPLzxFV7uBOcwAAAABJRU5ErkJggg==) ;применение российских конденсаторов большой емкости (Bтоп = 4 балла),
+расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGWSURBVDhP7VG7isJQEE3pP+QXrMU2oIIoGLCw
+kYCIoIWIXcAiTZqAgiCCVQqRtD4QG0HECIJEQbBTtPALRJD4SvYkN9xdhAW334EM55w7Z+5kLmP/
+HpZlIb9eLwCSQR3D8/m83W6Px4NIyPf7HQotogHKQPWYy98qENPpNBQKFYtFdAR1btB1PZfLaZrm
+FtimadZqNSjH4xE0nU5fr9dKpaIoCihzOp3q9fp8Puc4bjAYQBJFsVwu9/t9QRD2+30ymYS4WCwK
+hYJjQD+MC4QGw+EQIBKJjMdjgGg0erlccFU2m02lUrIsOwZ8iFarha4Ed7tdv9/f6XQmkwlRRqNR
+IBA4HA7AjuF8PkuS5PP5qtUqKNaQyWRYlt1sNqAYuFQqrVYrcsTQtfR6vXw+DwDzcrncbrfBYBBd
+Mf1ut4P+vSVsHbnZbGIMAPxDu90GSCQSs9kMAEGq0Z1Zr9c8z8disUajQc4Mw4jH4+FwWFVVUJSS
+t3IfyfJ+mj4fBTh7AyQcA5FQSgGxUeWnx7vh8/g3fBJ/NNj2F7s+g7O79ytMAAAAAElFTkSuQmCC
+) ;применение российских сенсорных элементов (Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAXCAIAAABrvZPKAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAIPSURBVDhP7ZJPq2lRGMb31NfwBSTlT4mvIJGB
+jDBBSZQBRUohJMmAEgZCMhGliBKlJCMhyYASIxH5d/Z99lly3G7nDu4d3brPYO/fetb7rvWudy2K
+/l4fnwLc7/fH40EcwPuQyb/dbpfLBe4r53q9wkEQGCYRmXoOaJosQZEfERbC9z2ILBqJRLxeL3Hy
++bxYLK5UKmDMMvtXq1WbzdbtdomFbywWc7lcy+USfD6fJRKJXq8Hj8djpVIJR6vVzudzOFS73Q6H
+w/F4nMfjTadTWHa7XaVS5XI5uVy+2Wzg1Ot1s9kMwLp+vx/g8/kymQyTv1qt8INMJlOz2QRwOJzR
+aARQq9XD4RCQzWaNRiMgFAql02lAIBBIpVIApn4cuFQqFYtFMOR0OmUyWb/fR9rxeIRTq9UcDgcA
+RXk8HoDb7UZRACZ/MBhIpVIWi9Xr9TCEhEIhl8udzWZkaLFYRCLRbrc7nU44FA6r0WhIsylcFbkC
+hUJhtVoBwWCwXC4XCgU+n4/TIS6ZTKJHk8kEs2ghalmv12Akfr0f9AZxADabvVgsADqdLpFIfE4+
+RW6H6Hn/6Ad6YzAYsMPhcIAVjUYFAgHaiUvdbrdw8JZeZWIJ8rTAaByFelqtVqfTQQSx8EXbG43G
+fr8Hk9Dv9FU/RELfE177kOGvYt4v0SsI8O78Jhn6af8/0P/8v9O/nU/TPwDXmhtQQjVL3QAAAABJ
+RU5ErkJggg==) ;применение российских периферийных микросхем (Bтоп = 8 баллов),
+расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAIAAADJt1n/AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHiSURBVDhP7ZK/y4FRFMevv8A/wK6sFiMWm8kk
+RZlIIqIMj2RUYrMgRVn8msgglJCSpEwsRLJZ/PZ+H8f78D71DnrX9zvcPvfcc+45597D7r/r9hDg
+er1eLhdirALzwTg7Ho/n85lMEJgsYMEIEBgCM1zz3H374S7aQqfTCWu9XrfZbHS63W4tFstkMgHz
+mWezWTAYLBaLYPJoNpt+v7/RaIAhj8ejUCjoqFqtymSyXq8HZpvNJhKJ5HI5rVabzWZhQh6dTpfJ
+ZIxGY7/fh2W9Xuv1etRIRTkcjk6nwwfv93tUAkomk6FQCOB2uwOBACAcDkejUcB4PNZoNMITmM3m
+drsNfr72dDrlOI4KGwwGcrl8OBzGYjHUBctqtTIYDAB6IKfTORqNAHwwklutVolEEo/HsYWQkzFW
+LpdpWygUpFIpPdJisVAqlYlEAszQxuFwAKVSKbQK6Ha7aAFdqVSqWq1GwXjRVqsFRkW4Op/Po4vX
+kKAxn88HsNvt1Hw6nUZ7j8OnqG1BDP+EHrxeL2LAMCGnWq12uVwmkwlVwIKBgajh94liu90OtVUq
+leVyiTOaivl8XiqV6K73KRLpVTZEVb17C99DHyESgxXeEA0A+YFFloezWD8yf6r/4A/1h+D7/Qv8
+uGgNZwuOCAAAAABJRU5ErkJggg==) ;применение российских микросхем памяти (Bтоп = 11 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHuSURBVDhP7VJL6+FhFPYR+AC+gZI9G1bKwsqC
+ZEcUJcpSNhYWIiU7JZeFDeW6YKHkllJyi4VQCBss3H//53Wmf9PMv2maWcxmnsXpOZfnPe8578vj
+OO71ej2fz8fjAQIXIBeWOAWBnzkPmu9ln5Zwv99hN5tNLBa7Xq/gyWTSbDb3ej1wVLL+QL1er9Vq
+IHTW4XDI5XLz+fyd5Ewmk0gkQmo8HqfT6Wg0qlAojscjUkyPkMvlkkqlgUAA7n6/VyqVaKLX61ut
+FiLT6dRgMJxOJ3CCVqtdLBYgvMvlMhwOwVCkUqlAIpGIWq0GCYfDXq8XBG0hoIbAarUKBoMguBGb
+H+x2u6VSKTqo2+1KJBJMiJk7nQ4iy+XSaDSiEziQSCRIxeanbYVCIT6fj6J3Aef3+wUCQTweJ7dY
+LIrF4slkcj6frVYrstlstlKpIMXmp4ObzaZQKNxut7vdzuPxVKtVmUyWyWSQws5tNluj0ej3+06n
+E8tyu90oY3p6FYJOp4P1+XxE8vm8RqN5Z74Gm3+9XuM+drvd4XCUy2VEZ7OZXC7Hm1ksFtwCEWwH
+behHgQCI0ArY/O12u1QqDQYD+CiCxRSFQmE0GoGjjkq/xLf/QyAxbZRAkV+AvR8EdLfPPj9Efrf/
+H+C//u/wb/Uc9wFZDq0o+ZNlVwAAAABJRU5ErkJggg==) ;применение российских соединителей (в том числе разъемов, жгутов, кабелей) (Bтоп = 6 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAIAAAAf7rriAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHgSURBVDhP7VJLy6lRGN0lf8IPMMAPMFFKipKJ
+GChz14yQkcsvkJRiggmKDJhQLlGEFCMDIiNMUC65fLzf8j1ffW/n1KlzxmcN9l7r2c/az7Mv7PV6
+fXwBhPsCRZ7PJ3EKAhQhEGf8EFL58vF4YLxer8lkcrfbgW82G7fbnUqlwJHJMDWbzV6vB0I4nU61
+Wm08HpPMZDKMsfV6DZ5Op6vVqslkmkwmkCwWi/n9fo1GEw6HoQ+Hg8FgcLlcRqOxXq8jgiNotdrF
+YgF+uVwwlkolFHibO50OJvSjUChAisWiWq0G6ff7FosFBG2rVKrZbAYOs91uF4vF8/kc8t02kEgk
+BoMByHK5lMlk3W43l8uVy2Va1ev11DbB6/UGg0GQtxn3IRAIrFYrikDm83mhUBgIBN6JHLdarUQi
+UaVSAW+3261WKxqNYndIRobRaCSRSKbT6fl8jkQiOItcLo/H41hCtsPhQAHwUCgETifFXXy3Ddhs
+tuPxmM1mdTod5Ha7lUqltETgvyKcGJnH4/H5fHAWCgVo3JxSqXQ6nWazGf0jcr/fb7cbvTlxcuJT
+sEajgVcdDofQlLHf7xGhl+dX+x0/bZOTdiVQhP9DfwFDNkAVKA+cIiT/ZP6e/wn/zX8FjvsEz7r0
+DN8+OjcAAAAASUVORK5CYII=) ;применение российских катушек индуктивности и трансформаторов
+(Bтоп = 3 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHpSURBVDhP7VI9q8FRHD7lM/gGFpNPwMJiMigs
+XsqEwUsKg1GysDDIYDIoZVBikCJClCiDlwwMLIpE3q77/P1ux73d7h3uHe5yn+H8n+d3fi/POefP
+Xh643W5Y7w+Q5JHr9crjfOWEIY80QJxHkHG5XECGw2GxWAShrfV63Wq1KIHhs1wue73e6XTiGZPJ
+pN/vgwDH41EqlRqNRnBqZ7fbbTYbCKyxbrfr8XjUarXBYCCr6XRaoVBotdpQKEQmM5mM1+sFATqd
+jsPhiEaj4BjGGo3G+XyGUKlU5ArT4AgEXebzOUg2m3W5XCCHw6HZbFar1VgsBgk7gn9gOp3mcjky
+r1Qq4/H4ZrPBzN1uhwi23G43SCQSCQaD5Hc2myEi1NfrdYlEotPpUAOJXmKx2GKx7Pd7SCCVSplM
+JpBarZZIJMxms1wuH4/HiAj12+12MBiIRKJkMglZqVRgT6/XYw4kulitVpwOJ4cE8Bz5fB7k6R8I
+h8PoDSKTyeggqCmVSo/NN+CC6ZmIY2XtdrtcLhcKhUAgsFgsENJoND6fD1bhczQaIYILxij+56A7
+DRDeH1fldDpRsFqtaBu/h9/vxyPhUJCU+hWe/gGk8iEEPofkZzB4w5EAPgfkfeSbYuDD/B/gv/53
++Nv6+/0VdWmkwcFJ5uAAAAAASUVORK5CYII=)
+из 29.32.30.358Многофункциональная консоль управления агрегатами (кнопочного, сенсорного устройства ввода данных
+для управления агрегатами машины, навесным и прицепным технологическим оборудованием), применяемая в составе продукции отрасли специального машиностроениявыполнение на территории Российской Федерации требований
+(в совокупности 140 баллов):наличие у юридического лица - налогового резидента Российской Федерации,
+не находящегося под контролем иностранного государства, и (или) международной организации, и (или) иностранного юридического или физического лица, и (или) иностранной структуры без образования юридического лица ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGHSURBVDhPzZBPqwFhFIdn6WvI1kcYpdQoi5Gw
+sGQlvoDu0geYsvIByCSxUrazRZRSsrDSlCz9ibhj7jPONFm51+7+yus5Z37nvOc9ivtWj8dDTsdx
+BN4VBO4AOL0C6PspWEL6EXKKCe12O/mkBCkEv4ZIwlqtFo1GAbp4N5zP56+nPIvr2rZdLBbj8Xin
+05FMu91WVRXwCyaTSTgczmQyMC2bzSY18/k8EolMp1OSm81G0zSAIZX7/Q61Wq1cLgdcLpfr9Qqg
+QqEwGAyA2WyWSCQAr0D2ZRiGFEiIbrdbuVyWt67X62QyCdDdL2g0GtlsFmBKrEC/3+/1egCq1+uh
+UGg4HMKKbJO5GQAQ92Kx6Ha7AOJVx+PxcDicTidCf62sKBaLyXssy6pUKtvtdrlcjkajYEiE2dvS
+eDzO5/OpVMo0TR5drVZ1XS+VSul0mmIMTIFVWvsjvdHrDci7gRSjI+nEYLCc4g7aI2W1WklK4l+l
+7Pd7/j4o4Pd3N/LX+tkNH+nfFbjuD0sbxWsbwK0pAAAAAElFTkSuQmCC) :прав на конструкторскую и техническую документацию для проектирования, производства, модернизации и развития соответствующей продукции
+на территории Российской Федерации в соответствии со спецификацией
+на готовое изделие в следующем составе:спецификация на готовое изделие с указанием сборочных единиц и деталей;схема электрическая принципиальная;исключительных или неисключительных (но неотзывных) прав на программное обеспечение;подтверждение осуществления на территории Российской Федерации процессов проектирования схемотехники, конструкции модуля, топологии печатных плат, встроенного программного обеспечения, а также наличия соответствующих кадров и затрат на их содержание;выполнение на территории Российской Федерации технологической операции - поверхностный монтаж чип-компонентов на печатную плату
+выполнение на территории Российской Федерации дополнительных требований:установка программного обеспечения, если оно является неотъемлемой частью оборудования (20 баллов);сборка электронного оборудования (корпусирование) (20 баллов);функциональное тестирование готового изделия и проведение технического контроля соответствия требованиям технических условий готового изделия (20 баллов);выполнение дополнительных требований по применению компонентов:применение российских системообразующих микросхем (Bтоп = 14 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VK9isJAGNynyDP4AkJExMYuhY0I
+pjCBYGWvWKUT9A1srFKZNL6ACMFUioWdIihoFRBEYuHf3my+veW4Qs7+plhmZr/5dr9NGH+L1+tF
+6/P5JPIuoKoVwSoCYGjweDyoDUDypxPHMVZUMsopQP5ygE6nUyqVQNBCnHC73Xq9XqFQGAwGaQH3
+PC+Xy1mWdTweSVYqFRAcKAJRFM1mMxBd16/XK07PZrNo1u12HceBv91u6/W6DKgLoA0qQJIkyefz
+k8kkCALf9+Esl0vTNEFEgMZaLBZoD/d0OkGGYcgYazQa4MBms7FtG0TOcL/fU59Xq9XRaAS33W6v
+Vqtardbv9+G7rqtp2nQ6BWfYSIsFms3mfD5fr9eZTAYSs5XLZZDL5XI+nzEeOAMbj8eGYaDfcDgU
+Oc5brVaxWISDu5FDwMDiSsjsdrvD4UAuYb/f0zzph5GAlEMTwOXO99OpXeXIX0OBXClSkCQfEIGP
+8B/4Cz4McP4FzubCOyBWPiQAAAAASUVORK5CYII=) ;применение российских печатных плат (Bтоп = 7 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGbSURBVDhP7VK7isJAFJ2f8DcCiiRp/AHtRLsk
+iIWFFhY2toKFKKROa2UhiHZiYSfaKIjgExW0EPHVKIqv7BnvbhAXl22221PMnHvvOTd3ZsLMN7g/
+QOR2u1n8JwNWSCm0PAzb9Xo9n8/PtcvlgiSAcDKZtNttKr1+AVLLRuh2u9Fo1G63G4aBEC3Y4XBI
+JBKyLOfzeRKVSiWXywXdfr+fzWbI7HY7j8dDVVYul2u1WqfTcTqdm81mtVo5HI7FYoGW8XicROPx
+OJVKEWfH45FYOp0G7/V6MCCsVCqZTIZKuVyu3++D8JGwTafTQCCQzWYfVTMcDnu93mKxuF6vEdbr
+dZhBlsslVm4YDAaRSIQx1mq1EGJCSZJ8Ph+urlqt2my2UCikKAqm5QbrWoLBYKFQ2G63fr8fYTKZ
+RAbHRbtmszkajZCEmL8DttPpFIvF5vM5PiIIAmq4e1VVeacvUGuGk7ndbgzQaDSooOu6KIqapg2H
+Q4Q4KKSk/nw4evNnYuF7ho+EDSt6YH0hVAIeYo63P987/Bt+g782mOYH38fpp3zGW7cAAAAASUVO
+RK5CYII=) ;применение российских вторичных преобразователей питания (Bтоп = 6 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAUCAIAAAALACogAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAF/SURBVDhP5ZK9isJQEIXzOr6CjRGiTSrBwijY
+WKSyEVMGoyAoBIMIgmBtFbCwshG7gFE0T2BsNxDERvxZs+dm5LIou/sAe8DLN5M5k5lrhOhnPR4P
+Oj9jEf9mgKiamIAZkL3H4i0phFhhFLmu6/s+AB6Birh4P67lclmpVCRJOhwOCNkbttutoiipVGq/
+3yNEi2q1inAwGCDc7XY4p9Op53nMcL1ebds+nU7D4TCfzyNlWVaxWASUSqXFYgEYjUblchmVzMAH
+Xa/Xk8kE0G63MQNA1/XVagVwHCeZTPb7ffBzB5RiSiwHDsMwnU6rqkohaTab9Xo9gIAt4dlsNjAk
+EglautPpiKJYr9fBrVYrk8l0u93z+cwM+HHhAU7TNLEGIJfLjcdjzIw7pQXQWgiC4CPWfD5vNpvI
+NhqNQqEAMAwDBgDp+ccdj0dN02RZxqsvlwtSaFmr1bLZLF0rupKIXz8NevBdLxl2S7fbDSOiMW/z
+nomLmf74+N71Dw1R9AUr3ll6ozhRGgAAAABJRU5ErkJggg==) ;применение российских микросхем и модулей связи и навигации
+(Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGFSURBVDhP7ZItqwJBGIXnP9ithgWxbrGIGMVs
+WRBkLbqIgs2iwSJ4Yc26Bg0qfiGCimUtYrLabIJoE/zauWd9L6Nc4e4fuCcMzztzzsw7O8v4n7Is
+i0YBDgGIrALY4/Gg4hMgAcfjkdg+gRzvgAWC6/WKsVKpJJNJAAxsMpmEw+FgMLhcLp8ens/nQ6FQ
+LBbb7/cod7udoiiFQgFsB0qlEqjT6ciyDOh2u4FAAGAYRi6XA8xms8FgUC6Xwff7/efSq9WqVqsB
+xuOxSCLT7/e/nopGo4fDAfMMoWaz6XK5RqORHeU8nU77fL56vQ4eDoc4JxKJeL3e9XqNGXa73bbb
+raZpbrebmoY1k8l4PB50b2/A+WazaTQaAJhf7xCPx0+nU6vVUlUVZbvd9vv9gPP5TB8NvWBk8/nc
+NE1d14vFIurpdCpJ0mKxqFarOId8CIjHYdlsNpVK4Vpij16vl0gkKA+JNyG9WqI9KEOCldzvGXZ5
+il6UFnAzmvl0Q84/3y/9B5zF+TcEbIUtK3nojAAAAABJRU5ErkJggg==) ;применение российских интерфейсных микросхем и преобразователей
+(Bтоп = 8 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAVCAIAAAAW+SPgAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAF6SURBVDhP7VExq4JQGHUP+iXSf3CopaA2IWir
+DFobAqEpghoiJJwkRTLHao0kaEgCqalZiAhqElqe6ct39Io8eATv7e8M1/Ode77Ddz+p4D1erxc5
+ExK6fd93XdfzvER9Pp9QoJPyMwI4RT4EuADiIgLacEqSVCwWZVkOs03TrNfrk8kkMgToFwSh0Wjs
+93uU8/m8VCqdz2dw6nK5DIfD3W6Xy+UURYHU6XRqtdp2u2VZ9na7Xa9XTdMYhrFtm/qIAJMoiqqq
+giBJ13WQarVqWRYIsFwux+NxvBOkchxH+Gq1ymQyaFgsFkQBDocDytD9eDy63W4qlWq32ygxd6vV
+SqfT6/Ua5Ww2azabPM87jkMlS9hsNuVyGaTX6xmGgXFpmkYk3ofU+/2OqzCbrAnDYDIQPHc0GoFU
+KpXpdApCgPVTx+MRz8rn8/1+n6in06lQKGSz2cFgQExA/HciQzjrO/L9f4VuUuM6IcSaKElDnP1L
+/Lt/4i/uIPgCazFLcJVt9F4AAAAASUVORK5CYII=) ;применение российских полупроводниковых приборов (Bтоп = 5 баллов),
+расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGuSURBVDhP7ZI/66lxGMa/Xod3YZBMYjaxKYPN
+QPKnSJks9ItFshCDQUkMZGKwkBKF2MQiKQaD/8/5PL5OP+cM55wXcK7h2/Vc9//7foTyRzyfT/k+
+Ho/7/Q5RA/i4XC63202aATapSKsUJQS2N/2Z79Pjer3yoieTSavVutvt1AqLxSIajVarVWnj7fV6
+4XC42WzCQSQSwQFCvNhut/F4vFwuWyyWQqGA2ul0zGZzsVi02Wzj8Xg0Gul0OqfTmclksIrT6UQh
+WD6fl2nI7fP5IF8vVCqVYDC4Wq0MBsN0On1vaT6fx2Ix2f1kMtFqtYPBIJ1OH49Hui+VSugOh4Pi
+agBFXC6XRqNJpVJqtKIkEgkhBH3Ch8MhveVyuUAgcDgcBFnP5zMG0phMJumRzWb7/b5er6/Vaiit
+VisUCq3Xa/j34Wazmd/vhzAAY0DYm91ufxnf4AZiuVx6PB7GcrvdTIJKbqPR6PV6abrb7aJwRCAn
+FPv9vt1uNxqNzWbDt7wUO6nX6+wE/nlZ8N0SkP/Cp4dUuKY8KBAwPICsKG3w35SXs4pfKvwL/gf8
+HYryA1YLeIUnz/t1AAAAAElFTkSuQmCC) ;применение российских силовых полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGXSURBVDhP7ZI9y4FxFMbvL+Ar2HwHpeRjmAwG
+g/JIJJlkUWIyWNxlMZgYiDKhhMGChCh5yWIk8vb8bke6LU/szzWcruucc/3/5/+i3L/EX4bb7Ua8
+Xq+nB87nM1IzUCB7uVykA7zkKyNAKvoUfURaRQr6/b7f7/d4PPl8HvkcqdlstlotiHgWi0WpVNrt
+dvBardZoNFRVjUQiSM2ANRgMms3mbDaLHI1GNpvN6/U6nc7tdiujTyaTer2uGY7HIx2wTqdjt9sh
+gUAgFApBGIN9ICCVSu33e8jzDIfDIZfLzWYzeLFYtFqt0+k0nU6vViupZjIZ6VRk6EQiYTAYwuEw
+HLjdbqPR2G63RbIEJ4HQrJ2BqYiVSsVkMjHxYDCIx+OFQsFisQyHQ0q9Xm+5XD4NvAhM4HA4iC6X
+KxaLQaLRqNyMQGZRNptNMpn0+Xyclcslxf2y9s8D4/GYDNtKt/ZwsG63W61WpSavNp/Py+Xyer2G
+S+sLb39JuvUvLVz/G7RrZQ0KRCnoMyIlL3jb4RP8Gz7Bl4b7/RfepPBVgm9AugAAAABJRU5ErkJg
+gg==) ;применение российских пассивных элементов стандартных (Bтоп = 3 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAYCAIAAAB8wupbAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAG4SURBVDhP7VI9y0FhGD6/weYP+AEssiLlYziz
+QUZRymAwKLMoOhYDMwZJCrGIkkIxSCGRkrD5/jiuxy0dy5t3eLf3qnOf677OfT3389zP4cRf4ifD
+/X5HvF6vp9MJkRQOD3C73RCfZUxFCoBTHYEUjl4E8LcNOJ/PiNVq1e129/t9cBSwLc3n82azeblc
+WNWzA9LJZAI+HA7tdnsymTQYDPSVg9Xr9er1eofDQZLL5bJYLFartdFoLBYLm822Wq08Hg9tj2u3
+27S2VqtdLpeDwUCpVCLFTpxOJ0g8Hler1ePxGBye15S63W6xWATBYiqVqtVq5XK5QqGw2WwymUyl
+UuF5fr/fo4AZ6vW6QqEwm8273Q5pNpuVyWTRaBS8VqtB3263RqNxOp0yA7ocDofRaCSXy/P5PCRB
+EBKJhE6nS6VSSCORiMlkKpVK4K8pEXw+H9brdDoajQZpr9fDZKRTJs7BGovFwuFwMBjE6dfrNU7v
+9/sDgQB0VED8uOlyuYymmPTxeGTriOJsNguFQul0mlJpE+DjX8I36cUjpWqKBHZo/ALo+1bhkSrS
+auCjwzf4N3yDvzaI4gPLzxFV7uBOcwAAAABJRU5ErkJggg==) ;применение российских конденсаторов большой емкости (Bтоп = 4 балла),
+расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGWSURBVDhP7VG7isJQEE3pP+QXrMU2oIIoGLCw
+kYCIoIWIXcAiTZqAgiCCVQqRtD4QG0HECIJEQbBTtPALRJD4SvYkN9xdhAW334EM55w7Z+5kLmP/
+HpZlIb9eLwCSQR3D8/m83W6Px4NIyPf7HQotogHKQPWYy98qENPpNBQKFYtFdAR1btB1PZfLaZrm
+FtimadZqNSjH4xE0nU5fr9dKpaIoCihzOp3q9fp8Puc4bjAYQBJFsVwu9/t9QRD2+30ymYS4WCwK
+hYJjQD+MC4QGw+EQIBKJjMdjgGg0erlccFU2m02lUrIsOwZ8iFarha4Ed7tdv9/f6XQmkwlRRqNR
+IBA4HA7AjuF8PkuS5PP5qtUqKNaQyWRYlt1sNqAYuFQqrVYrcsTQtfR6vXw+DwDzcrncbrfBYBBd
+Mf1ut4P+vSVsHbnZbGIMAPxDu90GSCQSs9kMAEGq0Z1Zr9c8z8disUajQc4Mw4jH4+FwWFVVUJSS
+t3IfyfJ+mj4fBTh7AyQcA5FQSgGxUeWnx7vh8/g3fBJ/NNj2F7s+g7O79ytMAAAAAElFTkSuQmCC
+) ;применение российских сенсорных элементов (Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAXCAIAAABrvZPKAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAIPSURBVDhP7ZJPq2lRGMb31NfwBSTlT4mvIJGB
+jDBBSZQBRUohJMmAEgZCMhGliBKlJCMhyYASIxH5d/Z99lly3G7nDu4d3brPYO/fetb7rvWudy2K
+/l4fnwLc7/fH40EcwPuQyb/dbpfLBe4r53q9wkEQGCYRmXoOaJosQZEfERbC9z2ILBqJRLxeL3Hy
++bxYLK5UKmDMMvtXq1WbzdbtdomFbywWc7lcy+USfD6fJRKJXq8Hj8djpVIJR6vVzudzOFS73Q6H
+w/F4nMfjTadTWHa7XaVS5XI5uVy+2Wzg1Ot1s9kMwLp+vx/g8/kymQyTv1qt8INMJlOz2QRwOJzR
+aARQq9XD4RCQzWaNRiMgFAql02lAIBBIpVIApn4cuFQqFYtFMOR0OmUyWb/fR9rxeIRTq9UcDgcA
+RXk8HoDb7UZRACZ/MBhIpVIWi9Xr9TCEhEIhl8udzWZkaLFYRCLRbrc7nU44FA6r0WhIsylcFbkC
+hUJhtVoBwWCwXC4XCgU+n4/TIS6ZTKJHk8kEs2ghalmv12Akfr0f9AZxADabvVgsADqdLpFIfE4+
+RW6H6Hn/6Ad6YzAYsMPhcIAVjUYFAgHaiUvdbrdw8JZeZWIJ8rTAaByFelqtVqfTQQSx8EXbG43G
+fr8Hk9Dv9FU/RELfE177kOGvYt4v0SsI8O78Jhn6af8/0P/8v9O/nU/TPwDXmhtQQjVL3QAAAABJ
+RU5ErkJggg==) ;применение российских периферийных микросхем (Bтоп = 8 баллов),
+расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAIAAADJt1n/AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHiSURBVDhP7ZK/y4FRFMevv8A/wK6sFiMWm8kk
+RZlIIqIMj2RUYrMgRVn8msgglJCSpEwsRLJZ/PZ+H8f78D71DnrX9zvcPvfcc+45597D7r/r9hDg
+er1eLhdirALzwTg7Ho/n85lMEJgsYMEIEBgCM1zz3H374S7aQqfTCWu9XrfZbHS63W4tFstkMgHz
+mWezWTAYLBaLYPJoNpt+v7/RaIAhj8ejUCjoqFqtymSyXq8HZpvNJhKJ5HI5rVabzWZhQh6dTpfJ
+ZIxGY7/fh2W9Xuv1etRIRTkcjk6nwwfv93tUAkomk6FQCOB2uwOBACAcDkejUcB4PNZoNMITmM3m
+drsNfr72dDrlOI4KGwwGcrl8OBzGYjHUBctqtTIYDAB6IKfTORqNAHwwklutVolEEo/HsYWQkzFW
+LpdpWygUpFIpPdJisVAqlYlEAszQxuFwAKVSKbQK6Ha7aAFdqVSqWq1GwXjRVqsFRkW4Op/Po4vX
+kKAxn88HsNvt1Hw6nUZ7j8OnqG1BDP+EHrxeL2LAMCGnWq12uVwmkwlVwIKBgajh94liu90OtVUq
+leVyiTOaivl8XiqV6K73KRLpVTZEVb17C99DHyESgxXeEA0A+YFFloezWD8yf6r/4A/1h+D7/Qv8
+uGgNZwuOCAAAAABJRU5ErkJggg==) ;применение российских микросхем памяти (Bтоп = 11 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHuSURBVDhP7VJL6+FhFPYR+AC+gZI9G1bKwsqC
+ZEcUJcpSNhYWIiU7JZeFDeW6YKHkllJyi4VQCBss3H//53Wmf9PMv2maWcxmnsXpOZfnPe8578vj
+OO71ej2fz8fjAQIXIBeWOAWBnzkPmu9ln5Zwv99hN5tNLBa7Xq/gyWTSbDb3ej1wVLL+QL1er9Vq
+IHTW4XDI5XLz+fyd5Ewmk0gkQmo8HqfT6Wg0qlAojscjUkyPkMvlkkqlgUAA7n6/VyqVaKLX61ut
+FiLT6dRgMJxOJ3CCVqtdLBYgvMvlMhwOwVCkUqlAIpGIWq0GCYfDXq8XBG0hoIbAarUKBoMguBGb
+H+x2u6VSKTqo2+1KJBJMiJk7nQ4iy+XSaDSiEziQSCRIxeanbYVCIT6fj6J3Aef3+wUCQTweJ7dY
+LIrF4slkcj6frVYrstlstlKpIMXmp4ObzaZQKNxut7vdzuPxVKtVmUyWyWSQws5tNluj0ej3+06n
+E8tyu90oY3p6FYJOp4P1+XxE8vm8RqN5Z74Gm3+9XuM+drvd4XCUy2VEZ7OZXC7Hm1ksFtwCEWwH
+behHgQCI0ArY/O12u1QqDQYD+CiCxRSFQmE0GoGjjkq/xLf/QyAxbZRAkV+AvR8EdLfPPj9Efrf/
+H+C//u/wb/Uc9wFZDq0o+ZNlVwAAAABJRU5ErkJggg==) ;применение российских соединителей (в том числе разъемов, жгутов, кабелей) (Bтоп = 6 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAIAAAAf7rriAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHgSURBVDhP7VJLy6lRGN0lf8IPMMAPMFFKipKJ
+GChz14yQkcsvkJRiggmKDJhQLlGEFCMDIiNMUC65fLzf8j1ffW/n1KlzxmcN9l7r2c/az7Mv7PV6
+fXwBhPsCRZ7PJ3EKAhQhEGf8EFL58vF4YLxer8lkcrfbgW82G7fbnUqlwJHJMDWbzV6vB0I4nU61
+Wm08HpPMZDKMsfV6DZ5Op6vVqslkmkwmkCwWi/n9fo1GEw6HoQ+Hg8FgcLlcRqOxXq8jgiNotdrF
+YgF+uVwwlkolFHibO50OJvSjUChAisWiWq0G6ff7FosFBG2rVKrZbAYOs91uF4vF8/kc8t02kEgk
+BoMByHK5lMlk3W43l8uVy2Va1ev11DbB6/UGg0GQtxn3IRAIrFYrikDm83mhUBgIBN6JHLdarUQi
+UaVSAW+3261WKxqNYndIRobRaCSRSKbT6fl8jkQiOItcLo/H41hCtsPhQAHwUCgETifFXXy3Ddhs
+tuPxmM1mdTod5Ha7lUqltETgvyKcGJnH4/H5fHAWCgVo3JxSqXQ6nWazGf0jcr/fb7cbvTlxcuJT
+sEajgVcdDofQlLHf7xGhl+dX+x0/bZOTdiVQhP9DfwFDNkAVKA+cIiT/ZP6e/wn/zX8FjvsEz7r0
+DN8+OjcAAAAASUVORK5CYII=) ;применение российских катушек индуктивности и трансформаторов
+(Bтоп = 3 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHpSURBVDhP7VI9q8FRHD7lM/gGFpNPwMJiMigs
+XsqEwUsKg1GysDDIYDIoZVBikCJClCiDlwwMLIpE3q77/P1ux73d7h3uHe5yn+H8n+d3fi/POefP
+Xh643W5Y7w+Q5JHr9crjfOWEIY80QJxHkHG5XECGw2GxWAShrfV63Wq1KIHhs1wue73e6XTiGZPJ
+pN/vgwDH41EqlRqNRnBqZ7fbbTYbCKyxbrfr8XjUarXBYCCr6XRaoVBotdpQKEQmM5mM1+sFATqd
+jsPhiEaj4BjGGo3G+XyGUKlU5ArT4AgEXebzOUg2m3W5XCCHw6HZbFar1VgsBgk7gn9gOp3mcjky
+r1Qq4/H4ZrPBzN1uhwi23G43SCQSCQaD5Hc2myEi1NfrdYlEotPpUAOJXmKx2GKx7Pd7SCCVSplM
+JpBarZZIJMxms1wuH4/HiAj12+12MBiIRKJkMglZqVRgT6/XYw4kulitVpwOJ4cE8Bz5fB7k6R8I
+h8PoDSKTyeggqCmVSo/NN+CC6ZmIY2XtdrtcLhcKhUAgsFgsENJoND6fD1bhczQaIYILxij+56A7
+DRDeH1fldDpRsFqtaBu/h9/vxyPhUJCU+hWe/gGk8iEEPofkZzB4w5EAPgfkfeSbYuDD/B/gv/53
++Nv6+/0VdWmkwcFJ5uAAAAAASUVORK5CYII=) из 29.32.30.364из 29.32.30.365из 29.32.30.366Электронный блок управления телематической системой (передачи данных
+от машины
+о местоположении, скорости, ускорении, времени движения, расходе топлива и др.), применяемый в составе продукции отрасли специального машиностроениявыполнение на территории Российской Федерации требований
+(в совокупности 140 баллов):наличие у юридического лица - налогового резидента Российской Федерации,
+не находящегося под контролем иностранного государства, и (или) международной организации, и (или) иностранного юридического
+или физического лица, и (или) иностранной структуры без образования юридического лица ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGHSURBVDhPzZBPqwFhFIdn6WvI1kcYpdQoi5Gw
+sGQlvoDu0geYsvIByCSxUrazRZRSsrDSlCz9ibhj7jPONFm51+7+yus5Z37nvOc9ivtWj8dDTsdx
+BN4VBO4AOL0C6PspWEL6EXKKCe12O/mkBCkEv4ZIwlqtFo1GAbp4N5zP56+nPIvr2rZdLBbj8Xin
+05FMu91WVRXwCyaTSTgczmQyMC2bzSY18/k8EolMp1OSm81G0zSAIZX7/Q61Wq1cLgdcLpfr9Qqg
+QqEwGAyA2WyWSCQAr0D2ZRiGFEiIbrdbuVyWt67X62QyCdDdL2g0GtlsFmBKrEC/3+/1egCq1+uh
+UGg4HMKKbJO5GQAQ92Kx6Ha7AOJVx+PxcDicTidCf62sKBaLyXssy6pUKtvtdrlcjkajYEiE2dvS
+eDzO5/OpVMo0TR5drVZ1XS+VSul0mmIMTIFVWvsjvdHrDci7gRSjI+nEYLCc4g7aI2W1WklK4l+l
+7Pd7/j4o4Pd3N/LX+tkNH+nfFbjuD0sbxWsbwK0pAAAAAElFTkSuQmCC) :прав на конструкторскую и техническую документацию для проектирования, производства, модернизации и развития соответствующей продукции
+на территории Российской Федерации в соответствии со спецификацией
+на готовое изделие в следующем составе:спецификация на готовое изделие с указанием сборочных единиц и деталей;схема электрическая принципиальная;исключительных или неисключительных (но неотзывных) прав на программное обеспечение;подтверждение осуществления на территории Российской Федерации процессов проектирования схемотехники, конструкции модуля, топологии печатных плат, встроенного программного обеспечения, а также наличия соответствующих кадров и затрат на их содержание;выполнение на территории Российской Федерации технологической операции - поверхностный монтаж чип-компонентов на печатную плату
+выполнение на территории Российской Федерации дополнительных требований:установка программного обеспечения, если оно является неотъемлемой частью оборудования (20 баллов);сборка электронного оборудования (корпусирование) (20 баллов);функциональное тестирование готового изделия и проведение технического контроля соответствия требованиям технических условий готового изделия (20 баллов);выполнение дополнительных требований по применению компонентов:применение российских системообразующих микросхем (Bтоп = 14 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VK9isJAGNynyDP4AkJExMYuhY0I
+pjCBYGWvWKUT9A1srFKZNL6ACMFUioWdIihoFRBEYuHf3my+veW4Qs7+plhmZr/5dr9NGH+L1+tF
+6/P5JPIuoKoVwSoCYGjweDyoDUDypxPHMVZUMsopQP5ygE6nUyqVQNBCnHC73Xq9XqFQGAwGaQH3
+PC+Xy1mWdTweSVYqFRAcKAJRFM1mMxBd16/XK07PZrNo1u12HceBv91u6/W6DKgLoA0qQJIkyefz
+k8kkCALf9+Esl0vTNEFEgMZaLBZoD/d0OkGGYcgYazQa4MBms7FtG0TOcL/fU59Xq9XRaAS33W6v
+Vqtardbv9+G7rqtp2nQ6BWfYSIsFms3mfD5fr9eZTAYSs5XLZZDL5XI+nzEeOAMbj8eGYaDfcDgU
+Oc5brVaxWISDu5FDwMDiSsjsdrvD4UAuYb/f0zzph5GAlEMTwOXO99OpXeXIX0OBXClSkCQfEIGP
+8B/4Cz4McP4FzubCOyBWPiQAAAAASUVORK5CYII=) ;применение российских печатных плат (Bтоп = 7 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGbSURBVDhP7VK7isJAFJ2f8DcCiiRp/AHtRLsk
+iIWFFhY2toKFKKROa2UhiHZiYSfaKIjgExW0EPHVKIqv7BnvbhAXl22221PMnHvvOTd3ZsLMN7g/
+QOR2u1n8JwNWSCm0PAzb9Xo9n8/PtcvlgiSAcDKZtNttKr1+AVLLRuh2u9Fo1G63G4aBEC3Y4XBI
+JBKyLOfzeRKVSiWXywXdfr+fzWbI7HY7j8dDVVYul2u1WqfTcTqdm81mtVo5HI7FYoGW8XicROPx
+OJVKEWfH45FYOp0G7/V6MCCsVCqZTIZKuVyu3++D8JGwTafTQCCQzWYfVTMcDnu93mKxuF6vEdbr
+dZhBlsslVm4YDAaRSIQx1mq1EGJCSZJ8Ph+urlqt2my2UCikKAqm5QbrWoLBYKFQ2G63fr8fYTKZ
+RAbHRbtmszkajZCEmL8DttPpFIvF5vM5PiIIAmq4e1VVeacvUGuGk7ndbgzQaDSooOu6KIqapg2H
+Q4Q4KKSk/nw4evNnYuF7ho+EDSt6YH0hVAIeYo63P987/Bt+g782mOYH38fpp3zGW7cAAAAASUVO
+RK5CYII=) ;применение российских вторичных преобразователей питания (Bтоп = 6 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAUCAIAAAALACogAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAF/SURBVDhP5ZK9isJQEIXzOr6CjRGiTSrBwijY
+WKSyEVMGoyAoBIMIgmBtFbCwshG7gFE0T2BsNxDERvxZs+dm5LIou/sAe8DLN5M5k5lrhOhnPR4P
+Oj9jEf9mgKiamIAZkL3H4i0phFhhFLmu6/s+AB6Birh4P67lclmpVCRJOhwOCNkbttutoiipVGq/
+3yNEi2q1inAwGCDc7XY4p9Op53nMcL1ebds+nU7D4TCfzyNlWVaxWASUSqXFYgEYjUblchmVzMAH
+Xa/Xk8kE0G63MQNA1/XVagVwHCeZTPb7ffBzB5RiSiwHDsMwnU6rqkohaTab9Xo9gIAt4dlsNjAk
+EglautPpiKJYr9fBrVYrk8l0u93z+cwM+HHhAU7TNLEGIJfLjcdjzIw7pQXQWgiC4CPWfD5vNpvI
+NhqNQqEAMAwDBgDp+ccdj0dN02RZxqsvlwtSaFmr1bLZLF0rupKIXz8NevBdLxl2S7fbDSOiMW/z
+nomLmf74+N71Dw1R9AUr3ll6ozhRGgAAAABJRU5ErkJggg==) ;применение российских микросхем и модулей связи и навигации
+(Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGFSURBVDhP7ZItqwJBGIXnP9ithgWxbrGIGMVs
+WRBkLbqIgs2iwSJ4Yc26Bg0qfiGCimUtYrLabIJoE/zauWd9L6Nc4e4fuCcMzztzzsw7O8v4n7Is
+i0YBDgGIrALY4/Gg4hMgAcfjkdg+gRzvgAWC6/WKsVKpJJNJAAxsMpmEw+FgMLhcLp8ens/nQ6FQ
+LBbb7/cod7udoiiFQgFsB0qlEqjT6ciyDOh2u4FAAGAYRi6XA8xms8FgUC6Xwff7/efSq9WqVqsB
+xuOxSCLT7/e/nopGo4fDAfMMoWaz6XK5RqORHeU8nU77fL56vQ4eDoc4JxKJeL3e9XqNGXa73bbb
+raZpbrebmoY1k8l4PB50b2/A+WazaTQaAJhf7xCPx0+nU6vVUlUVZbvd9vv9gPP5TB8NvWBk8/nc
+NE1d14vFIurpdCpJ0mKxqFarOId8CIjHYdlsNpVK4Vpij16vl0gkKA+JNyG9WqI9KEOCldzvGXZ5
+il6UFnAzmvl0Q84/3y/9B5zF+TcEbIUtK3nojAAAAABJRU5ErkJggg==) ;применение российских интерфейсных микросхем и преобразователей
+(Bтоп = 8 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAVCAIAAAAW+SPgAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAF6SURBVDhP7VExq4JQGHUP+iXSf3CopaA2IWir
+DFobAqEpghoiJJwkRTLHao0kaEgCqalZiAhqElqe6ct39Io8eATv7e8M1/Ode77Ddz+p4D1erxc5
+ExK6fd93XdfzvER9Pp9QoJPyMwI4RT4EuADiIgLacEqSVCwWZVkOs03TrNfrk8kkMgToFwSh0Wjs
+93uU8/m8VCqdz2dw6nK5DIfD3W6Xy+UURYHU6XRqtdp2u2VZ9na7Xa9XTdMYhrFtm/qIAJMoiqqq
+giBJ13WQarVqWRYIsFwux+NxvBOkchxH+Gq1ymQyaFgsFkQBDocDytD9eDy63W4qlWq32ygxd6vV
+SqfT6/Ua5Ww2azabPM87jkMlS9hsNuVyGaTX6xmGgXFpmkYk3ofU+/2OqzCbrAnDYDIQPHc0GoFU
+KpXpdApCgPVTx+MRz8rn8/1+n6in06lQKGSz2cFgQExA/HciQzjrO/L9f4VuUuM6IcSaKElDnP1L
+/Lt/4i/uIPgCazFLcJVt9F4AAAAASUVORK5CYII=) ;применение российских полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGuSURBVDhP7ZI/66lxGMa/Xod3YZBMYjaxKYPN
+QPKnSJks9ItFshCDQUkMZGKwkBKF2MQiKQaD/8/5PL5OP+cM55wXcK7h2/Vc9//7foTyRzyfT/k+
+Ho/7/Q5RA/i4XC63202aATapSKsUJQS2N/2Z79Pjer3yoieTSavVutvt1AqLxSIajVarVWnj7fV6
+4XC42WzCQSQSwQFCvNhut/F4vFwuWyyWQqGA2ul0zGZzsVi02Wzj8Xg0Gul0OqfTmclksIrT6UQh
+WD6fl2nI7fP5IF8vVCqVYDC4Wq0MBsN0On1vaT6fx2Ix2f1kMtFqtYPBIJ1OH49Hui+VSugOh4Pi
+agBFXC6XRqNJpVJqtKIkEgkhBH3Ch8MhveVyuUAgcDgcBFnP5zMG0phMJumRzWb7/b5er6/Vaiit
+VisUCq3Xa/j34Wazmd/vhzAAY0DYm91ufxnf4AZiuVx6PB7GcrvdTIJKbqPR6PV6abrb7aJwRCAn
+FPv9vt1uNxqNzWbDt7wUO6nX6+wE/nlZ8N0SkP/Cp4dUuKY8KBAwPICsKG3w35SXs4pfKvwL/gf8
+HYryA1YLeIUnz/t1AAAAAElFTkSuQmCC) ;применение российских силовых полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGXSURBVDhP7ZI9y4FxFMbvL+Ar2HwHpeRjmAwG
+g/JIJJlkUWIyWNxlMZgYiDKhhMGChCh5yWIk8vb8bke6LU/szzWcruucc/3/5/+i3L/EX4bb7Ua8
+Xq+nB87nM1IzUCB7uVykA7zkKyNAKvoUfURaRQr6/b7f7/d4PPl8HvkcqdlstlotiHgWi0WpVNrt
+dvBardZoNFRVjUQiSM2ANRgMms3mbDaLHI1GNpvN6/U6nc7tdiujTyaTer2uGY7HIx2wTqdjt9sh
+gUAgFApBGIN9ICCVSu33e8jzDIfDIZfLzWYzeLFYtFqt0+k0nU6vViupZjIZ6VRk6EQiYTAYwuEw
+HLjdbqPR2G63RbIEJ4HQrJ2BqYiVSsVkMjHxYDCIx+OFQsFisQyHQ0q9Xm+5XD4NvAhM4HA4iC6X
+KxaLQaLRqNyMQGZRNptNMpn0+Xyclcslxf2y9s8D4/GYDNtKt/ZwsG63W61WpSavNp/Py+Xyer2G
+S+sLb39JuvUvLVz/G7RrZQ0KRCnoMyIlL3jb4RP8Gz7Bl4b7/RfepPBVgm9AugAAAABJRU5ErkJg
+gg==) ;применение российских пассивных элементов стандартных (Bтоп = 3 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAYCAIAAAB8wupbAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAG4SURBVDhP7VI9y0FhGD6/weYP+AEssiLlYziz
+QUZRymAwKLMoOhYDMwZJCrGIkkIxSCGRkrD5/jiuxy0dy5t3eLf3qnOf677OfT3389zP4cRf4ifD
+/X5HvF6vp9MJkRQOD3C73RCfZUxFCoBTHYEUjl4E8LcNOJ/PiNVq1e129/t9cBSwLc3n82azeblc
+WNWzA9LJZAI+HA7tdnsymTQYDPSVg9Xr9er1eofDQZLL5bJYLFartdFoLBYLm822Wq08Hg9tj2u3
+27S2VqtdLpeDwUCpVCLFTpxOJ0g8Hler1ePxGBye15S63W6xWATBYiqVqtVq5XK5QqGw2WwymUyl
+UuF5fr/fo4AZ6vW6QqEwm8273Q5pNpuVyWTRaBS8VqtB3263RqNxOp0yA7ocDofRaCSXy/P5PCRB
+EBKJhE6nS6VSSCORiMlkKpVK4K8pEXw+H9brdDoajQZpr9fDZKRTJs7BGovFwuFwMBjE6dfrNU7v
+9/sDgQB0VED8uOlyuYymmPTxeGTriOJsNguFQul0mlJpE+DjX8I36cUjpWqKBHZo/ALo+1bhkSrS
+auCjwzf4N3yDvzaI4gPLzxFV7uBOcwAAAABJRU5ErkJggg==) ;применение российских конденсаторов большой емкости (Bтоп = 4 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGWSURBVDhP7VG7isJQEE3pP+QXrMU2oIIoGLCw
+kYCIoIWIXcAiTZqAgiCCVQqRtD4QG0HECIJEQbBTtPALRJD4SvYkN9xdhAW334EM55w7Z+5kLmP/
+HpZlIb9eLwCSQR3D8/m83W6Px4NIyPf7HQotogHKQPWYy98qENPpNBQKFYtFdAR1btB1PZfLaZrm
+FtimadZqNSjH4xE0nU5fr9dKpaIoCihzOp3q9fp8Puc4bjAYQBJFsVwu9/t9QRD2+30ymYS4WCwK
+hYJjQD+MC4QGw+EQIBKJjMdjgGg0erlccFU2m02lUrIsOwZ8iFarha4Ed7tdv9/f6XQmkwlRRqNR
+IBA4HA7AjuF8PkuS5PP5qtUqKNaQyWRYlt1sNqAYuFQqrVYrcsTQtfR6vXw+DwDzcrncbrfBYBBd
+Mf1ut4P+vSVsHbnZbGIMAPxDu90GSCQSs9kMAEGq0Z1Zr9c8z8disUajQc4Mw4jH4+FwWFVVUJSS
+t3IfyfJ+mj4fBTh7AyQcA5FQSgGxUeWnx7vh8/g3fBJ/NNj2F7s+g7O79ytMAAAAAElFTkSuQmCC
+) ;применение российских сенсорных элементов (Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAXCAIAAABrvZPKAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAIPSURBVDhP7ZJPq2lRGMb31NfwBSTlT4mvIJGB
+jDBBSZQBRUohJMmAEgZCMhGliBKlJCMhyYASIxH5d/Z99lly3G7nDu4d3brPYO/fetb7rvWudy2K
+/l4fnwLc7/fH40EcwPuQyb/dbpfLBe4r53q9wkEQGCYRmXoOaJosQZEfERbC9z2ILBqJRLxeL3Hy
++bxYLK5UKmDMMvtXq1WbzdbtdomFbywWc7lcy+USfD6fJRKJXq8Hj8djpVIJR6vVzudzOFS73Q6H
+w/F4nMfjTadTWHa7XaVS5XI5uVy+2Wzg1Ot1s9kMwLp+vx/g8/kymQyTv1qt8INMJlOz2QRwOJzR
+aARQq9XD4RCQzWaNRiMgFAql02lAIBBIpVIApn4cuFQqFYtFMOR0OmUyWb/fR9rxeIRTq9UcDgcA
+RXk8HoDb7UZRACZ/MBhIpVIWi9Xr9TCEhEIhl8udzWZkaLFYRCLRbrc7nU44FA6r0WhIsylcFbkC
+hUJhtVoBwWCwXC4XCgU+n4/TIS6ZTKJHk8kEs2ghalmv12Akfr0f9AZxADabvVgsADqdLpFIfE4+
+RW6H6Hn/6Ad6YzAYsMPhcIAVjUYFAgHaiUvdbrdw8JZeZWIJ8rTAaByFelqtVqfTQQSx8EXbG43G
+fr8Hk9Dv9FU/RELfE177kOGvYt4v0SsI8O78Jhn6af8/0P/8v9O/nU/TPwDXmhtQQjVL3QAAAABJ
+RU5ErkJggg==) ;применение российских периферийных микросхем (Bтоп = 8 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAIAAADJt1n/AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHiSURBVDhP7ZK/y4FRFMevv8A/wK6sFiMWm8kk
+RZlIIqIMj2RUYrMgRVn8msgglJCSpEwsRLJZ/PZ+H8f78D71DnrX9zvcPvfcc+45597D7r/r9hDg
+er1eLhdirALzwTg7Ho/n85lMEJgsYMEIEBgCM1zz3H374S7aQqfTCWu9XrfZbHS63W4tFstkMgHz
+mWezWTAYLBaLYPJoNpt+v7/RaIAhj8ejUCjoqFqtymSyXq8HZpvNJhKJ5HI5rVabzWZhQh6dTpfJ
+ZIxGY7/fh2W9Xuv1etRIRTkcjk6nwwfv93tUAkomk6FQCOB2uwOBACAcDkejUcB4PNZoNMITmM3m
+drsNfr72dDrlOI4KGwwGcrl8OBzGYjHUBctqtTIYDAB6IKfTORqNAHwwklutVolEEo/HsYWQkzFW
+LpdpWygUpFIpPdJisVAqlYlEAszQxuFwAKVSKbQK6Ha7aAFdqVSqWq1GwXjRVqsFRkW4Op/Po4vX
+kKAxn88HsNvt1Hw6nUZ7j8OnqG1BDP+EHrxeL2LAMCGnWq12uVwmkwlVwIKBgajh94liu90OtVUq
+leVyiTOaivl8XiqV6K73KRLpVTZEVb17C99DHyESgxXeEA0A+YFFloezWD8yf6r/4A/1h+D7/Qv8
+uGgNZwuOCAAAAABJRU5ErkJggg==) ;применение российских микросхем памяти (Bтоп = 11 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHuSURBVDhP7VJL6+FhFPYR+AC+gZI9G1bKwsqC
+ZEcUJcpSNhYWIiU7JZeFDeW6YKHkllJyi4VQCBss3H//53Wmf9PMv2maWcxmnsXpOZfnPe8578vj
+OO71ej2fz8fjAQIXIBeWOAWBnzkPmu9ln5Zwv99hN5tNLBa7Xq/gyWTSbDb3ej1wVLL+QL1er9Vq
+IHTW4XDI5XLz+fyd5Ewmk0gkQmo8HqfT6Wg0qlAojscjUkyPkMvlkkqlgUAA7n6/VyqVaKLX61ut
+FiLT6dRgMJxOJ3CCVqtdLBYgvMvlMhwOwVCkUqlAIpGIWq0GCYfDXq8XBG0hoIbAarUKBoMguBGb
+H+x2u6VSKTqo2+1KJBJMiJk7nQ4iy+XSaDSiEziQSCRIxeanbYVCIT6fj6J3Aef3+wUCQTweJ7dY
+LIrF4slkcj6frVYrstlstlKpIMXmp4ObzaZQKNxut7vdzuPxVKtVmUyWyWSQws5tNluj0ej3+06n
+E8tyu90oY3p6FYJOp4P1+XxE8vm8RqN5Z74Gm3+9XuM+drvd4XCUy2VEZ7OZXC7Hm1ksFtwCEWwH
+behHgQCI0ArY/O12u1QqDQYD+CiCxRSFQmE0GoGjjkq/xLf/QyAxbZRAkV+AvR8EdLfPPj9Efrf/
+H+C//u/wb/Uc9wFZDq0o+ZNlVwAAAABJRU5ErkJggg==) ;применение российских соединителей (в том числе разъемов, жгутов, кабелей) (Bтоп = 6 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAIAAAAf7rriAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHgSURBVDhP7VJLy6lRGN0lf8IPMMAPMFFKipKJ
+GChz14yQkcsvkJRiggmKDJhQLlGEFCMDIiNMUC65fLzf8j1ffW/n1KlzxmcN9l7r2c/az7Mv7PV6
+fXwBhPsCRZ7PJ3EKAhQhEGf8EFL58vF4YLxer8lkcrfbgW82G7fbnUqlwJHJMDWbzV6vB0I4nU61
+Wm08HpPMZDKMsfV6DZ5Op6vVqslkmkwmkCwWi/n9fo1GEw6HoQ+Hg8FgcLlcRqOxXq8jgiNotdrF
+YgF+uVwwlkolFHibO50OJvSjUChAisWiWq0G6ff7FosFBG2rVKrZbAYOs91uF4vF8/kc8t02kEgk
+BoMByHK5lMlk3W43l8uVy2Va1ev11DbB6/UGg0GQtxn3IRAIrFYrikDm83mhUBgIBN6JHLdarUQi
+UaVSAW+3261WKxqNYndIRobRaCSRSKbT6fl8jkQiOItcLo/H41hCtsPhQAHwUCgETifFXXy3Ddhs
+tuPxmM1mdTod5Ha7lUqltETgvyKcGJnH4/H5fHAWCgVo3JxSqXQ6nWazGf0jcr/fb7cbvTlxcuJT
+sEajgVcdDofQlLHf7xGhl+dX+x0/bZOTdiVQhP9DfwFDNkAVKA+cIiT/ZP6e/wn/zX8FjvsEz7r0
+DN8+OjcAAAAASUVORK5CYII=) ;применение российских катушек индуктивности и трансформаторов
+(Bтоп = 3 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHpSURBVDhP7VI9q8FRHD7lM/gGFpNPwMJiMigs
+XsqEwUsKg1GysDDIYDIoZVBikCJClCiDlwwMLIpE3q77/P1ux73d7h3uHe5yn+H8n+d3fi/POefP
+Xh643W5Y7w+Q5JHr9crjfOWEIY80QJxHkHG5XECGw2GxWAShrfV63Wq1KIHhs1wue73e6XTiGZPJ
+pN/vgwDH41EqlRqNRnBqZ7fbbTYbCKyxbrfr8XjUarXBYCCr6XRaoVBotdpQKEQmM5mM1+sFATqd
+jsPhiEaj4BjGGo3G+XyGUKlU5ArT4AgEXebzOUg2m3W5XCCHw6HZbFar1VgsBgk7gn9gOp3mcjky
+r1Qq4/H4ZrPBzN1uhwi23G43SCQSCQaD5Hc2myEi1NfrdYlEotPpUAOJXmKx2GKx7Pd7SCCVSplM
+JpBarZZIJMxms1wuH4/HiAj12+12MBiIRKJkMglZqVRgT6/XYw4kulitVpwOJ4cE8Bz5fB7k6R8I
+h8PoDSKTyeggqCmVSo/NN+CC6ZmIY2XtdrtcLhcKhUAgsFgsENJoND6fD1bhczQaIYILxij+56A7
+DRDeH1fldDpRsFqtaBu/h9/vxyPhUJCU+hWe/gGk8iEEPofkZzB4w5EAPgfkfeSbYuDD/B/gv/53
++Nv6+/0VdWmkwcFJ5uAAAAAASUVORK5CYII=)
+из 29.32.30.366Электронный блок управления
+с искусственным интеллектом
+для бортовых электронных систем, применяемый
+в составе продукции отрасли специального машиностроениявыполнение на территории Российской Федерации требований
+(в совокупности 140 баллов):наличие у юридического лица - налогового резидента Российской Федерации,
+не находящегося под контролем иностранного государства, и (или) международной организации, и (или) иностранного юридического
+или физического лица, и (или) иностранной структуры без образования юридического лица ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGHSURBVDhPzZBPqwFhFIdn6WvI1kcYpdQoi5Gw
+sGQlvoDu0geYsvIByCSxUrazRZRSsrDSlCz9ibhj7jPONFm51+7+yus5Z37nvOc9ivtWj8dDTsdx
+BN4VBO4AOL0C6PspWEL6EXKKCe12O/mkBCkEv4ZIwlqtFo1GAbp4N5zP56+nPIvr2rZdLBbj8Xin
+05FMu91WVRXwCyaTSTgczmQyMC2bzSY18/k8EolMp1OSm81G0zSAIZX7/Q61Wq1cLgdcLpfr9Qqg
+QqEwGAyA2WyWSCQAr0D2ZRiGFEiIbrdbuVyWt67X62QyCdDdL2g0GtlsFmBKrEC/3+/1egCq1+uh
+UGg4HMKKbJO5GQAQ92Kx6Ha7AOJVx+PxcDicTidCf62sKBaLyXssy6pUKtvtdrlcjkajYEiE2dvS
+eDzO5/OpVMo0TR5drVZ1XS+VSul0mmIMTIFVWvsjvdHrDci7gRSjI+nEYLCc4g7aI2W1WklK4l+l
+7Pd7/j4o4Pd3N/LX+tkNH+nfFbjuD0sbxWsbwK0pAAAAAElFTkSuQmCC) :прав на конструкторскую и техническую документацию для проектирования, производства, модернизации и развития соответствующей продукции
+на территории Российской Федерации в соответствии со спецификацией
+на готовое изделие в следующем составе:спецификация на готовое изделие с указанием сборочных единиц и деталей;схема электрическая принципиальная;исключительных или неисключительных (но неотзывных) прав на программное обеспечение;подтверждение осуществления на территории Российской Федерации процессов проектирования схемотехники, конструкции модуля, топологии печатных плат, встроенного программного обеспечения, а также наличия соответствующих кадров и затрат на их содержание;выполнение на территории Российской Федерации технологической операции - поверхностный монтаж чип-компонентов на печатную плату
+выполнение на территории Российской Федерации дополнительных требований:установка программного обеспечения, если оно является неотъемлемой частью оборудования (20 баллов);сборка электронного оборудования (корпусирование) (20 баллов);функциональное тестирование готового изделия и проведение технического контроля соответствия требованиям технических условий готового изделия (20 баллов);выполнение дополнительных требований по применению компонентов:применение российских системообразующих микросхем (Bтоп = 14 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VK9isJAGNynyDP4AkJExMYuhY0I
+pjCBYGWvWKUT9A1srFKZNL6ACMFUioWdIihoFRBEYuHf3my+veW4Qs7+plhmZr/5dr9NGH+L1+tF
+6/P5JPIuoKoVwSoCYGjweDyoDUDypxPHMVZUMsopQP5ygE6nUyqVQNBCnHC73Xq9XqFQGAwGaQH3
+PC+Xy1mWdTweSVYqFRAcKAJRFM1mMxBd16/XK07PZrNo1u12HceBv91u6/W6DKgLoA0qQJIkyefz
+k8kkCALf9+Esl0vTNEFEgMZaLBZoD/d0OkGGYcgYazQa4MBms7FtG0TOcL/fU59Xq9XRaAS33W6v
+Vqtardbv9+G7rqtp2nQ6BWfYSIsFms3mfD5fr9eZTAYSs5XLZZDL5XI+nzEeOAMbj8eGYaDfcDgU
+Oc5brVaxWISDu5FDwMDiSsjsdrvD4UAuYb/f0zzph5GAlEMTwOXO99OpXeXIX0OBXClSkCQfEIGP
+8B/4Cz4McP4FzubCOyBWPiQAAAAASUVORK5CYII=) ;применение российских печатных плат (Bтоп = 7 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGbSURBVDhP7VK7isJAFJ2f8DcCiiRp/AHtRLsk
+iIWFFhY2toKFKKROa2UhiHZiYSfaKIjgExW0EPHVKIqv7BnvbhAXl22221PMnHvvOTd3ZsLMN7g/
+QOR2u1n8JwNWSCm0PAzb9Xo9n8/PtcvlgiSAcDKZtNttKr1+AVLLRuh2u9Fo1G63G4aBEC3Y4XBI
+JBKyLOfzeRKVSiWXywXdfr+fzWbI7HY7j8dDVVYul2u1WqfTcTqdm81mtVo5HI7FYoGW8XicROPx
+OJVKEWfH45FYOp0G7/V6MCCsVCqZTIZKuVyu3++D8JGwTafTQCCQzWYfVTMcDnu93mKxuF6vEdbr
+dZhBlsslVm4YDAaRSIQx1mq1EGJCSZJ8Ph+urlqt2my2UCikKAqm5QbrWoLBYKFQ2G63fr8fYTKZ
+RAbHRbtmszkajZCEmL8DttPpFIvF5vM5PiIIAmq4e1VVeacvUGuGk7ndbgzQaDSooOu6KIqapg2H
+Q4Q4KKSk/nw4evNnYuF7ho+EDSt6YH0hVAIeYo63P987/Bt+g782mOYH38fpp3zGW7cAAAAASUVO
+RK5CYII=) ;применение российских вторичных преобразователей питания (Bтоп = 6 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAUCAIAAAALACogAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAF/SURBVDhP5ZK9isJQEIXzOr6CjRGiTSrBwijY
+WKSyEVMGoyAoBIMIgmBtFbCwshG7gFE0T2BsNxDERvxZs+dm5LIou/sAe8DLN5M5k5lrhOhnPR4P
+Oj9jEf9mgKiamIAZkL3H4i0phFhhFLmu6/s+AB6Birh4P67lclmpVCRJOhwOCNkbttutoiipVGq/
+3yNEi2q1inAwGCDc7XY4p9Op53nMcL1ebds+nU7D4TCfzyNlWVaxWASUSqXFYgEYjUblchmVzMAH
+Xa/Xk8kE0G63MQNA1/XVagVwHCeZTPb7ffBzB5RiSiwHDsMwnU6rqkohaTab9Xo9gIAt4dlsNjAk
+EglautPpiKJYr9fBrVYrk8l0u93z+cwM+HHhAU7TNLEGIJfLjcdjzIw7pQXQWgiC4CPWfD5vNpvI
+NhqNQqEAMAwDBgDp+ccdj0dN02RZxqsvlwtSaFmr1bLZLF0rupKIXz8NevBdLxl2S7fbDSOiMW/z
+nomLmf74+N71Dw1R9AUr3ll6ozhRGgAAAABJRU5ErkJggg==) ;применение российских микросхем и модулей связи и навигации
+(Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGFSURBVDhP7ZItqwJBGIXnP9ithgWxbrGIGMVs
+WRBkLbqIgs2iwSJ4Yc26Bg0qfiGCimUtYrLabIJoE/zauWd9L6Nc4e4fuCcMzztzzsw7O8v4n7Is
+i0YBDgGIrALY4/Gg4hMgAcfjkdg+gRzvgAWC6/WKsVKpJJNJAAxsMpmEw+FgMLhcLp8ens/nQ6FQ
+LBbb7/cod7udoiiFQgFsB0qlEqjT6ciyDOh2u4FAAGAYRi6XA8xms8FgUC6Xwff7/efSq9WqVqsB
+xuOxSCLT7/e/nopGo4fDAfMMoWaz6XK5RqORHeU8nU77fL56vQ4eDoc4JxKJeL3e9XqNGXa73bbb
+raZpbrebmoY1k8l4PB50b2/A+WazaTQaAJhf7xCPx0+nU6vVUlUVZbvd9vv9gPP5TB8NvWBk8/nc
+NE1d14vFIurpdCpJ0mKxqFarOId8CIjHYdlsNpVK4Vpij16vl0gkKA+JNyG9WqI9KEOCldzvGXZ5
+il6UFnAzmvl0Q84/3y/9B5zF+TcEbIUtK3nojAAAAABJRU5ErkJggg==) ;применение российских интерфейсных микросхем и преобразователей
+(Bтоп = 8 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAVCAIAAAAW+SPgAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAF6SURBVDhP7VExq4JQGHUP+iXSf3CopaA2IWir
+DFobAqEpghoiJJwkRTLHao0kaEgCqalZiAhqElqe6ct39Io8eATv7e8M1/Ode77Ddz+p4D1erxc5
+ExK6fd93XdfzvER9Pp9QoJPyMwI4RT4EuADiIgLacEqSVCwWZVkOs03TrNfrk8kkMgToFwSh0Wjs
+93uU8/m8VCqdz2dw6nK5DIfD3W6Xy+UURYHU6XRqtdp2u2VZ9na7Xa9XTdMYhrFtm/qIAJMoiqqq
+giBJ13WQarVqWRYIsFwux+NxvBOkchxH+Gq1ymQyaFgsFkQBDocDytD9eDy63W4qlWq32ygxd6vV
+SqfT6/Ua5Ww2azabPM87jkMlS9hsNuVyGaTX6xmGgXFpmkYk3ofU+/2OqzCbrAnDYDIQPHc0GoFU
+KpXpdApCgPVTx+MRz8rn8/1+n6in06lQKGSz2cFgQExA/HciQzjrO/L9f4VuUuM6IcSaKElDnP1L
+/Lt/4i/uIPgCazFLcJVt9F4AAAAASUVORK5CYII=) ;применение российских полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGuSURBVDhP7ZI/66lxGMa/Xod3YZBMYjaxKYPN
+QPKnSJks9ItFshCDQUkMZGKwkBKF2MQiKQaD/8/5PL5OP+cM55wXcK7h2/Vc9//7foTyRzyfT/k+
+Ho/7/Q5RA/i4XC63202aATapSKsUJQS2N/2Z79Pjer3yoieTSavVutvt1AqLxSIajVarVWnj7fV6
+4XC42WzCQSQSwQFCvNhut/F4vFwuWyyWQqGA2ul0zGZzsVi02Wzj8Xg0Gul0OqfTmclksIrT6UQh
+WD6fl2nI7fP5IF8vVCqVYDC4Wq0MBsN0On1vaT6fx2Ix2f1kMtFqtYPBIJ1OH49Hui+VSugOh4Pi
+agBFXC6XRqNJpVJqtKIkEgkhBH3Ch8MhveVyuUAgcDgcBFnP5zMG0phMJumRzWb7/b5er6/Vaiit
+VisUCq3Xa/j34Wazmd/vhzAAY0DYm91ufxnf4AZiuVx6PB7GcrvdTIJKbqPR6PV6abrb7aJwRCAn
+FPv9vt1uNxqNzWbDt7wUO6nX6+wE/nlZ8N0SkP/Cp4dUuKY8KBAwPICsKG3w35SXs4pfKvwL/gf8
+HYryA1YLeIUnz/t1AAAAAElFTkSuQmCC) ;применение российских силовых полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGXSURBVDhP7ZI9y4FxFMbvL+Ar2HwHpeRjmAwG
+g/JIJJlkUWIyWNxlMZgYiDKhhMGChCh5yWIk8vb8bke6LU/szzWcruucc/3/5/+i3L/EX4bb7Ua8
+Xq+nB87nM1IzUCB7uVykA7zkKyNAKvoUfURaRQr6/b7f7/d4PPl8HvkcqdlstlotiHgWi0WpVNrt
+dvBardZoNFRVjUQiSM2ANRgMms3mbDaLHI1GNpvN6/U6nc7tdiujTyaTer2uGY7HIx2wTqdjt9sh
+gUAgFApBGIN9ICCVSu33e8jzDIfDIZfLzWYzeLFYtFqt0+k0nU6vViupZjIZ6VRk6EQiYTAYwuEw
+HLjdbqPR2G63RbIEJ4HQrJ2BqYiVSsVkMjHxYDCIx+OFQsFisQyHQ0q9Xm+5XD4NvAhM4HA4iC6X
+KxaLQaLRqNyMQGZRNptNMpn0+Xyclcslxf2y9s8D4/GYDNtKt/ZwsG63W61WpSavNp/Py+Xyer2G
+S+sLb39JuvUvLVz/G7RrZQ0KRCnoMyIlL3jb4RP8Gz7Bl4b7/RfepPBVgm9AugAAAABJRU5ErkJg
+gg==) ;применение российских пассивных элементов стандартных (Bтоп = 3 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAYCAIAAAB8wupbAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAG4SURBVDhP7VI9y0FhGD6/weYP+AEssiLlYziz
+QUZRymAwKLMoOhYDMwZJCrGIkkIxSCGRkrD5/jiuxy0dy5t3eLf3qnOf677OfT3389zP4cRf4ifD
+/X5HvF6vp9MJkRQOD3C73RCfZUxFCoBTHYEUjl4E8LcNOJ/PiNVq1e129/t9cBSwLc3n82azeblc
+WNWzA9LJZAI+HA7tdnsymTQYDPSVg9Xr9er1eofDQZLL5bJYLFartdFoLBYLm822Wq08Hg9tj2u3
+27S2VqtdLpeDwUCpVCLFTpxOJ0g8Hler1ePxGBye15S63W6xWATBYiqVqtVq5XK5QqGw2WwymUyl
+UuF5fr/fo4AZ6vW6QqEwm8273Q5pNpuVyWTRaBS8VqtB3263RqNxOp0yA7ocDofRaCSXy/P5PCRB
+EBKJhE6nS6VSSCORiMlkKpVK4K8pEXw+H9brdDoajQZpr9fDZKRTJs7BGovFwuFwMBjE6dfrNU7v
+9/sDgQB0VED8uOlyuYymmPTxeGTriOJsNguFQul0mlJpE+DjX8I36cUjpWqKBHZo/ALo+1bhkSrS
+auCjwzf4N3yDvzaI4gPLzxFV7uBOcwAAAABJRU5ErkJggg==) ;применение российских конденсаторов большой емкости (Bтоп = 4 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGWSURBVDhP7VG7isJQEE3pP+QXrMU2oIIoGLCw
+kYCIoIWIXcAiTZqAgiCCVQqRtD4QG0HECIJEQbBTtPALRJD4SvYkN9xdhAW334EM55w7Z+5kLmP/
+HpZlIb9eLwCSQR3D8/m83W6Px4NIyPf7HQotogHKQPWYy98qENPpNBQKFYtFdAR1btB1PZfLaZrm
+FtimadZqNSjH4xE0nU5fr9dKpaIoCihzOp3q9fp8Puc4bjAYQBJFsVwu9/t9QRD2+30ymYS4WCwK
+hYJjQD+MC4QGw+EQIBKJjMdjgGg0erlccFU2m02lUrIsOwZ8iFarha4Ed7tdv9/f6XQmkwlRRqNR
+IBA4HA7AjuF8PkuS5PP5qtUqKNaQyWRYlt1sNqAYuFQqrVYrcsTQtfR6vXw+DwDzcrncbrfBYBBd
+Mf1ut4P+vSVsHbnZbGIMAPxDu90GSCQSs9kMAEGq0Z1Zr9c8z8disUajQc4Mw4jH4+FwWFVVUJSS
+t3IfyfJ+mj4fBTh7AyQcA5FQSgGxUeWnx7vh8/g3fBJ/NNj2F7s+g7O79ytMAAAAAElFTkSuQmCC
+) ;применение российских сенсорных элементов (Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAXCAIAAABrvZPKAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAIPSURBVDhP7ZJPq2lRGMb31NfwBSTlT4mvIJGB
+jDBBSZQBRUohJMmAEgZCMhGliBKlJCMhyYASIxH5d/Z99lly3G7nDu4d3brPYO/fetb7rvWudy2K
+/l4fnwLc7/fH40EcwPuQyb/dbpfLBe4r53q9wkEQGCYRmXoOaJosQZEfERbC9z2ILBqJRLxeL3Hy
++bxYLK5UKmDMMvtXq1WbzdbtdomFbywWc7lcy+USfD6fJRKJXq8Hj8djpVIJR6vVzudzOFS73Q6H
+w/F4nMfjTadTWHa7XaVS5XI5uVy+2Wzg1Ot1s9kMwLp+vx/g8/kymQyTv1qt8INMJlOz2QRwOJzR
+aARQq9XD4RCQzWaNRiMgFAql02lAIBBIpVIApn4cuFQqFYtFMOR0OmUyWb/fR9rxeIRTq9UcDgcA
+RXk8HoDb7UZRACZ/MBhIpVIWi9Xr9TCEhEIhl8udzWZkaLFYRCLRbrc7nU44FA6r0WhIsylcFbkC
+hUJhtVoBwWCwXC4XCgU+n4/TIS6ZTKJHk8kEs2ghalmv12Akfr0f9AZxADabvVgsADqdLpFIfE4+
+RW6H6Hn/6Ad6YzAYsMPhcIAVjUYFAgHaiUvdbrdw8JZeZWIJ8rTAaByFelqtVqfTQQSx8EXbG43G
+fr8Hk9Dv9FU/RELfE177kOGvYt4v0SsI8O78Jhn6af8/0P/8v9O/nU/TPwDXmhtQQjVL3QAAAABJ
+RU5ErkJggg==) ;применение российских периферийных микросхем (Bтоп = 8 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAIAAADJt1n/AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHiSURBVDhP7ZK/y4FRFMevv8A/wK6sFiMWm8kk
+RZlIIqIMj2RUYrMgRVn8msgglJCSpEwsRLJZ/PZ+H8f78D71DnrX9zvcPvfcc+45597D7r/r9hDg
+er1eLhdirALzwTg7Ho/n85lMEJgsYMEIEBgCM1zz3H374S7aQqfTCWu9XrfZbHS63W4tFstkMgHz
+mWezWTAYLBaLYPJoNpt+v7/RaIAhj8ejUCjoqFqtymSyXq8HZpvNJhKJ5HI5rVabzWZhQh6dTpfJ
+ZIxGY7/fh2W9Xuv1etRIRTkcjk6nwwfv93tUAkomk6FQCOB2uwOBACAcDkejUcB4PNZoNMITmM3m
+drsNfr72dDrlOI4KGwwGcrl8OBzGYjHUBctqtTIYDAB6IKfTORqNAHwwklutVolEEo/HsYWQkzFW
+LpdpWygUpFIpPdJisVAqlYlEAszQxuFwAKVSKbQK6Ha7aAFdqVSqWq1GwXjRVqsFRkW4Op/Po4vX
+kKAxn88HsNvt1Hw6nUZ7j8OnqG1BDP+EHrxeL2LAMCGnWq12uVwmkwlVwIKBgajh94liu90OtVUq
+leVyiTOaivl8XiqV6K73KRLpVTZEVb17C99DHyESgxXeEA0A+YFFloezWD8yf6r/4A/1h+D7/Qv8
+uGgNZwuOCAAAAABJRU5ErkJggg==) ;применение российских микросхем памяти (Bтоп = 11 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHuSURBVDhP7VJL6+FhFPYR+AC+gZI9G1bKwsqC
+ZEcUJcpSNhYWIiU7JZeFDeW6YKHkllJyi4VQCBss3H//53Wmf9PMv2maWcxmnsXpOZfnPe8578vj
+OO71ej2fz8fjAQIXIBeWOAWBnzkPmu9ln5Zwv99hN5tNLBa7Xq/gyWTSbDb3ej1wVLL+QL1er9Vq
+IHTW4XDI5XLz+fyd5Ewmk0gkQmo8HqfT6Wg0qlAojscjUkyPkMvlkkqlgUAA7n6/VyqVaKLX61ut
+FiLT6dRgMJxOJ3CCVqtdLBYgvMvlMhwOwVCkUqlAIpGIWq0GCYfDXq8XBG0hoIbAarUKBoMguBGb
+H+x2u6VSKTqo2+1KJBJMiJk7nQ4iy+XSaDSiEziQSCRIxeanbYVCIT6fj6J3Aef3+wUCQTweJ7dY
+LIrF4slkcj6frVYrstlstlKpIMXmp4ObzaZQKNxut7vdzuPxVKtVmUyWyWSQws5tNluj0ej3+06n
+E8tyu90oY3p6FYJOp4P1+XxE8vm8RqN5Z74Gm3+9XuM+drvd4XCUy2VEZ7OZXC7Hm1ksFtwCEWwH
+behHgQCI0ArY/O12u1QqDQYD+CiCxRSFQmE0GoGjjkq/xLf/QyAxbZRAkV+AvR8EdLfPPj9Efrf/
+H+C//u/wb/Uc9wFZDq0o+ZNlVwAAAABJRU5ErkJggg==) ;
+применение российских соединителей (в том числе разъемов, жгутов, кабелей) (Bтоп = 6 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAIAAAAf7rriAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHgSURBVDhP7VJLy6lRGN0lf8IPMMAPMFFKipKJ
+GChz14yQkcsvkJRiggmKDJhQLlGEFCMDIiNMUC65fLzf8j1ffW/n1KlzxmcN9l7r2c/az7Mv7PV6
+fXwBhPsCRZ7PJ3EKAhQhEGf8EFL58vF4YLxer8lkcrfbgW82G7fbnUqlwJHJMDWbzV6vB0I4nU61
+Wm08HpPMZDKMsfV6DZ5Op6vVqslkmkwmkCwWi/n9fo1GEw6HoQ+Hg8FgcLlcRqOxXq8jgiNotdrF
+YgF+uVwwlkolFHibO50OJvSjUChAisWiWq0G6ff7FosFBG2rVKrZbAYOs91uF4vF8/kc8t02kEgk
+BoMByHK5lMlk3W43l8uVy2Va1ev11DbB6/UGg0GQtxn3IRAIrFYrikDm83mhUBgIBN6JHLdarUQi
+UaVSAW+3261WKxqNYndIRobRaCSRSKbT6fl8jkQiOItcLo/H41hCtsPhQAHwUCgETifFXXy3Ddhs
+tuPxmM1mdTod5Ha7lUqltETgvyKcGJnH4/H5fHAWCgVo3JxSqXQ6nWazGf0jcr/fb7cbvTlxcuJT
+sEajgVcdDofQlLHf7xGhl+dX+x0/bZOTdiVQhP9DfwFDNkAVKA+cIiT/ZP6e/wn/zX8FjvsEz7r0
+DN8+OjcAAAAASUVORK5CYII=) ;применение российских катушек индуктивности и трансформаторов
+(Bтоп = 3 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHpSURBVDhP7VI9q8FRHD7lM/gGFpNPwMJiMigs
+XsqEwUsKg1GysDDIYDIoZVBikCJClCiDlwwMLIpE3q77/P1ux73d7h3uHe5yn+H8n+d3fi/POefP
+Xh643W5Y7w+Q5JHr9crjfOWEIY80QJxHkHG5XECGw2GxWAShrfV63Wq1KIHhs1wue73e6XTiGZPJ
+pN/vgwDH41EqlRqNRnBqZ7fbbTYbCKyxbrfr8XjUarXBYCCr6XRaoVBotdpQKEQmM5mM1+sFATqd
+jsPhiEaj4BjGGo3G+XyGUKlU5ArT4AgEXebzOUg2m3W5XCCHw6HZbFar1VgsBgk7gn9gOp3mcjky
+r1Qq4/H4ZrPBzN1uhwi23G43SCQSCQaD5Hc2myEi1NfrdYlEotPpUAOJXmKx2GKx7Pd7SCCVSplM
+JpBarZZIJMxms1wuH4/HiAj12+12MBiIRKJkMglZqVRgT6/XYw4kulitVpwOJ4cE8Bz5fB7k6R8I
+h8PoDSKTyeggqCmVSo/NN+CC6ZmIY2XtdrtcLhcKhUAgsFgsENJoND6fD1bhczQaIYILxij+56A7
+DRDeH1fldDpRsFqtaBu/h9/vxyPhUJCU+hWe/gGk8iEEPofkZzB4w5EAPgfkfeSbYuDD/B/gv/53
++Nv6+/0VdWmkwcFJ5uAAAAAASUVORK5CYII=)
+из 29.32.30.350Электронный блок управления бортовыми системами (автоматическим включением освещения, запиранием и отпиранием дверей и т.п.), применяемый
+в составе продукции отрасли специального машиностроениявыполнение на территории Российской Федерации требований
+(в совокупности 140 баллов):наличие у юридического лица - налогового резидента Российской Федерации,
+не находящегося под контролем иностранного государства, и (или) международной организации, и (или) иностранного юридического или физического лица, и (или) иностранной структуры без образования юридического лица ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGHSURBVDhPzZBPqwFhFIdn6WvI1kcYpdQoi5Gw
+sGQlvoDu0geYsvIByCSxUrazRZRSsrDSlCz9ibhj7jPONFm51+7+yus5Z37nvOc9ivtWj8dDTsdx
+BN4VBO4AOL0C6PspWEL6EXKKCe12O/mkBCkEv4ZIwlqtFo1GAbp4N5zP56+nPIvr2rZdLBbj8Xin
+05FMu91WVRXwCyaTSTgczmQyMC2bzSY18/k8EolMp1OSm81G0zSAIZX7/Q61Wq1cLgdcLpfr9Qqg
+QqEwGAyA2WyWSCQAr0D2ZRiGFEiIbrdbuVyWt67X62QyCdDdL2g0GtlsFmBKrEC/3+/1egCq1+uh
+UGg4HMKKbJO5GQAQ92Kx6Ha7AOJVx+PxcDicTidCf62sKBaLyXssy6pUKtvtdrlcjkajYEiE2dvS
+eDzO5/OpVMo0TR5drVZ1XS+VSul0mmIMTIFVWvsjvdHrDci7gRSjI+nEYLCc4g7aI2W1WklK4l+l
+7Pd7/j4o4Pd3N/LX+tkNH+nfFbjuD0sbxWsbwK0pAAAAAElFTkSuQmCC) :прав на конструкторскую и техническую документацию для проектирования, производства, модернизации и развития соответствующей продукции на территории Российской Федерации в соответствии со спецификацией на готовое изделие в следующем составе:спецификация на готовое изделие с указанием сборочных единиц и деталей;схема электрическая принципиальная;исключительных или неисключительных (но неотзывных) прав на программное обеспечение;подтверждение осуществления на территории Российской Федерации процессов проектирования схемотехники, конструкции модуля, топологии печатных плат, встроенного программного обеспечения, а также наличия соответствующих кадров и затрат на их содержание;выполнение на территории Российской Федерации технологической операции - поверхностный монтаж чип-компонентов на печатную плату
+выполнение на территории Российской Федерации дополнительных требований:установка программного обеспечения, если оно является неотъемлемой частью оборудования (20 баллов);сборка электронного оборудования (корпусирование) (20 баллов);
+функциональное тестирование готового изделия и проведение технического контроля соответствия требованиям технических условий готового изделия (20 баллов);выполнение дополнительных требований по применению компонентов:применение российских системообразующих микросхем (Bтоп = 14 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VK9isJAGNynyDP4AkJExMYuhY0I
+pjCBYGWvWKUT9A1srFKZNL6ACMFUioWdIihoFRBEYuHf3my+veW4Qs7+plhmZr/5dr9NGH+L1+tF
+6/P5JPIuoKoVwSoCYGjweDyoDUDypxPHMVZUMsopQP5ygE6nUyqVQNBCnHC73Xq9XqFQGAwGaQH3
+PC+Xy1mWdTweSVYqFRAcKAJRFM1mMxBd16/XK07PZrNo1u12HceBv91u6/W6DKgLoA0qQJIkyefz
+k8kkCALf9+Esl0vTNEFEgMZaLBZoD/d0OkGGYcgYazQa4MBms7FtG0TOcL/fU59Xq9XRaAS33W6v
+Vqtardbv9+G7rqtp2nQ6BWfYSIsFms3mfD5fr9eZTAYSs5XLZZDL5XI+nzEeOAMbj8eGYaDfcDgU
+Oc5brVaxWISDu5FDwMDiSsjsdrvD4UAuYb/f0zzph5GAlEMTwOXO99OpXeXIX0OBXClSkCQfEIGP
+8B/4Cz4McP4FzubCOyBWPiQAAAAASUVORK5CYII=) ;применение российских печатных плат (Bтоп = 7 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGbSURBVDhP7VK7isJAFJ2f8DcCiiRp/AHtRLsk
+iIWFFhY2toKFKKROa2UhiHZiYSfaKIjgExW0EPHVKIqv7BnvbhAXl22221PMnHvvOTd3ZsLMN7g/
+QOR2u1n8JwNWSCm0PAzb9Xo9n8/PtcvlgiSAcDKZtNttKr1+AVLLRuh2u9Fo1G63G4aBEC3Y4XBI
+JBKyLOfzeRKVSiWXywXdfr+fzWbI7HY7j8dDVVYul2u1WqfTcTqdm81mtVo5HI7FYoGW8XicROPx
+OJVKEWfH45FYOp0G7/V6MCCsVCqZTIZKuVyu3++D8JGwTafTQCCQzWYfVTMcDnu93mKxuF6vEdbr
+dZhBlsslVm4YDAaRSIQx1mq1EGJCSZJ8Ph+urlqt2my2UCikKAqm5QbrWoLBYKFQ2G63fr8fYTKZ
+RAbHRbtmszkajZCEmL8DttPpFIvF5vM5PiIIAmq4e1VVeacvUGuGk7ndbgzQaDSooOu6KIqapg2H
+Q4Q4KKSk/nw4evNnYuF7ho+EDSt6YH0hVAIeYo63P987/Bt+g782mOYH38fpp3zGW7cAAAAASUVO
+RK5CYII=) ;применение российских вторичных преобразователей питания (Bтоп = 6 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAUCAIAAAALACogAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAF/SURBVDhP5ZK9isJQEIXzOr6CjRGiTSrBwijY
+WKSyEVMGoyAoBIMIgmBtFbCwshG7gFE0T2BsNxDERvxZs+dm5LIou/sAe8DLN5M5k5lrhOhnPR4P
+Oj9jEf9mgKiamIAZkL3H4i0phFhhFLmu6/s+AB6Birh4P67lclmpVCRJOhwOCNkbttutoiipVGq/
+3yNEi2q1inAwGCDc7XY4p9Op53nMcL1ebds+nU7D4TCfzyNlWVaxWASUSqXFYgEYjUblchmVzMAH
+Xa/Xk8kE0G63MQNA1/XVagVwHCeZTPb7ffBzB5RiSiwHDsMwnU6rqkohaTab9Xo9gIAt4dlsNjAk
+EglautPpiKJYr9fBrVYrk8l0u93z+cwM+HHhAU7TNLEGIJfLjcdjzIw7pQXQWgiC4CPWfD5vNpvI
+NhqNQqEAMAwDBgDp+ccdj0dN02RZxqsvlwtSaFmr1bLZLF0rupKIXz8NevBdLxl2S7fbDSOiMW/z
+nomLmf74+N71Dw1R9AUr3ll6ozhRGgAAAABJRU5ErkJggg==) ;применение российских микросхем и модулей связи и навигации
+(Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGFSURBVDhP7ZItqwJBGIXnP9ithgWxbrGIGMVs
+WRBkLbqIgs2iwSJ4Yc26Bg0qfiGCimUtYrLabIJoE/zauWd9L6Nc4e4fuCcMzztzzsw7O8v4n7Is
+i0YBDgGIrALY4/Gg4hMgAcfjkdg+gRzvgAWC6/WKsVKpJJNJAAxsMpmEw+FgMLhcLp8ens/nQ6FQ
+LBbb7/cod7udoiiFQgFsB0qlEqjT6ciyDOh2u4FAAGAYRi6XA8xms8FgUC6Xwff7/efSq9WqVqsB
+xuOxSCLT7/e/nopGo4fDAfMMoWaz6XK5RqORHeU8nU77fL56vQ4eDoc4JxKJeL3e9XqNGXa73bbb
+raZpbrebmoY1k8l4PB50b2/A+WazaTQaAJhf7xCPx0+nU6vVUlUVZbvd9vv9gPP5TB8NvWBk8/nc
+NE1d14vFIurpdCpJ0mKxqFarOId8CIjHYdlsNpVK4Vpij16vl0gkKA+JNyG9WqI9KEOCldzvGXZ5
+il6UFnAzmvl0Q84/3y/9B5zF+TcEbIUtK3nojAAAAABJRU5ErkJggg==) ;применение российских интерфейсных микросхем и преобразователей
+(Bтоп = 8 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAVCAIAAAAW+SPgAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAF6SURBVDhP7VExq4JQGHUP+iXSf3CopaA2IWir
+DFobAqEpghoiJJwkRTLHao0kaEgCqalZiAhqElqe6ct39Io8eATv7e8M1/Ode77Ddz+p4D1erxc5
+ExK6fd93XdfzvER9Pp9QoJPyMwI4RT4EuADiIgLacEqSVCwWZVkOs03TrNfrk8kkMgToFwSh0Wjs
+93uU8/m8VCqdz2dw6nK5DIfD3W6Xy+UURYHU6XRqtdp2u2VZ9na7Xa9XTdMYhrFtm/qIAJMoiqqq
+giBJ13WQarVqWRYIsFwux+NxvBOkchxH+Gq1ymQyaFgsFkQBDocDytD9eDy63W4qlWq32ygxd6vV
+SqfT6/Ua5Ww2azabPM87jkMlS9hsNuVyGaTX6xmGgXFpmkYk3ofU+/2OqzCbrAnDYDIQPHc0GoFU
+KpXpdApCgPVTx+MRz8rn8/1+n6in06lQKGSz2cFgQExA/HciQzjrO/L9f4VuUuM6IcSaKElDnP1L
+/Lt/4i/uIPgCazFLcJVt9F4AAAAASUVORK5CYII=) ;применение российских полупроводниковых приборов (Bтоп = 5 баллов),
+расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGuSURBVDhP7ZI/66lxGMa/Xod3YZBMYjaxKYPN
+QPKnSJks9ItFshCDQUkMZGKwkBKF2MQiKQaD/8/5PL5OP+cM55wXcK7h2/Vc9//7foTyRzyfT/k+
+Ho/7/Q5RA/i4XC63202aATapSKsUJQS2N/2Z79Pjer3yoieTSavVutvt1AqLxSIajVarVWnj7fV6
+4XC42WzCQSQSwQFCvNhut/F4vFwuWyyWQqGA2ul0zGZzsVi02Wzj8Xg0Gul0OqfTmclksIrT6UQh
+WD6fl2nI7fP5IF8vVCqVYDC4Wq0MBsN0On1vaT6fx2Ix2f1kMtFqtYPBIJ1OH49Hui+VSugOh4Pi
+agBFXC6XRqNJpVJqtKIkEgkhBH3Ch8MhveVyuUAgcDgcBFnP5zMG0phMJumRzWb7/b5er6/Vaiit
+VisUCq3Xa/j34Wazmd/vhzAAY0DYm91ufxnf4AZiuVx6PB7GcrvdTIJKbqPR6PV6abrb7aJwRCAn
+FPv9vt1uNxqNzWbDt7wUO6nX6+wE/nlZ8N0SkP/Cp4dUuKY8KBAwPICsKG3w35SXs4pfKvwL/gf8
+HYryA1YLeIUnz/t1AAAAAElFTkSuQmCC) ;применение российских силовых полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGXSURBVDhP7ZI9y4FxFMbvL+Ar2HwHpeRjmAwG
+g/JIJJlkUWIyWNxlMZgYiDKhhMGChCh5yWIk8vb8bke6LU/szzWcruucc/3/5/+i3L/EX4bb7Ua8
+Xq+nB87nM1IzUCB7uVykA7zkKyNAKvoUfURaRQr6/b7f7/d4PPl8HvkcqdlstlotiHgWi0WpVNrt
+dvBardZoNFRVjUQiSM2ANRgMms3mbDaLHI1GNpvN6/U6nc7tdiujTyaTer2uGY7HIx2wTqdjt9sh
+gUAgFApBGIN9ICCVSu33e8jzDIfDIZfLzWYzeLFYtFqt0+k0nU6vViupZjIZ6VRk6EQiYTAYwuEw
+HLjdbqPR2G63RbIEJ4HQrJ2BqYiVSsVkMjHxYDCIx+OFQsFisQyHQ0q9Xm+5XD4NvAhM4HA4iC6X
+KxaLQaLRqNyMQGZRNptNMpn0+Xyclcslxf2y9s8D4/GYDNtKt/ZwsG63W61WpSavNp/Py+Xyer2G
+S+sLb39JuvUvLVz/G7RrZQ0KRCnoMyIlL3jb4RP8Gz7Bl4b7/RfepPBVgm9AugAAAABJRU5ErkJg
+gg==) ;применение российских пассивных элементов стандартных (Bтоп = 3 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAYCAIAAAB8wupbAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAG4SURBVDhP7VI9y0FhGD6/weYP+AEssiLlYziz
+QUZRymAwKLMoOhYDMwZJCrGIkkIxSCGRkrD5/jiuxy0dy5t3eLf3qnOf677OfT3389zP4cRf4ifD
+/X5HvF6vp9MJkRQOD3C73RCfZUxFCoBTHYEUjl4E8LcNOJ/PiNVq1e129/t9cBSwLc3n82azeblc
+WNWzA9LJZAI+HA7tdnsymTQYDPSVg9Xr9er1eofDQZLL5bJYLFartdFoLBYLm822Wq08Hg9tj2u3
+27S2VqtdLpeDwUCpVCLFTpxOJ0g8Hler1ePxGBye15S63W6xWATBYiqVqtVq5XK5QqGw2WwymUyl
+UuF5fr/fo4AZ6vW6QqEwm8273Q5pNpuVyWTRaBS8VqtB3263RqNxOp0yA7ocDofRaCSXy/P5PCRB
+EBKJhE6nS6VSSCORiMlkKpVK4K8pEXw+H9brdDoajQZpr9fDZKRTJs7BGovFwuFwMBjE6dfrNU7v
+9/sDgQB0VED8uOlyuYymmPTxeGTriOJsNguFQul0mlJpE+DjX8I36cUjpWqKBHZo/ALo+1bhkSrS
+auCjwzf4N3yDvzaI4gPLzxFV7uBOcwAAAABJRU5ErkJggg==) ;применение российских конденсаторов большой емкости (Bтоп = 4 балла),
+расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGWSURBVDhP7VG7isJQEE3pP+QXrMU2oIIoGLCw
+kYCIoIWIXcAiTZqAgiCCVQqRtD4QG0HECIJEQbBTtPALRJD4SvYkN9xdhAW334EM55w7Z+5kLmP/
+HpZlIb9eLwCSQR3D8/m83W6Px4NIyPf7HQotogHKQPWYy98qENPpNBQKFYtFdAR1btB1PZfLaZrm
+FtimadZqNSjH4xE0nU5fr9dKpaIoCihzOp3q9fp8Puc4bjAYQBJFsVwu9/t9QRD2+30ymYS4WCwK
+hYJjQD+MC4QGw+EQIBKJjMdjgGg0erlccFU2m02lUrIsOwZ8iFarha4Ed7tdv9/f6XQmkwlRRqNR
+IBA4HA7AjuF8PkuS5PP5qtUqKNaQyWRYlt1sNqAYuFQqrVYrcsTQtfR6vXw+DwDzcrncbrfBYBBd
+Mf1ut4P+vSVsHbnZbGIMAPxDu90GSCQSs9kMAEGq0Z1Zr9c8z8disUajQc4Mw4jH4+FwWFVVUJSS
+t3IfyfJ+mj4fBTh7AyQcA5FQSgGxUeWnx7vh8/g3fBJ/NNj2F7s+g7O79ytMAAAAAElFTkSuQmCC
+) ;применение российских сенсорных элементов (Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAXCAIAAABrvZPKAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAIPSURBVDhP7ZJPq2lRGMb31NfwBSTlT4mvIJGB
+jDBBSZQBRUohJMmAEgZCMhGliBKlJCMhyYASIxH5d/Z99lly3G7nDu4d3brPYO/fetb7rvWudy2K
+/l4fnwLc7/fH40EcwPuQyb/dbpfLBe4r53q9wkEQGCYRmXoOaJosQZEfERbC9z2ILBqJRLxeL3Hy
++bxYLK5UKmDMMvtXq1WbzdbtdomFbywWc7lcy+USfD6fJRKJXq8Hj8djpVIJR6vVzudzOFS73Q6H
+w/F4nMfjTadTWHa7XaVS5XI5uVy+2Wzg1Ot1s9kMwLp+vx/g8/kymQyTv1qt8INMJlOz2QRwOJzR
+aARQq9XD4RCQzWaNRiMgFAql02lAIBBIpVIApn4cuFQqFYtFMOR0OmUyWb/fR9rxeIRTq9UcDgcA
+RXk8HoDb7UZRACZ/MBhIpVIWi9Xr9TCEhEIhl8udzWZkaLFYRCLRbrc7nU44FA6r0WhIsylcFbkC
+hUJhtVoBwWCwXC4XCgU+n4/TIS6ZTKJHk8kEs2ghalmv12Akfr0f9AZxADabvVgsADqdLpFIfE4+
+RW6H6Hn/6Ad6YzAYsMPhcIAVjUYFAgHaiUvdbrdw8JZeZWIJ8rTAaByFelqtVqfTQQSx8EXbG43G
+fr8Hk9Dv9FU/RELfE177kOGvYt4v0SsI8O78Jhn6af8/0P/8v9O/nU/TPwDXmhtQQjVL3QAAAABJ
+RU5ErkJggg==) ;применение российских периферийных микросхем (Bтоп = 8 баллов),
+расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAIAAADJt1n/AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHiSURBVDhP7ZK/y4FRFMevv8A/wK6sFiMWm8kk
+RZlIIqIMj2RUYrMgRVn8msgglJCSpEwsRLJZ/PZ+H8f78D71DnrX9zvcPvfcc+45597D7r/r9hDg
+er1eLhdirALzwTg7Ho/n85lMEJgsYMEIEBgCM1zz3H374S7aQqfTCWu9XrfZbHS63W4tFstkMgHz
+mWezWTAYLBaLYPJoNpt+v7/RaIAhj8ejUCjoqFqtymSyXq8HZpvNJhKJ5HI5rVabzWZhQh6dTpfJ
+ZIxGY7/fh2W9Xuv1etRIRTkcjk6nwwfv93tUAkomk6FQCOB2uwOBACAcDkejUcB4PNZoNMITmM3m
+drsNfr72dDrlOI4KGwwGcrl8OBzGYjHUBctqtTIYDAB6IKfTORqNAHwwklutVolEEo/HsYWQkzFW
+LpdpWygUpFIpPdJisVAqlYlEAszQxuFwAKVSKbQK6Ha7aAFdqVSqWq1GwXjRVqsFRkW4Op/Po4vX
+kKAxn88HsNvt1Hw6nUZ7j8OnqG1BDP+EHrxeL2LAMCGnWq12uVwmkwlVwIKBgajh94liu90OtVUq
+leVyiTOaivl8XiqV6K73KRLpVTZEVb17C99DHyESgxXeEA0A+YFFloezWD8yf6r/4A/1h+D7/Qv8
+uGgNZwuOCAAAAABJRU5ErkJggg==) ;
+применение российских микросхем памяти (Bтоп = 11 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHuSURBVDhP7VJL6+FhFPYR+AC+gZI9G1bKwsqC
+ZEcUJcpSNhYWIiU7JZeFDeW6YKHkllJyi4VQCBss3H//53Wmf9PMv2maWcxmnsXpOZfnPe8578vj
+OO71ej2fz8fjAQIXIBeWOAWBnzkPmu9ln5Zwv99hN5tNLBa7Xq/gyWTSbDb3ej1wVLL+QL1er9Vq
+IHTW4XDI5XLz+fyd5Ewmk0gkQmo8HqfT6Wg0qlAojscjUkyPkMvlkkqlgUAA7n6/VyqVaKLX61ut
+FiLT6dRgMJxOJ3CCVqtdLBYgvMvlMhwOwVCkUqlAIpGIWq0GCYfDXq8XBG0hoIbAarUKBoMguBGb
+H+x2u6VSKTqo2+1KJBJMiJk7nQ4iy+XSaDSiEziQSCRIxeanbYVCIT6fj6J3Aef3+wUCQTweJ7dY
+LIrF4slkcj6frVYrstlstlKpIMXmp4ObzaZQKNxut7vdzuPxVKtVmUyWyWSQws5tNluj0ej3+06n
+E8tyu90oY3p6FYJOp4P1+XxE8vm8RqN5Z74Gm3+9XuM+drvd4XCUy2VEZ7OZXC7Hm1ksFtwCEWwH
+behHgQCI0ArY/O12u1QqDQYD+CiCxRSFQmE0GoGjjkq/xLf/QyAxbZRAkV+AvR8EdLfPPj9Efrf/
+H+C//u/wb/Uc9wFZDq0o+ZNlVwAAAABJRU5ErkJggg==) ;применение российских соединителей (в том числе разъемов, жгутов, кабелей) (Bтоп = 6 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAIAAAAf7rriAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHgSURBVDhP7VJLy6lRGN0lf8IPMMAPMFFKipKJ
+GChz14yQkcsvkJRiggmKDJhQLlGEFCMDIiNMUC65fLzf8j1ffW/n1KlzxmcN9l7r2c/az7Mv7PV6
+fXwBhPsCRZ7PJ3EKAhQhEGf8EFL58vF4YLxer8lkcrfbgW82G7fbnUqlwJHJMDWbzV6vB0I4nU61
+Wm08HpPMZDKMsfV6DZ5Op6vVqslkmkwmkCwWi/n9fo1GEw6HoQ+Hg8FgcLlcRqOxXq8jgiNotdrF
+YgF+uVwwlkolFHibO50OJvSjUChAisWiWq0G6ff7FosFBG2rVKrZbAYOs91uF4vF8/kc8t02kEgk
+BoMByHK5lMlk3W43l8uVy2Va1ev11DbB6/UGg0GQtxn3IRAIrFYrikDm83mhUBgIBN6JHLdarUQi
+UaVSAW+3261WKxqNYndIRobRaCSRSKbT6fl8jkQiOItcLo/H41hCtsPhQAHwUCgETifFXXy3Ddhs
+tuPxmM1mdTod5Ha7lUqltETgvyKcGJnH4/H5fHAWCgVo3JxSqXQ6nWazGf0jcr/fb7cbvTlxcuJT
+sEajgVcdDofQlLHf7xGhl+dX+x0/bZOTdiVQhP9DfwFDNkAVKA+cIiT/ZP6e/wn/zX8FjvsEz7r0
+DN8+OjcAAAAASUVORK5CYII=) ;применение российских катушек индуктивности и трансформаторов
+(Bтоп = 3 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHpSURBVDhP7VI9q8FRHD7lM/gGFpNPwMJiMigs
+XsqEwUsKg1GysDDIYDIoZVBikCJClCiDlwwMLIpE3q77/P1ux73d7h3uHe5yn+H8n+d3fi/POefP
+Xh643W5Y7w+Q5JHr9crjfOWEIY80QJxHkHG5XECGw2GxWAShrfV63Wq1KIHhs1wue73e6XTiGZPJ
+pN/vgwDH41EqlRqNRnBqZ7fbbTYbCKyxbrfr8XjUarXBYCCr6XRaoVBotdpQKEQmM5mM1+sFATqd
+jsPhiEaj4BjGGo3G+XyGUKlU5ArT4AgEXebzOUg2m3W5XCCHw6HZbFar1VgsBgk7gn9gOp3mcjky
+r1Qq4/H4ZrPBzN1uhwi23G43SCQSCQaD5Hc2myEi1NfrdYlEotPpUAOJXmKx2GKx7Pd7SCCVSplM
+JpBarZZIJMxms1wuH4/HiAj12+12MBiIRKJkMglZqVRgT6/XYw4kulitVpwOJ4cE8Bz5fB7k6R8I
+h8PoDSKTyeggqCmVSo/NN+CC6ZmIY2XtdrtcLhcKhUAgsFgsENJoND6fD1bhczQaIYILxij+56A7
+DRDeH1fldDpRsFqtaBu/h9/vxyPhUJCU+hWe/gGk8iEEPofkZzB4w5EAPgfkfeSbYuDD/B/gv/53
++Nv6+/0VdWmkwcFJ5uAAAAAASUVORK5CYII=)
+из 29.32.30.361Электронный блок информирования
+в отношении работы (вывода информации
+на устройства отображения информации), применяемый в составе продукции отрасли специального машиностроениявыполнение на территории Российской Федерации требований
+(в совокупности 140 баллов):наличие у юридического лица - налогового резидента Российской Федерации,
+не находящегося под контролем иностранного государства, и (или) международной организации, и (или) иностранного юридического или физического лица, и (или) иностранной структуры без образования юридического лица ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGHSURBVDhPzZBPqwFhFIdn6WvI1kcYpdQoi5Gw
+sGQlvoDu0geYsvIByCSxUrazRZRSsrDSlCz9ibhj7jPONFm51+7+yus5Z37nvOc9ivtWj8dDTsdx
+BN4VBO4AOL0C6PspWEL6EXKKCe12O/mkBCkEv4ZIwlqtFo1GAbp4N5zP56+nPIvr2rZdLBbj8Xin
+05FMu91WVRXwCyaTSTgczmQyMC2bzSY18/k8EolMp1OSm81G0zSAIZX7/Q61Wq1cLgdcLpfr9Qqg
+QqEwGAyA2WyWSCQAr0D2ZRiGFEiIbrdbuVyWt67X62QyCdDdL2g0GtlsFmBKrEC/3+/1egCq1+uh
+UGg4HMKKbJO5GQAQ92Kx6Ha7AOJVx+PxcDicTidCf62sKBaLyXssy6pUKtvtdrlcjkajYEiE2dvS
+eDzO5/OpVMo0TR5drVZ1XS+VSul0mmIMTIFVWvsjvdHrDci7gRSjI+nEYLCc4g7aI2W1WklK4l+l
+7Pd7/j4o4Pd3N/LX+tkNH+nfFbjuD0sbxWsbwK0pAAAAAElFTkSuQmCC) :прав на конструкторскую и техническую документацию для проектирования, производства, модернизации и развития соответствующей продукции
+на территории Российской Федерации в соответствии со спецификацией
+на готовое изделие в следующем составе:спецификация на готовое изделие с указанием сборочных единиц и деталей;схема электрическая принципиальная;исключительных или неисключительных (но неотзывных) прав на программное обеспечение;подтверждение осуществления на территории Российской Федерации процессов проектирования схемотехники, конструкции модуля, топологии печатных плат, встроенного программного обеспечения, а также наличия соответствующих кадров и затрат на их содержание;
+выполнение на территории Российской Федерации технологической операции - поверхностный монтаж чип-компонентов на печатную плату
+выполнение на территории Российской Федерации дополнительных требований:установка программного обеспечения, если оно является неотъемлемой частью оборудования (20 баллов);сборка электронного оборудования (корпусирование) (20 баллов);функциональное тестирование готового изделия и проведение технического контроля соответствия требованиям технических условий готового изделия (20 баллов);выполнение дополнительных требований по применению компонентов:применение российских системообразующих микросхем (Bтоп = 14 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VK9isJAGNynyDP4AkJExMYuhY0I
+pjCBYGWvWKUT9A1srFKZNL6ACMFUioWdIihoFRBEYuHf3my+veW4Qs7+plhmZr/5dr9NGH+L1+tF
+6/P5JPIuoKoVwSoCYGjweDyoDUDypxPHMVZUMsopQP5ygE6nUyqVQNBCnHC73Xq9XqFQGAwGaQH3
+PC+Xy1mWdTweSVYqFRAcKAJRFM1mMxBd16/XK07PZrNo1u12HceBv91u6/W6DKgLoA0qQJIkyefz
+k8kkCALf9+Esl0vTNEFEgMZaLBZoD/d0OkGGYcgYazQa4MBms7FtG0TOcL/fU59Xq9XRaAS33W6v
+Vqtardbv9+G7rqtp2nQ6BWfYSIsFms3mfD5fr9eZTAYSs5XLZZDL5XI+nzEeOAMbj8eGYaDfcDgU
+Oc5brVaxWISDu5FDwMDiSsjsdrvD4UAuYb/f0zzph5GAlEMTwOXO99OpXeXIX0OBXClSkCQfEIGP
+8B/4Cz4McP4FzubCOyBWPiQAAAAASUVORK5CYII=) ;применение российских печатных плат (Bтоп = 7 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGbSURBVDhP7VK7isJAFJ2f8DcCiiRp/AHtRLsk
+iIWFFhY2toKFKKROa2UhiHZiYSfaKIjgExW0EPHVKIqv7BnvbhAXl22221PMnHvvOTd3ZsLMN7g/
+QOR2u1n8JwNWSCm0PAzb9Xo9n8/PtcvlgiSAcDKZtNttKr1+AVLLRuh2u9Fo1G63G4aBEC3Y4XBI
+JBKyLOfzeRKVSiWXywXdfr+fzWbI7HY7j8dDVVYul2u1WqfTcTqdm81mtVo5HI7FYoGW8XicROPx
+OJVKEWfH45FYOp0G7/V6MCCsVCqZTIZKuVyu3++D8JGwTafTQCCQzWYfVTMcDnu93mKxuF6vEdbr
+dZhBlsslVm4YDAaRSIQx1mq1EGJCSZJ8Ph+urlqt2my2UCikKAqm5QbrWoLBYKFQ2G63fr8fYTKZ
+RAbHRbtmszkajZCEmL8DttPpFIvF5vM5PiIIAmq4e1VVeacvUGuGk7ndbgzQaDSooOu6KIqapg2H
+Q4Q4KKSk/nw4evNnYuF7ho+EDSt6YH0hVAIeYo63P987/Bt+g782mOYH38fpp3zGW7cAAAAASUVO
+RK5CYII=) ;применение российских вторичных преобразователей питания (Bтоп = 6 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAUCAIAAAALACogAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAF/SURBVDhP5ZK9isJQEIXzOr6CjRGiTSrBwijY
+WKSyEVMGoyAoBIMIgmBtFbCwshG7gFE0T2BsNxDERvxZs+dm5LIou/sAe8DLN5M5k5lrhOhnPR4P
+Oj9jEf9mgKiamIAZkL3H4i0phFhhFLmu6/s+AB6Birh4P67lclmpVCRJOhwOCNkbttutoiipVGq/
+3yNEi2q1inAwGCDc7XY4p9Op53nMcL1ebds+nU7D4TCfzyNlWVaxWASUSqXFYgEYjUblchmVzMAH
+Xa/Xk8kE0G63MQNA1/XVagVwHCeZTPb7ffBzB5RiSiwHDsMwnU6rqkohaTab9Xo9gIAt4dlsNjAk
+EglautPpiKJYr9fBrVYrk8l0u93z+cwM+HHhAU7TNLEGIJfLjcdjzIw7pQXQWgiC4CPWfD5vNpvI
+NhqNQqEAMAwDBgDp+ccdj0dN02RZxqsvlwtSaFmr1bLZLF0rupKIXz8NevBdLxl2S7fbDSOiMW/z
+nomLmf74+N71Dw1R9AUr3ll6ozhRGgAAAABJRU5ErkJggg==) ;применение российских микросхем и модулей связи и навигации
+(Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGFSURBVDhP7ZItqwJBGIXnP9ithgWxbrGIGMVs
+WRBkLbqIgs2iwSJ4Yc26Bg0qfiGCimUtYrLabIJoE/zauWd9L6Nc4e4fuCcMzztzzsw7O8v4n7Is
+i0YBDgGIrALY4/Gg4hMgAcfjkdg+gRzvgAWC6/WKsVKpJJNJAAxsMpmEw+FgMLhcLp8ens/nQ6FQ
+LBbb7/cod7udoiiFQgFsB0qlEqjT6ciyDOh2u4FAAGAYRi6XA8xms8FgUC6Xwff7/efSq9WqVqsB
+xuOxSCLT7/e/nopGo4fDAfMMoWaz6XK5RqORHeU8nU77fL56vQ4eDoc4JxKJeL3e9XqNGXa73bbb
+raZpbrebmoY1k8l4PB50b2/A+WazaTQaAJhf7xCPx0+nU6vVUlUVZbvd9vv9gPP5TB8NvWBk8/nc
+NE1d14vFIurpdCpJ0mKxqFarOId8CIjHYdlsNpVK4Vpij16vl0gkKA+JNyG9WqI9KEOCldzvGXZ5
+il6UFnAzmvl0Q84/3y/9B5zF+TcEbIUtK3nojAAAAABJRU5ErkJggg==) ;применение российских интерфейсных микросхем и преобразователей
+(Bтоп = 8 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAVCAIAAAAW+SPgAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAF6SURBVDhP7VExq4JQGHUP+iXSf3CopaA2IWir
+DFobAqEpghoiJJwkRTLHao0kaEgCqalZiAhqElqe6ct39Io8eATv7e8M1/Ode77Ddz+p4D1erxc5
+ExK6fd93XdfzvER9Pp9QoJPyMwI4RT4EuADiIgLacEqSVCwWZVkOs03TrNfrk8kkMgToFwSh0Wjs
+93uU8/m8VCqdz2dw6nK5DIfD3W6Xy+UURYHU6XRqtdp2u2VZ9na7Xa9XTdMYhrFtm/qIAJMoiqqq
+giBJ13WQarVqWRYIsFwux+NxvBOkchxH+Gq1ymQyaFgsFkQBDocDytD9eDy63W4qlWq32ygxd6vV
+SqfT6/Ua5Ww2azabPM87jkMlS9hsNuVyGaTX6xmGgXFpmkYk3ofU+/2OqzCbrAnDYDIQPHc0GoFU
+KpXpdApCgPVTx+MRz8rn8/1+n6in06lQKGSz2cFgQExA/HciQzjrO/L9f4VuUuM6IcSaKElDnP1L
+/Lt/4i/uIPgCazFLcJVt9F4AAAAASUVORK5CYII=) ;применение российских полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGuSURBVDhP7ZI/66lxGMa/Xod3YZBMYjaxKYPN
+QPKnSJks9ItFshCDQUkMZGKwkBKF2MQiKQaD/8/5PL5OP+cM55wXcK7h2/Vc9//7foTyRzyfT/k+
+Ho/7/Q5RA/i4XC63202aATapSKsUJQS2N/2Z79Pjer3yoieTSavVutvt1AqLxSIajVarVWnj7fV6
+4XC42WzCQSQSwQFCvNhut/F4vFwuWyyWQqGA2ul0zGZzsVi02Wzj8Xg0Gul0OqfTmclksIrT6UQh
+WD6fl2nI7fP5IF8vVCqVYDC4Wq0MBsN0On1vaT6fx2Ix2f1kMtFqtYPBIJ1OH49Hui+VSugOh4Pi
+agBFXC6XRqNJpVJqtKIkEgkhBH3Ch8MhveVyuUAgcDgcBFnP5zMG0phMJumRzWb7/b5er6/Vaiit
+VisUCq3Xa/j34Wazmd/vhzAAY0DYm91ufxnf4AZiuVx6PB7GcrvdTIJKbqPR6PV6abrb7aJwRCAn
+FPv9vt1uNxqNzWbDt7wUO6nX6+wE/nlZ8N0SkP/Cp4dUuKY8KBAwPICsKG3w35SXs4pfKvwL/gf8
+HYryA1YLeIUnz/t1AAAAAElFTkSuQmCC) ;применение российских силовых полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGXSURBVDhP7ZI9y4FxFMbvL+Ar2HwHpeRjmAwG
+g/JIJJlkUWIyWNxlMZgYiDKhhMGChCh5yWIk8vb8bke6LU/szzWcruucc/3/5/+i3L/EX4bb7Ua8
+Xq+nB87nM1IzUCB7uVykA7zkKyNAKvoUfURaRQr6/b7f7/d4PPl8HvkcqdlstlotiHgWi0WpVNrt
+dvBardZoNFRVjUQiSM2ANRgMms3mbDaLHI1GNpvN6/U6nc7tdiujTyaTer2uGY7HIx2wTqdjt9sh
+gUAgFApBGIN9ICCVSu33e8jzDIfDIZfLzWYzeLFYtFqt0+k0nU6vViupZjIZ6VRk6EQiYTAYwuEw
+HLjdbqPR2G63RbIEJ4HQrJ2BqYiVSsVkMjHxYDCIx+OFQsFisQyHQ0q9Xm+5XD4NvAhM4HA4iC6X
+KxaLQaLRqNyMQGZRNptNMpn0+Xyclcslxf2y9s8D4/GYDNtKt/ZwsG63W61WpSavNp/Py+Xyer2G
+S+sLb39JuvUvLVz/G7RrZQ0KRCnoMyIlL3jb4RP8Gz7Bl4b7/RfepPBVgm9AugAAAABJRU5ErkJg
+gg==) ;применение российских пассивных элементов стандартных (Bтоп = 3 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAYCAIAAAB8wupbAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAG4SURBVDhP7VI9y0FhGD6/weYP+AEssiLlYziz
+QUZRymAwKLMoOhYDMwZJCrGIkkIxSCGRkrD5/jiuxy0dy5t3eLf3qnOf677OfT3389zP4cRf4ifD
+/X5HvF6vp9MJkRQOD3C73RCfZUxFCoBTHYEUjl4E8LcNOJ/PiNVq1e129/t9cBSwLc3n82azeblc
+WNWzA9LJZAI+HA7tdnsymTQYDPSVg9Xr9er1eofDQZLL5bJYLFartdFoLBYLm822Wq08Hg9tj2u3
+27S2VqtdLpeDwUCpVCLFTpxOJ0g8Hler1ePxGBye15S63W6xWATBYiqVqtVq5XK5QqGw2WwymUyl
+UuF5fr/fo4AZ6vW6QqEwm8273Q5pNpuVyWTRaBS8VqtB3263RqNxOp0yA7ocDofRaCSXy/P5PCRB
+EBKJhE6nS6VSSCORiMlkKpVK4K8pEXw+H9brdDoajQZpr9fDZKRTJs7BGovFwuFwMBjE6dfrNU7v
+9/sDgQB0VED8uOlyuYymmPTxeGTriOJsNguFQul0mlJpE+DjX8I36cUjpWqKBHZo/ALo+1bhkSrS
+auCjwzf4N3yDvzaI4gPLzxFV7uBOcwAAAABJRU5ErkJggg==) ;применение российских конденсаторов большой емкости (Bтоп = 4 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGWSURBVDhP7VG7isJQEE3pP+QXrMU2oIIoGLCw
+kYCIoIWIXcAiTZqAgiCCVQqRtD4QG0HECIJEQbBTtPALRJD4SvYkN9xdhAW334EM55w7Z+5kLmP/
+HpZlIb9eLwCSQR3D8/m83W6Px4NIyPf7HQotogHKQPWYy98qENPpNBQKFYtFdAR1btB1PZfLaZrm
+FtimadZqNSjH4xE0nU5fr9dKpaIoCihzOp3q9fp8Puc4bjAYQBJFsVwu9/t9QRD2+30ymYS4WCwK
+hYJjQD+MC4QGw+EQIBKJjMdjgGg0erlccFU2m02lUrIsOwZ8iFarha4Ed7tdv9/f6XQmkwlRRqNR
+IBA4HA7AjuF8PkuS5PP5qtUqKNaQyWRYlt1sNqAYuFQqrVYrcsTQtfR6vXw+DwDzcrncbrfBYBBd
+Mf1ut4P+vSVsHbnZbGIMAPxDu90GSCQSs9kMAEGq0Z1Zr9c8z8disUajQc4Mw4jH4+FwWFVVUJSS
+t3IfyfJ+mj4fBTh7AyQcA5FQSgGxUeWnx7vh8/g3fBJ/NNj2F7s+g7O79ytMAAAAAElFTkSuQmCC
+) ;применение российских сенсорных элементов (Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAXCAIAAABrvZPKAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAIPSURBVDhP7ZJPq2lRGMb31NfwBSTlT4mvIJGB
+jDBBSZQBRUohJMmAEgZCMhGliBKlJCMhyYASIxH5d/Z99lly3G7nDu4d3brPYO/fetb7rvWudy2K
+/l4fnwLc7/fH40EcwPuQyb/dbpfLBe4r53q9wkEQGCYRmXoOaJosQZEfERbC9z2ILBqJRLxeL3Hy
++bxYLK5UKmDMMvtXq1WbzdbtdomFbywWc7lcy+USfD6fJRKJXq8Hj8djpVIJR6vVzudzOFS73Q6H
+w/F4nMfjTadTWHa7XaVS5XI5uVy+2Wzg1Ot1s9kMwLp+vx/g8/kymQyTv1qt8INMJlOz2QRwOJzR
+aARQq9XD4RCQzWaNRiMgFAql02lAIBBIpVIApn4cuFQqFYtFMOR0OmUyWb/fR9rxeIRTq9UcDgcA
+RXk8HoDb7UZRACZ/MBhIpVIWi9Xr9TCEhEIhl8udzWZkaLFYRCLRbrc7nU44FA6r0WhIsylcFbkC
+hUJhtVoBwWCwXC4XCgU+n4/TIS6ZTKJHk8kEs2ghalmv12Akfr0f9AZxADabvVgsADqdLpFIfE4+
+RW6H6Hn/6Ad6YzAYsMPhcIAVjUYFAgHaiUvdbrdw8JZeZWIJ8rTAaByFelqtVqfTQQSx8EXbG43G
+fr8Hk9Dv9FU/RELfE177kOGvYt4v0SsI8O78Jhn6af8/0P/8v9O/nU/TPwDXmhtQQjVL3QAAAABJ
+RU5ErkJggg==) ;применение российских периферийных микросхем (Bтоп = 8 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAIAAADJt1n/AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHiSURBVDhP7ZK/y4FRFMevv8A/wK6sFiMWm8kk
+RZlIIqIMj2RUYrMgRVn8msgglJCSpEwsRLJZ/PZ+H8f78D71DnrX9zvcPvfcc+45597D7r/r9hDg
+er1eLhdirALzwTg7Ho/n85lMEJgsYMEIEBgCM1zz3H374S7aQqfTCWu9XrfZbHS63W4tFstkMgHz
+mWezWTAYLBaLYPJoNpt+v7/RaIAhj8ejUCjoqFqtymSyXq8HZpvNJhKJ5HI5rVabzWZhQh6dTpfJ
+ZIxGY7/fh2W9Xuv1etRIRTkcjk6nwwfv93tUAkomk6FQCOB2uwOBACAcDkejUcB4PNZoNMITmM3m
+drsNfr72dDrlOI4KGwwGcrl8OBzGYjHUBctqtTIYDAB6IKfTORqNAHwwklutVolEEo/HsYWQkzFW
+LpdpWygUpFIpPdJisVAqlYlEAszQxuFwAKVSKbQK6Ha7aAFdqVSqWq1GwXjRVqsFRkW4Op/Po4vX
+kKAxn88HsNvt1Hw6nUZ7j8OnqG1BDP+EHrxeL2LAMCGnWq12uVwmkwlVwIKBgajh94liu90OtVUq
+leVyiTOaivl8XiqV6K73KRLpVTZEVb17C99DHyESgxXeEA0A+YFFloezWD8yf6r/4A/1h+D7/Qv8
+uGgNZwuOCAAAAABJRU5ErkJggg==) ;применение российских микросхем памяти (Bтоп = 11 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHuSURBVDhP7VJL6+FhFPYR+AC+gZI9G1bKwsqC
+ZEcUJcpSNhYWIiU7JZeFDeW6YKHkllJyi4VQCBss3H//53Wmf9PMv2maWcxmnsXpOZfnPe8578vj
+OO71ej2fz8fjAQIXIBeWOAWBnzkPmu9ln5Zwv99hN5tNLBa7Xq/gyWTSbDb3ej1wVLL+QL1er9Vq
+IHTW4XDI5XLz+fyd5Ewmk0gkQmo8HqfT6Wg0qlAojscjUkyPkMvlkkqlgUAA7n6/VyqVaKLX61ut
+FiLT6dRgMJxOJ3CCVqtdLBYgvMvlMhwOwVCkUqlAIpGIWq0GCYfDXq8XBG0hoIbAarUKBoMguBGb
+H+x2u6VSKTqo2+1KJBJMiJk7nQ4iy+XSaDSiEziQSCRIxeanbYVCIT6fj6J3Aef3+wUCQTweJ7dY
+LIrF4slkcj6frVYrstlstlKpIMXmp4ObzaZQKNxut7vdzuPxVKtVmUyWyWSQws5tNluj0ej3+06n
+E8tyu90oY3p6FYJOp4P1+XxE8vm8RqN5Z74Gm3+9XuM+drvd4XCUy2VEZ7OZXC7Hm1ksFtwCEWwH
+behHgQCI0ArY/O12u1QqDQYD+CiCxRSFQmE0GoGjjkq/xLf/QyAxbZRAkV+AvR8EdLfPPj9Efrf/
+H+C//u/wb/Uc9wFZDq0o+ZNlVwAAAABJRU5ErkJggg==) ;применение российских соединителей (в том числе разъемов, жгутов, кабелей) (Bтоп = 6 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAIAAAAf7rriAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHgSURBVDhP7VJLy6lRGN0lf8IPMMAPMFFKipKJ
+GChz14yQkcsvkJRiggmKDJhQLlGEFCMDIiNMUC65fLzf8j1ffW/n1KlzxmcN9l7r2c/az7Mv7PV6
+fXwBhPsCRZ7PJ3EKAhQhEGf8EFL58vF4YLxer8lkcrfbgW82G7fbnUqlwJHJMDWbzV6vB0I4nU61
+Wm08HpPMZDKMsfV6DZ5Op6vVqslkmkwmkCwWi/n9fo1GEw6HoQ+Hg8FgcLlcRqOxXq8jgiNotdrF
+YgF+uVwwlkolFHibO50OJvSjUChAisWiWq0G6ff7FosFBG2rVKrZbAYOs91uF4vF8/kc8t02kEgk
+BoMByHK5lMlk3W43l8uVy2Va1ev11DbB6/UGg0GQtxn3IRAIrFYrikDm83mhUBgIBN6JHLdarUQi
+UaVSAW+3261WKxqNYndIRobRaCSRSKbT6fl8jkQiOItcLo/H41hCtsPhQAHwUCgETifFXXy3Ddhs
+tuPxmM1mdTod5Ha7lUqltETgvyKcGJnH4/H5fHAWCgVo3JxSqXQ6nWazGf0jcr/fb7cbvTlxcuJT
+sEajgVcdDofQlLHf7xGhl+dX+x0/bZOTdiVQhP9DfwFDNkAVKA+cIiT/ZP6e/wn/zX8FjvsEz7r0
+DN8+OjcAAAAASUVORK5CYII=) ;применение российских катушек индуктивности и трансформаторов
+(Bтоп = 3 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHpSURBVDhP7VI9q8FRHD7lM/gGFpNPwMJiMigs
+XsqEwUsKg1GysDDIYDIoZVBikCJClCiDlwwMLIpE3q77/P1ux73d7h3uHe5yn+H8n+d3fi/POefP
+Xh643W5Y7w+Q5JHr9crjfOWEIY80QJxHkHG5XECGw2GxWAShrfV63Wq1KIHhs1wue73e6XTiGZPJ
+pN/vgwDH41EqlRqNRnBqZ7fbbTYbCKyxbrfr8XjUarXBYCCr6XRaoVBotdpQKEQmM5mM1+sFATqd
+jsPhiEaj4BjGGo3G+XyGUKlU5ArT4AgEXebzOUg2m3W5XCCHw6HZbFar1VgsBgk7gn9gOp3mcjky
+r1Qq4/H4ZrPBzN1uhwi23G43SCQSCQaD5Hc2myEi1NfrdYlEotPpUAOJXmKx2GKx7Pd7SCCVSplM
+JpBarZZIJMxms1wuH4/HiAj12+12MBiIRKJkMglZqVRgT6/XYw4kulitVpwOJ4cE8Bz5fB7k6R8I
+h8PoDSKTyeggqCmVSo/NN+CC6ZmIY2XtdrtcLhcKhUAgsFgsENJoND6fD1bhczQaIYILxij+56A7
+DRDeH1fldDpRsFqtaBu/h9/vxyPhUJCU+hWe/gGk8iEEPofkZzB4w5EAPgfkfeSbYuDD/B/gv/53
++Nv6+/0VdWmkwcFJ5uAAAAAASUVORK5CYII=)
+из 29.32.30.382из 29.32.30.383Электронный блок управления диагностикой (определения технического состояния электронных систем
+и агрегатов машины), применяемый в составе продукции отрасли специального машиностроениявыполнение на территории Российской Федерации требований
+(в совокупности 140 баллов):наличие у юридического лица - налогового резидента Российской Федерации,
+не находящегося под контролем иностранного государства,
+и (или) международной организации, и (или) иностранного юридического
+или физического лица, и (или) иностранной структуры без образования юридического лица<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGHSURBVDhPzZBPqwFhFIdn6WvI1kcYpdQoi5Gw
+sGQlvoDu0geYsvIByCSxUrazRZRSsrDSlCz9ibhj7jPONFm51+7+yus5Z37nvOc9ivtWj8dDTsdx
+BN4VBO4AOL0C6PspWEL6EXKKCe12O/mkBCkEv4ZIwlqtFo1GAbp4N5zP56+nPIvr2rZdLBbj8Xin
+05FMu91WVRXwCyaTSTgczmQyMC2bzSY18/k8EolMp1OSm81G0zSAIZX7/Q61Wq1cLgdcLpfr9Qqg
+QqEwGAyA2WyWSCQAr0D2ZRiGFEiIbrdbuVyWt67X62QyCdDdL2g0GtlsFmBKrEC/3+/1egCq1+uh
+UGg4HMKKbJO5GQAQ92Kx6Ha7AOJVx+PxcDicTidCf62sKBaLyXssy6pUKtvtdrlcjkajYEiE2dvS
+eDzO5/OpVMo0TR5drVZ1XS+VSul0mmIMTIFVWvsjvdHrDci7gRSjI+nEYLCc4g7aI2W1WklK4l+l
+7Pd7/j4o4Pd3N/LX+tkNH+nfFbjuD0sbxWsbwK0pAAAAAElFTkSuQmCC) </sup>:прав на конструкторскую и техническую документацию для проектирования, производства, модернизации и развития соответствующей продукции
+на территории Российской Федерации в соответствии со спецификацией
+на готовое изделие в следующем составе:спецификация на готовое изделие с указанием сборочных единиц и деталей;схема электрическая принципиальная;
+исключительных или неисключительных (но неотзывных) прав на программное обеспечение;подтверждение осуществления на территории Российской Федерации процессов проектирования схемотехники, конструкции модуля, топологии печатных плат, встроенного программного обеспечения, а также наличия соответствующих кадров и затрат на их содержание;выполнение на территории Российской Федерации технологической операции - поверхностный монтаж чип-компонентов на печатную плату
+выполнение на территории Российской Федерации дополнительных требований:установка программного обеспечения, если оно является неотъемлемой частью оборудования (20 баллов);сборка электронного оборудования (корпусирование) (20 баллов);функциональное тестирование готового изделия и проведение технического контроля соответствия требованиям технических условий готового изделия (20 баллов);выполнение дополнительных требований по применению компонентов:применение российских системообразующих микросхем (Bтоп = 14 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VK9isJAGNynyDP4AkJExMYuhY0I
+pjCBYGWvWKUT9A1srFKZNL6ACMFUioWdIihoFRBEYuHf3my+veW4Qs7+plhmZr/5dr9NGH+L1+tF
+6/P5JPIuoKoVwSoCYGjweDyoDUDypxPHMVZUMsopQP5ygE6nUyqVQNBCnHC73Xq9XqFQGAwGaQH3
+PC+Xy1mWdTweSVYqFRAcKAJRFM1mMxBd16/XK07PZrNo1u12HceBv91u6/W6DKgLoA0qQJIkyefz
+k8kkCALf9+Esl0vTNEFEgMZaLBZoD/d0OkGGYcgYazQa4MBms7FtG0TOcL/fU59Xq9XRaAS33W6v
+Vqtardbv9+G7rqtp2nQ6BWfYSIsFms3mfD5fr9eZTAYSs5XLZZDL5XI+nzEeOAMbj8eGYaDfcDgU
+Oc5brVaxWISDu5FDwMDiSsjsdrvD4UAuYb/f0zzph5GAlEMTwOXO99OpXeXIX0OBXClSkCQfEIGP
+8B/4Cz4McP4FzubCOyBWPiQAAAAASUVORK5CYII=) ;применение российских печатных плат (Bтоп = 7 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGbSURBVDhP7VK7isJAFJ2f8DcCiiRp/AHtRLsk
+iIWFFhY2toKFKKROa2UhiHZiYSfaKIjgExW0EPHVKIqv7BnvbhAXl22221PMnHvvOTd3ZsLMN7g/
+QOR2u1n8JwNWSCm0PAzb9Xo9n8/PtcvlgiSAcDKZtNttKr1+AVLLRuh2u9Fo1G63G4aBEC3Y4XBI
+JBKyLOfzeRKVSiWXywXdfr+fzWbI7HY7j8dDVVYul2u1WqfTcTqdm81mtVo5HI7FYoGW8XicROPx
+OJVKEWfH45FYOp0G7/V6MCCsVCqZTIZKuVyu3++D8JGwTafTQCCQzWYfVTMcDnu93mKxuF6vEdbr
+dZhBlsslVm4YDAaRSIQx1mq1EGJCSZJ8Ph+urlqt2my2UCikKAqm5QbrWoLBYKFQ2G63fr8fYTKZ
+RAbHRbtmszkajZCEmL8DttPpFIvF5vM5PiIIAmq4e1VVeacvUGuGk7ndbgzQaDSooOu6KIqapg2H
+Q4Q4KKSk/nw4evNnYuF7ho+EDSt6YH0hVAIeYo63P987/Bt+g782mOYH38fpp3zGW7cAAAAASUVO
+RK5CYII=) </sup>;применение российских вторичных преобразователей питания (Bтоп = 6 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAUCAIAAAALACogAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF/SURBVDhP5ZK9isJQEIXzOr6CjRGiTSrBwijY
+WKSyEVMGoyAoBIMIgmBtFbCwshG7gFE0T2BsNxDERvxZs+dm5LIou/sAe8DLN5M5k5lrhOhnPR4P
+Oj9jEf9mgKiamIAZkL3H4i0phFhhFLmu6/s+AB6Birh4P67lclmpVCRJOhwOCNkbttutoiipVGq/
+3yNEi2q1inAwGCDc7XY4p9Op53nMcL1ebds+nU7D4TCfzyNlWVaxWASUSqXFYgEYjUblchmVzMAH
+Xa/Xk8kE0G63MQNA1/XVagVwHCeZTPb7ffBzB5RiSiwHDsMwnU6rqkohaTab9Xo9gIAt4dlsNjAk
+EglautPpiKJYr9fBrVYrk8l0u93z+cwM+HHhAU7TNLEGIJfLjcdjzIw7pQXQWgiC4CPWfD5vNpvI
+NhqNQqEAMAwDBgDp+ccdj0dN02RZxqsvlwtSaFmr1bLZLF0rupKIXz8NevBdLxl2S7fbDSOiMW/z
+nomLmf74+N71Dw1R9AUr3ll6ozhRGgAAAABJRU5ErkJggg==) </sup>;применение российских микросхем и модулей связи и навигации
+(Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGFSURBVDhP7ZItqwJBGIXnP9ithgWxbrGIGMVs
+WRBkLbqIgs2iwSJ4Yc26Bg0qfiGCimUtYrLabIJoE/zauWd9L6Nc4e4fuCcMzztzzsw7O8v4n7Is
+i0YBDgGIrALY4/Gg4hMgAcfjkdg+gRzvgAWC6/WKsVKpJJNJAAxsMpmEw+FgMLhcLp8ens/nQ6FQ
+LBbb7/cod7udoiiFQgFsB0qlEqjT6ciyDOh2u4FAAGAYRi6XA8xms8FgUC6Xwff7/efSq9WqVqsB
+xuOxSCLT7/e/nopGo4fDAfMMoWaz6XK5RqORHeU8nU77fL56vQ4eDoc4JxKJeL3e9XqNGXa73bbb
+raZpbrebmoY1k8l4PB50b2/A+WazaTQaAJhf7xCPx0+nU6vVUlUVZbvd9vv9gPP5TB8NvWBk8/nc
+NE1d14vFIurpdCpJ0mKxqFarOId8CIjHYdlsNpVK4Vpij16vl0gkKA+JNyG9WqI9KEOCldzvGXZ5
+il6UFnAzmvl0Q84/3y/9B5zF+TcEbIUtK3nojAAAAABJRU5ErkJggg==) ;применение российских интерфейсных микросхем и преобразователей
+(Bтоп = 8 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAVCAIAAAAW+SPgAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VExq4JQGHUP+iXSf3CopaA2IWir
+DFobAqEpghoiJJwkRTLHao0kaEgCqalZiAhqElqe6ct39Io8eATv7e8M1/Ode77Ddz+p4D1erxc5
+ExK6fd93XdfzvER9Pp9QoJPyMwI4RT4EuADiIgLacEqSVCwWZVkOs03TrNfrk8kkMgToFwSh0Wjs
+93uU8/m8VCqdz2dw6nK5DIfD3W6Xy+UURYHU6XRqtdp2u2VZ9na7Xa9XTdMYhrFtm/qIAJMoiqqq
+giBJ13WQarVqWRYIsFwux+NxvBOkchxH+Gq1ymQyaFgsFkQBDocDytD9eDy63W4qlWq32ygxd6vV
+SqfT6/Ua5Ww2azabPM87jkMlS9hsNuVyGaTX6xmGgXFpmkYk3ofU+/2OqzCbrAnDYDIQPHc0GoFU
+KpXpdApCgPVTx+MRz8rn8/1+n6in06lQKGSz2cFgQExA/HciQzjrO/L9f4VuUuM6IcSaKElDnP1L
+/Lt/4i/uIPgCazFLcJVt9F4AAAAASUVORK5CYII=) ;применение российских полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGuSURBVDhP7ZI/66lxGMa/Xod3YZBMYjaxKYPN
+QPKnSJks9ItFshCDQUkMZGKwkBKF2MQiKQaD/8/5PL5OP+cM55wXcK7h2/Vc9//7foTyRzyfT/k+
+Ho/7/Q5RA/i4XC63202aATapSKsUJQS2N/2Z79Pjer3yoieTSavVutvt1AqLxSIajVarVWnj7fV6
+4XC42WzCQSQSwQFCvNhut/F4vFwuWyyWQqGA2ul0zGZzsVi02Wzj8Xg0Gul0OqfTmclksIrT6UQh
+WD6fl2nI7fP5IF8vVCqVYDC4Wq0MBsN0On1vaT6fx2Ix2f1kMtFqtYPBIJ1OH49Hui+VSugOh4Pi
+agBFXC6XRqNJpVJqtKIkEgkhBH3Ch8MhveVyuUAgcDgcBFnP5zMG0phMJumRzWb7/b5er6/Vaiit
+VisUCq3Xa/j34Wazmd/vhzAAY0DYm91ufxnf4AZiuVx6PB7GcrvdTIJKbqPR6PV6abrb7aJwRCAn
+FPv9vt1uNxqNzWbDt7wUO6nX6+wE/nlZ8N0SkP/Cp4dUuKY8KBAwPICsKG3w35SXs4pfKvwL/gf8
+HYryA1YLeIUnz/t1AAAAAElFTkSuQmCC) </sup>;применение российских силовых полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGXSURBVDhP7ZI9y4FxFMbvL+Ar2HwHpeRjmAwG
+g/JIJJlkUWIyWNxlMZgYiDKhhMGChCh5yWIk8vb8bke6LU/szzWcruucc/3/5/+i3L/EX4bb7Ua8
+Xq+nB87nM1IzUCB7uVykA7zkKyNAKvoUfURaRQr6/b7f7/d4PPl8HvkcqdlstlotiHgWi0WpVNrt
+dvBardZoNFRVjUQiSM2ANRgMms3mbDaLHI1GNpvN6/U6nc7tdiujTyaTer2uGY7HIx2wTqdjt9sh
+gUAgFApBGIN9ICCVSu33e8jzDIfDIZfLzWYzeLFYtFqt0+k0nU6vViupZjIZ6VRk6EQiYTAYwuEw
+HLjdbqPR2G63RbIEJ4HQrJ2BqYiVSsVkMjHxYDCIx+OFQsFisQyHQ0q9Xm+5XD4NvAhM4HA4iC6X
+KxaLQaLRqNyMQGZRNptNMpn0+Xyclcslxf2y9s8D4/GYDNtKt/ZwsG63W61WpSavNp/Py+Xyer2G
+S+sLb39JuvUvLVz/G7RrZQ0KRCnoMyIlL3jb4RP8Gz7Bl4b7/RfepPBVgm9AugAAAABJRU5ErkJg
+gg==) </sup>;применение российских пассивных элементов стандартных (Bтоп = 3 балла), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAYCAIAAAB8wupbAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG4SURBVDhP7VI9y0FhGD6/weYP+AEssiLlYziz
+QUZRymAwKLMoOhYDMwZJCrGIkkIxSCGRkrD5/jiuxy0dy5t3eLf3qnOf677OfT3389zP4cRf4ifD
+/X5HvF6vp9MJkRQOD3C73RCfZUxFCoBTHYEUjl4E8LcNOJ/PiNVq1e129/t9cBSwLc3n82azeblc
+WNWzA9LJZAI+HA7tdnsymTQYDPSVg9Xr9er1eofDQZLL5bJYLFartdFoLBYLm822Wq08Hg9tj2u3
+27S2VqtdLpeDwUCpVCLFTpxOJ0g8Hler1ePxGBye15S63W6xWATBYiqVqtVq5XK5QqGw2WwymUyl
+UuF5fr/fo4AZ6vW6QqEwm8273Q5pNpuVyWTRaBS8VqtB3263RqNxOp0yA7ocDofRaCSXy/P5PCRB
+EBKJhE6nS6VSSCORiMlkKpVK4K8pEXw+H9brdDoajQZpr9fDZKRTJs7BGovFwuFwMBjE6dfrNU7v
+9/sDgQB0VED8uOlyuYymmPTxeGTriOJsNguFQul0mlJpE+DjX8I36cUjpWqKBHZo/ALo+1bhkSrS
+auCjwzf4N3yDvzaI4gPLzxFV7uBOcwAAAABJRU5ErkJggg==) </sup>;применение российских конденсаторов большой емкости (Bтоп = 4 балла), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGWSURBVDhP7VG7isJQEE3pP+QXrMU2oIIoGLCw
+kYCIoIWIXcAiTZqAgiCCVQqRtD4QG0HECIJEQbBTtPALRJD4SvYkN9xdhAW334EM55w7Z+5kLmP/
+HpZlIb9eLwCSQR3D8/m83W6Px4NIyPf7HQotogHKQPWYy98qENPpNBQKFYtFdAR1btB1PZfLaZrm
+FtimadZqNSjH4xE0nU5fr9dKpaIoCihzOp3q9fp8Puc4bjAYQBJFsVwu9/t9QRD2+30ymYS4WCwK
+hYJjQD+MC4QGw+EQIBKJjMdjgGg0erlccFU2m02lUrIsOwZ8iFarha4Ed7tdv9/f6XQmkwlRRqNR
+IBA4HA7AjuF8PkuS5PP5qtUqKNaQyWRYlt1sNqAYuFQqrVYrcsTQtfR6vXw+DwDzcrncbrfBYBBd
+Mf1ut4P+vSVsHbnZbGIMAPxDu90GSCQSs9kMAEGq0Z1Zr9c8z8disUajQc4Mw4jH4+FwWFVVUJSS
+t3IfyfJ+mj4fBTh7AyQcA5FQSgGxUeWnx7vh8/g3fBJ/NNj2F7s+g7O79ytMAAAAAElFTkSuQmCC
+) </sup>;применение российских сенсорных элементов (Bтоп = 10 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAXCAIAAABrvZPKAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIPSURBVDhP7ZJPq2lRGMb31NfwBSTlT4mvIJGB
+jDBBSZQBRUohJMmAEgZCMhGliBKlJCMhyYASIxH5d/Z99lly3G7nDu4d3brPYO/fetb7rvWudy2K
+/l4fnwLc7/fH40EcwPuQyb/dbpfLBe4r53q9wkEQGCYRmXoOaJosQZEfERbC9z2ILBqJRLxeL3Hy
++bxYLK5UKmDMMvtXq1WbzdbtdomFbywWc7lcy+USfD6fJRKJXq8Hj8djpVIJR6vVzudzOFS73Q6H
+w/F4nMfjTadTWHa7XaVS5XI5uVy+2Wzg1Ot1s9kMwLp+vx/g8/kymQyTv1qt8INMJlOz2QRwOJzR
+aARQq9XD4RCQzWaNRiMgFAql02lAIBBIpVIApn4cuFQqFYtFMOR0OmUyWb/fR9rxeIRTq9UcDgcA
+RXk8HoDb7UZRACZ/MBhIpVIWi9Xr9TCEhEIhl8udzWZkaLFYRCLRbrc7nU44FA6r0WhIsylcFbkC
+hUJhtVoBwWCwXC4XCgU+n4/TIS6ZTKJHk8kEs2ghalmv12Akfr0f9AZxADabvVgsADqdLpFIfE4+
+RW6H6Hn/6Ad6YzAYsMPhcIAVjUYFAgHaiUvdbrdw8JZeZWIJ8rTAaByFelqtVqfTQQSx8EXbG43G
+fr8Hk9Dv9FU/RELfE177kOGvYt4v0SsI8O78Jhn6af8/0P/8v9O/nU/TPwDXmhtQQjVL3QAAAABJ
+RU5ErkJggg==) </sup>;применение российских периферийных микросхем (Bтоп = 8 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAIAAADJt1n/AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHiSURBVDhP7ZK/y4FRFMevv8A/wK6sFiMWm8kk
+RZlIIqIMj2RUYrMgRVn8msgglJCSpEwsRLJZ/PZ+H8f78D71DnrX9zvcPvfcc+45597D7r/r9hDg
+er1eLhdirALzwTg7Ho/n85lMEJgsYMEIEBgCM1zz3H374S7aQqfTCWu9XrfZbHS63W4tFstkMgHz
+mWezWTAYLBaLYPJoNpt+v7/RaIAhj8ejUCjoqFqtymSyXq8HZpvNJhKJ5HI5rVabzWZhQh6dTpfJ
+ZIxGY7/fh2W9Xuv1etRIRTkcjk6nwwfv93tUAkomk6FQCOB2uwOBACAcDkejUcB4PNZoNMITmM3m
+drsNfr72dDrlOI4KGwwGcrl8OBzGYjHUBctqtTIYDAB6IKfTORqNAHwwklutVolEEo/HsYWQkzFW
+LpdpWygUpFIpPdJisVAqlYlEAszQxuFwAKVSKbQK6Ha7aAFdqVSqWq1GwXjRVqsFRkW4Op/Po4vX
+kKAxn88HsNvt1Hw6nUZ7j8OnqG1BDP+EHrxeL2LAMCGnWq12uVwmkwlVwIKBgajh94liu90OtVUq
+leVyiTOaivl8XiqV6K73KRLpVTZEVb17C99DHyESgxXeEA0A+YFFloezWD8yf6r/4A/1h+D7/Qv8
+uGgNZwuOCAAAAABJRU5ErkJggg==) </sup>;применение российских микросхем памяти (Bтоп = 11 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHuSURBVDhP7VJL6+FhFPYR+AC+gZI9G1bKwsqC
+ZEcUJcpSNhYWIiU7JZeFDeW6YKHkllJyi4VQCBss3H//53Wmf9PMv2maWcxmnsXpOZfnPe8578vj
+OO71ej2fz8fjAQIXIBeWOAWBnzkPmu9ln5Zwv99hN5tNLBa7Xq/gyWTSbDb3ej1wVLL+QL1er9Vq
+IHTW4XDI5XLz+fyd5Ewmk0gkQmo8HqfT6Wg0qlAojscjUkyPkMvlkkqlgUAA7n6/VyqVaKLX61ut
+FiLT6dRgMJxOJ3CCVqtdLBYgvMvlMhwOwVCkUqlAIpGIWq0GCYfDXq8XBG0hoIbAarUKBoMguBGb
+H+x2u6VSKTqo2+1KJBJMiJk7nQ4iy+XSaDSiEziQSCRIxeanbYVCIT6fj6J3Aef3+wUCQTweJ7dY
+LIrF4slkcj6frVYrstlstlKpIMXmp4ObzaZQKNxut7vdzuPxVKtVmUyWyWSQws5tNluj0ej3+06n
+E8tyu90oY3p6FYJOp4P1+XxE8vm8RqN5Z74Gm3+9XuM+drvd4XCUy2VEZ7OZXC7Hm1ksFtwCEWwH
+behHgQCI0ArY/O12u1QqDQYD+CiCxRSFQmE0GoGjjkq/xLf/QyAxbZRAkV+AvR8EdLfPPj9Efrf/
+H+C//u/wb/Uc9wFZDq0o+ZNlVwAAAABJRU5ErkJggg==) ;применение российских соединителей (в том числе разъемов, жгутов, кабелей) (Bтоп = 6 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAIAAAAf7rriAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHgSURBVDhP7VJLy6lRGN0lf8IPMMAPMFFKipKJ
+GChz14yQkcsvkJRiggmKDJhQLlGEFCMDIiNMUC65fLzf8j1ffW/n1KlzxmcN9l7r2c/az7Mv7PV6
+fXwBhPsCRZ7PJ3EKAhQhEGf8EFL58vF4YLxer8lkcrfbgW82G7fbnUqlwJHJMDWbzV6vB0I4nU61
+Wm08HpPMZDKMsfV6DZ5Op6vVqslkmkwmkCwWi/n9fo1GEw6HoQ+Hg8FgcLlcRqOxXq8jgiNotdrF
+YgF+uVwwlkolFHibO50OJvSjUChAisWiWq0G6ff7FosFBG2rVKrZbAYOs91uF4vF8/kc8t02kEgk
+BoMByHK5lMlk3W43l8uVy2Va1ev11DbB6/UGg0GQtxn3IRAIrFYrikDm83mhUBgIBN6JHLdarUQi
+UaVSAW+3261WKxqNYndIRobRaCSRSKbT6fl8jkQiOItcLo/H41hCtsPhQAHwUCgETifFXXy3Ddhs
+tuPxmM1mdTod5Ha7lUqltETgvyKcGJnH4/H5fHAWCgVo3JxSqXQ6nWazGf0jcr/fb7cbvTlxcuJT
+sEajgVcdDofQlLHf7xGhl+dX+x0/bZOTdiVQhP9DfwFDNkAVKA+cIiT/ZP6e/wn/zX8FjvsEz7r0
+DN8+OjcAAAAASUVORK5CYII=) ;применение российских катушек индуктивности и трансформаторов
+(Bтоп = 3 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHpSURBVDhP7VI9q8FRHD7lM/gGFpNPwMJiMigs
+XsqEwUsKg1GysDDIYDIoZVBikCJClCiDlwwMLIpE3q77/P1ux73d7h3uHe5yn+H8n+d3fi/POefP
+Xh643W5Y7w+Q5JHr9crjfOWEIY80QJxHkHG5XECGw2GxWAShrfV63Wq1KIHhs1wue73e6XTiGZPJ
+pN/vgwDH41EqlRqNRnBqZ7fbbTYbCKyxbrfr8XjUarXBYCCr6XRaoVBotdpQKEQmM5mM1+sFATqd
+jsPhiEaj4BjGGo3G+XyGUKlU5ArT4AgEXebzOUg2m3W5XCCHw6HZbFar1VgsBgk7gn9gOp3mcjky
+r1Qq4/H4ZrPBzN1uhwi23G43SCQSCQaD5Hc2myEi1NfrdYlEotPpUAOJXmKx2GKx7Pd7SCCVSplM
+JpBarZZIJMxms1wuH4/HiAj12+12MBiIRKJkMglZqVRgT6/XYw4kulitVpwOJ4cE8Bz5fB7k6R8I
+h8PoDSKTyeggqCmVSo/NN+CC6ZmIY2XtdrtcLhcKhUAgsFgsENJoND6fD1bhczQaIYILxij+56A7
+DRDeH1fldDpRsFqtaBu/h9/vxyPhUJCU+hWe/gGk8iEEPofkZzB4w5EAPgfkfeSbYuDD/B/gv/53
++Nv6+/0VdWmkwcFJ5uAAAAAASUVORK5CYII=)
+из 29.32.30.363Электронная комбинация приборов (световой индикации
+и звукового информирования оператора (водителя)
+о режимах работы
+и техническом состоянии машины), применяемых
+в составе продукции отрасли специального машиностроениявыполнение на территории Российской Федерации требований
+(в совокупности 140 баллов):наличие у юридического лица - налогового резидента Российской Федерации,
+не находящегося под контролем иностранного государства,
+и (или) международной организации, и (или) иностранного юридического
+или физического лица, и (или) иностранной структуры без образования юридического лица ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGHSURBVDhPzZBPqwFhFIdn6WvI1kcYpdQoi5Gw
+sGQlvoDu0geYsvIByCSxUrazRZRSsrDSlCz9ibhj7jPONFm51+7+yus5Z37nvOc9ivtWj8dDTsdx
+BN4VBO4AOL0C6PspWEL6EXKKCe12O/mkBCkEv4ZIwlqtFo1GAbp4N5zP56+nPIvr2rZdLBbj8Xin
+05FMu91WVRXwCyaTSTgczmQyMC2bzSY18/k8EolMp1OSm81G0zSAIZX7/Q61Wq1cLgdcLpfr9Qqg
+QqEwGAyA2WyWSCQAr0D2ZRiGFEiIbrdbuVyWt67X62QyCdDdL2g0GtlsFmBKrEC/3+/1egCq1+uh
+UGg4HMKKbJO5GQAQ92Kx6Ha7AOJVx+PxcDicTidCf62sKBaLyXssy6pUKtvtdrlcjkajYEiE2dvS
+eDzO5/OpVMo0TR5drVZ1XS+VSul0mmIMTIFVWvsjvdHrDci7gRSjI+nEYLCc4g7aI2W1WklK4l+l
+7Pd7/j4o4Pd3N/LX+tkNH+nfFbjuD0sbxWsbwK0pAAAAAElFTkSuQmCC) :прав на конструкторскую и техническую документацию для проектирования, производства, модернизации и развития соответствующей продукции
+на территории Российской Федерации в соответствии со спецификацией
+на готовое изделие в следующем составе:спецификация на готовое изделие с указанием сборочных единиц и деталей;схема электрическая принципиальная;исключительных или неисключительных (но неотзывных) прав на программное обеспечение;подтверждение осуществления на территории Российской Федерации процессов проектирования схемотехники, конструкции модуля, топологии печатных плат, встроенного программного обеспечения, а также наличия соответствующих кадров и затрат на их содержание;выполнение на территории Российской Федерации технологической операции - поверхностный монтаж чип-компонентов на печатную плату
+выполнение на территории Российской Федерации дополнительных требований:установка программного обеспечения, если оно является неотъемлемой частью оборудования (20 баллов);сборка электронного оборудования (корпусирование) (20 баллов);функциональное тестирование готового изделия и проведение технического контроля соответствия требованиям технических условий готового изделия (20 баллов);выполнение дополнительных требований по применению компонентов:применение российских системообразующих микросхем (Bтоп = 14 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VK9isJAGNynyDP4AkJExMYuhY0I
+pjCBYGWvWKUT9A1srFKZNL6ACMFUioWdIihoFRBEYuHf3my+veW4Qs7+plhmZr/5dr9NGH+L1+tF
+6/P5JPIuoKoVwSoCYGjweDyoDUDypxPHMVZUMsopQP5ygE6nUyqVQNBCnHC73Xq9XqFQGAwGaQH3
+PC+Xy1mWdTweSVYqFRAcKAJRFM1mMxBd16/XK07PZrNo1u12HceBv91u6/W6DKgLoA0qQJIkyefz
+k8kkCALf9+Esl0vTNEFEgMZaLBZoD/d0OkGGYcgYazQa4MBms7FtG0TOcL/fU59Xq9XRaAS33W6v
+Vqtardbv9+G7rqtp2nQ6BWfYSIsFms3mfD5fr9eZTAYSs5XLZZDL5XI+nzEeOAMbj8eGYaDfcDgU
+Oc5brVaxWISDu5FDwMDiSsjsdrvD4UAuYb/f0zzph5GAlEMTwOXO99OpXeXIX0OBXClSkCQfEIGP
+8B/4Cz4McP4FzubCOyBWPiQAAAAASUVORK5CYII=) ;применение российских печатных плат (Bтоп = 7 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGbSURBVDhP7VK7isJAFJ2f8DcCiiRp/AHtRLsk
+iIWFFhY2toKFKKROa2UhiHZiYSfaKIjgExW0EPHVKIqv7BnvbhAXl22221PMnHvvOTd3ZsLMN7g/
+QOR2u1n8JwNWSCm0PAzb9Xo9n8/PtcvlgiSAcDKZtNttKr1+AVLLRuh2u9Fo1G63G4aBEC3Y4XBI
+JBKyLOfzeRKVSiWXywXdfr+fzWbI7HY7j8dDVVYul2u1WqfTcTqdm81mtVo5HI7FYoGW8XicROPx
+OJVKEWfH45FYOp0G7/V6MCCsVCqZTIZKuVyu3++D8JGwTafTQCCQzWYfVTMcDnu93mKxuF6vEdbr
+dZhBlsslVm4YDAaRSIQx1mq1EGJCSZJ8Ph+urlqt2my2UCikKAqm5QbrWoLBYKFQ2G63fr8fYTKZ
+RAbHRbtmszkajZCEmL8DttPpFIvF5vM5PiIIAmq4e1VVeacvUGuGk7ndbgzQaDSooOu6KIqapg2H
+Q4Q4KKSk/nw4evNnYuF7ho+EDSt6YH0hVAIeYo63P987/Bt+g782mOYH38fpp3zGW7cAAAAASUVO
+RK5CYII=) </sup>;применение российских вторичных преобразователей питания (Bтоп = 6 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAUCAIAAAALACogAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF/SURBVDhP5ZK9isJQEIXzOr6CjRGiTSrBwijY
+WKSyEVMGoyAoBIMIgmBtFbCwshG7gFE0T2BsNxDERvxZs+dm5LIou/sAe8DLN5M5k5lrhOhnPR4P
+Oj9jEf9mgKiamIAZkL3H4i0phFhhFLmu6/s+AB6Birh4P67lclmpVCRJOhwOCNkbttutoiipVGq/
+3yNEi2q1inAwGCDc7XY4p9Op53nMcL1ebds+nU7D4TCfzyNlWVaxWASUSqXFYgEYjUblchmVzMAH
+Xa/Xk8kE0G63MQNA1/XVagVwHCeZTPb7ffBzB5RiSiwHDsMwnU6rqkohaTab9Xo9gIAt4dlsNjAk
+EglautPpiKJYr9fBrVYrk8l0u93z+cwM+HHhAU7TNLEGIJfLjcdjzIw7pQXQWgiC4CPWfD5vNpvI
+NhqNQqEAMAwDBgDp+ccdj0dN02RZxqsvlwtSaFmr1bLZLF0rupKIXz8NevBdLxl2S7fbDSOiMW/z
+nomLmf74+N71Dw1R9AUr3ll6ozhRGgAAAABJRU5ErkJggg==) </sup>;применение российских микросхем и модулей связи и навигации
+(Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGFSURBVDhP7ZItqwJBGIXnP9ithgWxbrGIGMVs
+WRBkLbqIgs2iwSJ4Yc26Bg0qfiGCimUtYrLabIJoE/zauWd9L6Nc4e4fuCcMzztzzsw7O8v4n7Is
+i0YBDgGIrALY4/Gg4hMgAcfjkdg+gRzvgAWC6/WKsVKpJJNJAAxsMpmEw+FgMLhcLp8ens/nQ6FQ
+LBbb7/cod7udoiiFQgFsB0qlEqjT6ciyDOh2u4FAAGAYRi6XA8xms8FgUC6Xwff7/efSq9WqVqsB
+xuOxSCLT7/e/nopGo4fDAfMMoWaz6XK5RqORHeU8nU77fL56vQ4eDoc4JxKJeL3e9XqNGXa73bbb
+raZpbrebmoY1k8l4PB50b2/A+WazaTQaAJhf7xCPx0+nU6vVUlUVZbvd9vv9gPP5TB8NvWBk8/nc
+NE1d14vFIurpdCpJ0mKxqFarOId8CIjHYdlsNpVK4Vpij16vl0gkKA+JNyG9WqI9KEOCldzvGXZ5
+il6UFnAzmvl0Q84/3y/9B5zF+TcEbIUtK3nojAAAAABJRU5ErkJggg==) ;применение российских интерфейсных микросхем и преобразователей
+(Bтоп = 8 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAVCAIAAAAW+SPgAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VExq4JQGHUP+iXSf3CopaA2IWir
+DFobAqEpghoiJJwkRTLHao0kaEgCqalZiAhqElqe6ct39Io8eATv7e8M1/Ode77Ddz+p4D1erxc5
+ExK6fd93XdfzvER9Pp9QoJPyMwI4RT4EuADiIgLacEqSVCwWZVkOs03TrNfrk8kkMgToFwSh0Wjs
+93uU8/m8VCqdz2dw6nK5DIfD3W6Xy+UURYHU6XRqtdp2u2VZ9na7Xa9XTdMYhrFtm/qIAJMoiqqq
+giBJ13WQarVqWRYIsFwux+NxvBOkchxH+Gq1ymQyaFgsFkQBDocDytD9eDy63W4qlWq32ygxd6vV
+SqfT6/Ua5Ww2azabPM87jkMlS9hsNuVyGaTX6xmGgXFpmkYk3ofU+/2OqzCbrAnDYDIQPHc0GoFU
+KpXpdApCgPVTx+MRz8rn8/1+n6in06lQKGSz2cFgQExA/HciQzjrO/L9f4VuUuM6IcSaKElDnP1L
+/Lt/4i/uIPgCazFLcJVt9F4AAAAASUVORK5CYII=) </sup>;применение российских полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGuSURBVDhP7ZI/66lxGMa/Xod3YZBMYjaxKYPN
+QPKnSJks9ItFshCDQUkMZGKwkBKF2MQiKQaD/8/5PL5OP+cM55wXcK7h2/Vc9//7foTyRzyfT/k+
+Ho/7/Q5RA/i4XC63202aATapSKsUJQS2N/2Z79Pjer3yoieTSavVutvt1AqLxSIajVarVWnj7fV6
+4XC42WzCQSQSwQFCvNhut/F4vFwuWyyWQqGA2ul0zGZzsVi02Wzj8Xg0Gul0OqfTmclksIrT6UQh
+WD6fl2nI7fP5IF8vVCqVYDC4Wq0MBsN0On1vaT6fx2Ix2f1kMtFqtYPBIJ1OH49Hui+VSugOh4Pi
+agBFXC6XRqNJpVJqtKIkEgkhBH3Ch8MhveVyuUAgcDgcBFnP5zMG0phMJumRzWb7/b5er6/Vaiit
+VisUCq3Xa/j34Wazmd/vhzAAY0DYm91ufxnf4AZiuVx6PB7GcrvdTIJKbqPR6PV6abrb7aJwRCAn
+FPv9vt1uNxqNzWbDt7wUO6nX6+wE/nlZ8N0SkP/Cp4dUuKY8KBAwPICsKG3w35SXs4pfKvwL/gf8
+HYryA1YLeIUnz/t1AAAAAElFTkSuQmCC) ;применение российских силовых полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGXSURBVDhP7ZI9y4FxFMbvL+Ar2HwHpeRjmAwG
+g/JIJJlkUWIyWNxlMZgYiDKhhMGChCh5yWIk8vb8bke6LU/szzWcruucc/3/5/+i3L/EX4bb7Ua8
+Xq+nB87nM1IzUCB7uVykA7zkKyNAKvoUfURaRQr6/b7f7/d4PPl8HvkcqdlstlotiHgWi0WpVNrt
+dvBardZoNFRVjUQiSM2ANRgMms3mbDaLHI1GNpvN6/U6nc7tdiujTyaTer2uGY7HIx2wTqdjt9sh
+gUAgFApBGIN9ICCVSu33e8jzDIfDIZfLzWYzeLFYtFqt0+k0nU6vViupZjIZ6VRk6EQiYTAYwuEw
+HLjdbqPR2G63RbIEJ4HQrJ2BqYiVSsVkMjHxYDCIx+OFQsFisQyHQ0q9Xm+5XD4NvAhM4HA4iC6X
+KxaLQaLRqNyMQGZRNptNMpn0+Xyclcslxf2y9s8D4/GYDNtKt/ZwsG63W61WpSavNp/Py+Xyer2G
+S+sLb39JuvUvLVz/G7RrZQ0KRCnoMyIlL3jb4RP8Gz7Bl4b7/RfepPBVgm9AugAAAABJRU5ErkJg
+gg==) </sup>;применение российских пассивных элементов стандартных (Bтоп = 3 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAYCAIAAAB8wupbAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG4SURBVDhP7VI9y0FhGD6/weYP+AEssiLlYziz
+QUZRymAwKLMoOhYDMwZJCrGIkkIxSCGRkrD5/jiuxy0dy5t3eLf3qnOf677OfT3389zP4cRf4ifD
+/X5HvF6vp9MJkRQOD3C73RCfZUxFCoBTHYEUjl4E8LcNOJ/PiNVq1e129/t9cBSwLc3n82azeblc
+WNWzA9LJZAI+HA7tdnsymTQYDPSVg9Xr9er1eofDQZLL5bJYLFartdFoLBYLm822Wq08Hg9tj2u3
+27S2VqtdLpeDwUCpVCLFTpxOJ0g8Hler1ePxGBye15S63W6xWATBYiqVqtVq5XK5QqGw2WwymUyl
+UuF5fr/fo4AZ6vW6QqEwm8273Q5pNpuVyWTRaBS8VqtB3263RqNxOp0yA7ocDofRaCSXy/P5PCRB
+EBKJhE6nS6VSSCORiMlkKpVK4K8pEXw+H9brdDoajQZpr9fDZKRTJs7BGovFwuFwMBjE6dfrNU7v
+9/sDgQB0VED8uOlyuYymmPTxeGTriOJsNguFQul0mlJpE+DjX8I36cUjpWqKBHZo/ALo+1bhkSrS
+auCjwzf4N3yDvzaI4gPLzxFV7uBOcwAAAABJRU5ErkJggg==) ;применение российских конденсаторов большой емкости (Bтоп = 4 балла), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGWSURBVDhP7VG7isJQEE3pP+QXrMU2oIIoGLCw
+kYCIoIWIXcAiTZqAgiCCVQqRtD4QG0HECIJEQbBTtPALRJD4SvYkN9xdhAW334EM55w7Z+5kLmP/
+HpZlIb9eLwCSQR3D8/m83W6Px4NIyPf7HQotogHKQPWYy98qENPpNBQKFYtFdAR1btB1PZfLaZrm
+FtimadZqNSjH4xE0nU5fr9dKpaIoCihzOp3q9fp8Puc4bjAYQBJFsVwu9/t9QRD2+30ymYS4WCwK
+hYJjQD+MC4QGw+EQIBKJjMdjgGg0erlccFU2m02lUrIsOwZ8iFarha4Ed7tdv9/f6XQmkwlRRqNR
+IBA4HA7AjuF8PkuS5PP5qtUqKNaQyWRYlt1sNqAYuFQqrVYrcsTQtfR6vXw+DwDzcrncbrfBYBBd
+Mf1ut4P+vSVsHbnZbGIMAPxDu90GSCQSs9kMAEGq0Z1Zr9c8z8disUajQc4Mw4jH4+FwWFVVUJSS
+t3IfyfJ+mj4fBTh7AyQcA5FQSgGxUeWnx7vh8/g3fBJ/NNj2F7s+g7O79ytMAAAAAElFTkSuQmCC
+) </sup>;применение российских сенсорных элементов (Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAXCAIAAABrvZPKAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIPSURBVDhP7ZJPq2lRGMb31NfwBSTlT4mvIJGB
+jDBBSZQBRUohJMmAEgZCMhGliBKlJCMhyYASIxH5d/Z99lly3G7nDu4d3brPYO/fetb7rvWudy2K
+/l4fnwLc7/fH40EcwPuQyb/dbpfLBe4r53q9wkEQGCYRmXoOaJosQZEfERbC9z2ILBqJRLxeL3Hy
++bxYLK5UKmDMMvtXq1WbzdbtdomFbywWc7lcy+USfD6fJRKJXq8Hj8djpVIJR6vVzudzOFS73Q6H
+w/F4nMfjTadTWHa7XaVS5XI5uVy+2Wzg1Ot1s9kMwLp+vx/g8/kymQyTv1qt8INMJlOz2QRwOJzR
+aARQq9XD4RCQzWaNRiMgFAql02lAIBBIpVIApn4cuFQqFYtFMOR0OmUyWb/fR9rxeIRTq9UcDgcA
+RXk8HoDb7UZRACZ/MBhIpVIWi9Xr9TCEhEIhl8udzWZkaLFYRCLRbrc7nU44FA6r0WhIsylcFbkC
+hUJhtVoBwWCwXC4XCgU+n4/TIS6ZTKJHk8kEs2ghalmv12Akfr0f9AZxADabvVgsADqdLpFIfE4+
+RW6H6Hn/6Ad6YzAYsMPhcIAVjUYFAgHaiUvdbrdw8JZeZWIJ8rTAaByFelqtVqfTQQSx8EXbG43G
+fr8Hk9Dv9FU/RELfE177kOGvYt4v0SsI8O78Jhn6af8/0P/8v9O/nU/TPwDXmhtQQjVL3QAAAABJ
+RU5ErkJggg==) ;применение российских периферийных микросхем (Bтоп = 8 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAIAAADJt1n/AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHiSURBVDhP7ZK/y4FRFMevv8A/wK6sFiMWm8kk
+RZlIIqIMj2RUYrMgRVn8msgglJCSpEwsRLJZ/PZ+H8f78D71DnrX9zvcPvfcc+45597D7r/r9hDg
+er1eLhdirALzwTg7Ho/n85lMEJgsYMEIEBgCM1zz3H374S7aQqfTCWu9XrfZbHS63W4tFstkMgHz
+mWezWTAYLBaLYPJoNpt+v7/RaIAhj8ejUCjoqFqtymSyXq8HZpvNJhKJ5HI5rVabzWZhQh6dTpfJ
+ZIxGY7/fh2W9Xuv1etRIRTkcjk6nwwfv93tUAkomk6FQCOB2uwOBACAcDkejUcB4PNZoNMITmM3m
+drsNfr72dDrlOI4KGwwGcrl8OBzGYjHUBctqtTIYDAB6IKfTORqNAHwwklutVolEEo/HsYWQkzFW
+LpdpWygUpFIpPdJisVAqlYlEAszQxuFwAKVSKbQK6Ha7aAFdqVSqWq1GwXjRVqsFRkW4Op/Po4vX
+kKAxn88HsNvt1Hw6nUZ7j8OnqG1BDP+EHrxeL2LAMCGnWq12uVwmkwlVwIKBgajh94liu90OtVUq
+leVyiTOaivl8XiqV6K73KRLpVTZEVb17C99DHyESgxXeEA0A+YFFloezWD8yf6r/4A/1h+D7/Qv8
+uGgNZwuOCAAAAABJRU5ErkJggg==) </sup>;применение российских микросхем памяти (Bтоп = 11 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHuSURBVDhP7VJL6+FhFPYR+AC+gZI9G1bKwsqC
+ZEcUJcpSNhYWIiU7JZeFDeW6YKHkllJyi4VQCBss3H//53Wmf9PMv2maWcxmnsXpOZfnPe8578vj
+OO71ej2fz8fjAQIXIBeWOAWBnzkPmu9ln5Zwv99hN5tNLBa7Xq/gyWTSbDb3ej1wVLL+QL1er9Vq
+IHTW4XDI5XLz+fyd5Ewmk0gkQmo8HqfT6Wg0qlAojscjUkyPkMvlkkqlgUAA7n6/VyqVaKLX61ut
+FiLT6dRgMJxOJ3CCVqtdLBYgvMvlMhwOwVCkUqlAIpGIWq0GCYfDXq8XBG0hoIbAarUKBoMguBGb
+H+x2u6VSKTqo2+1KJBJMiJk7nQ4iy+XSaDSiEziQSCRIxeanbYVCIT6fj6J3Aef3+wUCQTweJ7dY
+LIrF4slkcj6frVYrstlstlKpIMXmp4ObzaZQKNxut7vdzuPxVKtVmUyWyWSQws5tNluj0ej3+06n
+E8tyu90oY3p6FYJOp4P1+XxE8vm8RqN5Z74Gm3+9XuM+drvd4XCUy2VEZ7OZXC7Hm1ksFtwCEWwH
+behHgQCI0ArY/O12u1QqDQYD+CiCxRSFQmE0GoGjjkq/xLf/QyAxbZRAkV+AvR8EdLfPPj9Efrf/
+H+C//u/wb/Uc9wFZDq0o+ZNlVwAAAABJRU5ErkJggg==) </sup>;применение российских соединителей (в том числе разъемов, жгутов, кабелей) (Bтоп = 6 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAIAAAAf7rriAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHgSURBVDhP7VJLy6lRGN0lf8IPMMAPMFFKipKJ
+GChz14yQkcsvkJRiggmKDJhQLlGEFCMDIiNMUC65fLzf8j1ffW/n1KlzxmcN9l7r2c/az7Mv7PV6
+fXwBhPsCRZ7PJ3EKAhQhEGf8EFL58vF4YLxer8lkcrfbgW82G7fbnUqlwJHJMDWbzV6vB0I4nU61
+Wm08HpPMZDKMsfV6DZ5Op6vVqslkmkwmkCwWi/n9fo1GEw6HoQ+Hg8FgcLlcRqOxXq8jgiNotdrF
+YgF+uVwwlkolFHibO50OJvSjUChAisWiWq0G6ff7FosFBG2rVKrZbAYOs91uF4vF8/kc8t02kEgk
+BoMByHK5lMlk3W43l8uVy2Va1ev11DbB6/UGg0GQtxn3IRAIrFYrikDm83mhUBgIBN6JHLdarUQi
+UaVSAW+3261WKxqNYndIRobRaCSRSKbT6fl8jkQiOItcLo/H41hCtsPhQAHwUCgETifFXXy3Ddhs
+tuPxmM1mdTod5Ha7lUqltETgvyKcGJnH4/H5fHAWCgVo3JxSqXQ6nWazGf0jcr/fb7cbvTlxcuJT
+sEajgVcdDofQlLHf7xGhl+dX+x0/bZOTdiVQhP9DfwFDNkAVKA+cIiT/ZP6e/wn/zX8FjvsEz7r0
+DN8+OjcAAAAASUVORK5CYII=) </sup>;применение российских катушек индуктивности и трансформаторов
+(Bтоп = 3 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHpSURBVDhP7VI9q8FRHD7lM/gGFpNPwMJiMigs
+XsqEwUsKg1GysDDIYDIoZVBikCJClCiDlwwMLIpE3q77/P1ux73d7h3uHe5yn+H8n+d3fi/POefP
+Xh643W5Y7w+Q5JHr9crjfOWEIY80QJxHkHG5XECGw2GxWAShrfV63Wq1KIHhs1wue73e6XTiGZPJ
+pN/vgwDH41EqlRqNRnBqZ7fbbTYbCKyxbrfr8XjUarXBYCCr6XRaoVBotdpQKEQmM5mM1+sFATqd
+jsPhiEaj4BjGGo3G+XyGUKlU5ArT4AgEXebzOUg2m3W5XCCHw6HZbFar1VgsBgk7gn9gOp3mcjky
+r1Qq4/H4ZrPBzN1uhwi23G43SCQSCQaD5Hc2myEi1NfrdYlEotPpUAOJXmKx2GKx7Pd7SCCVSplM
+JpBarZZIJMxms1wuH4/HiAj12+12MBiIRKJkMglZqVRgT6/XYw4kulitVpwOJ4cE8Bz5fB7k6R8I
+h8PoDSKTyeggqCmVSo/NN+CC6ZmIY2XtdrtcLhcKhUAgsFgsENJoND6fD1bhczQaIYILxij+56A7
+DRDeH1fldDpRsFqtaBu/h9/vxyPhUJCU+hWe/gGk8iEEPofkZzB4w5EAPgfkfeSbYuDD/B/gv/53
++Nv6+/0VdWmkwcFJ5uAAAAAASUVORK5CYII=)
+из 29.32.30.355Электронный блок управления климатом (параметрами воздушной среды в кабине), применяемый в составе продукции отрасли специального машиностроениявыполнение на территории Российской Федерации требований
+(в совокупности 140 баллов):наличие у юридического лица - налогового резидента Российской Федерации,
+не находящегося под контролем иностранного государства, и (или) международной организации, и (или) иностранного юридического
+или физического лица, и (или) иностранной структуры без образования юридического лица<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGHSURBVDhPzZBPqwFhFIdn6WvI1kcYpdQoi5Gw
+sGQlvoDu0geYsvIByCSxUrazRZRSsrDSlCz9ibhj7jPONFm51+7+yus5Z37nvOc9ivtWj8dDTsdx
+BN4VBO4AOL0C6PspWEL6EXKKCe12O/mkBCkEv4ZIwlqtFo1GAbp4N5zP56+nPIvr2rZdLBbj8Xin
+05FMu91WVRXwCyaTSTgczmQyMC2bzSY18/k8EolMp1OSm81G0zSAIZX7/Q61Wq1cLgdcLpfr9Qqg
+QqEwGAyA2WyWSCQAr0D2ZRiGFEiIbrdbuVyWt67X62QyCdDdL2g0GtlsFmBKrEC/3+/1egCq1+uh
+UGg4HMKKbJO5GQAQ92Kx6Ha7AOJVx+PxcDicTidCf62sKBaLyXssy6pUKtvtdrlcjkajYEiE2dvS
+eDzO5/OpVMo0TR5drVZ1XS+VSul0mmIMTIFVWvsjvdHrDci7gRSjI+nEYLCc4g7aI2W1WklK4l+l
+7Pd7/j4o4Pd3N/LX+tkNH+nfFbjuD0sbxWsbwK0pAAAAAElFTkSuQmCC) </sup>:прав на конструкторскую и техническую документацию для проектирования, производства, модернизации и развития соответствующей продукции
+на территории Российской Федерации в соответствии со спецификацией
+на готовое изделие в следующем составе:спецификация на готовое изделие с указанием сборочных единиц и деталей;схема электрическая принципиальная;исключительных или неисключительных (но неотзывных) прав на программное обеспечение;подтверждение осуществления на территории Российской Федерации процессов проектирования схемотехники, конструкции модуля, топологии печатных плат, встроенного программного обеспечения, а также наличия соответствующих кадров и затрат на их содержание;выполнение на территории Российской Федерации технологической операции - поверхностный монтаж чип-компонентов на печатную плату
+выполнение на территории Российской Федерации дополнительных требований:установка программного обеспечения, если оно является неотъемлемой частью оборудования (20 баллов);сборка электронного оборудования (корпусирование) (20 баллов);функциональное тестирование готового изделия и проведение технического контроля соответствия требованиям технических условий готового изделия (20 баллов);выполнение дополнительных требований по применению компонентов:применение российских системообразующих микросхем (Bтоп = 14 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VK9isJAGNynyDP4AkJExMYuhY0I
+pjCBYGWvWKUT9A1srFKZNL6ACMFUioWdIihoFRBEYuHf3my+veW4Qs7+plhmZr/5dr9NGH+L1+tF
+6/P5JPIuoKoVwSoCYGjweDyoDUDypxPHMVZUMsopQP5ygE6nUyqVQNBCnHC73Xq9XqFQGAwGaQH3
+PC+Xy1mWdTweSVYqFRAcKAJRFM1mMxBd16/XK07PZrNo1u12HceBv91u6/W6DKgLoA0qQJIkyefz
+k8kkCALf9+Esl0vTNEFEgMZaLBZoD/d0OkGGYcgYazQa4MBms7FtG0TOcL/fU59Xq9XRaAS33W6v
+Vqtardbv9+G7rqtp2nQ6BWfYSIsFms3mfD5fr9eZTAYSs5XLZZDL5XI+nzEeOAMbj8eGYaDfcDgU
+Oc5brVaxWISDu5FDwMDiSsjsdrvD4UAuYb/f0zzph5GAlEMTwOXO99OpXeXIX0OBXClSkCQfEIGP
+8B/4Cz4McP4FzubCOyBWPiQAAAAASUVORK5CYII=) ;применение российских печатных плат (Bтоп = 7 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGbSURBVDhP7VK7isJAFJ2f8DcCiiRp/AHtRLsk
+iIWFFhY2toKFKKROa2UhiHZiYSfaKIjgExW0EPHVKIqv7BnvbhAXl22221PMnHvvOTd3ZsLMN7g/
+QOR2u1n8JwNWSCm0PAzb9Xo9n8/PtcvlgiSAcDKZtNttKr1+AVLLRuh2u9Fo1G63G4aBEC3Y4XBI
+JBKyLOfzeRKVSiWXywXdfr+fzWbI7HY7j8dDVVYul2u1WqfTcTqdm81mtVo5HI7FYoGW8XicROPx
+OJVKEWfH45FYOp0G7/V6MCCsVCqZTIZKuVyu3++D8JGwTafTQCCQzWYfVTMcDnu93mKxuF6vEdbr
+dZhBlsslVm4YDAaRSIQx1mq1EGJCSZJ8Ph+urlqt2my2UCikKAqm5QbrWoLBYKFQ2G63fr8fYTKZ
+RAbHRbtmszkajZCEmL8DttPpFIvF5vM5PiIIAmq4e1VVeacvUGuGk7ndbgzQaDSooOu6KIqapg2H
+Q4Q4KKSk/nw4evNnYuF7ho+EDSt6YH0hVAIeYo63P987/Bt+g782mOYH38fpp3zGW7cAAAAASUVO
+RK5CYII=) </sup>;применение российских вторичных преобразователей питания (Bтоп = 6 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAUCAIAAAALACogAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF/SURBVDhP5ZK9isJQEIXzOr6CjRGiTSrBwijY
+WKSyEVMGoyAoBIMIgmBtFbCwshG7gFE0T2BsNxDERvxZs+dm5LIou/sAe8DLN5M5k5lrhOhnPR4P
+Oj9jEf9mgKiamIAZkL3H4i0phFhhFLmu6/s+AB6Birh4P67lclmpVCRJOhwOCNkbttutoiipVGq/
+3yNEi2q1inAwGCDc7XY4p9Op53nMcL1ebds+nU7D4TCfzyNlWVaxWASUSqXFYgEYjUblchmVzMAH
+Xa/Xk8kE0G63MQNA1/XVagVwHCeZTPb7ffBzB5RiSiwHDsMwnU6rqkohaTab9Xo9gIAt4dlsNjAk
+EglautPpiKJYr9fBrVYrk8l0u93z+cwM+HHhAU7TNLEGIJfLjcdjzIw7pQXQWgiC4CPWfD5vNpvI
+NhqNQqEAMAwDBgDp+ccdj0dN02RZxqsvlwtSaFmr1bLZLF0rupKIXz8NevBdLxl2S7fbDSOiMW/z
+nomLmf74+N71Dw1R9AUr3ll6ozhRGgAAAABJRU5ErkJggg==) </sup>;применение российских микросхем и модулей связи и навигации
+(Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGFSURBVDhP7ZItqwJBGIXnP9ithgWxbrGIGMVs
+WRBkLbqIgs2iwSJ4Yc26Bg0qfiGCimUtYrLabIJoE/zauWd9L6Nc4e4fuCcMzztzzsw7O8v4n7Is
+i0YBDgGIrALY4/Gg4hMgAcfjkdg+gRzvgAWC6/WKsVKpJJNJAAxsMpmEw+FgMLhcLp8ens/nQ6FQ
+LBbb7/cod7udoiiFQgFsB0qlEqjT6ciyDOh2u4FAAGAYRi6XA8xms8FgUC6Xwff7/efSq9WqVqsB
+xuOxSCLT7/e/nopGo4fDAfMMoWaz6XK5RqORHeU8nU77fL56vQ4eDoc4JxKJeL3e9XqNGXa73bbb
+raZpbrebmoY1k8l4PB50b2/A+WazaTQaAJhf7xCPx0+nU6vVUlUVZbvd9vv9gPP5TB8NvWBk8/nc
+NE1d14vFIurpdCpJ0mKxqFarOId8CIjHYdlsNpVK4Vpij16vl0gkKA+JNyG9WqI9KEOCldzvGXZ5
+il6UFnAzmvl0Q84/3y/9B5zF+TcEbIUtK3nojAAAAABJRU5ErkJggg==) ;применение российских интерфейсных микросхем и преобразователей
+(Bтоп = 8 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAVCAIAAAAW+SPgAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VExq4JQGHUP+iXSf3CopaA2IWir
+DFobAqEpghoiJJwkRTLHao0kaEgCqalZiAhqElqe6ct39Io8eATv7e8M1/Ode77Ddz+p4D1erxc5
+ExK6fd93XdfzvER9Pp9QoJPyMwI4RT4EuADiIgLacEqSVCwWZVkOs03TrNfrk8kkMgToFwSh0Wjs
+93uU8/m8VCqdz2dw6nK5DIfD3W6Xy+UURYHU6XRqtdp2u2VZ9na7Xa9XTdMYhrFtm/qIAJMoiqqq
+giBJ13WQarVqWRYIsFwux+NxvBOkchxH+Gq1ymQyaFgsFkQBDocDytD9eDy63W4qlWq32ygxd6vV
+SqfT6/Ua5Ww2azabPM87jkMlS9hsNuVyGaTX6xmGgXFpmkYk3ofU+/2OqzCbrAnDYDIQPHc0GoFU
+KpXpdApCgPVTx+MRz8rn8/1+n6in06lQKGSz2cFgQExA/HciQzjrO/L9f4VuUuM6IcSaKElDnP1L
+/Lt/4i/uIPgCazFLcJVt9F4AAAAASUVORK5CYII=) ;применение российских полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGuSURBVDhP7ZI/66lxGMa/Xod3YZBMYjaxKYPN
+QPKnSJks9ItFshCDQUkMZGKwkBKF2MQiKQaD/8/5PL5OP+cM55wXcK7h2/Vc9//7foTyRzyfT/k+
+Ho/7/Q5RA/i4XC63202aATapSKsUJQS2N/2Z79Pjer3yoieTSavVutvt1AqLxSIajVarVWnj7fV6
+4XC42WzCQSQSwQFCvNhut/F4vFwuWyyWQqGA2ul0zGZzsVi02Wzj8Xg0Gul0OqfTmclksIrT6UQh
+WD6fl2nI7fP5IF8vVCqVYDC4Wq0MBsN0On1vaT6fx2Ix2f1kMtFqtYPBIJ1OH49Hui+VSugOh4Pi
+agBFXC6XRqNJpVJqtKIkEgkhBH3Ch8MhveVyuUAgcDgcBFnP5zMG0phMJumRzWb7/b5er6/Vaiit
+VisUCq3Xa/j34Wazmd/vhzAAY0DYm91ufxnf4AZiuVx6PB7GcrvdTIJKbqPR6PV6abrb7aJwRCAn
+FPv9vt1uNxqNzWbDt7wUO6nX6+wE/nlZ8N0SkP/Cp4dUuKY8KBAwPICsKG3w35SXs4pfKvwL/gf8
+HYryA1YLeIUnz/t1AAAAAElFTkSuQmCC) </sup>;применение российских силовых полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGXSURBVDhP7ZI9y4FxFMbvL+Ar2HwHpeRjmAwG
+g/JIJJlkUWIyWNxlMZgYiDKhhMGChCh5yWIk8vb8bke6LU/szzWcruucc/3/5/+i3L/EX4bb7Ua8
+Xq+nB87nM1IzUCB7uVykA7zkKyNAKvoUfURaRQr6/b7f7/d4PPl8HvkcqdlstlotiHgWi0WpVNrt
+dvBardZoNFRVjUQiSM2ANRgMms3mbDaLHI1GNpvN6/U6nc7tdiujTyaTer2uGY7HIx2wTqdjt9sh
+gUAgFApBGIN9ICCVSu33e8jzDIfDIZfLzWYzeLFYtFqt0+k0nU6vViupZjIZ6VRk6EQiYTAYwuEw
+HLjdbqPR2G63RbIEJ4HQrJ2BqYiVSsVkMjHxYDCIx+OFQsFisQyHQ0q9Xm+5XD4NvAhM4HA4iC6X
+KxaLQaLRqNyMQGZRNptNMpn0+Xyclcslxf2y9s8D4/GYDNtKt/ZwsG63W61WpSavNp/Py+Xyer2G
+S+sLb39JuvUvLVz/G7RrZQ0KRCnoMyIlL3jb4RP8Gz7Bl4b7/RfepPBVgm9AugAAAABJRU5ErkJg
+gg==) </sup>;применение российских пассивных элементов стандартных (Bтоп = 3 балла), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAYCAIAAAB8wupbAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG4SURBVDhP7VI9y0FhGD6/weYP+AEssiLlYziz
+QUZRymAwKLMoOhYDMwZJCrGIkkIxSCGRkrD5/jiuxy0dy5t3eLf3qnOf677OfT3389zP4cRf4ifD
+/X5HvF6vp9MJkRQOD3C73RCfZUxFCoBTHYEUjl4E8LcNOJ/PiNVq1e129/t9cBSwLc3n82azeblc
+WNWzA9LJZAI+HA7tdnsymTQYDPSVg9Xr9er1eofDQZLL5bJYLFartdFoLBYLm822Wq08Hg9tj2u3
+27S2VqtdLpeDwUCpVCLFTpxOJ0g8Hler1ePxGBye15S63W6xWATBYiqVqtVq5XK5QqGw2WwymUyl
+UuF5fr/fo4AZ6vW6QqEwm8273Q5pNpuVyWTRaBS8VqtB3263RqNxOp0yA7ocDofRaCSXy/P5PCRB
+EBKJhE6nS6VSSCORiMlkKpVK4K8pEXw+H9brdDoajQZpr9fDZKRTJs7BGovFwuFwMBjE6dfrNU7v
+9/sDgQB0VED8uOlyuYymmPTxeGTriOJsNguFQul0mlJpE+DjX8I36cUjpWqKBHZo/ALo+1bhkSrS
+auCjwzf4N3yDvzaI4gPLzxFV7uBOcwAAAABJRU5ErkJggg==) </sup>;применение российских конденсаторов большой емкости (Bтоп = 4 балла), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGWSURBVDhP7VG7isJQEE3pP+QXrMU2oIIoGLCw
+kYCIoIWIXcAiTZqAgiCCVQqRtD4QG0HECIJEQbBTtPALRJD4SvYkN9xdhAW334EM55w7Z+5kLmP/
+HpZlIb9eLwCSQR3D8/m83W6Px4NIyPf7HQotogHKQPWYy98qENPpNBQKFYtFdAR1btB1PZfLaZrm
+FtimadZqNSjH4xE0nU5fr9dKpaIoCihzOp3q9fp8Puc4bjAYQBJFsVwu9/t9QRD2+30ymYS4WCwK
+hYJjQD+MC4QGw+EQIBKJjMdjgGg0erlccFU2m02lUrIsOwZ8iFarha4Ed7tdv9/f6XQmkwlRRqNR
+IBA4HA7AjuF8PkuS5PP5qtUqKNaQyWRYlt1sNqAYuFQqrVYrcsTQtfR6vXw+DwDzcrncbrfBYBBd
+Mf1ut4P+vSVsHbnZbGIMAPxDu90GSCQSs9kMAEGq0Z1Zr9c8z8disUajQc4Mw4jH4+FwWFVVUJSS
+t3IfyfJ+mj4fBTh7AyQcA5FQSgGxUeWnx7vh8/g3fBJ/NNj2F7s+g7O79ytMAAAAAElFTkSuQmCC
+) </sup>;применение российских сенсорных элементов (Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAXCAIAAABrvZPKAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIPSURBVDhP7ZJPq2lRGMb31NfwBSTlT4mvIJGB
+jDBBSZQBRUohJMmAEgZCMhGliBKlJCMhyYASIxH5d/Z99lly3G7nDu4d3brPYO/fetb7rvWudy2K
+/l4fnwLc7/fH40EcwPuQyb/dbpfLBe4r53q9wkEQGCYRmXoOaJosQZEfERbC9z2ILBqJRLxeL3Hy
++bxYLK5UKmDMMvtXq1WbzdbtdomFbywWc7lcy+USfD6fJRKJXq8Hj8djpVIJR6vVzudzOFS73Q6H
+w/F4nMfjTadTWHa7XaVS5XI5uVy+2Wzg1Ot1s9kMwLp+vx/g8/kymQyTv1qt8INMJlOz2QRwOJzR
+aARQq9XD4RCQzWaNRiMgFAql02lAIBBIpVIApn4cuFQqFYtFMOR0OmUyWb/fR9rxeIRTq9UcDgcA
+RXk8HoDb7UZRACZ/MBhIpVIWi9Xr9TCEhEIhl8udzWZkaLFYRCLRbrc7nU44FA6r0WhIsylcFbkC
+hUJhtVoBwWCwXC4XCgU+n4/TIS6ZTKJHk8kEs2ghalmv12Akfr0f9AZxADabvVgsADqdLpFIfE4+
+RW6H6Hn/6Ad6YzAYsMPhcIAVjUYFAgHaiUvdbrdw8JZeZWIJ8rTAaByFelqtVqfTQQSx8EXbG43G
+fr8Hk9Dv9FU/RELfE177kOGvYt4v0SsI8O78Jhn6af8/0P/8v9O/nU/TPwDXmhtQQjVL3QAAAABJ
+RU5ErkJggg==) ;применение российских периферийных микросхем (Bтоп = 8 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAIAAADJt1n/AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHiSURBVDhP7ZK/y4FRFMevv8A/wK6sFiMWm8kk
+RZlIIqIMj2RUYrMgRVn8msgglJCSpEwsRLJZ/PZ+H8f78D71DnrX9zvcPvfcc+45597D7r/r9hDg
+er1eLhdirALzwTg7Ho/n85lMEJgsYMEIEBgCM1zz3H374S7aQqfTCWu9XrfZbHS63W4tFstkMgHz
+mWezWTAYLBaLYPJoNpt+v7/RaIAhj8ejUCjoqFqtymSyXq8HZpvNJhKJ5HI5rVabzWZhQh6dTpfJ
+ZIxGY7/fh2W9Xuv1etRIRTkcjk6nwwfv93tUAkomk6FQCOB2uwOBACAcDkejUcB4PNZoNMITmM3m
+drsNfr72dDrlOI4KGwwGcrl8OBzGYjHUBctqtTIYDAB6IKfTORqNAHwwklutVolEEo/HsYWQkzFW
+LpdpWygUpFIpPdJisVAqlYlEAszQxuFwAKVSKbQK6Ha7aAFdqVSqWq1GwXjRVqsFRkW4Op/Po4vX
+kKAxn88HsNvt1Hw6nUZ7j8OnqG1BDP+EHrxeL2LAMCGnWq12uVwmkwlVwIKBgajh94liu90OtVUq
+leVyiTOaivl8XiqV6K73KRLpVTZEVb17C99DHyESgxXeEA0A+YFFloezWD8yf6r/4A/1h+D7/Qv8
+uGgNZwuOCAAAAABJRU5ErkJggg==) </sup>;применение российских микросхем памяти (Bтоп = 11 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHuSURBVDhP7VJL6+FhFPYR+AC+gZI9G1bKwsqC
+ZEcUJcpSNhYWIiU7JZeFDeW6YKHkllJyi4VQCBss3H//53Wmf9PMv2maWcxmnsXpOZfnPe8578vj
+OO71ej2fz8fjAQIXIBeWOAWBnzkPmu9ln5Zwv99hN5tNLBa7Xq/gyWTSbDb3ej1wVLL+QL1er9Vq
+IHTW4XDI5XLz+fyd5Ewmk0gkQmo8HqfT6Wg0qlAojscjUkyPkMvlkkqlgUAA7n6/VyqVaKLX61ut
+FiLT6dRgMJxOJ3CCVqtdLBYgvMvlMhwOwVCkUqlAIpGIWq0GCYfDXq8XBG0hoIbAarUKBoMguBGb
+H+x2u6VSKTqo2+1KJBJMiJk7nQ4iy+XSaDSiEziQSCRIxeanbYVCIT6fj6J3Aef3+wUCQTweJ7dY
+LIrF4slkcj6frVYrstlstlKpIMXmp4ObzaZQKNxut7vdzuPxVKtVmUyWyWSQws5tNluj0ej3+06n
+E8tyu90oY3p6FYJOp4P1+XxE8vm8RqN5Z74Gm3+9XuM+drvd4XCUy2VEZ7OZXC7Hm1ksFtwCEWwH
+behHgQCI0ArY/O12u1QqDQYD+CiCxRSFQmE0GoGjjkq/xLf/QyAxbZRAkV+AvR8EdLfPPj9Efrf/
+H+C//u/wb/Uc9wFZDq0o+ZNlVwAAAABJRU5ErkJggg==) </sup>;применение российских соединителей (в том числе разъемов, жгутов, кабелей) (Bтоп = 6 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAIAAAAf7rriAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHgSURBVDhP7VJLy6lRGN0lf8IPMMAPMFFKipKJ
+GChz14yQkcsvkJRiggmKDJhQLlGEFCMDIiNMUC65fLzf8j1ffW/n1KlzxmcN9l7r2c/az7Mv7PV6
+fXwBhPsCRZ7PJ3EKAhQhEGf8EFL58vF4YLxer8lkcrfbgW82G7fbnUqlwJHJMDWbzV6vB0I4nU61
+Wm08HpPMZDKMsfV6DZ5Op6vVqslkmkwmkCwWi/n9fo1GEw6HoQ+Hg8FgcLlcRqOxXq8jgiNotdrF
+YgF+uVwwlkolFHibO50OJvSjUChAisWiWq0G6ff7FosFBG2rVKrZbAYOs91uF4vF8/kc8t02kEgk
+BoMByHK5lMlk3W43l8uVy2Va1ev11DbB6/UGg0GQtxn3IRAIrFYrikDm83mhUBgIBN6JHLdarUQi
+UaVSAW+3261WKxqNYndIRobRaCSRSKbT6fl8jkQiOItcLo/H41hCtsPhQAHwUCgETifFXXy3Ddhs
+tuPxmM1mdTod5Ha7lUqltETgvyKcGJnH4/H5fHAWCgVo3JxSqXQ6nWazGf0jcr/fb7cbvTlxcuJT
+sEajgVcdDofQlLHf7xGhl+dX+x0/bZOTdiVQhP9DfwFDNkAVKA+cIiT/ZP6e/wn/zX8FjvsEz7r0
+DN8+OjcAAAAASUVORK5CYII=) </sup>;применение российских катушек индуктивности и трансформаторов
+(Bтоп = 3 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHpSURBVDhP7VI9q8FRHD7lM/gGFpNPwMJiMigs
+XsqEwUsKg1GysDDIYDIoZVBikCJClCiDlwwMLIpE3q77/P1ux73d7h3uHe5yn+H8n+d3fi/POefP
+Xh643W5Y7w+Q5JHr9crjfOWEIY80QJxHkHG5XECGw2GxWAShrfV63Wq1KIHhs1wue73e6XTiGZPJ
+pN/vgwDH41EqlRqNRnBqZ7fbbTYbCKyxbrfr8XjUarXBYCCr6XRaoVBotdpQKEQmM5mM1+sFATqd
+jsPhiEaj4BjGGo3G+XyGUKlU5ArT4AgEXebzOUg2m3W5XCCHw6HZbFar1VgsBgk7gn9gOp3mcjky
+r1Qq4/H4ZrPBzN1uhwi23G43SCQSCQaD5Hc2myEi1NfrdYlEotPpUAOJXmKx2GKx7Pd7SCCVSplM
+JpBarZZIJMxms1wuH4/HiAj12+12MBiIRKJkMglZqVRgT6/XYw4kulitVpwOJ4cE8Bz5fB7k6R8I
+h8PoDSKTyeggqCmVSo/NN+CC6ZmIY2XtdrtcLhcKhUAgsFgsENJoND6fD1bhczQaIYILxij+56A7
+DRDeH1fldDpRsFqtaBu/h9/vxyPhUJCU+hWe/gGk8iEEPofkZzB4w5EAPgfkfeSbYuDD/B/gv/53
++Nv6+/0VdWmkwcFJ5uAAAAAASUVORK5CYII=)
+из 29.32.30.350Электронный блок управления замком зажигания (системой старт-стоп), применяемый в составе продукции отрасли специального машиностроениявыполнение на территории Российской Федерации требований
+(в совокупности 140 баллов):наличие у юридического лица - налогового резидента Российской Федерации,
+не находящегося под контролем иностранного государства, и (или) международной организации, и (или) иностранного юридического
+или физического лица, и (или) иностранной структуры без образования юридического лица ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGHSURBVDhPzZBPqwFhFIdn6WvI1kcYpdQoi5Gw
+sGQlvoDu0geYsvIByCSxUrazRZRSsrDSlCz9ibhj7jPONFm51+7+yus5Z37nvOc9ivtWj8dDTsdx
+BN4VBO4AOL0C6PspWEL6EXKKCe12O/mkBCkEv4ZIwlqtFo1GAbp4N5zP56+nPIvr2rZdLBbj8Xin
+05FMu91WVRXwCyaTSTgczmQyMC2bzSY18/k8EolMp1OSm81G0zSAIZX7/Q61Wq1cLgdcLpfr9Qqg
+QqEwGAyA2WyWSCQAr0D2ZRiGFEiIbrdbuVyWt67X62QyCdDdL2g0GtlsFmBKrEC/3+/1egCq1+uh
+UGg4HMKKbJO5GQAQ92Kx6Ha7AOJVx+PxcDicTidCf62sKBaLyXssy6pUKtvtdrlcjkajYEiE2dvS
+eDzO5/OpVMo0TR5drVZ1XS+VSul0mmIMTIFVWvsjvdHrDci7gRSjI+nEYLCc4g7aI2W1WklK4l+l
+7Pd7/j4o4Pd3N/LX+tkNH+nfFbjuD0sbxWsbwK0pAAAAAElFTkSuQmCC) :прав на конструкторскую и техническую документацию для проектирования, производства, модернизации и развития соответствующей продукции
+на территории Российской Федерации в соответствии со спецификацией
+на готовое изделие в следующем составе:спецификация на готовое изделие с указанием сборочных единиц и деталей;схема электрическая принципиальная;исключительных или неисключительных (но неотзывных) прав на программное обеспечение;подтверждение осуществления на территории Российской Федерации процессов проектирования схемотехники, конструкции модуля, топологии печатных плат, встроенного программного обеспечения, а также наличия соответствующих кадров и затрат на их содержание;выполнение на территории Российской Федерации технологической операции - поверхностный монтаж чип-компонентов на печатную плату
+выполнение на территории Российской Федерации дополнительных требований:установка программного обеспечения, если оно является неотъемлемой частью оборудования (20 баллов);сборка электронного оборудования (корпусирование) (20 баллов);
+функциональное тестирование готового изделия и проведение технического контроля соответствия требованиям технических условий готового изделия (20 баллов);выполнение дополнительных требований по применению компонентов:применение российских системообразующих микросхем (Bтоп = 14 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VK9isJAGNynyDP4AkJExMYuhY0I
+pjCBYGWvWKUT9A1srFKZNL6ACMFUioWdIihoFRBEYuHf3my+veW4Qs7+plhmZr/5dr9NGH+L1+tF
+6/P5JPIuoKoVwSoCYGjweDyoDUDypxPHMVZUMsopQP5ygE6nUyqVQNBCnHC73Xq9XqFQGAwGaQH3
+PC+Xy1mWdTweSVYqFRAcKAJRFM1mMxBd16/XK07PZrNo1u12HceBv91u6/W6DKgLoA0qQJIkyefz
+k8kkCALf9+Esl0vTNEFEgMZaLBZoD/d0OkGGYcgYazQa4MBms7FtG0TOcL/fU59Xq9XRaAS33W6v
+Vqtardbv9+G7rqtp2nQ6BWfYSIsFms3mfD5fr9eZTAYSs5XLZZDL5XI+nzEeOAMbj8eGYaDfcDgU
+Oc5brVaxWISDu5FDwMDiSsjsdrvD4UAuYb/f0zzph5GAlEMTwOXO99OpXeXIX0OBXClSkCQfEIGP
+8B/4Cz4McP4FzubCOyBWPiQAAAAASUVORK5CYII=) ;применение российских печатных плат (Bтоп = 7 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGbSURBVDhP7VK7isJAFJ2f8DcCiiRp/AHtRLsk
+iIWFFhY2toKFKKROa2UhiHZiYSfaKIjgExW0EPHVKIqv7BnvbhAXl22221PMnHvvOTd3ZsLMN7g/
+QOR2u1n8JwNWSCm0PAzb9Xo9n8/PtcvlgiSAcDKZtNttKr1+AVLLRuh2u9Fo1G63G4aBEC3Y4XBI
+JBKyLOfzeRKVSiWXywXdfr+fzWbI7HY7j8dDVVYul2u1WqfTcTqdm81mtVo5HI7FYoGW8XicROPx
+OJVKEWfH45FYOp0G7/V6MCCsVCqZTIZKuVyu3++D8JGwTafTQCCQzWYfVTMcDnu93mKxuF6vEdbr
+dZhBlsslVm4YDAaRSIQx1mq1EGJCSZJ8Ph+urlqt2my2UCikKAqm5QbrWoLBYKFQ2G63fr8fYTKZ
+RAbHRbtmszkajZCEmL8DttPpFIvF5vM5PiIIAmq4e1VVeacvUGuGk7ndbgzQaDSooOu6KIqapg2H
+Q4Q4KKSk/nw4evNnYuF7ho+EDSt6YH0hVAIeYo63P987/Bt+g782mOYH38fpp3zGW7cAAAAASUVO
+RK5CYII=) </sup>;применение российских вторичных преобразователей питания (Bтоп = 6 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAUCAIAAAALACogAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF/SURBVDhP5ZK9isJQEIXzOr6CjRGiTSrBwijY
+WKSyEVMGoyAoBIMIgmBtFbCwshG7gFE0T2BsNxDERvxZs+dm5LIou/sAe8DLN5M5k5lrhOhnPR4P
+Oj9jEf9mgKiamIAZkL3H4i0phFhhFLmu6/s+AB6Birh4P67lclmpVCRJOhwOCNkbttutoiipVGq/
+3yNEi2q1inAwGCDc7XY4p9Op53nMcL1ebds+nU7D4TCfzyNlWVaxWASUSqXFYgEYjUblchmVzMAH
+Xa/Xk8kE0G63MQNA1/XVagVwHCeZTPb7ffBzB5RiSiwHDsMwnU6rqkohaTab9Xo9gIAt4dlsNjAk
+EglautPpiKJYr9fBrVYrk8l0u93z+cwM+HHhAU7TNLEGIJfLjcdjzIw7pQXQWgiC4CPWfD5vNpvI
+NhqNQqEAMAwDBgDp+ccdj0dN02RZxqsvlwtSaFmr1bLZLF0rupKIXz8NevBdLxl2S7fbDSOiMW/z
+nomLmf74+N71Dw1R9AUr3ll6ozhRGgAAAABJRU5ErkJggg==) </sup>;применение российских микросхем и модулей связи и навигации
+(Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGFSURBVDhP7ZItqwJBGIXnP9ithgWxbrGIGMVs
+WRBkLbqIgs2iwSJ4Yc26Bg0qfiGCimUtYrLabIJoE/zauWd9L6Nc4e4fuCcMzztzzsw7O8v4n7Is
+i0YBDgGIrALY4/Gg4hMgAcfjkdg+gRzvgAWC6/WKsVKpJJNJAAxsMpmEw+FgMLhcLp8ens/nQ6FQ
+LBbb7/cod7udoiiFQgFsB0qlEqjT6ciyDOh2u4FAAGAYRi6XA8xms8FgUC6Xwff7/efSq9WqVqsB
+xuOxSCLT7/e/nopGo4fDAfMMoWaz6XK5RqORHeU8nU77fL56vQ4eDoc4JxKJeL3e9XqNGXa73bbb
+raZpbrebmoY1k8l4PB50b2/A+WazaTQaAJhf7xCPx0+nU6vVUlUVZbvd9vv9gPP5TB8NvWBk8/nc
+NE1d14vFIurpdCpJ0mKxqFarOId8CIjHYdlsNpVK4Vpij16vl0gkKA+JNyG9WqI9KEOCldzvGXZ5
+il6UFnAzmvl0Q84/3y/9B5zF+TcEbIUtK3nojAAAAABJRU5ErkJggg==) ;применение российских интерфейсных микросхем и преобразователей
+(Bтоп = 8 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAVCAIAAAAW+SPgAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VExq4JQGHUP+iXSf3CopaA2IWir
+DFobAqEpghoiJJwkRTLHao0kaEgCqalZiAhqElqe6ct39Io8eATv7e8M1/Ode77Ddz+p4D1erxc5
+ExK6fd93XdfzvER9Pp9QoJPyMwI4RT4EuADiIgLacEqSVCwWZVkOs03TrNfrk8kkMgToFwSh0Wjs
+93uU8/m8VCqdz2dw6nK5DIfD3W6Xy+UURYHU6XRqtdp2u2VZ9na7Xa9XTdMYhrFtm/qIAJMoiqqq
+giBJ13WQarVqWRYIsFwux+NxvBOkchxH+Gq1ymQyaFgsFkQBDocDytD9eDy63W4qlWq32ygxd6vV
+SqfT6/Ua5Ww2azabPM87jkMlS9hsNuVyGaTX6xmGgXFpmkYk3ofU+/2OqzCbrAnDYDIQPHc0GoFU
+KpXpdApCgPVTx+MRz8rn8/1+n6in06lQKGSz2cFgQExA/HciQzjrO/L9f4VuUuM6IcSaKElDnP1L
+/Lt/4i/uIPgCazFLcJVt9F4AAAAASUVORK5CYII=) ;применение российских полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGuSURBVDhP7ZI/66lxGMa/Xod3YZBMYjaxKYPN
+QPKnSJks9ItFshCDQUkMZGKwkBKF2MQiKQaD/8/5PL5OP+cM55wXcK7h2/Vc9//7foTyRzyfT/k+
+Ho/7/Q5RA/i4XC63202aATapSKsUJQS2N/2Z79Pjer3yoieTSavVutvt1AqLxSIajVarVWnj7fV6
+4XC42WzCQSQSwQFCvNhut/F4vFwuWyyWQqGA2ul0zGZzsVi02Wzj8Xg0Gul0OqfTmclksIrT6UQh
+WD6fl2nI7fP5IF8vVCqVYDC4Wq0MBsN0On1vaT6fx2Ix2f1kMtFqtYPBIJ1OH49Hui+VSugOh4Pi
+agBFXC6XRqNJpVJqtKIkEgkhBH3Ch8MhveVyuUAgcDgcBFnP5zMG0phMJumRzWb7/b5er6/Vaiit
+VisUCq3Xa/j34Wazmd/vhzAAY0DYm91ufxnf4AZiuVx6PB7GcrvdTIJKbqPR6PV6abrb7aJwRCAn
+FPv9vt1uNxqNzWbDt7wUO6nX6+wE/nlZ8N0SkP/Cp4dUuKY8KBAwPICsKG3w35SXs4pfKvwL/gf8
+HYryA1YLeIUnz/t1AAAAAElFTkSuQmCC) </sup>;применение российских силовых полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGXSURBVDhP7ZI9y4FxFMbvL+Ar2HwHpeRjmAwG
+g/JIJJlkUWIyWNxlMZgYiDKhhMGChCh5yWIk8vb8bke6LU/szzWcruucc/3/5/+i3L/EX4bb7Ua8
+Xq+nB87nM1IzUCB7uVykA7zkKyNAKvoUfURaRQr6/b7f7/d4PPl8HvkcqdlstlotiHgWi0WpVNrt
+dvBardZoNFRVjUQiSM2ANRgMms3mbDaLHI1GNpvN6/U6nc7tdiujTyaTer2uGY7HIx2wTqdjt9sh
+gUAgFApBGIN9ICCVSu33e8jzDIfDIZfLzWYzeLFYtFqt0+k0nU6vViupZjIZ6VRk6EQiYTAYwuEw
+HLjdbqPR2G63RbIEJ4HQrJ2BqYiVSsVkMjHxYDCIx+OFQsFisQyHQ0q9Xm+5XD4NvAhM4HA4iC6X
+KxaLQaLRqNyMQGZRNptNMpn0+Xyclcslxf2y9s8D4/GYDNtKt/ZwsG63W61WpSavNp/Py+Xyer2G
+S+sLb39JuvUvLVz/G7RrZQ0KRCnoMyIlL3jb4RP8Gz7Bl4b7/RfepPBVgm9AugAAAABJRU5ErkJg
+gg==) </sup>;применение российских пассивных элементов стандартных (Bтоп = 3 балла), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAYCAIAAAB8wupbAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG4SURBVDhP7VI9y0FhGD6/weYP+AEssiLlYziz
+QUZRymAwKLMoOhYDMwZJCrGIkkIxSCGRkrD5/jiuxy0dy5t3eLf3qnOf677OfT3389zP4cRf4ifD
+/X5HvF6vp9MJkRQOD3C73RCfZUxFCoBTHYEUjl4E8LcNOJ/PiNVq1e129/t9cBSwLc3n82azeblc
+WNWzA9LJZAI+HA7tdnsymTQYDPSVg9Xr9er1eofDQZLL5bJYLFartdFoLBYLm822Wq08Hg9tj2u3
+27S2VqtdLpeDwUCpVCLFTpxOJ0g8Hler1ePxGBye15S63W6xWATBYiqVqtVq5XK5QqGw2WwymUyl
+UuF5fr/fo4AZ6vW6QqEwm8273Q5pNpuVyWTRaBS8VqtB3263RqNxOp0yA7ocDofRaCSXy/P5PCRB
+EBKJhE6nS6VSSCORiMlkKpVK4K8pEXw+H9brdDoajQZpr9fDZKRTJs7BGovFwuFwMBjE6dfrNU7v
+9/sDgQB0VED8uOlyuYymmPTxeGTriOJsNguFQul0mlJpE+DjX8I36cUjpWqKBHZo/ALo+1bhkSrS
+auCjwzf4N3yDvzaI4gPLzxFV7uBOcwAAAABJRU5ErkJggg==) </sup>;применение российских конденсаторов большой емкости (Bтоп = 4 балла), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGWSURBVDhP7VG7isJQEE3pP+QXrMU2oIIoGLCw
+kYCIoIWIXcAiTZqAgiCCVQqRtD4QG0HECIJEQbBTtPALRJD4SvYkN9xdhAW334EM55w7Z+5kLmP/
+HpZlIb9eLwCSQR3D8/m83W6Px4NIyPf7HQotogHKQPWYy98qENPpNBQKFYtFdAR1btB1PZfLaZrm
+FtimadZqNSjH4xE0nU5fr9dKpaIoCihzOp3q9fp8Puc4bjAYQBJFsVwu9/t9QRD2+30ymYS4WCwK
+hYJjQD+MC4QGw+EQIBKJjMdjgGg0erlccFU2m02lUrIsOwZ8iFarha4Ed7tdv9/f6XQmkwlRRqNR
+IBA4HA7AjuF8PkuS5PP5qtUqKNaQyWRYlt1sNqAYuFQqrVYrcsTQtfR6vXw+DwDzcrncbrfBYBBd
+Mf1ut4P+vSVsHbnZbGIMAPxDu90GSCQSs9kMAEGq0Z1Zr9c8z8disUajQc4Mw4jH4+FwWFVVUJSS
+t3IfyfJ+mj4fBTh7AyQcA5FQSgGxUeWnx7vh8/g3fBJ/NNj2F7s+g7O79ytMAAAAAElFTkSuQmCC
+) </sup>;применение российских сенсорных элементов (Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAXCAIAAABrvZPKAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIPSURBVDhP7ZJPq2lRGMb31NfwBSTlT4mvIJGB
+jDBBSZQBRUohJMmAEgZCMhGliBKlJCMhyYASIxH5d/Z99lly3G7nDu4d3brPYO/fetb7rvWudy2K
+/l4fnwLc7/fH40EcwPuQyb/dbpfLBe4r53q9wkEQGCYRmXoOaJosQZEfERbC9z2ILBqJRLxeL3Hy
++bxYLK5UKmDMMvtXq1WbzdbtdomFbywWc7lcy+USfD6fJRKJXq8Hj8djpVIJR6vVzudzOFS73Q6H
+w/F4nMfjTadTWHa7XaVS5XI5uVy+2Wzg1Ot1s9kMwLp+vx/g8/kymQyTv1qt8INMJlOz2QRwOJzR
+aARQq9XD4RCQzWaNRiMgFAql02lAIBBIpVIApn4cuFQqFYtFMOR0OmUyWb/fR9rxeIRTq9UcDgcA
+RXk8HoDb7UZRACZ/MBhIpVIWi9Xr9TCEhEIhl8udzWZkaLFYRCLRbrc7nU44FA6r0WhIsylcFbkC
+hUJhtVoBwWCwXC4XCgU+n4/TIS6ZTKJHk8kEs2ghalmv12Akfr0f9AZxADabvVgsADqdLpFIfE4+
+RW6H6Hn/6Ad6YzAYsMPhcIAVjUYFAgHaiUvdbrdw8JZeZWIJ8rTAaByFelqtVqfTQQSx8EXbG43G
+fr8Hk9Dv9FU/RELfE177kOGvYt4v0SsI8O78Jhn6af8/0P/8v9O/nU/TPwDXmhtQQjVL3QAAAABJ
+RU5ErkJggg==) ;применение российских периферийных микросхем (Bтоп = 8 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAIAAADJt1n/AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHiSURBVDhP7ZK/y4FRFMevv8A/wK6sFiMWm8kk
+RZlIIqIMj2RUYrMgRVn8msgglJCSpEwsRLJZ/PZ+H8f78D71DnrX9zvcPvfcc+45597D7r/r9hDg
+er1eLhdirALzwTg7Ho/n85lMEJgsYMEIEBgCM1zz3H374S7aQqfTCWu9XrfZbHS63W4tFstkMgHz
+mWezWTAYLBaLYPJoNpt+v7/RaIAhj8ejUCjoqFqtymSyXq8HZpvNJhKJ5HI5rVabzWZhQh6dTpfJ
+ZIxGY7/fh2W9Xuv1etRIRTkcjk6nwwfv93tUAkomk6FQCOB2uwOBACAcDkejUcB4PNZoNMITmM3m
+drsNfr72dDrlOI4KGwwGcrl8OBzGYjHUBctqtTIYDAB6IKfTORqNAHwwklutVolEEo/HsYWQkzFW
+LpdpWygUpFIpPdJisVAqlYlEAszQxuFwAKVSKbQK6Ha7aAFdqVSqWq1GwXjRVqsFRkW4Op/Po4vX
+kKAxn88HsNvt1Hw6nUZ7j8OnqG1BDP+EHrxeL2LAMCGnWq12uVwmkwlVwIKBgajh94liu90OtVUq
+leVyiTOaivl8XiqV6K73KRLpVTZEVb17C99DHyESgxXeEA0A+YFFloezWD8yf6r/4A/1h+D7/Qv8
+uGgNZwuOCAAAAABJRU5ErkJggg==) </sup>;
+применение российских микросхем памяти (Bтоп = 11 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHuSURBVDhP7VJL6+FhFPYR+AC+gZI9G1bKwsqC
+ZEcUJcpSNhYWIiU7JZeFDeW6YKHkllJyi4VQCBss3H//53Wmf9PMv2maWcxmnsXpOZfnPe8578vj
+OO71ej2fz8fjAQIXIBeWOAWBnzkPmu9ln5Zwv99hN5tNLBa7Xq/gyWTSbDb3ej1wVLL+QL1er9Vq
+IHTW4XDI5XLz+fyd5Ewmk0gkQmo8HqfT6Wg0qlAojscjUkyPkMvlkkqlgUAA7n6/VyqVaKLX61ut
+FiLT6dRgMJxOJ3CCVqtdLBYgvMvlMhwOwVCkUqlAIpGIWq0GCYfDXq8XBG0hoIbAarUKBoMguBGb
+H+x2u6VSKTqo2+1KJBJMiJk7nQ4iy+XSaDSiEziQSCRIxeanbYVCIT6fj6J3Aef3+wUCQTweJ7dY
+LIrF4slkcj6frVYrstlstlKpIMXmp4ObzaZQKNxut7vdzuPxVKtVmUyWyWSQws5tNluj0ej3+06n
+E8tyu90oY3p6FYJOp4P1+XxE8vm8RqN5Z74Gm3+9XuM+drvd4XCUy2VEZ7OZXC7Hm1ksFtwCEWwH
+behHgQCI0ArY/O12u1QqDQYD+CiCxRSFQmE0GoGjjkq/xLf/QyAxbZRAkV+AvR8EdLfPPj9Efrf/
+H+C//u/wb/Uc9wFZDq0o+ZNlVwAAAABJRU5ErkJggg==) </sup>;применение российских соединителей (в том числе разъемов, жгутов, кабелей) (Bтоп = 6 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAIAAAAf7rriAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHgSURBVDhP7VJLy6lRGN0lf8IPMMAPMFFKipKJ
+GChz14yQkcsvkJRiggmKDJhQLlGEFCMDIiNMUC65fLzf8j1ffW/n1KlzxmcN9l7r2c/az7Mv7PV6
+fXwBhPsCRZ7PJ3EKAhQhEGf8EFL58vF4YLxer8lkcrfbgW82G7fbnUqlwJHJMDWbzV6vB0I4nU61
+Wm08HpPMZDKMsfV6DZ5Op6vVqslkmkwmkCwWi/n9fo1GEw6HoQ+Hg8FgcLlcRqOxXq8jgiNotdrF
+YgF+uVwwlkolFHibO50OJvSjUChAisWiWq0G6ff7FosFBG2rVKrZbAYOs91uF4vF8/kc8t02kEgk
+BoMByHK5lMlk3W43l8uVy2Va1ev11DbB6/UGg0GQtxn3IRAIrFYrikDm83mhUBgIBN6JHLdarUQi
+UaVSAW+3261WKxqNYndIRobRaCSRSKbT6fl8jkQiOItcLo/H41hCtsPhQAHwUCgETifFXXy3Ddhs
+tuPxmM1mdTod5Ha7lUqltETgvyKcGJnH4/H5fHAWCgVo3JxSqXQ6nWazGf0jcr/fb7cbvTlxcuJT
+sEajgVcdDofQlLHf7xGhl+dX+x0/bZOTdiVQhP9DfwFDNkAVKA+cIiT/ZP6e/wn/zX8FjvsEz7r0
+DN8+OjcAAAAASUVORK5CYII=) </sup>;применение российских катушек индуктивности и трансформаторов
+(Bтоп = 3 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHpSURBVDhP7VI9q8FRHD7lM/gGFpNPwMJiMigs
+XsqEwUsKg1GysDDIYDIoZVBikCJClCiDlwwMLIpE3q77/P1ux73d7h3uHe5yn+H8n+d3fi/POefP
+Xh643W5Y7w+Q5JHr9crjfOWEIY80QJxHkHG5XECGw2GxWAShrfV63Wq1KIHhs1wue73e6XTiGZPJ
+pN/vgwDH41EqlRqNRnBqZ7fbbTYbCKyxbrfr8XjUarXBYCCr6XRaoVBotdpQKEQmM5mM1+sFATqd
+jsPhiEaj4BjGGo3G+XyGUKlU5ArT4AgEXebzOUg2m3W5XCCHw6HZbFar1VgsBgk7gn9gOp3mcjky
+r1Qq4/H4ZrPBzN1uhwi23G43SCQSCQaD5Hc2myEi1NfrdYlEotPpUAOJXmKx2GKx7Pd7SCCVSplM
+JpBarZZIJMxms1wuH4/HiAj12+12MBiIRKJkMglZqVRgT6/XYw4kulitVpwOJ4cE8Bz5fB7k6R8I
+h8PoDSKTyeggqCmVSo/NN+CC6ZmIY2XtdrtcLhcKhUAgsFgsENJoND6fD1bhczQaIYILxij+56A7
+DRDeH1fldDpRsFqtaBu/h9/vxyPhUJCU+hWe/gGk8iEEPofkZzB4w5EAPgfkfeSbYuDD/B/gv/53
++Nv6+/0VdWmkwcFJ5uAAAAAASUVORK5CYII=)
+из 29.32.30.373Устройства отображения информации, применяемые в составе продукции отрасли специального машиностроениявыполнение на территории Российской Федерации требований
+(в совокупности 140 баллов):наличие у юридического лица - налогового резидента Российской Федерации,
+не находящегося под контролем иностранного государства, и (или) международной организации, и (или) иностранного юридического или физического лица, и (или) иностранной структуры без образования юридического лица<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGHSURBVDhPzZBPqwFhFIdn6WvI1kcYpdQoi5Gw
+sGQlvoDu0geYsvIByCSxUrazRZRSsrDSlCz9ibhj7jPONFm51+7+yus5Z37nvOc9ivtWj8dDTsdx
+BN4VBO4AOL0C6PspWEL6EXKKCe12O/mkBCkEv4ZIwlqtFo1GAbp4N5zP56+nPIvr2rZdLBbj8Xin
+05FMu91WVRXwCyaTSTgczmQyMC2bzSY18/k8EolMp1OSm81G0zSAIZX7/Q61Wq1cLgdcLpfr9Qqg
+QqEwGAyA2WyWSCQAr0D2ZRiGFEiIbrdbuVyWt67X62QyCdDdL2g0GtlsFmBKrEC/3+/1egCq1+uh
+UGg4HMKKbJO5GQAQ92Kx6Ha7AOJVx+PxcDicTidCf62sKBaLyXssy6pUKtvtdrlcjkajYEiE2dvS
+eDzO5/OpVMo0TR5drVZ1XS+VSul0mmIMTIFVWvsjvdHrDci7gRSjI+nEYLCc4g7aI2W1WklK4l+l
+7Pd7/j4o4Pd3N/LX+tkNH+nfFbjuD0sbxWsbwK0pAAAAAElFTkSuQmCC) </sup>:прав на конструкторскую и техническую документацию для проектирования, производства, модернизации и развития соответствующей продукции
+на территории Российской Федерации в соответствии со спецификацией
+на готовое изделие в следующем составе:спецификация на готовое изделие с указанием сборочных единиц и деталей;схема электрическая принципиальная;исключительных или неисключительных (но неотзывных) прав на программное обеспечение;подтверждение осуществления на территории Российской Федерации процессов проектирования схемотехники, конструкции модуля, топологии печатных плат, встроенного программного обеспечения, а также наличия соответствующих кадров и затрат на их содержание;
+выполнение на территории Российской Федерации технологической операции - поверхностный монтаж чип-компонентов на печатную плату
+выполнение на территории Российской Федерации дополнительных требований:установка программного обеспечения, если оно является неотъемлемой частью оборудования (20 баллов);сборка электронного оборудования (корпусирование) (20 баллов);функциональное тестирование готового изделия и проведение технического контроля соответствия требованиям технических условий готового изделия (20 баллов);выполнение дополнительных требований по применению компонентов:применение российских системообразующих микросхем (Bтоп = 14 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VK9isJAGNynyDP4AkJExMYuhY0I
+pjCBYGWvWKUT9A1srFKZNL6ACMFUioWdIihoFRBEYuHf3my+veW4Qs7+plhmZr/5dr9NGH+L1+tF
+6/P5JPIuoKoVwSoCYGjweDyoDUDypxPHMVZUMsopQP5ygE6nUyqVQNBCnHC73Xq9XqFQGAwGaQH3
+PC+Xy1mWdTweSVYqFRAcKAJRFM1mMxBd16/XK07PZrNo1u12HceBv91u6/W6DKgLoA0qQJIkyefz
+k8kkCALf9+Esl0vTNEFEgMZaLBZoD/d0OkGGYcgYazQa4MBms7FtG0TOcL/fU59Xq9XRaAS33W6v
+Vqtardbv9+G7rqtp2nQ6BWfYSIsFms3mfD5fr9eZTAYSs5XLZZDL5XI+nzEeOAMbj8eGYaDfcDgU
+Oc5brVaxWISDu5FDwMDiSsjsdrvD4UAuYb/f0zzph5GAlEMTwOXO99OpXeXIX0OBXClSkCQfEIGP
+8B/4Cz4McP4FzubCOyBWPiQAAAAASUVORK5CYII=) ;применение российских печатных плат (Bтоп = 7 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGbSURBVDhP7VK7isJAFJ2f8DcCiiRp/AHtRLsk
+iIWFFhY2toKFKKROa2UhiHZiYSfaKIjgExW0EPHVKIqv7BnvbhAXl22221PMnHvvOTd3ZsLMN7g/
+QOR2u1n8JwNWSCm0PAzb9Xo9n8/PtcvlgiSAcDKZtNttKr1+AVLLRuh2u9Fo1G63G4aBEC3Y4XBI
+JBKyLOfzeRKVSiWXywXdfr+fzWbI7HY7j8dDVVYul2u1WqfTcTqdm81mtVo5HI7FYoGW8XicROPx
+OJVKEWfH45FYOp0G7/V6MCCsVCqZTIZKuVyu3++D8JGwTafTQCCQzWYfVTMcDnu93mKxuF6vEdbr
+dZhBlsslVm4YDAaRSIQx1mq1EGJCSZJ8Ph+urlqt2my2UCikKAqm5QbrWoLBYKFQ2G63fr8fYTKZ
+RAbHRbtmszkajZCEmL8DttPpFIvF5vM5PiIIAmq4e1VVeacvUGuGk7ndbgzQaDSooOu6KIqapg2H
+Q4Q4KKSk/nw4evNnYuF7ho+EDSt6YH0hVAIeYo63P987/Bt+g782mOYH38fpp3zGW7cAAAAASUVO
+RK5CYII=) </sup>;применение российских вторичных преобразователей питания (Bтоп = 6 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAUCAIAAAALACogAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF/SURBVDhP5ZK9isJQEIXzOr6CjRGiTSrBwijY
+WKSyEVMGoyAoBIMIgmBtFbCwshG7gFE0T2BsNxDERvxZs+dm5LIou/sAe8DLN5M5k5lrhOhnPR4P
+Oj9jEf9mgKiamIAZkL3H4i0phFhhFLmu6/s+AB6Birh4P67lclmpVCRJOhwOCNkbttutoiipVGq/
+3yNEi2q1inAwGCDc7XY4p9Op53nMcL1ebds+nU7D4TCfzyNlWVaxWASUSqXFYgEYjUblchmVzMAH
+Xa/Xk8kE0G63MQNA1/XVagVwHCeZTPb7ffBzB5RiSiwHDsMwnU6rqkohaTab9Xo9gIAt4dlsNjAk
+EglautPpiKJYr9fBrVYrk8l0u93z+cwM+HHhAU7TNLEGIJfLjcdjzIw7pQXQWgiC4CPWfD5vNpvI
+NhqNQqEAMAwDBgDp+ccdj0dN02RZxqsvlwtSaFmr1bLZLF0rupKIXz8NevBdLxl2S7fbDSOiMW/z
+nomLmf74+N71Dw1R9AUr3ll6ozhRGgAAAABJRU5ErkJggg==) </sup>;применение российских микросхем и модулей связи и навигации
+(Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGFSURBVDhP7ZItqwJBGIXnP9ithgWxbrGIGMVs
+WRBkLbqIgs2iwSJ4Yc26Bg0qfiGCimUtYrLabIJoE/zauWd9L6Nc4e4fuCcMzztzzsw7O8v4n7Is
+i0YBDgGIrALY4/Gg4hMgAcfjkdg+gRzvgAWC6/WKsVKpJJNJAAxsMpmEw+FgMLhcLp8ens/nQ6FQ
+LBbb7/cod7udoiiFQgFsB0qlEqjT6ciyDOh2u4FAAGAYRi6XA8xms8FgUC6Xwff7/efSq9WqVqsB
+xuOxSCLT7/e/nopGo4fDAfMMoWaz6XK5RqORHeU8nU77fL56vQ4eDoc4JxKJeL3e9XqNGXa73bbb
+raZpbrebmoY1k8l4PB50b2/A+WazaTQaAJhf7xCPx0+nU6vVUlUVZbvd9vv9gPP5TB8NvWBk8/nc
+NE1d14vFIurpdCpJ0mKxqFarOId8CIjHYdlsNpVK4Vpij16vl0gkKA+JNyG9WqI9KEOCldzvGXZ5
+il6UFnAzmvl0Q84/3y/9B5zF+TcEbIUtK3nojAAAAABJRU5ErkJggg==) ;применение российских интерфейсных микросхем и преобразователей
+(Bтоп = 8 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAVCAIAAAAW+SPgAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VExq4JQGHUP+iXSf3CopaA2IWir
+DFobAqEpghoiJJwkRTLHao0kaEgCqalZiAhqElqe6ct39Io8eATv7e8M1/Ode77Ddz+p4D1erxc5
+ExK6fd93XdfzvER9Pp9QoJPyMwI4RT4EuADiIgLacEqSVCwWZVkOs03TrNfrk8kkMgToFwSh0Wjs
+93uU8/m8VCqdz2dw6nK5DIfD3W6Xy+UURYHU6XRqtdp2u2VZ9na7Xa9XTdMYhrFtm/qIAJMoiqqq
+giBJ13WQarVqWRYIsFwux+NxvBOkchxH+Gq1ymQyaFgsFkQBDocDytD9eDy63W4qlWq32ygxd6vV
+SqfT6/Ua5Ww2azabPM87jkMlS9hsNuVyGaTX6xmGgXFpmkYk3ofU+/2OqzCbrAnDYDIQPHc0GoFU
+KpXpdApCgPVTx+MRz8rn8/1+n6in06lQKGSz2cFgQExA/HciQzjrO/L9f4VuUuM6IcSaKElDnP1L
+/Lt/4i/uIPgCazFLcJVt9F4AAAAASUVORK5CYII=) ;применение российских полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGuSURBVDhP7ZI/66lxGMa/Xod3YZBMYjaxKYPN
+QPKnSJks9ItFshCDQUkMZGKwkBKF2MQiKQaD/8/5PL5OP+cM55wXcK7h2/Vc9//7foTyRzyfT/k+
+Ho/7/Q5RA/i4XC63202aATapSKsUJQS2N/2Z79Pjer3yoieTSavVutvt1AqLxSIajVarVWnj7fV6
+4XC42WzCQSQSwQFCvNhut/F4vFwuWyyWQqGA2ul0zGZzsVi02Wzj8Xg0Gul0OqfTmclksIrT6UQh
+WD6fl2nI7fP5IF8vVCqVYDC4Wq0MBsN0On1vaT6fx2Ix2f1kMtFqtYPBIJ1OH49Hui+VSugOh4Pi
+agBFXC6XRqNJpVJqtKIkEgkhBH3Ch8MhveVyuUAgcDgcBFnP5zMG0phMJumRzWb7/b5er6/Vaiit
+VisUCq3Xa/j34Wazmd/vhzAAY0DYm91ufxnf4AZiuVx6PB7GcrvdTIJKbqPR6PV6abrb7aJwRCAn
+FPv9vt1uNxqNzWbDt7wUO6nX6+wE/nlZ8N0SkP/Cp4dUuKY8KBAwPICsKG3w35SXs4pfKvwL/gf8
+HYryA1YLeIUnz/t1AAAAAElFTkSuQmCC) </sup>;применение российских силовых полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGXSURBVDhP7ZI9y4FxFMbvL+Ar2HwHpeRjmAwG
+g/JIJJlkUWIyWNxlMZgYiDKhhMGChCh5yWIk8vb8bke6LU/szzWcruucc/3/5/+i3L/EX4bb7Ua8
+Xq+nB87nM1IzUCB7uVykA7zkKyNAKvoUfURaRQr6/b7f7/d4PPl8HvkcqdlstlotiHgWi0WpVNrt
+dvBardZoNFRVjUQiSM2ANRgMms3mbDaLHI1GNpvN6/U6nc7tdiujTyaTer2uGY7HIx2wTqdjt9sh
+gUAgFApBGIN9ICCVSu33e8jzDIfDIZfLzWYzeLFYtFqt0+k0nU6vViupZjIZ6VRk6EQiYTAYwuEw
+HLjdbqPR2G63RbIEJ4HQrJ2BqYiVSsVkMjHxYDCIx+OFQsFisQyHQ0q9Xm+5XD4NvAhM4HA4iC6X
+KxaLQaLRqNyMQGZRNptNMpn0+Xyclcslxf2y9s8D4/GYDNtKt/ZwsG63W61WpSavNp/Py+Xyer2G
+S+sLb39JuvUvLVz/G7RrZQ0KRCnoMyIlL3jb4RP8Gz7Bl4b7/RfepPBVgm9AugAAAABJRU5ErkJg
+gg==) </sup>;применение российских пассивных элементов стандартных (Bтоп = 3 балла), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAYCAIAAAB8wupbAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG4SURBVDhP7VI9y0FhGD6/weYP+AEssiLlYziz
+QUZRymAwKLMoOhYDMwZJCrGIkkIxSCGRkrD5/jiuxy0dy5t3eLf3qnOf677OfT3389zP4cRf4ifD
+/X5HvF6vp9MJkRQOD3C73RCfZUxFCoBTHYEUjl4E8LcNOJ/PiNVq1e129/t9cBSwLc3n82azeblc
+WNWzA9LJZAI+HA7tdnsymTQYDPSVg9Xr9er1eofDQZLL5bJYLFartdFoLBYLm822Wq08Hg9tj2u3
+27S2VqtdLpeDwUCpVCLFTpxOJ0g8Hler1ePxGBye15S63W6xWATBYiqVqtVq5XK5QqGw2WwymUyl
+UuF5fr/fo4AZ6vW6QqEwm8273Q5pNpuVyWTRaBS8VqtB3263RqNxOp0yA7ocDofRaCSXy/P5PCRB
+EBKJhE6nS6VSSCORiMlkKpVK4K8pEXw+H9brdDoajQZpr9fDZKRTJs7BGovFwuFwMBjE6dfrNU7v
+9/sDgQB0VED8uOlyuYymmPTxeGTriOJsNguFQul0mlJpE+DjX8I36cUjpWqKBHZo/ALo+1bhkSrS
+auCjwzf4N3yDvzaI4gPLzxFV7uBOcwAAAABJRU5ErkJggg==) </sup>;применение российских конденсаторов большой емкости (Bтоп = 4 балла), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGWSURBVDhP7VG7isJQEE3pP+QXrMU2oIIoGLCw
+kYCIoIWIXcAiTZqAgiCCVQqRtD4QG0HECIJEQbBTtPALRJD4SvYkN9xdhAW334EM55w7Z+5kLmP/
+HpZlIb9eLwCSQR3D8/m83W6Px4NIyPf7HQotogHKQPWYy98qENPpNBQKFYtFdAR1btB1PZfLaZrm
+FtimadZqNSjH4xE0nU5fr9dKpaIoCihzOp3q9fp8Puc4bjAYQBJFsVwu9/t9QRD2+30ymYS4WCwK
+hYJjQD+MC4QGw+EQIBKJjMdjgGg0erlccFU2m02lUrIsOwZ8iFarha4Ed7tdv9/f6XQmkwlRRqNR
+IBA4HA7AjuF8PkuS5PP5qtUqKNaQyWRYlt1sNqAYuFQqrVYrcsTQtfR6vXw+DwDzcrncbrfBYBBd
+Mf1ut4P+vSVsHbnZbGIMAPxDu90GSCQSs9kMAEGq0Z1Zr9c8z8disUajQc4Mw4jH4+FwWFVVUJSS
+t3IfyfJ+mj4fBTh7AyQcA5FQSgGxUeWnx7vh8/g3fBJ/NNj2F7s+g7O79ytMAAAAAElFTkSuQmCC
+) </sup>;применение российских сенсорных элементов (Bтоп = 10 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAXCAIAAABrvZPKAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIPSURBVDhP7ZJPq2lRGMb31NfwBSTlT4mvIJGB
+jDBBSZQBRUohJMmAEgZCMhGliBKlJCMhyYASIxH5d/Z99lly3G7nDu4d3brPYO/fetb7rvWudy2K
+/l4fnwLc7/fH40EcwPuQyb/dbpfLBe4r53q9wkEQGCYRmXoOaJosQZEfERbC9z2ILBqJRLxeL3Hy
++bxYLK5UKmDMMvtXq1WbzdbtdomFbywWc7lcy+USfD6fJRKJXq8Hj8djpVIJR6vVzudzOFS73Q6H
+w/F4nMfjTadTWHa7XaVS5XI5uVy+2Wzg1Ot1s9kMwLp+vx/g8/kymQyTv1qt8INMJlOz2QRwOJzR
+aARQq9XD4RCQzWaNRiMgFAql02lAIBBIpVIApn4cuFQqFYtFMOR0OmUyWb/fR9rxeIRTq9UcDgcA
+RXk8HoDb7UZRACZ/MBhIpVIWi9Xr9TCEhEIhl8udzWZkaLFYRCLRbrc7nU44FA6r0WhIsylcFbkC
+hUJhtVoBwWCwXC4XCgU+n4/TIS6ZTKJHk8kEs2ghalmv12Akfr0f9AZxADabvVgsADqdLpFIfE4+
+RW6H6Hn/6Ad6YzAYsMPhcIAVjUYFAgHaiUvdbrdw8JZeZWIJ8rTAaByFelqtVqfTQQSx8EXbG43G
+fr8Hk9Dv9FU/RELfE177kOGvYt4v0SsI8O78Jhn6af8/0P/8v9O/nU/TPwDXmhtQQjVL3QAAAABJ
+RU5ErkJggg==) </sup>;применение российских периферийных микросхем (Bтоп = 8 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAIAAADJt1n/AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHiSURBVDhP7ZK/y4FRFMevv8A/wK6sFiMWm8kk
+RZlIIqIMj2RUYrMgRVn8msgglJCSpEwsRLJZ/PZ+H8f78D71DnrX9zvcPvfcc+45597D7r/r9hDg
+er1eLhdirALzwTg7Ho/n85lMEJgsYMEIEBgCM1zz3H374S7aQqfTCWu9XrfZbHS63W4tFstkMgHz
+mWezWTAYLBaLYPJoNpt+v7/RaIAhj8ejUCjoqFqtymSyXq8HZpvNJhKJ5HI5rVabzWZhQh6dTpfJ
+ZIxGY7/fh2W9Xuv1etRIRTkcjk6nwwfv93tUAkomk6FQCOB2uwOBACAcDkejUcB4PNZoNMITmM3m
+drsNfr72dDrlOI4KGwwGcrl8OBzGYjHUBctqtTIYDAB6IKfTORqNAHwwklutVolEEo/HsYWQkzFW
+LpdpWygUpFIpPdJisVAqlYlEAszQxuFwAKVSKbQK6Ha7aAFdqVSqWq1GwXjRVqsFRkW4Op/Po4vX
+kKAxn88HsNvt1Hw6nUZ7j8OnqG1BDP+EHrxeL2LAMCGnWq12uVwmkwlVwIKBgajh94liu90OtVUq
+leVyiTOaivl8XiqV6K73KRLpVTZEVb17C99DHyESgxXeEA0A+YFFloezWD8yf6r/4A/1h+D7/Qv8
+uGgNZwuOCAAAAABJRU5ErkJggg==) </sup>;применение российских микросхем памяти (Bтоп = 11 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHuSURBVDhP7VJL6+FhFPYR+AC+gZI9G1bKwsqC
+ZEcUJcpSNhYWIiU7JZeFDeW6YKHkllJyi4VQCBss3H//53Wmf9PMv2maWcxmnsXpOZfnPe8578vj
+OO71ej2fz8fjAQIXIBeWOAWBnzkPmu9ln5Zwv99hN5tNLBa7Xq/gyWTSbDb3ej1wVLL+QL1er9Vq
+IHTW4XDI5XLz+fyd5Ewmk0gkQmo8HqfT6Wg0qlAojscjUkyPkMvlkkqlgUAA7n6/VyqVaKLX61ut
+FiLT6dRgMJxOJ3CCVqtdLBYgvMvlMhwOwVCkUqlAIpGIWq0GCYfDXq8XBG0hoIbAarUKBoMguBGb
+H+x2u6VSKTqo2+1KJBJMiJk7nQ4iy+XSaDSiEziQSCRIxeanbYVCIT6fj6J3Aef3+wUCQTweJ7dY
+LIrF4slkcj6frVYrstlstlKpIMXmp4ObzaZQKNxut7vdzuPxVKtVmUyWyWSQws5tNluj0ej3+06n
+E8tyu90oY3p6FYJOp4P1+XxE8vm8RqN5Z74Gm3+9XuM+drvd4XCUy2VEZ7OZXC7Hm1ksFtwCEWwH
+behHgQCI0ArY/O12u1QqDQYD+CiCxRSFQmE0GoGjjkq/xLf/QyAxbZRAkV+AvR8EdLfPPj9Efrf/
+H+C//u/wb/Uc9wFZDq0o+ZNlVwAAAABJRU5ErkJggg==) </sup>;применение российских соединителей (в том числе разъемов, жгутов, кабелей) (Bтоп = 6 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAIAAAAf7rriAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHgSURBVDhP7VJLy6lRGN0lf8IPMMAPMFFKipKJ
+GChz14yQkcsvkJRiggmKDJhQLlGEFCMDIiNMUC65fLzf8j1ffW/n1KlzxmcN9l7r2c/az7Mv7PV6
+fXwBhPsCRZ7PJ3EKAhQhEGf8EFL58vF4YLxer8lkcrfbgW82G7fbnUqlwJHJMDWbzV6vB0I4nU61
+Wm08HpPMZDKMsfV6DZ5Op6vVqslkmkwmkCwWi/n9fo1GEw6HoQ+Hg8FgcLlcRqOxXq8jgiNotdrF
+YgF+uVwwlkolFHibO50OJvSjUChAisWiWq0G6ff7FosFBG2rVKrZbAYOs91uF4vF8/kc8t02kEgk
+BoMByHK5lMlk3W43l8uVy2Va1ev11DbB6/UGg0GQtxn3IRAIrFYrikDm83mhUBgIBN6JHLdarUQi
+UaVSAW+3261WKxqNYndIRobRaCSRSKbT6fl8jkQiOItcLo/H41hCtsPhQAHwUCgETifFXXy3Ddhs
+tuPxmM1mdTod5Ha7lUqltETgvyKcGJnH4/H5fHAWCgVo3JxSqXQ6nWazGf0jcr/fb7cbvTlxcuJT
+sEajgVcdDofQlLHf7xGhl+dX+x0/bZOTdiVQhP9DfwFDNkAVKA+cIiT/ZP6e/wn/zX8FjvsEz7r0
+DN8+OjcAAAAASUVORK5CYII=) </sup>;применение российских катушек индуктивности и трансформаторов
+(Bтоп = 3 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHpSURBVDhP7VI9q8FRHD7lM/gGFpNPwMJiMigs
+XsqEwUsKg1GysDDIYDIoZVBikCJClCiDlwwMLIpE3q77/P1ux73d7h3uHe5yn+H8n+d3fi/POefP
+Xh643W5Y7w+Q5JHr9crjfOWEIY80QJxHkHG5XECGw2GxWAShrfV63Wq1KIHhs1wue73e6XTiGZPJ
+pN/vgwDH41EqlRqNRnBqZ7fbbTYbCKyxbrfr8XjUarXBYCCr6XRaoVBotdpQKEQmM5mM1+sFATqd
+jsPhiEaj4BjGGo3G+XyGUKlU5ArT4AgEXebzOUg2m3W5XCCHw6HZbFar1VgsBgk7gn9gOp3mcjky
+r1Qq4/H4ZrPBzN1uhwi23G43SCQSCQaD5Hc2myEi1NfrdYlEotPpUAOJXmKx2GKx7Pd7SCCVSplM
+JpBarZZIJMxms1wuH4/HiAj12+12MBiIRKJkMglZqVRgT6/XYw4kulitVpwOJ4cE8Bz5fB7k6R8I
+h8PoDSKTyeggqCmVSo/NN+CC6ZmIY2XtdrtcLhcKhUAgsFgsENJoND6fD1bhczQaIYILxij+56A7
+DRDeH1fldDpRsFqtaBu/h9/vxyPhUJCU+hWe/gGk8iEEPofkZzB4w5EAPgfkfeSbYuDD/B/gv/53
++Nv6+/0VdWmkwcFJ5uAAAAAASUVORK5CYII=)
+из 29.32.30.386Джойстик управления (машиной, навесным
+и прицепным технологическим оборудованием), применяемый в составе продукции отрасли специального машиностроениявыполнение на территории Российской Федерации требований
+(в совокупности 140 баллов):наличие у юридического лица - налогового резидента Российской Федерации,
+не находящегося под контролем иностранного государства, и (или) международной организации, и (или) иностранного юридического
+или физического лица, и (или) иностранной структуры без образования юридического лица<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGHSURBVDhPzZBPqwFhFIdn6WvI1kcYpdQoi5Gw
+sGQlvoDu0geYsvIByCSxUrazRZRSsrDSlCz9ibhj7jPONFm51+7+yus5Z37nvOc9ivtWj8dDTsdx
+BN4VBO4AOL0C6PspWEL6EXKKCe12O/mkBCkEv4ZIwlqtFo1GAbp4N5zP56+nPIvr2rZdLBbj8Xin
+05FMu91WVRXwCyaTSTgczmQyMC2bzSY18/k8EolMp1OSm81G0zSAIZX7/Q61Wq1cLgdcLpfr9Qqg
+QqEwGAyA2WyWSCQAr0D2ZRiGFEiIbrdbuVyWt67X62QyCdDdL2g0GtlsFmBKrEC/3+/1egCq1+uh
+UGg4HMKKbJO5GQAQ92Kx6Ha7AOJVx+PxcDicTidCf62sKBaLyXssy6pUKtvtdrlcjkajYEiE2dvS
+eDzO5/OpVMo0TR5drVZ1XS+VSul0mmIMTIFVWvsjvdHrDci7gRSjI+nEYLCc4g7aI2W1WklK4l+l
+7Pd7/j4o4Pd3N/LX+tkNH+nfFbjuD0sbxWsbwK0pAAAAAElFTkSuQmCC) </sup>:прав на конструкторскую и техническую документацию для проектирования, производства, модернизации и развития соответствующей продукции
+на территории Российской Федерации в соответствии со спецификацией
+на готовое изделие в следующем составе:спецификация на готовое изделие с указанием сборочных единиц и деталей;схема электрическая принципиальная;
+исключительных или неисключительных (но неотзывных) прав на программное обеспечение;подтверждение осуществления на территории Российской Федерации процессов проектирования схемотехники, конструкции модуля, топологии печатных плат, встроенного программного обеспечения, а также наличия соответствующих кадров и затрат на их содержание;выполнение на территории Российской Федерации технологической операции - поверхностный монтаж чип-компонентов на печатную плату
+выполнение на территории Российской Федерации дополнительных требований:установка программного обеспечения, если оно является неотъемлемой частью оборудования (20 баллов);сборка электронного оборудования (корпусирование) (20 баллов);функциональное тестирование готового изделия и проведение технического контроля соответствия требованиям технических условий готового изделия (20 баллов);выполнение дополнительных требований по применению компонентов:применение российских системообразующих микросхем (Bтоп = 14 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VK9isJAGNynyDP4AkJExMYuhY0I
+pjCBYGWvWKUT9A1srFKZNL6ACMFUioWdIihoFRBEYuHf3my+veW4Qs7+plhmZr/5dr9NGH+L1+tF
+6/P5JPIuoKoVwSoCYGjweDyoDUDypxPHMVZUMsopQP5ygE6nUyqVQNBCnHC73Xq9XqFQGAwGaQH3
+PC+Xy1mWdTweSVYqFRAcKAJRFM1mMxBd16/XK07PZrNo1u12HceBv91u6/W6DKgLoA0qQJIkyefz
+k8kkCALf9+Esl0vTNEFEgMZaLBZoD/d0OkGGYcgYazQa4MBms7FtG0TOcL/fU59Xq9XRaAS33W6v
+Vqtardbv9+G7rqtp2nQ6BWfYSIsFms3mfD5fr9eZTAYSs5XLZZDL5XI+nzEeOAMbj8eGYaDfcDgU
+Oc5brVaxWISDu5FDwMDiSsjsdrvD4UAuYb/f0zzph5GAlEMTwOXO99OpXeXIX0OBXClSkCQfEIGP
+8B/4Cz4McP4FzubCOyBWPiQAAAAASUVORK5CYII=) ;применение российских печатных плат (Bтоп = 7 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGbSURBVDhP7VK7isJAFJ2f8DcCiiRp/AHtRLsk
+iIWFFhY2toKFKKROa2UhiHZiYSfaKIjgExW0EPHVKIqv7BnvbhAXl22221PMnHvvOTd3ZsLMN7g/
+QOR2u1n8JwNWSCm0PAzb9Xo9n8/PtcvlgiSAcDKZtNttKr1+AVLLRuh2u9Fo1G63G4aBEC3Y4XBI
+JBKyLOfzeRKVSiWXywXdfr+fzWbI7HY7j8dDVVYul2u1WqfTcTqdm81mtVo5HI7FYoGW8XicROPx
+OJVKEWfH45FYOp0G7/V6MCCsVCqZTIZKuVyu3++D8JGwTafTQCCQzWYfVTMcDnu93mKxuF6vEdbr
+dZhBlsslVm4YDAaRSIQx1mq1EGJCSZJ8Ph+urlqt2my2UCikKAqm5QbrWoLBYKFQ2G63fr8fYTKZ
+RAbHRbtmszkajZCEmL8DttPpFIvF5vM5PiIIAmq4e1VVeacvUGuGk7ndbgzQaDSooOu6KIqapg2H
+Q4Q4KKSk/nw4evNnYuF7ho+EDSt6YH0hVAIeYo63P987/Bt+g782mOYH38fpp3zGW7cAAAAASUVO
+RK5CYII=) </sup>;применение российских вторичных преобразователей питания (Bтоп = 6 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAUCAIAAAALACogAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF/SURBVDhP5ZK9isJQEIXzOr6CjRGiTSrBwijY
+WKSyEVMGoyAoBIMIgmBtFbCwshG7gFE0T2BsNxDERvxZs+dm5LIou/sAe8DLN5M5k5lrhOhnPR4P
+Oj9jEf9mgKiamIAZkL3H4i0phFhhFLmu6/s+AB6Birh4P67lclmpVCRJOhwOCNkbttutoiipVGq/
+3yNEi2q1inAwGCDc7XY4p9Op53nMcL1ebds+nU7D4TCfzyNlWVaxWASUSqXFYgEYjUblchmVzMAH
+Xa/Xk8kE0G63MQNA1/XVagVwHCeZTPb7ffBzB5RiSiwHDsMwnU6rqkohaTab9Xo9gIAt4dlsNjAk
+EglautPpiKJYr9fBrVYrk8l0u93z+cwM+HHhAU7TNLEGIJfLjcdjzIw7pQXQWgiC4CPWfD5vNpvI
+NhqNQqEAMAwDBgDp+ccdj0dN02RZxqsvlwtSaFmr1bLZLF0rupKIXz8NevBdLxl2S7fbDSOiMW/z
+nomLmf74+N71Dw1R9AUr3ll6ozhRGgAAAABJRU5ErkJggg==) </sup>;применение российских микросхем и модулей связи и навигации
+(Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGFSURBVDhP7ZItqwJBGIXnP9ithgWxbrGIGMVs
+WRBkLbqIgs2iwSJ4Yc26Bg0qfiGCimUtYrLabIJoE/zauWd9L6Nc4e4fuCcMzztzzsw7O8v4n7Is
+i0YBDgGIrALY4/Gg4hMgAcfjkdg+gRzvgAWC6/WKsVKpJJNJAAxsMpmEw+FgMLhcLp8ens/nQ6FQ
+LBbb7/cod7udoiiFQgFsB0qlEqjT6ciyDOh2u4FAAGAYRi6XA8xms8FgUC6Xwff7/efSq9WqVqsB
+xuOxSCLT7/e/nopGo4fDAfMMoWaz6XK5RqORHeU8nU77fL56vQ4eDoc4JxKJeL3e9XqNGXa73bbb
+raZpbrebmoY1k8l4PB50b2/A+WazaTQaAJhf7xCPx0+nU6vVUlUVZbvd9vv9gPP5TB8NvWBk8/nc
+NE1d14vFIurpdCpJ0mKxqFarOId8CIjHYdlsNpVK4Vpij16vl0gkKA+JNyG9WqI9KEOCldzvGXZ5
+il6UFnAzmvl0Q84/3y/9B5zF+TcEbIUtK3nojAAAAABJRU5ErkJggg==) ;применение российских интерфейсных микросхем и преобразователей
+(Bтоп = 8 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAVCAIAAAAW+SPgAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VExq4JQGHUP+iXSf3CopaA2IWir
+DFobAqEpghoiJJwkRTLHao0kaEgCqalZiAhqElqe6ct39Io8eATv7e8M1/Ode77Ddz+p4D1erxc5
+ExK6fd93XdfzvER9Pp9QoJPyMwI4RT4EuADiIgLacEqSVCwWZVkOs03TrNfrk8kkMgToFwSh0Wjs
+93uU8/m8VCqdz2dw6nK5DIfD3W6Xy+UURYHU6XRqtdp2u2VZ9na7Xa9XTdMYhrFtm/qIAJMoiqqq
+giBJ13WQarVqWRYIsFwux+NxvBOkchxH+Gq1ymQyaFgsFkQBDocDytD9eDy63W4qlWq32ygxd6vV
+SqfT6/Ua5Ww2azabPM87jkMlS9hsNuVyGaTX6xmGgXFpmkYk3ofU+/2OqzCbrAnDYDIQPHc0GoFU
+KpXpdApCgPVTx+MRz8rn8/1+n6in06lQKGSz2cFgQExA/HciQzjrO/L9f4VuUuM6IcSaKElDnP1L
+/Lt/4i/uIPgCazFLcJVt9F4AAAAASUVORK5CYII=) ;применение российских полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGuSURBVDhP7ZI/66lxGMa/Xod3YZBMYjaxKYPN
+QPKnSJks9ItFshCDQUkMZGKwkBKF2MQiKQaD/8/5PL5OP+cM55wXcK7h2/Vc9//7foTyRzyfT/k+
+Ho/7/Q5RA/i4XC63202aATapSKsUJQS2N/2Z79Pjer3yoieTSavVutvt1AqLxSIajVarVWnj7fV6
+4XC42WzCQSQSwQFCvNhut/F4vFwuWyyWQqGA2ul0zGZzsVi02Wzj8Xg0Gul0OqfTmclksIrT6UQh
+WD6fl2nI7fP5IF8vVCqVYDC4Wq0MBsN0On1vaT6fx2Ix2f1kMtFqtYPBIJ1OH49Hui+VSugOh4Pi
+agBFXC6XRqNJpVJqtKIkEgkhBH3Ch8MhveVyuUAgcDgcBFnP5zMG0phMJumRzWb7/b5er6/Vaiit
+VisUCq3Xa/j34Wazmd/vhzAAY0DYm91ufxnf4AZiuVx6PB7GcrvdTIJKbqPR6PV6abrb7aJwRCAn
+FPv9vt1uNxqNzWbDt7wUO6nX6+wE/nlZ8N0SkP/Cp4dUuKY8KBAwPICsKG3w35SXs4pfKvwL/gf8
+HYryA1YLeIUnz/t1AAAAAElFTkSuQmCC) </sup>;применение российских силовых полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGXSURBVDhP7ZI9y4FxFMbvL+Ar2HwHpeRjmAwG
+g/JIJJlkUWIyWNxlMZgYiDKhhMGChCh5yWIk8vb8bke6LU/szzWcruucc/3/5/+i3L/EX4bb7Ua8
+Xq+nB87nM1IzUCB7uVykA7zkKyNAKvoUfURaRQr6/b7f7/d4PPl8HvkcqdlstlotiHgWi0WpVNrt
+dvBardZoNFRVjUQiSM2ANRgMms3mbDaLHI1GNpvN6/U6nc7tdiujTyaTer2uGY7HIx2wTqdjt9sh
+gUAgFApBGIN9ICCVSu33e8jzDIfDIZfLzWYzeLFYtFqt0+k0nU6vViupZjIZ6VRk6EQiYTAYwuEw
+HLjdbqPR2G63RbIEJ4HQrJ2BqYiVSsVkMjHxYDCIx+OFQsFisQyHQ0q9Xm+5XD4NvAhM4HA4iC6X
+KxaLQaLRqNyMQGZRNptNMpn0+Xyclcslxf2y9s8D4/GYDNtKt/ZwsG63W61WpSavNp/Py+Xyer2G
+S+sLb39JuvUvLVz/G7RrZQ0KRCnoMyIlL3jb4RP8Gz7Bl4b7/RfepPBVgm9AugAAAABJRU5ErkJg
+gg==) </sup>;применение российских пассивных элементов стандартных (Bтоп = 3 балла), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAYCAIAAAB8wupbAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG4SURBVDhP7VI9y0FhGD6/weYP+AEssiLlYziz
+QUZRymAwKLMoOhYDMwZJCrGIkkIxSCGRkrD5/jiuxy0dy5t3eLf3qnOf677OfT3389zP4cRf4ifD
+/X5HvF6vp9MJkRQOD3C73RCfZUxFCoBTHYEUjl4E8LcNOJ/PiNVq1e129/t9cBSwLc3n82azeblc
+WNWzA9LJZAI+HA7tdnsymTQYDPSVg9Xr9er1eofDQZLL5bJYLFartdFoLBYLm822Wq08Hg9tj2u3
+27S2VqtdLpeDwUCpVCLFTpxOJ0g8Hler1ePxGBye15S63W6xWATBYiqVqtVq5XK5QqGw2WwymUyl
+UuF5fr/fo4AZ6vW6QqEwm8273Q5pNpuVyWTRaBS8VqtB3263RqNxOp0yA7ocDofRaCSXy/P5PCRB
+EBKJhE6nS6VSSCORiMlkKpVK4K8pEXw+H9brdDoajQZpr9fDZKRTJs7BGovFwuFwMBjE6dfrNU7v
+9/sDgQB0VED8uOlyuYymmPTxeGTriOJsNguFQul0mlJpE+DjX8I36cUjpWqKBHZo/ALo+1bhkSrS
+auCjwzf4N3yDvzaI4gPLzxFV7uBOcwAAAABJRU5ErkJggg==) </sup>;применение российских конденсаторов большой емкости (Bтоп = 4 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGWSURBVDhP7VG7isJQEE3pP+QXrMU2oIIoGLCw
+kYCIoIWIXcAiTZqAgiCCVQqRtD4QG0HECIJEQbBTtPALRJD4SvYkN9xdhAW334EM55w7Z+5kLmP/
+HpZlIb9eLwCSQR3D8/m83W6Px4NIyPf7HQotogHKQPWYy98qENPpNBQKFYtFdAR1btB1PZfLaZrm
+FtimadZqNSjH4xE0nU5fr9dKpaIoCihzOp3q9fp8Puc4bjAYQBJFsVwu9/t9QRD2+30ymYS4WCwK
+hYJjQD+MC4QGw+EQIBKJjMdjgGg0erlccFU2m02lUrIsOwZ8iFarha4Ed7tdv9/f6XQmkwlRRqNR
+IBA4HA7AjuF8PkuS5PP5qtUqKNaQyWRYlt1sNqAYuFQqrVYrcsTQtfR6vXw+DwDzcrncbrfBYBBd
+Mf1ut4P+vSVsHbnZbGIMAPxDu90GSCQSs9kMAEGq0Z1Zr9c8z8disUajQc4Mw4jH4+FwWFVVUJSS
+t3IfyfJ+mj4fBTh7AyQcA5FQSgGxUeWnx7vh8/g3fBJ/NNj2F7s+g7O79ytMAAAAAElFTkSuQmCC
+) ;применение российских сенсорных элементов (Bтоп = 10 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAXCAIAAABrvZPKAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIPSURBVDhP7ZJPq2lRGMb31NfwBSTlT4mvIJGB
+jDBBSZQBRUohJMmAEgZCMhGliBKlJCMhyYASIxH5d/Z99lly3G7nDu4d3brPYO/fetb7rvWudy2K
+/l4fnwLc7/fH40EcwPuQyb/dbpfLBe4r53q9wkEQGCYRmXoOaJosQZEfERbC9z2ILBqJRLxeL3Hy
++bxYLK5UKmDMMvtXq1WbzdbtdomFbywWc7lcy+USfD6fJRKJXq8Hj8djpVIJR6vVzudzOFS73Q6H
+w/F4nMfjTadTWHa7XaVS5XI5uVy+2Wzg1Ot1s9kMwLp+vx/g8/kymQyTv1qt8INMJlOz2QRwOJzR
+aARQq9XD4RCQzWaNRiMgFAql02lAIBBIpVIApn4cuFQqFYtFMOR0OmUyWb/fR9rxeIRTq9UcDgcA
+RXk8HoDb7UZRACZ/MBhIpVIWi9Xr9TCEhEIhl8udzWZkaLFYRCLRbrc7nU44FA6r0WhIsylcFbkC
+hUJhtVoBwWCwXC4XCgU+n4/TIS6ZTKJHk8kEs2ghalmv12Akfr0f9AZxADabvVgsADqdLpFIfE4+
+RW6H6Hn/6Ad6YzAYsMPhcIAVjUYFAgHaiUvdbrdw8JZeZWIJ8rTAaByFelqtVqfTQQSx8EXbG43G
+fr8Hk9Dv9FU/RELfE177kOGvYt4v0SsI8O78Jhn6af8/0P/8v9O/nU/TPwDXmhtQQjVL3QAAAABJ
+RU5ErkJggg==) </sup>;применение российских периферийных микросхем (Bтоп = 8 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAIAAADJt1n/AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHiSURBVDhP7ZK/y4FRFMevv8A/wK6sFiMWm8kk
+RZlIIqIMj2RUYrMgRVn8msgglJCSpEwsRLJZ/PZ+H8f78D71DnrX9zvcPvfcc+45597D7r/r9hDg
+er1eLhdirALzwTg7Ho/n85lMEJgsYMEIEBgCM1zz3H374S7aQqfTCWu9XrfZbHS63W4tFstkMgHz
+mWezWTAYLBaLYPJoNpt+v7/RaIAhj8ejUCjoqFqtymSyXq8HZpvNJhKJ5HI5rVabzWZhQh6dTpfJ
+ZIxGY7/fh2W9Xuv1etRIRTkcjk6nwwfv93tUAkomk6FQCOB2uwOBACAcDkejUcB4PNZoNMITmM3m
+drsNfr72dDrlOI4KGwwGcrl8OBzGYjHUBctqtTIYDAB6IKfTORqNAHwwklutVolEEo/HsYWQkzFW
+LpdpWygUpFIpPdJisVAqlYlEAszQxuFwAKVSKbQK6Ha7aAFdqVSqWq1GwXjRVqsFRkW4Op/Po4vX
+kKAxn88HsNvt1Hw6nUZ7j8OnqG1BDP+EHrxeL2LAMCGnWq12uVwmkwlVwIKBgajh94liu90OtVUq
+leVyiTOaivl8XiqV6K73KRLpVTZEVb17C99DHyESgxXeEA0A+YFFloezWD8yf6r/4A/1h+D7/Qv8
+uGgNZwuOCAAAAABJRU5ErkJggg==) </sup>;применение российских микросхем памяти (Bтоп = 11 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHuSURBVDhP7VJL6+FhFPYR+AC+gZI9G1bKwsqC
+ZEcUJcpSNhYWIiU7JZeFDeW6YKHkllJyi4VQCBss3H//53Wmf9PMv2maWcxmnsXpOZfnPe8578vj
+OO71ej2fz8fjAQIXIBeWOAWBnzkPmu9ln5Zwv99hN5tNLBa7Xq/gyWTSbDb3ej1wVLL+QL1er9Vq
+IHTW4XDI5XLz+fyd5Ewmk0gkQmo8HqfT6Wg0qlAojscjUkyPkMvlkkqlgUAA7n6/VyqVaKLX61ut
+FiLT6dRgMJxOJ3CCVqtdLBYgvMvlMhwOwVCkUqlAIpGIWq0GCYfDXq8XBG0hoIbAarUKBoMguBGb
+H+x2u6VSKTqo2+1KJBJMiJk7nQ4iy+XSaDSiEziQSCRIxeanbYVCIT6fj6J3Aef3+wUCQTweJ7dY
+LIrF4slkcj6frVYrstlstlKpIMXmp4ObzaZQKNxut7vdzuPxVKtVmUyWyWSQws5tNluj0ej3+06n
+E8tyu90oY3p6FYJOp4P1+XxE8vm8RqN5Z74Gm3+9XuM+drvd4XCUy2VEZ7OZXC7Hm1ksFtwCEWwH
+behHgQCI0ArY/O12u1QqDQYD+CiCxRSFQmE0GoGjjkq/xLf/QyAxbZRAkV+AvR8EdLfPPj9Efrf/
+H+C//u/wb/Uc9wFZDq0o+ZNlVwAAAABJRU5ErkJggg==) </sup>;применение российских соединителей (в том числе разъемов, жгутов, кабелей) (Bтоп = 6 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAIAAAAf7rriAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHgSURBVDhP7VJLy6lRGN0lf8IPMMAPMFFKipKJ
+GChz14yQkcsvkJRiggmKDJhQLlGEFCMDIiNMUC65fLzf8j1ffW/n1KlzxmcN9l7r2c/az7Mv7PV6
+fXwBhPsCRZ7PJ3EKAhQhEGf8EFL58vF4YLxer8lkcrfbgW82G7fbnUqlwJHJMDWbzV6vB0I4nU61
+Wm08HpPMZDKMsfV6DZ5Op6vVqslkmkwmkCwWi/n9fo1GEw6HoQ+Hg8FgcLlcRqOxXq8jgiNotdrF
+YgF+uVwwlkolFHibO50OJvSjUChAisWiWq0G6ff7FosFBG2rVKrZbAYOs91uF4vF8/kc8t02kEgk
+BoMByHK5lMlk3W43l8uVy2Va1ev11DbB6/UGg0GQtxn3IRAIrFYrikDm83mhUBgIBN6JHLdarUQi
+UaVSAW+3261WKxqNYndIRobRaCSRSKbT6fl8jkQiOItcLo/H41hCtsPhQAHwUCgETifFXXy3Ddhs
+tuPxmM1mdTod5Ha7lUqltETgvyKcGJnH4/H5fHAWCgVo3JxSqXQ6nWazGf0jcr/fb7cbvTlxcuJT
+sEajgVcdDofQlLHf7xGhl+dX+x0/bZOTdiVQhP9DfwFDNkAVKA+cIiT/ZP6e/wn/zX8FjvsEz7r0
+DN8+OjcAAAAASUVORK5CYII=) ;применение российских катушек индуктивности и трансформаторов
+(Bтоп = 3 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHpSURBVDhP7VI9q8FRHD7lM/gGFpNPwMJiMigs
+XsqEwUsKg1GysDDIYDIoZVBikCJClCiDlwwMLIpE3q77/P1ux73d7h3uHe5yn+H8n+d3fi/POefP
+Xh643W5Y7w+Q5JHr9crjfOWEIY80QJxHkHG5XECGw2GxWAShrfV63Wq1KIHhs1wue73e6XTiGZPJ
+pN/vgwDH41EqlRqNRnBqZ7fbbTYbCKyxbrfr8XjUarXBYCCr6XRaoVBotdpQKEQmM5mM1+sFATqd
+jsPhiEaj4BjGGo3G+XyGUKlU5ArT4AgEXebzOUg2m3W5XCCHw6HZbFar1VgsBgk7gn9gOp3mcjky
+r1Qq4/H4ZrPBzN1uhwi23G43SCQSCQaD5Hc2myEi1NfrdYlEotPpUAOJXmKx2GKx7Pd7SCCVSplM
+JpBarZZIJMxms1wuH4/HiAj12+12MBiIRKJkMglZqVRgT6/XYw4kulitVpwOJ4cE8Bz5fB7k6R8I
+h8PoDSKTyeggqCmVSo/NN+CC6ZmIY2XtdrtcLhcKhUAgsFgsENJoND6fD1bhczQaIYILxij+56A7
+DRDeH1fldDpRsFqtaBu/h9/vxyPhUJCU+hWe/gGk8iEEPofkZzB4w5EAPgfkfeSbYuDD/B/gv/53
++Nv6+/0VdWmkwcFJ5uAAAAAASUVORK5CYII=)
+из 29.32.30.351Электронный блок автоматического управления (управления машиной без физического воздействия оператора (водителя),применяемый в составе
+продукции отрасли специального машиностроениявыполнение на территории Российской Федерации требований
+(в совокупности 140 баллов):наличие у юридического лица - налогового резидента Российской Федерации,
+не находящегося под контролем иностранного государства,
+и (или) международной организации, и (или) иностранного юридического
+или физического лица, и (или) иностранной структуры без образования юридического лица<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGHSURBVDhPzZBPqwFhFIdn6WvI1kcYpdQoi5Gw
+sGQlvoDu0geYsvIByCSxUrazRZRSsrDSlCz9ibhj7jPONFm51+7+yus5Z37nvOc9ivtWj8dDTsdx
+BN4VBO4AOL0C6PspWEL6EXKKCe12O/mkBCkEv4ZIwlqtFo1GAbp4N5zP56+nPIvr2rZdLBbj8Xin
+05FMu91WVRXwCyaTSTgczmQyMC2bzSY18/k8EolMp1OSm81G0zSAIZX7/Q61Wq1cLgdcLpfr9Qqg
+QqEwGAyA2WyWSCQAr0D2ZRiGFEiIbrdbuVyWt67X62QyCdDdL2g0GtlsFmBKrEC/3+/1egCq1+uh
+UGg4HMKKbJO5GQAQ92Kx6Ha7AOJVx+PxcDicTidCf62sKBaLyXssy6pUKtvtdrlcjkajYEiE2dvS
+eDzO5/OpVMo0TR5drVZ1XS+VSul0mmIMTIFVWvsjvdHrDci7gRSjI+nEYLCc4g7aI2W1WklK4l+l
+7Pd7/j4o4Pd3N/LX+tkNH+nfFbjuD0sbxWsbwK0pAAAAAElFTkSuQmCC) </sup>:
+прав на конструкторскую и техническую документацию для проектирования, производства, модернизации и развития соответствующей продукции
+на территории Российской Федерации в соответствии со спецификацией
+на готовое изделие в следующем составе:спецификация на готовое изделие с указанием сборочных единиц и деталей;схема электрическая принципиальная;исключительных или неисключительных (но неотзывных) прав на программное обеспечение;подтверждение осуществления на территории Российской Федерации процессов проектирования схемотехники, конструкции модуля, топологии печатных плат, встроенного программного обеспечения, а также наличия соответствующих кадров и затрат на их содержание;выполнение на территории Российской Федерации технологической операции - поверхностный монтаж чип-компонентов на печатную плату
+выполнение на территории Российской Федерации дополнительных требований:установка программного обеспечения, если оно является неотъемлемой частью оборудования (20 баллов);сборка электронного оборудования (корпусирование) (20 баллов);функциональное тестирование готового изделия и проведение технического контроля соответствия требованиям технических условий готового изделия (20 баллов);выполнение дополнительных требований по применению компонентов:применение российских системообразующих микросхем (Bтоп = 14 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VK9isJAGNynyDP4AkJExMYuhY0I
+pjCBYGWvWKUT9A1srFKZNL6ACMFUioWdIihoFRBEYuHf3my+veW4Qs7+plhmZr/5dr9NGH+L1+tF
+6/P5JPIuoKoVwSoCYGjweDyoDUDypxPHMVZUMsopQP5ygE6nUyqVQNBCnHC73Xq9XqFQGAwGaQH3
+PC+Xy1mWdTweSVYqFRAcKAJRFM1mMxBd16/XK07PZrNo1u12HceBv91u6/W6DKgLoA0qQJIkyefz
+k8kkCALf9+Esl0vTNEFEgMZaLBZoD/d0OkGGYcgYazQa4MBms7FtG0TOcL/fU59Xq9XRaAS33W6v
+Vqtardbv9+G7rqtp2nQ6BWfYSIsFms3mfD5fr9eZTAYSs5XLZZDL5XI+nzEeOAMbj8eGYaDfcDgU
+Oc5brVaxWISDu5FDwMDiSsjsdrvD4UAuYb/f0zzph5GAlEMTwOXO99OpXeXIX0OBXClSkCQfEIGP
+8B/4Cz4McP4FzubCOyBWPiQAAAAASUVORK5CYII=) ;применение российских печатных плат (Bтоп = 7 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGbSURBVDhP7VK7isJAFJ2f8DcCiiRp/AHtRLsk
+iIWFFhY2toKFKKROa2UhiHZiYSfaKIjgExW0EPHVKIqv7BnvbhAXl22221PMnHvvOTd3ZsLMN7g/
+QOR2u1n8JwNWSCm0PAzb9Xo9n8/PtcvlgiSAcDKZtNttKr1+AVLLRuh2u9Fo1G63G4aBEC3Y4XBI
+JBKyLOfzeRKVSiWXywXdfr+fzWbI7HY7j8dDVVYul2u1WqfTcTqdm81mtVo5HI7FYoGW8XicROPx
+OJVKEWfH45FYOp0G7/V6MCCsVCqZTIZKuVyu3++D8JGwTafTQCCQzWYfVTMcDnu93mKxuF6vEdbr
+dZhBlsslVm4YDAaRSIQx1mq1EGJCSZJ8Ph+urlqt2my2UCikKAqm5QbrWoLBYKFQ2G63fr8fYTKZ
+RAbHRbtmszkajZCEmL8DttPpFIvF5vM5PiIIAmq4e1VVeacvUGuGk7ndbgzQaDSooOu6KIqapg2H
+Q4Q4KKSk/nw4evNnYuF7ho+EDSt6YH0hVAIeYo63P987/Bt+g782mOYH38fpp3zGW7cAAAAASUVO
+RK5CYII=) </sup>;применение российских вторичных преобразователей питания (Bтоп = 6 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAUCAIAAAALACogAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF/SURBVDhP5ZK9isJQEIXzOr6CjRGiTSrBwijY
+WKSyEVMGoyAoBIMIgmBtFbCwshG7gFE0T2BsNxDERvxZs+dm5LIou/sAe8DLN5M5k5lrhOhnPR4P
+Oj9jEf9mgKiamIAZkL3H4i0phFhhFLmu6/s+AB6Birh4P67lclmpVCRJOhwOCNkbttutoiipVGq/
+3yNEi2q1inAwGCDc7XY4p9Op53nMcL1ebds+nU7D4TCfzyNlWVaxWASUSqXFYgEYjUblchmVzMAH
+Xa/Xk8kE0G63MQNA1/XVagVwHCeZTPb7ffBzB5RiSiwHDsMwnU6rqkohaTab9Xo9gIAt4dlsNjAk
+EglautPpiKJYr9fBrVYrk8l0u93z+cwM+HHhAU7TNLEGIJfLjcdjzIw7pQXQWgiC4CPWfD5vNpvI
+NhqNQqEAMAwDBgDp+ccdj0dN02RZxqsvlwtSaFmr1bLZLF0rupKIXz8NevBdLxl2S7fbDSOiMW/z
+nomLmf74+N71Dw1R9AUr3ll6ozhRGgAAAABJRU5ErkJggg==) </sup>;применение российских микросхем и модулей связи и навигации
+(Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGFSURBVDhP7ZItqwJBGIXnP9ithgWxbrGIGMVs
+WRBkLbqIgs2iwSJ4Yc26Bg0qfiGCimUtYrLabIJoE/zauWd9L6Nc4e4fuCcMzztzzsw7O8v4n7Is
+i0YBDgGIrALY4/Gg4hMgAcfjkdg+gRzvgAWC6/WKsVKpJJNJAAxsMpmEw+FgMLhcLp8ens/nQ6FQ
+LBbb7/cod7udoiiFQgFsB0qlEqjT6ciyDOh2u4FAAGAYRi6XA8xms8FgUC6Xwff7/efSq9WqVqsB
+xuOxSCLT7/e/nopGo4fDAfMMoWaz6XK5RqORHeU8nU77fL56vQ4eDoc4JxKJeL3e9XqNGXa73bbb
+raZpbrebmoY1k8l4PB50b2/A+WazaTQaAJhf7xCPx0+nU6vVUlUVZbvd9vv9gPP5TB8NvWBk8/nc
+NE1d14vFIurpdCpJ0mKxqFarOId8CIjHYdlsNpVK4Vpij16vl0gkKA+JNyG9WqI9KEOCldzvGXZ5
+il6UFnAzmvl0Q84/3y/9B5zF+TcEbIUtK3nojAAAAABJRU5ErkJggg==) ;применение российских интерфейсных микросхем и преобразователей
+(Bтоп = 8 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAVCAIAAAAW+SPgAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VExq4JQGHUP+iXSf3CopaA2IWir
+DFobAqEpghoiJJwkRTLHao0kaEgCqalZiAhqElqe6ct39Io8eATv7e8M1/Ode77Ddz+p4D1erxc5
+ExK6fd93XdfzvER9Pp9QoJPyMwI4RT4EuADiIgLacEqSVCwWZVkOs03TrNfrk8kkMgToFwSh0Wjs
+93uU8/m8VCqdz2dw6nK5DIfD3W6Xy+UURYHU6XRqtdp2u2VZ9na7Xa9XTdMYhrFtm/qIAJMoiqqq
+giBJ13WQarVqWRYIsFwux+NxvBOkchxH+Gq1ymQyaFgsFkQBDocDytD9eDy63W4qlWq32ygxd6vV
+SqfT6/Ua5Ww2azabPM87jkMlS9hsNuVyGaTX6xmGgXFpmkYk3ofU+/2OqzCbrAnDYDIQPHc0GoFU
+KpXpdApCgPVTx+MRz8rn8/1+n6in06lQKGSz2cFgQExA/HciQzjrO/L9f4VuUuM6IcSaKElDnP1L
+/Lt/4i/uIPgCazFLcJVt9F4AAAAASUVORK5CYII=) ;применение российских полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGuSURBVDhP7ZI/66lxGMa/Xod3YZBMYjaxKYPN
+QPKnSJks9ItFshCDQUkMZGKwkBKF2MQiKQaD/8/5PL5OP+cM55wXcK7h2/Vc9//7foTyRzyfT/k+
+Ho/7/Q5RA/i4XC63202aATapSKsUJQS2N/2Z79Pjer3yoieTSavVutvt1AqLxSIajVarVWnj7fV6
+4XC42WzCQSQSwQFCvNhut/F4vFwuWyyWQqGA2ul0zGZzsVi02Wzj8Xg0Gul0OqfTmclksIrT6UQh
+WD6fl2nI7fP5IF8vVCqVYDC4Wq0MBsN0On1vaT6fx2Ix2f1kMtFqtYPBIJ1OH49Hui+VSugOh4Pi
+agBFXC6XRqNJpVJqtKIkEgkhBH3Ch8MhveVyuUAgcDgcBFnP5zMG0phMJumRzWb7/b5er6/Vaiit
+VisUCq3Xa/j34Wazmd/vhzAAY0DYm91ufxnf4AZiuVx6PB7GcrvdTIJKbqPR6PV6abrb7aJwRCAn
+FPv9vt1uNxqNzWbDt7wUO6nX6+wE/nlZ8N0SkP/Cp4dUuKY8KBAwPICsKG3w35SXs4pfKvwL/gf8
+HYryA1YLeIUnz/t1AAAAAElFTkSuQmCC) </sup>;применение российских силовых полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGXSURBVDhP7ZI9y4FxFMbvL+Ar2HwHpeRjmAwG
+g/JIJJlkUWIyWNxlMZgYiDKhhMGChCh5yWIk8vb8bke6LU/szzWcruucc/3/5/+i3L/EX4bb7Ua8
+Xq+nB87nM1IzUCB7uVykA7zkKyNAKvoUfURaRQr6/b7f7/d4PPl8HvkcqdlstlotiHgWi0WpVNrt
+dvBardZoNFRVjUQiSM2ANRgMms3mbDaLHI1GNpvN6/U6nc7tdiujTyaTer2uGY7HIx2wTqdjt9sh
+gUAgFApBGIN9ICCVSu33e8jzDIfDIZfLzWYzeLFYtFqt0+k0nU6vViupZjIZ6VRk6EQiYTAYwuEw
+HLjdbqPR2G63RbIEJ4HQrJ2BqYiVSsVkMjHxYDCIx+OFQsFisQyHQ0q9Xm+5XD4NvAhM4HA4iC6X
+KxaLQaLRqNyMQGZRNptNMpn0+Xyclcslxf2y9s8D4/GYDNtKt/ZwsG63W61WpSavNp/Py+Xyer2G
+S+sLb39JuvUvLVz/G7RrZQ0KRCnoMyIlL3jb4RP8Gz7Bl4b7/RfepPBVgm9AugAAAABJRU5ErkJg
+gg==) </sup>;применение российских пассивных элементов стандартных (Bтоп = 3 балла), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAYCAIAAAB8wupbAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG4SURBVDhP7VI9y0FhGD6/weYP+AEssiLlYziz
+QUZRymAwKLMoOhYDMwZJCrGIkkIxSCGRkrD5/jiuxy0dy5t3eLf3qnOf677OfT3389zP4cRf4ifD
+/X5HvF6vp9MJkRQOD3C73RCfZUxFCoBTHYEUjl4E8LcNOJ/PiNVq1e129/t9cBSwLc3n82azeblc
+WNWzA9LJZAI+HA7tdnsymTQYDPSVg9Xr9er1eofDQZLL5bJYLFartdFoLBYLm822Wq08Hg9tj2u3
+27S2VqtdLpeDwUCpVCLFTpxOJ0g8Hler1ePxGBye15S63W6xWATBYiqVqtVq5XK5QqGw2WwymUyl
+UuF5fr/fo4AZ6vW6QqEwm8273Q5pNpuVyWTRaBS8VqtB3263RqNxOp0yA7ocDofRaCSXy/P5PCRB
+EBKJhE6nS6VSSCORiMlkKpVK4K8pEXw+H9brdDoajQZpr9fDZKRTJs7BGovFwuFwMBjE6dfrNU7v
+9/sDgQB0VED8uOlyuYymmPTxeGTriOJsNguFQul0mlJpE+DjX8I36cUjpWqKBHZo/ALo+1bhkSrS
+auCjwzf4N3yDvzaI4gPLzxFV7uBOcwAAAABJRU5ErkJggg==) </sup>;применение российских конденсаторов большой емкости (Bтоп = 4 балла), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGWSURBVDhP7VG7isJQEE3pP+QXrMU2oIIoGLCw
+kYCIoIWIXcAiTZqAgiCCVQqRtD4QG0HECIJEQbBTtPALRJD4SvYkN9xdhAW334EM55w7Z+5kLmP/
+HpZlIb9eLwCSQR3D8/m83W6Px4NIyPf7HQotogHKQPWYy98qENPpNBQKFYtFdAR1btB1PZfLaZrm
+FtimadZqNSjH4xE0nU5fr9dKpaIoCihzOp3q9fp8Puc4bjAYQBJFsVwu9/t9QRD2+30ymYS4WCwK
+hYJjQD+MC4QGw+EQIBKJjMdjgGg0erlccFU2m02lUrIsOwZ8iFarha4Ed7tdv9/f6XQmkwlRRqNR
+IBA4HA7AjuF8PkuS5PP5qtUqKNaQyWRYlt1sNqAYuFQqrVYrcsTQtfR6vXw+DwDzcrncbrfBYBBd
+Mf1ut4P+vSVsHbnZbGIMAPxDu90GSCQSs9kMAEGq0Z1Zr9c8z8disUajQc4Mw4jH4+FwWFVVUJSS
+t3IfyfJ+mj4fBTh7AyQcA5FQSgGxUeWnx7vh8/g3fBJ/NNj2F7s+g7O79ytMAAAAAElFTkSuQmCC
+) </sup>;применение российских сенсорных элементов (Bтоп = 10 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAXCAIAAABrvZPKAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIPSURBVDhP7ZJPq2lRGMb31NfwBSTlT4mvIJGB
+jDBBSZQBRUohJMmAEgZCMhGliBKlJCMhyYASIxH5d/Z99lly3G7nDu4d3brPYO/fetb7rvWudy2K
+/l4fnwLc7/fH40EcwPuQyb/dbpfLBe4r53q9wkEQGCYRmXoOaJosQZEfERbC9z2ILBqJRLxeL3Hy
++bxYLK5UKmDMMvtXq1WbzdbtdomFbywWc7lcy+USfD6fJRKJXq8Hj8djpVIJR6vVzudzOFS73Q6H
+w/F4nMfjTadTWHa7XaVS5XI5uVy+2Wzg1Ot1s9kMwLp+vx/g8/kymQyTv1qt8INMJlOz2QRwOJzR
+aARQq9XD4RCQzWaNRiMgFAql02lAIBBIpVIApn4cuFQqFYtFMOR0OmUyWb/fR9rxeIRTq9UcDgcA
+RXk8HoDb7UZRACZ/MBhIpVIWi9Xr9TCEhEIhl8udzWZkaLFYRCLRbrc7nU44FA6r0WhIsylcFbkC
+hUJhtVoBwWCwXC4XCgU+n4/TIS6ZTKJHk8kEs2ghalmv12Akfr0f9AZxADabvVgsADqdLpFIfE4+
+RW6H6Hn/6Ad6YzAYsMPhcIAVjUYFAgHaiUvdbrdw8JZeZWIJ8rTAaByFelqtVqfTQQSx8EXbG43G
+fr8Hk9Dv9FU/RELfE177kOGvYt4v0SsI8O78Jhn6af8/0P/8v9O/nU/TPwDXmhtQQjVL3QAAAABJ
+RU5ErkJggg==) </sup>;применение российских периферийных микросхем (Bтоп = 8 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAIAAADJt1n/AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHiSURBVDhP7ZK/y4FRFMevv8A/wK6sFiMWm8kk
+RZlIIqIMj2RUYrMgRVn8msgglJCSpEwsRLJZ/PZ+H8f78D71DnrX9zvcPvfcc+45597D7r/r9hDg
+er1eLhdirALzwTg7Ho/n85lMEJgsYMEIEBgCM1zz3H374S7aQqfTCWu9XrfZbHS63W4tFstkMgHz
+mWezWTAYLBaLYPJoNpt+v7/RaIAhj8ejUCjoqFqtymSyXq8HZpvNJhKJ5HI5rVabzWZhQh6dTpfJ
+ZIxGY7/fh2W9Xuv1etRIRTkcjk6nwwfv93tUAkomk6FQCOB2uwOBACAcDkejUcB4PNZoNMITmM3m
+drsNfr72dDrlOI4KGwwGcrl8OBzGYjHUBctqtTIYDAB6IKfTORqNAHwwklutVolEEo/HsYWQkzFW
+LpdpWygUpFIpPdJisVAqlYlEAszQxuFwAKVSKbQK6Ha7aAFdqVSqWq1GwXjRVqsFRkW4Op/Po4vX
+kKAxn88HsNvt1Hw6nUZ7j8OnqG1BDP+EHrxeL2LAMCGnWq12uVwmkwlVwIKBgajh94liu90OtVUq
+leVyiTOaivl8XiqV6K73KRLpVTZEVb17C99DHyESgxXeEA0A+YFFloezWD8yf6r/4A/1h+D7/Qv8
+uGgNZwuOCAAAAABJRU5ErkJggg==) </sup>;применение российских микросхем памяти (Bтоп = 11 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHuSURBVDhP7VJL6+FhFPYR+AC+gZI9G1bKwsqC
+ZEcUJcpSNhYWIiU7JZeFDeW6YKHkllJyi4VQCBss3H//53Wmf9PMv2maWcxmnsXpOZfnPe8578vj
+OO71ej2fz8fjAQIXIBeWOAWBnzkPmu9ln5Zwv99hN5tNLBa7Xq/gyWTSbDb3ej1wVLL+QL1er9Vq
+IHTW4XDI5XLz+fyd5Ewmk0gkQmo8HqfT6Wg0qlAojscjUkyPkMvlkkqlgUAA7n6/VyqVaKLX61ut
+FiLT6dRgMJxOJ3CCVqtdLBYgvMvlMhwOwVCkUqlAIpGIWq0GCYfDXq8XBG0hoIbAarUKBoMguBGb
+H+x2u6VSKTqo2+1KJBJMiJk7nQ4iy+XSaDSiEziQSCRIxeanbYVCIT6fj6J3Aef3+wUCQTweJ7dY
+LIrF4slkcj6frVYrstlstlKpIMXmp4ObzaZQKNxut7vdzuPxVKtVmUyWyWSQws5tNluj0ej3+06n
+E8tyu90oY3p6FYJOp4P1+XxE8vm8RqN5Z74Gm3+9XuM+drvd4XCUy2VEZ7OZXC7Hm1ksFtwCEWwH
+behHgQCI0ArY/O12u1QqDQYD+CiCxRSFQmE0GoGjjkq/xLf/QyAxbZRAkV+AvR8EdLfPPj9Efrf/
+H+C//u/wb/Uc9wFZDq0o+ZNlVwAAAABJRU5ErkJggg==) ;применение российских соединителей (в том числе разъемов, жгутов, кабелей) (Bтоп = 6 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAIAAAAf7rriAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHgSURBVDhP7VJLy6lRGN0lf8IPMMAPMFFKipKJ
+GChz14yQkcsvkJRiggmKDJhQLlGEFCMDIiNMUC65fLzf8j1ffW/n1KlzxmcN9l7r2c/az7Mv7PV6
+fXwBhPsCRZ7PJ3EKAhQhEGf8EFL58vF4YLxer8lkcrfbgW82G7fbnUqlwJHJMDWbzV6vB0I4nU61
+Wm08HpPMZDKMsfV6DZ5Op6vVqslkmkwmkCwWi/n9fo1GEw6HoQ+Hg8FgcLlcRqOxXq8jgiNotdrF
+YgF+uVwwlkolFHibO50OJvSjUChAisWiWq0G6ff7FosFBG2rVKrZbAYOs91uF4vF8/kc8t02kEgk
+BoMByHK5lMlk3W43l8uVy2Va1ev11DbB6/UGg0GQtxn3IRAIrFYrikDm83mhUBgIBN6JHLdarUQi
+UaVSAW+3261WKxqNYndIRobRaCSRSKbT6fl8jkQiOItcLo/H41hCtsPhQAHwUCgETifFXXy3Ddhs
+tuPxmM1mdTod5Ha7lUqltETgvyKcGJnH4/H5fHAWCgVo3JxSqXQ6nWazGf0jcr/fb7cbvTlxcuJT
+sEajgVcdDofQlLHf7xGhl+dX+x0/bZOTdiVQhP9DfwFDNkAVKA+cIiT/ZP6e/wn/zX8FjvsEz7r0
+DN8+OjcAAAAASUVORK5CYII=) ;применение российских катушек индуктивности и трансформаторов
+(Bтоп = 3 балла), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHpSURBVDhP7VI9q8FRHD7lM/gGFpNPwMJiMigs
+XsqEwUsKg1GysDDIYDIoZVBikCJClCiDlwwMLIpE3q77/P1ux73d7h3uHe5yn+H8n+d3fi/POefP
+Xh643W5Y7w+Q5JHr9crjfOWEIY80QJxHkHG5XECGw2GxWAShrfV63Wq1KIHhs1wue73e6XTiGZPJ
+pN/vgwDH41EqlRqNRnBqZ7fbbTYbCKyxbrfr8XjUarXBYCCr6XRaoVBotdpQKEQmM5mM1+sFATqd
+jsPhiEaj4BjGGo3G+XyGUKlU5ArT4AgEXebzOUg2m3W5XCCHw6HZbFar1VgsBgk7gn9gOp3mcjky
+r1Qq4/H4ZrPBzN1uhwi23G43SCQSCQaD5Hc2myEi1NfrdYlEotPpUAOJXmKx2GKx7Pd7SCCVSplM
+JpBarZZIJMxms1wuH4/HiAj12+12MBiIRKJkMglZqVRgT6/XYw4kulitVpwOJ4cE8Bz5fB7k6R8I
+h8PoDSKTyeggqCmVSo/NN+CC6ZmIY2XtdrtcLhcKhUAgsFgsENJoND6fD1bhczQaIYILxij+56A7
+DRDeH1fldDpRsFqtaBu/h9/vxyPhUJCU+hWe/gGk8iEEPofkZzB4w5EAPgfkfeSbYuDD/B/gv/53
++Nv6+/0VdWmkwcFJ5uAAAAAASUVORK5CYII=) </sup>
+из 29.32.30.358Электронный блок ввода информации оператором (водителем) и задания режимов работы (введения необходимых данных для автоматического движения машины
+и выполнения технологических операций), применяемый в составе продукции отрасли специального машиностроениявыполнение на территории Российской Федерации требований
+(в совокупности 140 баллов):наличие у юридического лица - налогового резидента Российской Федерации,
+не находящегося под контролем иностранного государства,
+и (или) международной организации, и (или) иностранного юридического
+или физического лица, и (или) иностранной структуры без образования юридического лица ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGHSURBVDhPzZBPqwFhFIdn6WvI1kcYpdQoi5Gw
+sGQlvoDu0geYsvIByCSxUrazRZRSsrDSlCz9ibhj7jPONFm51+7+yus5Z37nvOc9ivtWj8dDTsdx
+BN4VBO4AOL0C6PspWEL6EXKKCe12O/mkBCkEv4ZIwlqtFo1GAbp4N5zP56+nPIvr2rZdLBbj8Xin
+05FMu91WVRXwCyaTSTgczmQyMC2bzSY18/k8EolMp1OSm81G0zSAIZX7/Q61Wq1cLgdcLpfr9Qqg
+QqEwGAyA2WyWSCQAr0D2ZRiGFEiIbrdbuVyWt67X62QyCdDdL2g0GtlsFmBKrEC/3+/1egCq1+uh
+UGg4HMKKbJO5GQAQ92Kx6Ha7AOJVx+PxcDicTidCf62sKBaLyXssy6pUKtvtdrlcjkajYEiE2dvS
+eDzO5/OpVMo0TR5drVZ1XS+VSul0mmIMTIFVWvsjvdHrDci7gRSjI+nEYLCc4g7aI2W1WklK4l+l
+7Pd7/j4o4Pd3N/LX+tkNH+nfFbjuD0sbxWsbwK0pAAAAAElFTkSuQmCC) :прав на конструкторскую и техническую документацию для проектирования, производства, модернизации и развития соответствующей продукции
+на территории Российской Федерации в соответствии со спецификацией
+на готовое изделие в следующем составе:спецификация на готовое изделие с указанием сборочных единиц и деталей;схема электрическая принципиальная;исключительных или неисключительных (но неотзывных) прав на программное обеспечение;подтверждение осуществления на территории Российской Федерации процессов проектирования схемотехники, конструкции модуля, топологии печатных плат, встроенного программного обеспечения, а также наличия соответствующих кадров и затрат на их содержание;выполнение на территории Российской Федерации технологической операции - поверхностный монтаж чип-компонентов на печатную плату
+выполнение на территории Российской Федерации дополнительных требований:установка программного обеспечения, если оно является неотъемлемой частью оборудования (20 баллов);сборка электронного оборудования (корпусирование) (20 баллов);
+функциональное тестирование готового изделия и проведение технического контроля соответствия требованиям технических условий готового изделия (20 баллов);выполнение дополнительных требований по применению компонентов:применение российских системообразующих микросхем (Bтоп = 14 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VK9isJAGNynyDP4AkJExMYuhY0I
+pjCBYGWvWKUT9A1srFKZNL6ACMFUioWdIihoFRBEYuHf3my+veW4Qs7+plhmZr/5dr9NGH+L1+tF
+6/P5JPIuoKoVwSoCYGjweDyoDUDypxPHMVZUMsopQP5ygE6nUyqVQNBCnHC73Xq9XqFQGAwGaQH3
+PC+Xy1mWdTweSVYqFRAcKAJRFM1mMxBd16/XK07PZrNo1u12HceBv91u6/W6DKgLoA0qQJIkyefz
+k8kkCALf9+Esl0vTNEFEgMZaLBZoD/d0OkGGYcgYazQa4MBms7FtG0TOcL/fU59Xq9XRaAS33W6v
+Vqtardbv9+G7rqtp2nQ6BWfYSIsFms3mfD5fr9eZTAYSs5XLZZDL5XI+nzEeOAMbj8eGYaDfcDgU
+Oc5brVaxWISDu5FDwMDiSsjsdrvD4UAuYb/f0zzph5GAlEMTwOXO99OpXeXIX0OBXClSkCQfEIGP
+8B/4Cz4McP4FzubCOyBWPiQAAAAASUVORK5CYII=) ;применение российских печатных плат (Bтоп = 7 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGbSURBVDhP7VK7isJAFJ2f8DcCiiRp/AHtRLsk
+iIWFFhY2toKFKKROa2UhiHZiYSfaKIjgExW0EPHVKIqv7BnvbhAXl22221PMnHvvOTd3ZsLMN7g/
+QOR2u1n8JwNWSCm0PAzb9Xo9n8/PtcvlgiSAcDKZtNttKr1+AVLLRuh2u9Fo1G63G4aBEC3Y4XBI
+JBKyLOfzeRKVSiWXywXdfr+fzWbI7HY7j8dDVVYul2u1WqfTcTqdm81mtVo5HI7FYoGW8XicROPx
+OJVKEWfH45FYOp0G7/V6MCCsVCqZTIZKuVyu3++D8JGwTafTQCCQzWYfVTMcDnu93mKxuF6vEdbr
+dZhBlsslVm4YDAaRSIQx1mq1EGJCSZJ8Ph+urlqt2my2UCikKAqm5QbrWoLBYKFQ2G63fr8fYTKZ
+RAbHRbtmszkajZCEmL8DttPpFIvF5vM5PiIIAmq4e1VVeacvUGuGk7ndbgzQaDSooOu6KIqapg2H
+Q4Q4KKSk/nw4evNnYuF7ho+EDSt6YH0hVAIeYo63P987/Bt+g782mOYH38fpp3zGW7cAAAAASUVO
+RK5CYII=) </sup>;применение российских вторичных преобразователей питания (Bтоп = 6 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAUCAIAAAALACogAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF/SURBVDhP5ZK9isJQEIXzOr6CjRGiTSrBwijY
+WKSyEVMGoyAoBIMIgmBtFbCwshG7gFE0T2BsNxDERvxZs+dm5LIou/sAe8DLN5M5k5lrhOhnPR4P
+Oj9jEf9mgKiamIAZkL3H4i0phFhhFLmu6/s+AB6Birh4P67lclmpVCRJOhwOCNkbttutoiipVGq/
+3yNEi2q1inAwGCDc7XY4p9Op53nMcL1ebds+nU7D4TCfzyNlWVaxWASUSqXFYgEYjUblchmVzMAH
+Xa/Xk8kE0G63MQNA1/XVagVwHCeZTPb7ffBzB5RiSiwHDsMwnU6rqkohaTab9Xo9gIAt4dlsNjAk
+EglautPpiKJYr9fBrVYrk8l0u93z+cwM+HHhAU7TNLEGIJfLjcdjzIw7pQXQWgiC4CPWfD5vNpvI
+NhqNQqEAMAwDBgDp+ccdj0dN02RZxqsvlwtSaFmr1bLZLF0rupKIXz8NevBdLxl2S7fbDSOiMW/z
+nomLmf74+N71Dw1R9AUr3ll6ozhRGgAAAABJRU5ErkJggg==) </sup>;применение российских микросхем и модулей связи и навигации
+(Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGFSURBVDhP7ZItqwJBGIXnP9ithgWxbrGIGMVs
+WRBkLbqIgs2iwSJ4Yc26Bg0qfiGCimUtYrLabIJoE/zauWd9L6Nc4e4fuCcMzztzzsw7O8v4n7Is
+i0YBDgGIrALY4/Gg4hMgAcfjkdg+gRzvgAWC6/WKsVKpJJNJAAxsMpmEw+FgMLhcLp8ens/nQ6FQ
+LBbb7/cod7udoiiFQgFsB0qlEqjT6ciyDOh2u4FAAGAYRi6XA8xms8FgUC6Xwff7/efSq9WqVqsB
+xuOxSCLT7/e/nopGo4fDAfMMoWaz6XK5RqORHeU8nU77fL56vQ4eDoc4JxKJeL3e9XqNGXa73bbb
+raZpbrebmoY1k8l4PB50b2/A+WazaTQaAJhf7xCPx0+nU6vVUlUVZbvd9vv9gPP5TB8NvWBk8/nc
+NE1d14vFIurpdCpJ0mKxqFarOId8CIjHYdlsNpVK4Vpij16vl0gkKA+JNyG9WqI9KEOCldzvGXZ5
+il6UFnAzmvl0Q84/3y/9B5zF+TcEbIUtK3nojAAAAABJRU5ErkJggg==) ;применение российских интерфейсных микросхем и преобразователей
+(Bтоп = 8 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAVCAIAAAAW+SPgAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VExq4JQGHUP+iXSf3CopaA2IWir
+DFobAqEpghoiJJwkRTLHao0kaEgCqalZiAhqElqe6ct39Io8eATv7e8M1/Ode77Ddz+p4D1erxc5
+ExK6fd93XdfzvER9Pp9QoJPyMwI4RT4EuADiIgLacEqSVCwWZVkOs03TrNfrk8kkMgToFwSh0Wjs
+93uU8/m8VCqdz2dw6nK5DIfD3W6Xy+UURYHU6XRqtdp2u2VZ9na7Xa9XTdMYhrFtm/qIAJMoiqqq
+giBJ13WQarVqWRYIsFwux+NxvBOkchxH+Gq1ymQyaFgsFkQBDocDytD9eDy63W4qlWq32ygxd6vV
+SqfT6/Ua5Ww2azabPM87jkMlS9hsNuVyGaTX6xmGgXFpmkYk3ofU+/2OqzCbrAnDYDIQPHc0GoFU
+KpXpdApCgPVTx+MRz8rn8/1+n6in06lQKGSz2cFgQExA/HciQzjrO/L9f4VuUuM6IcSaKElDnP1L
+/Lt/4i/uIPgCazFLcJVt9F4AAAAASUVORK5CYII=) ;применение российских полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGuSURBVDhP7ZI/66lxGMa/Xod3YZBMYjaxKYPN
+QPKnSJks9ItFshCDQUkMZGKwkBKF2MQiKQaD/8/5PL5OP+cM55wXcK7h2/Vc9//7foTyRzyfT/k+
+Ho/7/Q5RA/i4XC63202aATapSKsUJQS2N/2Z79Pjer3yoieTSavVutvt1AqLxSIajVarVWnj7fV6
+4XC42WzCQSQSwQFCvNhut/F4vFwuWyyWQqGA2ul0zGZzsVi02Wzj8Xg0Gul0OqfTmclksIrT6UQh
+WD6fl2nI7fP5IF8vVCqVYDC4Wq0MBsN0On1vaT6fx2Ix2f1kMtFqtYPBIJ1OH49Hui+VSugOh4Pi
+agBFXC6XRqNJpVJqtKIkEgkhBH3Ch8MhveVyuUAgcDgcBFnP5zMG0phMJumRzWb7/b5er6/Vaiit
+VisUCq3Xa/j34Wazmd/vhzAAY0DYm91ufxnf4AZiuVx6PB7GcrvdTIJKbqPR6PV6abrb7aJwRCAn
+FPv9vt1uNxqNzWbDt7wUO6nX6+wE/nlZ8N0SkP/Cp4dUuKY8KBAwPICsKG3w35SXs4pfKvwL/gf8
+HYryA1YLeIUnz/t1AAAAAElFTkSuQmCC) </sup>;применение российских силовых полупроводниковых приборов
+(Bтоп = 5 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGXSURBVDhP7ZI9y4FxFMbvL+Ar2HwHpeRjmAwG
+g/JIJJlkUWIyWNxlMZgYiDKhhMGChCh5yWIk8vb8bke6LU/szzWcruucc/3/5/+i3L/EX4bb7Ua8
+Xq+nB87nM1IzUCB7uVykA7zkKyNAKvoUfURaRQr6/b7f7/d4PPl8HvkcqdlstlotiHgWi0WpVNrt
+dvBardZoNFRVjUQiSM2ANRgMms3mbDaLHI1GNpvN6/U6nc7tdiujTyaTer2uGY7HIx2wTqdjt9sh
+gUAgFApBGIN9ICCVSu33e8jzDIfDIZfLzWYzeLFYtFqt0+k0nU6vViupZjIZ6VRk6EQiYTAYwuEw
+HLjdbqPR2G63RbIEJ4HQrJ2BqYiVSsVkMjHxYDCIx+OFQsFisQyHQ0q9Xm+5XD4NvAhM4HA4iC6X
+KxaLQaLRqNyMQGZRNptNMpn0+Xyclcslxf2y9s8D4/GYDNtKt/ZwsG63W61WpSavNp/Py+Xyer2G
+S+sLb39JuvUvLVz/G7RrZQ0KRCnoMyIlL3jb4RP8Gz7Bl4b7/RfepPBVgm9AugAAAABJRU5ErkJg
+gg==) </sup>;применение российских пассивных элементов стандартных (Bтоп = 3 балла), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAYCAIAAAB8wupbAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG4SURBVDhP7VI9y0FhGD6/weYP+AEssiLlYziz
+QUZRymAwKLMoOhYDMwZJCrGIkkIxSCGRkrD5/jiuxy0dy5t3eLf3qnOf677OfT3389zP4cRf4ifD
+/X5HvF6vp9MJkRQOD3C73RCfZUxFCoBTHYEUjl4E8LcNOJ/PiNVq1e129/t9cBSwLc3n82azeblc
+WNWzA9LJZAI+HA7tdnsymTQYDPSVg9Xr9er1eofDQZLL5bJYLFartdFoLBYLm822Wq08Hg9tj2u3
+27S2VqtdLpeDwUCpVCLFTpxOJ0g8Hler1ePxGBye15S63W6xWATBYiqVqtVq5XK5QqGw2WwymUyl
+UuF5fr/fo4AZ6vW6QqEwm8273Q5pNpuVyWTRaBS8VqtB3263RqNxOp0yA7ocDofRaCSXy/P5PCRB
+EBKJhE6nS6VSSCORiMlkKpVK4K8pEXw+H9brdDoajQZpr9fDZKRTJs7BGovFwuFwMBjE6dfrNU7v
+9/sDgQB0VED8uOlyuYymmPTxeGTriOJsNguFQul0mlJpE+DjX8I36cUjpWqKBHZo/ALo+1bhkSrS
+auCjwzf4N3yDvzaI4gPLzxFV7uBOcwAAAABJRU5ErkJggg==) </sup>;применение российских конденсаторов большой емкости (Bтоп = 4 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGWSURBVDhP7VG7isJQEE3pP+QXrMU2oIIoGLCw
+kYCIoIWIXcAiTZqAgiCCVQqRtD4QG0HECIJEQbBTtPALRJD4SvYkN9xdhAW334EM55w7Z+5kLmP/
+HpZlIb9eLwCSQR3D8/m83W6Px4NIyPf7HQotogHKQPWYy98qENPpNBQKFYtFdAR1btB1PZfLaZrm
+FtimadZqNSjH4xE0nU5fr9dKpaIoCihzOp3q9fp8Puc4bjAYQBJFsVwu9/t9QRD2+30ymYS4WCwK
+hYJjQD+MC4QGw+EQIBKJjMdjgGg0erlccFU2m02lUrIsOwZ8iFarha4Ed7tdv9/f6XQmkwlRRqNR
+IBA4HA7AjuF8PkuS5PP5qtUqKNaQyWRYlt1sNqAYuFQqrVYrcsTQtfR6vXw+DwDzcrncbrfBYBBd
+Mf1ut4P+vSVsHbnZbGIMAPxDu90GSCQSs9kMAEGq0Z1Zr9c8z8disUajQc4Mw4jH4+FwWFVVUJSS
+t3IfyfJ+mj4fBTh7AyQcA5FQSgGxUeWnx7vh8/g3fBJ/NNj2F7s+g7O79ytMAAAAAElFTkSuQmCC
+) ;применение российских сенсорных элементов (Bтоп = 10 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAXCAIAAABrvZPKAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIPSURBVDhP7ZJPq2lRGMb31NfwBSTlT4mvIJGB
+jDBBSZQBRUohJMmAEgZCMhGliBKlJCMhyYASIxH5d/Z99lly3G7nDu4d3brPYO/fetb7rvWudy2K
+/l4fnwLc7/fH40EcwPuQyb/dbpfLBe4r53q9wkEQGCYRmXoOaJosQZEfERbC9z2ILBqJRLxeL3Hy
++bxYLK5UKmDMMvtXq1WbzdbtdomFbywWc7lcy+USfD6fJRKJXq8Hj8djpVIJR6vVzudzOFS73Q6H
+w/F4nMfjTadTWHa7XaVS5XI5uVy+2Wzg1Ot1s9kMwLp+vx/g8/kymQyTv1qt8INMJlOz2QRwOJzR
+aARQq9XD4RCQzWaNRiMgFAql02lAIBBIpVIApn4cuFQqFYtFMOR0OmUyWb/fR9rxeIRTq9UcDgcA
+RXk8HoDb7UZRACZ/MBhIpVIWi9Xr9TCEhEIhl8udzWZkaLFYRCLRbrc7nU44FA6r0WhIsylcFbkC
+hUJhtVoBwWCwXC4XCgU+n4/TIS6ZTKJHk8kEs2ghalmv12Akfr0f9AZxADabvVgsADqdLpFIfE4+
+RW6H6Hn/6Ad6YzAYsMPhcIAVjUYFAgHaiUvdbrdw8JZeZWIJ8rTAaByFelqtVqfTQQSx8EXbG43G
+fr8Hk9Dv9FU/RELfE177kOGvYt4v0SsI8O78Jhn6af8/0P/8v9O/nU/TPwDXmhtQQjVL3QAAAABJ
+RU5ErkJggg==) </sup>;применение российских периферийных микросхем (Bтоп = 8 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAIAAADJt1n/AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHiSURBVDhP7ZK/y4FRFMevv8A/wK6sFiMWm8kk
+RZlIIqIMj2RUYrMgRVn8msgglJCSpEwsRLJZ/PZ+H8f78D71DnrX9zvcPvfcc+45597D7r/r9hDg
+er1eLhdirALzwTg7Ho/n85lMEJgsYMEIEBgCM1zz3H374S7aQqfTCWu9XrfZbHS63W4tFstkMgHz
+mWezWTAYLBaLYPJoNpt+v7/RaIAhj8ejUCjoqFqtymSyXq8HZpvNJhKJ5HI5rVabzWZhQh6dTpfJ
+ZIxGY7/fh2W9Xuv1etRIRTkcjk6nwwfv93tUAkomk6FQCOB2uwOBACAcDkejUcB4PNZoNMITmM3m
+drsNfr72dDrlOI4KGwwGcrl8OBzGYjHUBctqtTIYDAB6IKfTORqNAHwwklutVolEEo/HsYWQkzFW
+LpdpWygUpFIpPdJisVAqlYlEAszQxuFwAKVSKbQK6Ha7aAFdqVSqWq1GwXjRVqsFRkW4Op/Po4vX
+kKAxn88HsNvt1Hw6nUZ7j8OnqG1BDP+EHrxeL2LAMCGnWq12uVwmkwlVwIKBgajh94liu90OtVUq
+leVyiTOaivl8XiqV6K73KRLpVTZEVb17C99DHyESgxXeEA0A+YFFloezWD8yf6r/4A/1h+D7/Qv8
+uGgNZwuOCAAAAABJRU5ErkJggg==) </sup>;
+применение российских микросхем памяти (Bтоп = 11 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHuSURBVDhP7VJL6+FhFPYR+AC+gZI9G1bKwsqC
+ZEcUJcpSNhYWIiU7JZeFDeW6YKHkllJyi4VQCBss3H//53Wmf9PMv2maWcxmnsXpOZfnPe8578vj
+OO71ej2fz8fjAQIXIBeWOAWBnzkPmu9ln5Zwv99hN5tNLBa7Xq/gyWTSbDb3ej1wVLL+QL1er9Vq
+IHTW4XDI5XLz+fyd5Ewmk0gkQmo8HqfT6Wg0qlAojscjUkyPkMvlkkqlgUAA7n6/VyqVaKLX61ut
+FiLT6dRgMJxOJ3CCVqtdLBYgvMvlMhwOwVCkUqlAIpGIWq0GCYfDXq8XBG0hoIbAarUKBoMguBGb
+H+x2u6VSKTqo2+1KJBJMiJk7nQ4iy+XSaDSiEziQSCRIxeanbYVCIT6fj6J3Aef3+wUCQTweJ7dY
+LIrF4slkcj6frVYrstlstlKpIMXmp4ObzaZQKNxut7vdzuPxVKtVmUyWyWSQws5tNluj0ej3+06n
+E8tyu90oY3p6FYJOp4P1+XxE8vm8RqN5Z74Gm3+9XuM+drvd4XCUy2VEZ7OZXC7Hm1ksFtwCEWwH
+behHgQCI0ArY/O12u1QqDQYD+CiCxRSFQmE0GoGjjkq/xLf/QyAxbZRAkV+AvR8EdLfPPj9Efrf/
+H+C//u/wb/Uc9wFZDq0o+ZNlVwAAAABJRU5ErkJggg==) ;применение российских соединителей (в том числе разъемов, жгутов, кабелей) (Bтоп = 6 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAIAAAAf7rriAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHgSURBVDhP7VJLy6lRGN0lf8IPMMAPMFFKipKJ
+GChz14yQkcsvkJRiggmKDJhQLlGEFCMDIiNMUC65fLzf8j1ffW/n1KlzxmcN9l7r2c/az7Mv7PV6
+fXwBhPsCRZ7PJ3EKAhQhEGf8EFL58vF4YLxer8lkcrfbgW82G7fbnUqlwJHJMDWbzV6vB0I4nU61
+Wm08HpPMZDKMsfV6DZ5Op6vVqslkmkwmkCwWi/n9fo1GEw6HoQ+Hg8FgcLlcRqOxXq8jgiNotdrF
+YgF+uVwwlkolFHibO50OJvSjUChAisWiWq0G6ff7FosFBG2rVKrZbAYOs91uF4vF8/kc8t02kEgk
+BoMByHK5lMlk3W43l8uVy2Va1ev11DbB6/UGg0GQtxn3IRAIrFYrikDm83mhUBgIBN6JHLdarUQi
+UaVSAW+3261WKxqNYndIRobRaCSRSKbT6fl8jkQiOItcLo/H41hCtsPhQAHwUCgETifFXXy3Ddhs
+tuPxmM1mdTod5Ha7lUqltETgvyKcGJnH4/H5fHAWCgVo3JxSqXQ6nWazGf0jcr/fb7cbvTlxcuJT
+sEajgVcdDofQlLHf7xGhl+dX+x0/bZOTdiVQhP9DfwFDNkAVKA+cIiT/ZP6e/wn/zX8FjvsEz7r0
+DN8+OjcAAAAASUVORK5CYII=) ;применение российских катушек индуктивности и трансформаторов
+(Bтоп = 3 балла), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHpSURBVDhP7VI9q8FRHD7lM/gGFpNPwMJiMigs
+XsqEwUsKg1GysDDIYDIoZVBikCJClCiDlwwMLIpE3q77/P1ux73d7h3uHe5yn+H8n+d3fi/POefP
+Xh643W5Y7w+Q5JHr9crjfOWEIY80QJxHkHG5XECGw2GxWAShrfV63Wq1KIHhs1wue73e6XTiGZPJ
+pN/vgwDH41EqlRqNRnBqZ7fbbTYbCKyxbrfr8XjUarXBYCCr6XRaoVBotdpQKEQmM5mM1+sFATqd
+jsPhiEaj4BjGGo3G+XyGUKlU5ArT4AgEXebzOUg2m3W5XCCHw6HZbFar1VgsBgk7gn9gOp3mcjky
+r1Qq4/H4ZrPBzN1uhwi23G43SCQSCQaD5Hc2myEi1NfrdYlEotPpUAOJXmKx2GKx7Pd7SCCVSplM
+JpBarZZIJMxms1wuH4/HiAj12+12MBiIRKJkMglZqVRgT6/XYw4kulitVpwOJ4cE8Bz5fB7k6R8I
+h8PoDSKTyeggqCmVSo/NN+CC6ZmIY2XtdrtcLhcKhUAgsFgsENJoND6fD1bhczQaIYILxij+56A7
+DRDeH1fldDpRsFqtaBu/h9/vxyPhUJCU+hWe/gGk8iEEPofkZzB4w5EAPgfkfeSbYuDD/B/gv/53
++Nv6+/0VdWmkwcFJ5uAAAAAASUVORK5CYII=) </sup>
+из 29.32.30.381Электронный блок управления точной навигацией (определением пространственного местоположения машины по сигналам глобальных навигационных спутниковых систем
+и локальных систем навигации
+с погрешностью определения координат не более ±15 см), применяемый в составе продукции отрасли специального машиностроениявыполнение на территории Российской Федерации требований
+(в совокупности 140 баллов):наличие у юридического лица - налогового резидента Российской Федерации,
+не находящегося под контролем иностранного государства, и (или) международной организации, и (или) иностранного юридического
+или физического лица, и (или) иностранной структуры без образования юридического лица ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGHSURBVDhPzZBPqwFhFIdn6WvI1kcYpdQoi5Gw
+sGQlvoDu0geYsvIByCSxUrazRZRSsrDSlCz9ibhj7jPONFm51+7+yus5Z37nvOc9ivtWj8dDTsdx
+BN4VBO4AOL0C6PspWEL6EXKKCe12O/mkBCkEv4ZIwlqtFo1GAbp4N5zP56+nPIvr2rZdLBbj8Xin
+05FMu91WVRXwCyaTSTgczmQyMC2bzSY18/k8EolMp1OSm81G0zSAIZX7/Q61Wq1cLgdcLpfr9Qqg
+QqEwGAyA2WyWSCQAr0D2ZRiGFEiIbrdbuVyWt67X62QyCdDdL2g0GtlsFmBKrEC/3+/1egCq1+uh
+UGg4HMKKbJO5GQAQ92Kx6Ha7AOJVx+PxcDicTidCf62sKBaLyXssy6pUKtvtdrlcjkajYEiE2dvS
+eDzO5/OpVMo0TR5drVZ1XS+VSul0mmIMTIFVWvsjvdHrDci7gRSjI+nEYLCc4g7aI2W1WklK4l+l
+7Pd7/j4o4Pd3N/LX+tkNH+nfFbjuD0sbxWsbwK0pAAAAAElFTkSuQmCC) :прав на конструкторскую и техническую документацию для проектирования, производства, модернизации и развития соответствующей продукции
+на территории Российской Федерации в соответствии со спецификацией
+на готовое изделие в следующем составе:спецификация на готовое изделие с указанием сборочных единиц и деталей;схема электрическая принципиальная;исключительных или неисключительных (но неотзывных) прав на программное обеспечение;подтверждение осуществления на территории Российской Федерации процессов проектирования схемотехники, конструкции модуля, топологии печатных плат, встроенного программного обеспечения, а также наличия соответствующих кадров и затрат на их содержание;выполнение на территории Российской Федерации технологической операции - поверхностный монтаж чип-компонентов на печатную плату
+выполнение на территории Российской Федерации дополнительных требований:установка программного обеспечения, если оно является неотъемлемой частью оборудования (20 баллов);сборка электронного оборудования (корпусирование) (20 баллов);функциональное тестирование готового изделия и проведение технического контроля соответствия требованиям технических условий готового изделия (20 баллов);выполнение дополнительных требований по применению компонентов:применение российских системообразующих микросхем (Bтоп = 14 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VK9isJAGNynyDP4AkJExMYuhY0I
+pjCBYGWvWKUT9A1srFKZNL6ACMFUioWdIihoFRBEYuHf3my+veW4Qs7+plhmZr/5dr9NGH+L1+tF
+6/P5JPIuoKoVwSoCYGjweDyoDUDypxPHMVZUMsopQP5ygE6nUyqVQNBCnHC73Xq9XqFQGAwGaQH3
+PC+Xy1mWdTweSVYqFRAcKAJRFM1mMxBd16/XK07PZrNo1u12HceBv91u6/W6DKgLoA0qQJIkyefz
+k8kkCALf9+Esl0vTNEFEgMZaLBZoD/d0OkGGYcgYazQa4MBms7FtG0TOcL/fU59Xq9XRaAS33W6v
+Vqtardbv9+G7rqtp2nQ6BWfYSIsFms3mfD5fr9eZTAYSs5XLZZDL5XI+nzEeOAMbj8eGYaDfcDgU
+Oc5brVaxWISDu5FDwMDiSsjsdrvD4UAuYb/f0zzph5GAlEMTwOXO99OpXeXIX0OBXClSkCQfEIGP
+8B/4Cz4McP4FzubCOyBWPiQAAAAASUVORK5CYII=) ;применение российских печатных плат (Bтоп = 7 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGbSURBVDhP7VK7isJAFJ2f8DcCiiRp/AHtRLsk
+iIWFFhY2toKFKKROa2UhiHZiYSfaKIjgExW0EPHVKIqv7BnvbhAXl22221PMnHvvOTd3ZsLMN7g/
+QOR2u1n8JwNWSCm0PAzb9Xo9n8/PtcvlgiSAcDKZtNttKr1+AVLLRuh2u9Fo1G63G4aBEC3Y4XBI
+JBKyLOfzeRKVSiWXywXdfr+fzWbI7HY7j8dDVVYul2u1WqfTcTqdm81mtVo5HI7FYoGW8XicROPx
+OJVKEWfH45FYOp0G7/V6MCCsVCqZTIZKuVyu3++D8JGwTafTQCCQzWYfVTMcDnu93mKxuF6vEdbr
+dZhBlsslVm4YDAaRSIQx1mq1EGJCSZJ8Ph+urlqt2my2UCikKAqm5QbrWoLBYKFQ2G63fr8fYTKZ
+RAbHRbtmszkajZCEmL8DttPpFIvF5vM5PiIIAmq4e1VVeacvUGuGk7ndbgzQaDSooOu6KIqapg2H
+Q4Q4KKSk/nw4evNnYuF7ho+EDSt6YH0hVAIeYo63P987/Bt+g782mOYH38fpp3zGW7cAAAAASUVO
+RK5CYII=) </sup>;применение российских вторичных преобразователей питания (Bтоп = 6 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAUCAIAAAALACogAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF/SURBVDhP5ZK9isJQEIXzOr6CjRGiTSrBwijY
+WKSyEVMGoyAoBIMIgmBtFbCwshG7gFE0T2BsNxDERvxZs+dm5LIou/sAe8DLN5M5k5lrhOhnPR4P
+Oj9jEf9mgKiamIAZkL3H4i0phFhhFLmu6/s+AB6Birh4P67lclmpVCRJOhwOCNkbttutoiipVGq/
+3yNEi2q1inAwGCDc7XY4p9Op53nMcL1ebds+nU7D4TCfzyNlWVaxWASUSqXFYgEYjUblchmVzMAH
+Xa/Xk8kE0G63MQNA1/XVagVwHCeZTPb7ffBzB5RiSiwHDsMwnU6rqkohaTab9Xo9gIAt4dlsNjAk
+EglautPpiKJYr9fBrVYrk8l0u93z+cwM+HHhAU7TNLEGIJfLjcdjzIw7pQXQWgiC4CPWfD5vNpvI
+NhqNQqEAMAwDBgDp+ccdj0dN02RZxqsvlwtSaFmr1bLZLF0rupKIXz8NevBdLxl2S7fbDSOiMW/z
+nomLmf74+N71Dw1R9AUr3ll6ozhRGgAAAABJRU5ErkJggg==) </sup>;применение российских микросхем и модулей связи и навигации
+(Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGFSURBVDhP7ZItqwJBGIXnP9ithgWxbrGIGMVs
+WRBkLbqIgs2iwSJ4Yc26Bg0qfiGCimUtYrLabIJoE/zauWd9L6Nc4e4fuCcMzztzzsw7O8v4n7Is
+i0YBDgGIrALY4/Gg4hMgAcfjkdg+gRzvgAWC6/WKsVKpJJNJAAxsMpmEw+FgMLhcLp8ens/nQ6FQ
+LBbb7/cod7udoiiFQgFsB0qlEqjT6ciyDOh2u4FAAGAYRi6XA8xms8FgUC6Xwff7/efSq9WqVqsB
+xuOxSCLT7/e/nopGo4fDAfMMoWaz6XK5RqORHeU8nU77fL56vQ4eDoc4JxKJeL3e9XqNGXa73bbb
+raZpbrebmoY1k8l4PB50b2/A+WazaTQaAJhf7xCPx0+nU6vVUlUVZbvd9vv9gPP5TB8NvWBk8/nc
+NE1d14vFIurpdCpJ0mKxqFarOId8CIjHYdlsNpVK4Vpij16vl0gkKA+JNyG9WqI9KEOCldzvGXZ5
+il6UFnAzmvl0Q84/3y/9B5zF+TcEbIUtK3nojAAAAABJRU5ErkJggg==) ;применение российских интерфейсных микросхем и преобразователей
+(Bтоп = 8 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAVCAIAAAAW+SPgAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VExq4JQGHUP+iXSf3CopaA2IWir
+DFobAqEpghoiJJwkRTLHao0kaEgCqalZiAhqElqe6ct39Io8eATv7e8M1/Ode77Ddz+p4D1erxc5
+ExK6fd93XdfzvER9Pp9QoJPyMwI4RT4EuADiIgLacEqSVCwWZVkOs03TrNfrk8kkMgToFwSh0Wjs
+93uU8/m8VCqdz2dw6nK5DIfD3W6Xy+UURYHU6XRqtdp2u2VZ9na7Xa9XTdMYhrFtm/qIAJMoiqqq
+giBJ13WQarVqWRYIsFwux+NxvBOkchxH+Gq1ymQyaFgsFkQBDocDytD9eDy63W4qlWq32ygxd6vV
+SqfT6/Ua5Ww2azabPM87jkMlS9hsNuVyGaTX6xmGgXFpmkYk3ofU+/2OqzCbrAnDYDIQPHc0GoFU
+KpXpdApCgPVTx+MRz8rn8/1+n6in06lQKGSz2cFgQExA/HciQzjrO/L9f4VuUuM6IcSaKElDnP1L
+/Lt/4i/uIPgCazFLcJVt9F4AAAAASUVORK5CYII=) ;применение российских полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGuSURBVDhP7ZI/66lxGMa/Xod3YZBMYjaxKYPN
+QPKnSJks9ItFshCDQUkMZGKwkBKF2MQiKQaD/8/5PL5OP+cM55wXcK7h2/Vc9//7foTyRzyfT/k+
+Ho/7/Q5RA/i4XC63202aATapSKsUJQS2N/2Z79Pjer3yoieTSavVutvt1AqLxSIajVarVWnj7fV6
+4XC42WzCQSQSwQFCvNhut/F4vFwuWyyWQqGA2ul0zGZzsVi02Wzj8Xg0Gul0OqfTmclksIrT6UQh
+WD6fl2nI7fP5IF8vVCqVYDC4Wq0MBsN0On1vaT6fx2Ix2f1kMtFqtYPBIJ1OH49Hui+VSugOh4Pi
+agBFXC6XRqNJpVJqtKIkEgkhBH3Ch8MhveVyuUAgcDgcBFnP5zMG0phMJumRzWb7/b5er6/Vaiit
+VisUCq3Xa/j34Wazmd/vhzAAY0DYm91ufxnf4AZiuVx6PB7GcrvdTIJKbqPR6PV6abrb7aJwRCAn
+FPv9vt1uNxqNzWbDt7wUO6nX6+wE/nlZ8N0SkP/Cp4dUuKY8KBAwPICsKG3w35SXs4pfKvwL/gf8
+HYryA1YLeIUnz/t1AAAAAElFTkSuQmCC) </sup>;применение российских силовых полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGXSURBVDhP7ZI9y4FxFMbvL+Ar2HwHpeRjmAwG
+g/JIJJlkUWIyWNxlMZgYiDKhhMGChCh5yWIk8vb8bke6LU/szzWcruucc/3/5/+i3L/EX4bb7Ua8
+Xq+nB87nM1IzUCB7uVykA7zkKyNAKvoUfURaRQr6/b7f7/d4PPl8HvkcqdlstlotiHgWi0WpVNrt
+dvBardZoNFRVjUQiSM2ANRgMms3mbDaLHI1GNpvN6/U6nc7tdiujTyaTer2uGY7HIx2wTqdjt9sh
+gUAgFApBGIN9ICCVSu33e8jzDIfDIZfLzWYzeLFYtFqt0+k0nU6vViupZjIZ6VRk6EQiYTAYwuEw
+HLjdbqPR2G63RbIEJ4HQrJ2BqYiVSsVkMjHxYDCIx+OFQsFisQyHQ0q9Xm+5XD4NvAhM4HA4iC6X
+KxaLQaLRqNyMQGZRNptNMpn0+Xyclcslxf2y9s8D4/GYDNtKt/ZwsG63W61WpSavNp/Py+Xyer2G
+S+sLb39JuvUvLVz/G7RrZQ0KRCnoMyIlL3jb4RP8Gz7Bl4b7/RfepPBVgm9AugAAAABJRU5ErkJg
+gg==) </sup>;применение российских пассивных элементов стандартных (Bтоп = 3 балла), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAYCAIAAAB8wupbAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG4SURBVDhP7VI9y0FhGD6/weYP+AEssiLlYziz
+QUZRymAwKLMoOhYDMwZJCrGIkkIxSCGRkrD5/jiuxy0dy5t3eLf3qnOf677OfT3389zP4cRf4ifD
+/X5HvF6vp9MJkRQOD3C73RCfZUxFCoBTHYEUjl4E8LcNOJ/PiNVq1e129/t9cBSwLc3n82azeblc
+WNWzA9LJZAI+HA7tdnsymTQYDPSVg9Xr9er1eofDQZLL5bJYLFartdFoLBYLm822Wq08Hg9tj2u3
+27S2VqtdLpeDwUCpVCLFTpxOJ0g8Hler1ePxGBye15S63W6xWATBYiqVqtVq5XK5QqGw2WwymUyl
+UuF5fr/fo4AZ6vW6QqEwm8273Q5pNpuVyWTRaBS8VqtB3263RqNxOp0yA7ocDofRaCSXy/P5PCRB
+EBKJhE6nS6VSSCORiMlkKpVK4K8pEXw+H9brdDoajQZpr9fDZKRTJs7BGovFwuFwMBjE6dfrNU7v
+9/sDgQB0VED8uOlyuYymmPTxeGTriOJsNguFQul0mlJpE+DjX8I36cUjpWqKBHZo/ALo+1bhkSrS
+auCjwzf4N3yDvzaI4gPLzxFV7uBOcwAAAABJRU5ErkJggg==) </sup>;применение российских конденсаторов большой емкости (Bтоп = 4 балла), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGWSURBVDhP7VG7isJQEE3pP+QXrMU2oIIoGLCw
+kYCIoIWIXcAiTZqAgiCCVQqRtD4QG0HECIJEQbBTtPALRJD4SvYkN9xdhAW334EM55w7Z+5kLmP/
+HpZlIb9eLwCSQR3D8/m83W6Px4NIyPf7HQotogHKQPWYy98qENPpNBQKFYtFdAR1btB1PZfLaZrm
+FtimadZqNSjH4xE0nU5fr9dKpaIoCihzOp3q9fp8Puc4bjAYQBJFsVwu9/t9QRD2+30ymYS4WCwK
+hYJjQD+MC4QGw+EQIBKJjMdjgGg0erlccFU2m02lUrIsOwZ8iFarha4Ed7tdv9/f6XQmkwlRRqNR
+IBA4HA7AjuF8PkuS5PP5qtUqKNaQyWRYlt1sNqAYuFQqrVYrcsTQtfR6vXw+DwDzcrncbrfBYBBd
+Mf1ut4P+vSVsHbnZbGIMAPxDu90GSCQSs9kMAEGq0Z1Zr9c8z8disUajQc4Mw4jH4+FwWFVVUJSS
+t3IfyfJ+mj4fBTh7AyQcA5FQSgGxUeWnx7vh8/g3fBJ/NNj2F7s+g7O79ytMAAAAAElFTkSuQmCC
+) </sup>;
+применение российских сенсорных элементов (Bтоп = 10 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAXCAIAAABrvZPKAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIPSURBVDhP7ZJPq2lRGMb31NfwBSTlT4mvIJGB
+jDBBSZQBRUohJMmAEgZCMhGliBKlJCMhyYASIxH5d/Z99lly3G7nDu4d3brPYO/fetb7rvWudy2K
+/l4fnwLc7/fH40EcwPuQyb/dbpfLBe4r53q9wkEQGCYRmXoOaJosQZEfERbC9z2ILBqJRLxeL3Hy
++bxYLK5UKmDMMvtXq1WbzdbtdomFbywWc7lcy+USfD6fJRKJXq8Hj8djpVIJR6vVzudzOFS73Q6H
+w/F4nMfjTadTWHa7XaVS5XI5uVy+2Wzg1Ot1s9kMwLp+vx/g8/kymQyTv1qt8INMJlOz2QRwOJzR
+aARQq9XD4RCQzWaNRiMgFAql02lAIBBIpVIApn4cuFQqFYtFMOR0OmUyWb/fR9rxeIRTq9UcDgcA
+RXk8HoDb7UZRACZ/MBhIpVIWi9Xr9TCEhEIhl8udzWZkaLFYRCLRbrc7nU44FA6r0WhIsylcFbkC
+hUJhtVoBwWCwXC4XCgU+n4/TIS6ZTKJHk8kEs2ghalmv12Akfr0f9AZxADabvVgsADqdLpFIfE4+
+RW6H6Hn/6Ad6YzAYsMPhcIAVjUYFAgHaiUvdbrdw8JZeZWIJ8rTAaByFelqtVqfTQQSx8EXbG43G
+fr8Hk9Dv9FU/RELfE177kOGvYt4v0SsI8O78Jhn6af8/0P/8v9O/nU/TPwDXmhtQQjVL3QAAAABJ
+RU5ErkJggg==) </sup>;применение российских периферийных микросхем (Bтоп = 8 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAIAAADJt1n/AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHiSURBVDhP7ZK/y4FRFMevv8A/wK6sFiMWm8kk
+RZlIIqIMj2RUYrMgRVn8msgglJCSpEwsRLJZ/PZ+H8f78D71DnrX9zvcPvfcc+45597D7r/r9hDg
+er1eLhdirALzwTg7Ho/n85lMEJgsYMEIEBgCM1zz3H374S7aQqfTCWu9XrfZbHS63W4tFstkMgHz
+mWezWTAYLBaLYPJoNpt+v7/RaIAhj8ejUCjoqFqtymSyXq8HZpvNJhKJ5HI5rVabzWZhQh6dTpfJ
+ZIxGY7/fh2W9Xuv1etRIRTkcjk6nwwfv93tUAkomk6FQCOB2uwOBACAcDkejUcB4PNZoNMITmM3m
+drsNfr72dDrlOI4KGwwGcrl8OBzGYjHUBctqtTIYDAB6IKfTORqNAHwwklutVolEEo/HsYWQkzFW
+LpdpWygUpFIpPdJisVAqlYlEAszQxuFwAKVSKbQK6Ha7aAFdqVSqWq1GwXjRVqsFRkW4Op/Po4vX
+kKAxn88HsNvt1Hw6nUZ7j8OnqG1BDP+EHrxeL2LAMCGnWq12uVwmkwlVwIKBgajh94liu90OtVUq
+leVyiTOaivl8XiqV6K73KRLpVTZEVb17C99DHyESgxXeEA0A+YFFloezWD8yf6r/4A/1h+D7/Qv8
+uGgNZwuOCAAAAABJRU5ErkJggg==) ;применение российских микросхем памяти (Bтоп = 11 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHuSURBVDhP7VJL6+FhFPYR+AC+gZI9G1bKwsqC
+ZEcUJcpSNhYWIiU7JZeFDeW6YKHkllJyi4VQCBss3H//53Wmf9PMv2maWcxmnsXpOZfnPe8578vj
+OO71ej2fz8fjAQIXIBeWOAWBnzkPmu9ln5Zwv99hN5tNLBa7Xq/gyWTSbDb3ej1wVLL+QL1er9Vq
+IHTW4XDI5XLz+fyd5Ewmk0gkQmo8HqfT6Wg0qlAojscjUkyPkMvlkkqlgUAA7n6/VyqVaKLX61ut
+FiLT6dRgMJxOJ3CCVqtdLBYgvMvlMhwOwVCkUqlAIpGIWq0GCYfDXq8XBG0hoIbAarUKBoMguBGb
+H+x2u6VSKTqo2+1KJBJMiJk7nQ4iy+XSaDSiEziQSCRIxeanbYVCIT6fj6J3Aef3+wUCQTweJ7dY
+LIrF4slkcj6frVYrstlstlKpIMXmp4ObzaZQKNxut7vdzuPxVKtVmUyWyWSQws5tNluj0ej3+06n
+E8tyu90oY3p6FYJOp4P1+XxE8vm8RqN5Z74Gm3+9XuM+drvd4XCUy2VEZ7OZXC7Hm1ksFtwCEWwH
+behHgQCI0ArY/O12u1QqDQYD+CiCxRSFQmE0GoGjjkq/xLf/QyAxbZRAkV+AvR8EdLfPPj9Efrf/
+H+C//u/wb/Uc9wFZDq0o+ZNlVwAAAABJRU5ErkJggg==) </sup>;применение российских соединителей (в том числе разъемов, жгутов, кабелей) (Bтоп = 6 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAIAAAAf7rriAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHgSURBVDhP7VJLy6lRGN0lf8IPMMAPMFFKipKJ
+GChz14yQkcsvkJRiggmKDJhQLlGEFCMDIiNMUC65fLzf8j1ffW/n1KlzxmcN9l7r2c/az7Mv7PV6
+fXwBhPsCRZ7PJ3EKAhQhEGf8EFL58vF4YLxer8lkcrfbgW82G7fbnUqlwJHJMDWbzV6vB0I4nU61
+Wm08HpPMZDKMsfV6DZ5Op6vVqslkmkwmkCwWi/n9fo1GEw6HoQ+Hg8FgcLlcRqOxXq8jgiNotdrF
+YgF+uVwwlkolFHibO50OJvSjUChAisWiWq0G6ff7FosFBG2rVKrZbAYOs91uF4vF8/kc8t02kEgk
+BoMByHK5lMlk3W43l8uVy2Va1ev11DbB6/UGg0GQtxn3IRAIrFYrikDm83mhUBgIBN6JHLdarUQi
+UaVSAW+3261WKxqNYndIRobRaCSRSKbT6fl8jkQiOItcLo/H41hCtsPhQAHwUCgETifFXXy3Ddhs
+tuPxmM1mdTod5Ha7lUqltETgvyKcGJnH4/H5fHAWCgVo3JxSqXQ6nWazGf0jcr/fb7cbvTlxcuJT
+sEajgVcdDofQlLHf7xGhl+dX+x0/bZOTdiVQhP9DfwFDNkAVKA+cIiT/ZP6e/wn/zX8FjvsEz7r0
+DN8+OjcAAAAASUVORK5CYII=) </sup>;применение российских катушек индуктивности и трансформаторов
+(Bтоп = 3 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHpSURBVDhP7VI9q8FRHD7lM/gGFpNPwMJiMigs
+XsqEwUsKg1GysDDIYDIoZVBikCJClCiDlwwMLIpE3q77/P1ux73d7h3uHe5yn+H8n+d3fi/POefP
+Xh643W5Y7w+Q5JHr9crjfOWEIY80QJxHkHG5XECGw2GxWAShrfV63Wq1KIHhs1wue73e6XTiGZPJ
+pN/vgwDH41EqlRqNRnBqZ7fbbTYbCKyxbrfr8XjUarXBYCCr6XRaoVBotdpQKEQmM5mM1+sFATqd
+jsPhiEaj4BjGGo3G+XyGUKlU5ArT4AgEXebzOUg2m3W5XCCHw6HZbFar1VgsBgk7gn9gOp3mcjky
+r1Qq4/H4ZrPBzN1uhwi23G43SCQSCQaD5Hc2myEi1NfrdYlEotPpUAOJXmKx2GKx7Pd7SCCVSplM
+JpBarZZIJMxms1wuH4/HiAj12+12MBiIRKJkMglZqVRgT6/XYw4kulitVpwOJ4cE8Bz5fB7k6R8I
+h8PoDSKTyeggqCmVSo/NN+CC6ZmIY2XtdrtcLhcKhUAgsFgsENJoND6fD1bhczQaIYILxij+56A7
+DRDeH1fldDpRsFqtaBu/h9/vxyPhUJCU+hWe/gGk8iEEPofkZzB4w5EAPgfkfeSbYuDD/B/gv/53
++Nv6+/0VdWmkwcFJ5uAAAAAASUVORK5CYII=)
+из 29.32.30.349Электронный блок управления параллельным вождением (рулевым управлением
+с поддержанием заданного направления, разворотом, сохранением выполненной работы), применяемый в составе продукции отрасли специального машиностроениявыполнение на территории Российской Федерации требований
+(в совокупности 140 баллов):наличие у юридического лица - налогового резидента Российской Федерации,
+не находящегося под контролем иностранного государства, и (или) международной организации, и (или) иностранного юридического
+или физического лица, и (или) иностранной структуры без образования юридического лица<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGHSURBVDhPzZBPqwFhFIdn6WvI1kcYpdQoi5Gw
+sGQlvoDu0geYsvIByCSxUrazRZRSsrDSlCz9ibhj7jPONFm51+7+yus5Z37nvOc9ivtWj8dDTsdx
+BN4VBO4AOL0C6PspWEL6EXKKCe12O/mkBCkEv4ZIwlqtFo1GAbp4N5zP56+nPIvr2rZdLBbj8Xin
+05FMu91WVRXwCyaTSTgczmQyMC2bzSY18/k8EolMp1OSm81G0zSAIZX7/Q61Wq1cLgdcLpfr9Qqg
+QqEwGAyA2WyWSCQAr0D2ZRiGFEiIbrdbuVyWt67X62QyCdDdL2g0GtlsFmBKrEC/3+/1egCq1+uh
+UGg4HMKKbJO5GQAQ92Kx6Ha7AOJVx+PxcDicTidCf62sKBaLyXssy6pUKtvtdrlcjkajYEiE2dvS
+eDzO5/OpVMo0TR5drVZ1XS+VSul0mmIMTIFVWvsjvdHrDci7gRSjI+nEYLCc4g7aI2W1WklK4l+l
+7Pd7/j4o4Pd3N/LX+tkNH+nfFbjuD0sbxWsbwK0pAAAAAElFTkSuQmCC) </sup>:прав на конструкторскую и техническую документацию для проектирования, производства, модернизации и развития соответствующей продукции
+на территории Российской Федерации в соответствии со спецификацией
+на готовое изделие в следующем составе:спецификация на готовое изделие с указанием сборочных единиц и деталей;схема электрическая принципиальная;исключительных или неисключительных (но неотзывных) прав на программное обеспечение;
+подтверждение осуществления на территории Российской Федерации процессов проектирования схемотехники, конструкции модуля, топологии печатных плат, встроенного программного обеспечения, а также наличия соответствующих кадров и затрат на их содержание;выполнение на территории Российской Федерации технологической операции - поверхностный монтаж чип-компонентов на печатную плату
+выполнение на территории Российской Федерации дополнительных требований:установка программного обеспечения, если оно является неотъемлемой частью оборудования (20 баллов);сборка электронного оборудования (корпусирование) (20 баллов);функциональное тестирование готового изделия и проведение технического контроля соответствия требованиям технических условий готового изделия (20 баллов);выполнение дополнительных требований по применению компонентов:применение российских системообразующих микросхем (Bтоп = 14 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VK9isJAGNynyDP4AkJExMYuhY0I
+pjCBYGWvWKUT9A1srFKZNL6ACMFUioWdIihoFRBEYuHf3my+veW4Qs7+plhmZr/5dr9NGH+L1+tF
+6/P5JPIuoKoVwSoCYGjweDyoDUDypxPHMVZUMsopQP5ygE6nUyqVQNBCnHC73Xq9XqFQGAwGaQH3
+PC+Xy1mWdTweSVYqFRAcKAJRFM1mMxBd16/XK07PZrNo1u12HceBv91u6/W6DKgLoA0qQJIkyefz
+k8kkCALf9+Esl0vTNEFEgMZaLBZoD/d0OkGGYcgYazQa4MBms7FtG0TOcL/fU59Xq9XRaAS33W6v
+Vqtardbv9+G7rqtp2nQ6BWfYSIsFms3mfD5fr9eZTAYSs5XLZZDL5XI+nzEeOAMbj8eGYaDfcDgU
+Oc5brVaxWISDu5FDwMDiSsjsdrvD4UAuYb/f0zzph5GAlEMTwOXO99OpXeXIX0OBXClSkCQfEIGP
+8B/4Cz4McP4FzubCOyBWPiQAAAAASUVORK5CYII=) ;применение российских печатных плат (Bтоп = 7 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGbSURBVDhP7VK7isJAFJ2f8DcCiiRp/AHtRLsk
+iIWFFhY2toKFKKROa2UhiHZiYSfaKIjgExW0EPHVKIqv7BnvbhAXl22221PMnHvvOTd3ZsLMN7g/
+QOR2u1n8JwNWSCm0PAzb9Xo9n8/PtcvlgiSAcDKZtNttKr1+AVLLRuh2u9Fo1G63G4aBEC3Y4XBI
+JBKyLOfzeRKVSiWXywXdfr+fzWbI7HY7j8dDVVYul2u1WqfTcTqdm81mtVo5HI7FYoGW8XicROPx
+OJVKEWfH45FYOp0G7/V6MCCsVCqZTIZKuVyu3++D8JGwTafTQCCQzWYfVTMcDnu93mKxuF6vEdbr
+dZhBlsslVm4YDAaRSIQx1mq1EGJCSZJ8Ph+urlqt2my2UCikKAqm5QbrWoLBYKFQ2G63fr8fYTKZ
+RAbHRbtmszkajZCEmL8DttPpFIvF5vM5PiIIAmq4e1VVeacvUGuGk7ndbgzQaDSooOu6KIqapg2H
+Q4Q4KKSk/nw4evNnYuF7ho+EDSt6YH0hVAIeYo63P987/Bt+g782mOYH38fpp3zGW7cAAAAASUVO
+RK5CYII=) </sup>;применение российских вторичных преобразователей питания (Bтоп = 6 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAUCAIAAAALACogAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF/SURBVDhP5ZK9isJQEIXzOr6CjRGiTSrBwijY
+WKSyEVMGoyAoBIMIgmBtFbCwshG7gFE0T2BsNxDERvxZs+dm5LIou/sAe8DLN5M5k5lrhOhnPR4P
+Oj9jEf9mgKiamIAZkL3H4i0phFhhFLmu6/s+AB6Birh4P67lclmpVCRJOhwOCNkbttutoiipVGq/
+3yNEi2q1inAwGCDc7XY4p9Op53nMcL1ebds+nU7D4TCfzyNlWVaxWASUSqXFYgEYjUblchmVzMAH
+Xa/Xk8kE0G63MQNA1/XVagVwHCeZTPb7ffBzB5RiSiwHDsMwnU6rqkohaTab9Xo9gIAt4dlsNjAk
+EglautPpiKJYr9fBrVYrk8l0u93z+cwM+HHhAU7TNLEGIJfLjcdjzIw7pQXQWgiC4CPWfD5vNpvI
+NhqNQqEAMAwDBgDp+ccdj0dN02RZxqsvlwtSaFmr1bLZLF0rupKIXz8NevBdLxl2S7fbDSOiMW/z
+nomLmf74+N71Dw1R9AUr3ll6ozhRGgAAAABJRU5ErkJggg==) </sup>;применение российских микросхем и модулей связи и навигации
+(Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGFSURBVDhP7ZItqwJBGIXnP9ithgWxbrGIGMVs
+WRBkLbqIgs2iwSJ4Yc26Bg0qfiGCimUtYrLabIJoE/zauWd9L6Nc4e4fuCcMzztzzsw7O8v4n7Is
+i0YBDgGIrALY4/Gg4hMgAcfjkdg+gRzvgAWC6/WKsVKpJJNJAAxsMpmEw+FgMLhcLp8ens/nQ6FQ
+LBbb7/cod7udoiiFQgFsB0qlEqjT6ciyDOh2u4FAAGAYRi6XA8xms8FgUC6Xwff7/efSq9WqVqsB
+xuOxSCLT7/e/nopGo4fDAfMMoWaz6XK5RqORHeU8nU77fL56vQ4eDoc4JxKJeL3e9XqNGXa73bbb
+raZpbrebmoY1k8l4PB50b2/A+WazaTQaAJhf7xCPx0+nU6vVUlUVZbvd9vv9gPP5TB8NvWBk8/nc
+NE1d14vFIurpdCpJ0mKxqFarOId8CIjHYdlsNpVK4Vpij16vl0gkKA+JNyG9WqI9KEOCldzvGXZ5
+il6UFnAzmvl0Q84/3y/9B5zF+TcEbIUtK3nojAAAAABJRU5ErkJggg==) ;применение российских интерфейсных микросхем и преобразователей
+(Bтоп = 8 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAVCAIAAAAW+SPgAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VExq4JQGHUP+iXSf3CopaA2IWir
+DFobAqEpghoiJJwkRTLHao0kaEgCqalZiAhqElqe6ct39Io8eATv7e8M1/Ode77Ddz+p4D1erxc5
+ExK6fd93XdfzvER9Pp9QoJPyMwI4RT4EuADiIgLacEqSVCwWZVkOs03TrNfrk8kkMgToFwSh0Wjs
+93uU8/m8VCqdz2dw6nK5DIfD3W6Xy+UURYHU6XRqtdp2u2VZ9na7Xa9XTdMYhrFtm/qIAJMoiqqq
+giBJ13WQarVqWRYIsFwux+NxvBOkchxH+Gq1ymQyaFgsFkQBDocDytD9eDy63W4qlWq32ygxd6vV
+SqfT6/Ua5Ww2azabPM87jkMlS9hsNuVyGaTX6xmGgXFpmkYk3ofU+/2OqzCbrAnDYDIQPHc0GoFU
+KpXpdApCgPVTx+MRz8rn8/1+n6in06lQKGSz2cFgQExA/HciQzjrO/L9f4VuUuM6IcSaKElDnP1L
+/Lt/4i/uIPgCazFLcJVt9F4AAAAASUVORK5CYII=) ;применение российских полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGuSURBVDhP7ZI/66lxGMa/Xod3YZBMYjaxKYPN
+QPKnSJks9ItFshCDQUkMZGKwkBKF2MQiKQaD/8/5PL5OP+cM55wXcK7h2/Vc9//7foTyRzyfT/k+
+Ho/7/Q5RA/i4XC63202aATapSKsUJQS2N/2Z79Pjer3yoieTSavVutvt1AqLxSIajVarVWnj7fV6
+4XC42WzCQSQSwQFCvNhut/F4vFwuWyyWQqGA2ul0zGZzsVi02Wzj8Xg0Gul0OqfTmclksIrT6UQh
+WD6fl2nI7fP5IF8vVCqVYDC4Wq0MBsN0On1vaT6fx2Ix2f1kMtFqtYPBIJ1OH49Hui+VSugOh4Pi
+agBFXC6XRqNJpVJqtKIkEgkhBH3Ch8MhveVyuUAgcDgcBFnP5zMG0phMJumRzWb7/b5er6/Vaiit
+VisUCq3Xa/j34Wazmd/vhzAAY0DYm91ufxnf4AZiuVx6PB7GcrvdTIJKbqPR6PV6abrb7aJwRCAn
+FPv9vt1uNxqNzWbDt7wUO6nX6+wE/nlZ8N0SkP/Cp4dUuKY8KBAwPICsKG3w35SXs4pfKvwL/gf8
+HYryA1YLeIUnz/t1AAAAAElFTkSuQmCC) </sup>;
+применение российских силовых полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGXSURBVDhP7ZI9y4FxFMbvL+Ar2HwHpeRjmAwG
+g/JIJJlkUWIyWNxlMZgYiDKhhMGChCh5yWIk8vb8bke6LU/szzWcruucc/3/5/+i3L/EX4bb7Ua8
+Xq+nB87nM1IzUCB7uVykA7zkKyNAKvoUfURaRQr6/b7f7/d4PPl8HvkcqdlstlotiHgWi0WpVNrt
+dvBardZoNFRVjUQiSM2ANRgMms3mbDaLHI1GNpvN6/U6nc7tdiujTyaTer2uGY7HIx2wTqdjt9sh
+gUAgFApBGIN9ICCVSu33e8jzDIfDIZfLzWYzeLFYtFqt0+k0nU6vViupZjIZ6VRk6EQiYTAYwuEw
+HLjdbqPR2G63RbIEJ4HQrJ2BqYiVSsVkMjHxYDCIx+OFQsFisQyHQ0q9Xm+5XD4NvAhM4HA4iC6X
+KxaLQaLRqNyMQGZRNptNMpn0+Xyclcslxf2y9s8D4/GYDNtKt/ZwsG63W61WpSavNp/Py+Xyer2G
+S+sLb39JuvUvLVz/G7RrZQ0KRCnoMyIlL3jb4RP8Gz7Bl4b7/RfepPBVgm9AugAAAABJRU5ErkJg
+gg==) ;применение российских пассивных элементов стандартных (Bтоп = 3 балла), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAYCAIAAAB8wupbAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG4SURBVDhP7VI9y0FhGD6/weYP+AEssiLlYziz
+QUZRymAwKLMoOhYDMwZJCrGIkkIxSCGRkrD5/jiuxy0dy5t3eLf3qnOf677OfT3389zP4cRf4ifD
+/X5HvF6vp9MJkRQOD3C73RCfZUxFCoBTHYEUjl4E8LcNOJ/PiNVq1e129/t9cBSwLc3n82azeblc
+WNWzA9LJZAI+HA7tdnsymTQYDPSVg9Xr9er1eofDQZLL5bJYLFartdFoLBYLm822Wq08Hg9tj2u3
+27S2VqtdLpeDwUCpVCLFTpxOJ0g8Hler1ePxGBye15S63W6xWATBYiqVqtVq5XK5QqGw2WwymUyl
+UuF5fr/fo4AZ6vW6QqEwm8273Q5pNpuVyWTRaBS8VqtB3263RqNxOp0yA7ocDofRaCSXy/P5PCRB
+EBKJhE6nS6VSSCORiMlkKpVK4K8pEXw+H9brdDoajQZpr9fDZKRTJs7BGovFwuFwMBjE6dfrNU7v
+9/sDgQB0VED8uOlyuYymmPTxeGTriOJsNguFQul0mlJpE+DjX8I36cUjpWqKBHZo/ALo+1bhkSrS
+auCjwzf4N3yDvzaI4gPLzxFV7uBOcwAAAABJRU5ErkJggg==) </sup>;применение российских конденсаторов большой емкости (Bтоп = 4 балла), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGWSURBVDhP7VG7isJQEE3pP+QXrMU2oIIoGLCw
+kYCIoIWIXcAiTZqAgiCCVQqRtD4QG0HECIJEQbBTtPALRJD4SvYkN9xdhAW334EM55w7Z+5kLmP/
+HpZlIb9eLwCSQR3D8/m83W6Px4NIyPf7HQotogHKQPWYy98qENPpNBQKFYtFdAR1btB1PZfLaZrm
+FtimadZqNSjH4xE0nU5fr9dKpaIoCihzOp3q9fp8Puc4bjAYQBJFsVwu9/t9QRD2+30ymYS4WCwK
+hYJjQD+MC4QGw+EQIBKJjMdjgGg0erlccFU2m02lUrIsOwZ8iFarha4Ed7tdv9/f6XQmkwlRRqNR
+IBA4HA7AjuF8PkuS5PP5qtUqKNaQyWRYlt1sNqAYuFQqrVYrcsTQtfR6vXw+DwDzcrncbrfBYBBd
+Mf1ut4P+vSVsHbnZbGIMAPxDu90GSCQSs9kMAEGq0Z1Zr9c8z8disUajQc4Mw4jH4+FwWFVVUJSS
+t3IfyfJ+mj4fBTh7AyQcA5FQSgGxUeWnx7vh8/g3fBJ/NNj2F7s+g7O79ytMAAAAAElFTkSuQmCC
+) </sup>;применение российских сенсорных элементов (Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAXCAIAAABrvZPKAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIPSURBVDhP7ZJPq2lRGMb31NfwBSTlT4mvIJGB
+jDBBSZQBRUohJMmAEgZCMhGliBKlJCMhyYASIxH5d/Z99lly3G7nDu4d3brPYO/fetb7rvWudy2K
+/l4fnwLc7/fH40EcwPuQyb/dbpfLBe4r53q9wkEQGCYRmXoOaJosQZEfERbC9z2ILBqJRLxeL3Hy
++bxYLK5UKmDMMvtXq1WbzdbtdomFbywWc7lcy+USfD6fJRKJXq8Hj8djpVIJR6vVzudzOFS73Q6H
+w/F4nMfjTadTWHa7XaVS5XI5uVy+2Wzg1Ot1s9kMwLp+vx/g8/kymQyTv1qt8INMJlOz2QRwOJzR
+aARQq9XD4RCQzWaNRiMgFAql02lAIBBIpVIApn4cuFQqFYtFMOR0OmUyWb/fR9rxeIRTq9UcDgcA
+RXk8HoDb7UZRACZ/MBhIpVIWi9Xr9TCEhEIhl8udzWZkaLFYRCLRbrc7nU44FA6r0WhIsylcFbkC
+hUJhtVoBwWCwXC4XCgU+n4/TIS6ZTKJHk8kEs2ghalmv12Akfr0f9AZxADabvVgsADqdLpFIfE4+
+RW6H6Hn/6Ad6YzAYsMPhcIAVjUYFAgHaiUvdbrdw8JZeZWIJ8rTAaByFelqtVqfTQQSx8EXbG43G
+fr8Hk9Dv9FU/RELfE177kOGvYt4v0SsI8O78Jhn6af8/0P/8v9O/nU/TPwDXmhtQQjVL3QAAAABJ
+RU5ErkJggg==) ;применение российских периферийных микросхем (Bтоп = 8 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAIAAADJt1n/AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHiSURBVDhP7ZK/y4FRFMevv8A/wK6sFiMWm8kk
+RZlIIqIMj2RUYrMgRVn8msgglJCSpEwsRLJZ/PZ+H8f78D71DnrX9zvcPvfcc+45597D7r/r9hDg
+er1eLhdirALzwTg7Ho/n85lMEJgsYMEIEBgCM1zz3H374S7aQqfTCWu9XrfZbHS63W4tFstkMgHz
+mWezWTAYLBaLYPJoNpt+v7/RaIAhj8ejUCjoqFqtymSyXq8HZpvNJhKJ5HI5rVabzWZhQh6dTpfJ
+ZIxGY7/fh2W9Xuv1etRIRTkcjk6nwwfv93tUAkomk6FQCOB2uwOBACAcDkejUcB4PNZoNMITmM3m
+drsNfr72dDrlOI4KGwwGcrl8OBzGYjHUBctqtTIYDAB6IKfTORqNAHwwklutVolEEo/HsYWQkzFW
+LpdpWygUpFIpPdJisVAqlYlEAszQxuFwAKVSKbQK6Ha7aAFdqVSqWq1GwXjRVqsFRkW4Op/Po4vX
+kKAxn88HsNvt1Hw6nUZ7j8OnqG1BDP+EHrxeL2LAMCGnWq12uVwmkwlVwIKBgajh94liu90OtVUq
+leVyiTOaivl8XiqV6K73KRLpVTZEVb17C99DHyESgxXeEA0A+YFFloezWD8yf6r/4A/1h+D7/Qv8
+uGgNZwuOCAAAAABJRU5ErkJggg==) ;применение российских микросхем памяти (Bтоп = 11 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHuSURBVDhP7VJL6+FhFPYR+AC+gZI9G1bKwsqC
+ZEcUJcpSNhYWIiU7JZeFDeW6YKHkllJyi4VQCBss3H//53Wmf9PMv2maWcxmnsXpOZfnPe8578vj
+OO71ej2fz8fjAQIXIBeWOAWBnzkPmu9ln5Zwv99hN5tNLBa7Xq/gyWTSbDb3ej1wVLL+QL1er9Vq
+IHTW4XDI5XLz+fyd5Ewmk0gkQmo8HqfT6Wg0qlAojscjUkyPkMvlkkqlgUAA7n6/VyqVaKLX61ut
+FiLT6dRgMJxOJ3CCVqtdLBYgvMvlMhwOwVCkUqlAIpGIWq0GCYfDXq8XBG0hoIbAarUKBoMguBGb
+H+x2u6VSKTqo2+1KJBJMiJk7nQ4iy+XSaDSiEziQSCRIxeanbYVCIT6fj6J3Aef3+wUCQTweJ7dY
+LIrF4slkcj6frVYrstlstlKpIMXmp4ObzaZQKNxut7vdzuPxVKtVmUyWyWSQws5tNluj0ej3+06n
+E8tyu90oY3p6FYJOp4P1+XxE8vm8RqN5Z74Gm3+9XuM+drvd4XCUy2VEZ7OZXC7Hm1ksFtwCEWwH
+behHgQCI0ArY/O12u1QqDQYD+CiCxRSFQmE0GoGjjkq/xLf/QyAxbZRAkV+AvR8EdLfPPj9Efrf/
+H+C//u/wb/Uc9wFZDq0o+ZNlVwAAAABJRU5ErkJggg==) </sup>;применение российских соединителей (в том числе разъемов, жгутов, кабелей) (Bтоп = 6 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAIAAAAf7rriAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHgSURBVDhP7VJLy6lRGN0lf8IPMMAPMFFKipKJ
+GChz14yQkcsvkJRiggmKDJhQLlGEFCMDIiNMUC65fLzf8j1ffW/n1KlzxmcN9l7r2c/az7Mv7PV6
+fXwBhPsCRZ7PJ3EKAhQhEGf8EFL58vF4YLxer8lkcrfbgW82G7fbnUqlwJHJMDWbzV6vB0I4nU61
+Wm08HpPMZDKMsfV6DZ5Op6vVqslkmkwmkCwWi/n9fo1GEw6HoQ+Hg8FgcLlcRqOxXq8jgiNotdrF
+YgF+uVwwlkolFHibO50OJvSjUChAisWiWq0G6ff7FosFBG2rVKrZbAYOs91uF4vF8/kc8t02kEgk
+BoMByHK5lMlk3W43l8uVy2Va1ev11DbB6/UGg0GQtxn3IRAIrFYrikDm83mhUBgIBN6JHLdarUQi
+UaVSAW+3261WKxqNYndIRobRaCSRSKbT6fl8jkQiOItcLo/H41hCtsPhQAHwUCgETifFXXy3Ddhs
+tuPxmM1mdTod5Ha7lUqltETgvyKcGJnH4/H5fHAWCgVo3JxSqXQ6nWazGf0jcr/fb7cbvTlxcuJT
+sEajgVcdDofQlLHf7xGhl+dX+x0/bZOTdiVQhP9DfwFDNkAVKA+cIiT/ZP6e/wn/zX8FjvsEz7r0
+DN8+OjcAAAAASUVORK5CYII=) </sup>;применение российских катушек индуктивности и трансформаторов
+(Bтоп = 3 балла), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHpSURBVDhP7VI9q8FRHD7lM/gGFpNPwMJiMigs
+XsqEwUsKg1GysDDIYDIoZVBikCJClCiDlwwMLIpE3q77/P1ux73d7h3uHe5yn+H8n+d3fi/POefP
+Xh643W5Y7w+Q5JHr9crjfOWEIY80QJxHkHG5XECGw2GxWAShrfV63Wq1KIHhs1wue73e6XTiGZPJ
+pN/vgwDH41EqlRqNRnBqZ7fbbTYbCKyxbrfr8XjUarXBYCCr6XRaoVBotdpQKEQmM5mM1+sFATqd
+jsPhiEaj4BjGGo3G+XyGUKlU5ArT4AgEXebzOUg2m3W5XCCHw6HZbFar1VgsBgk7gn9gOp3mcjky
+r1Qq4/H4ZrPBzN1uhwi23G43SCQSCQaD5Hc2myEi1NfrdYlEotPpUAOJXmKx2GKx7Pd7SCCVSplM
+JpBarZZIJMxms1wuH4/HiAj12+12MBiIRKJkMglZqVRgT6/XYw4kulitVpwOJ4cE8Bz5fB7k6R8I
+h8PoDSKTyeggqCmVSo/NN+CC6ZmIY2XtdrtcLhcKhUAgsFgsENJoND6fD1bhczQaIYILxij+56A7
+DRDeH1fldDpRsFqtaBu/h9/vxyPhUJCU+hWe/gGk8iEEPofkZzB4w5EAPgfkfeSbYuDD/B/gv/53
++Nv6+/0VdWmkwcFJ5uAAAAAASUVORK5CYII=) </sup>
+из 29.32.30.374Комбинированная антенна (приемо-передающая антенна, работающая одновременно
+в нескольких
+частотных диапазонах), применяемая в составе продукции отрасли специального машиностроениявыполнение на территории Российской Федерации требований
+(в совокупности 140 баллов):наличие у юридического лица - налогового резидента Российской Федерации,
+не находящегося под контролем иностранного государства, и (или) международной организации, и (или) иностранного юридического или физического лица, и (или) иностранной структуры без образования юридического лица ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGHSURBVDhPzZBPqwFhFIdn6WvI1kcYpdQoi5Gw
+sGQlvoDu0geYsvIByCSxUrazRZRSsrDSlCz9ibhj7jPONFm51+7+yus5Z37nvOc9ivtWj8dDTsdx
+BN4VBO4AOL0C6PspWEL6EXKKCe12O/mkBCkEv4ZIwlqtFo1GAbp4N5zP56+nPIvr2rZdLBbj8Xin
+05FMu91WVRXwCyaTSTgczmQyMC2bzSY18/k8EolMp1OSm81G0zSAIZX7/Q61Wq1cLgdcLpfr9Qqg
+QqEwGAyA2WyWSCQAr0D2ZRiGFEiIbrdbuVyWt67X62QyCdDdL2g0GtlsFmBKrEC/3+/1egCq1+uh
+UGg4HMKKbJO5GQAQ92Kx6Ha7AOJVx+PxcDicTidCf62sKBaLyXssy6pUKtvtdrlcjkajYEiE2dvS
+eDzO5/OpVMo0TR5drVZ1XS+VSul0mmIMTIFVWvsjvdHrDci7gRSjI+nEYLCc4g7aI2W1WklK4l+l
+7Pd7/j4o4Pd3N/LX+tkNH+nfFbjuD0sbxWsbwK0pAAAAAElFTkSuQmCC) :прав на конструкторскую и техническую документацию для проектирования, производства, модернизации и развития соответствующей продукции
+на территории Российской Федерации в соответствии со спецификацией
+на готовое изделие в следующем составе:спецификация на готовое изделие с указанием сборочных единиц и деталей;схема электрическая принципиальная;исключительных или неисключительных (но неотзывных) прав на программное обеспечение;подтверждение осуществления на территории Российской Федерации процессов проектирования схемотехники, конструкции модуля, топологии печатных плат, встроенного программного обеспечения, а также наличия соответствующих кадров и затрат на их содержание;выполнение на территории Российской Федерации технологической операции - поверхностный монтаж чип-компонентов на печатную плату
+выполнение на территории Российской Федерации дополнительных требований:установка программного обеспечения, если оно является неотъемлемой частью оборудования (20 баллов);сборка электронного оборудования (корпусирование) (20 баллов);функциональное тестирование готового изделия и проведение технического контроля соответствия требованиям технических условий готового изделия (20 баллов);выполнение дополнительных требований по применению компонентов:применение российских системообразующих микросхем (Bтоп = 14 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VK9isJAGNynyDP4AkJExMYuhY0I
+pjCBYGWvWKUT9A1srFKZNL6ACMFUioWdIihoFRBEYuHf3my+veW4Qs7+plhmZr/5dr9NGH+L1+tF
+6/P5JPIuoKoVwSoCYGjweDyoDUDypxPHMVZUMsopQP5ygE6nUyqVQNBCnHC73Xq9XqFQGAwGaQH3
+PC+Xy1mWdTweSVYqFRAcKAJRFM1mMxBd16/XK07PZrNo1u12HceBv91u6/W6DKgLoA0qQJIkyefz
+k8kkCALf9+Esl0vTNEFEgMZaLBZoD/d0OkGGYcgYazQa4MBms7FtG0TOcL/fU59Xq9XRaAS33W6v
+Vqtardbv9+G7rqtp2nQ6BWfYSIsFms3mfD5fr9eZTAYSs5XLZZDL5XI+nzEeOAMbj8eGYaDfcDgU
+Oc5brVaxWISDu5FDwMDiSsjsdrvD4UAuYb/f0zzph5GAlEMTwOXO99OpXeXIX0OBXClSkCQfEIGP
+8B/4Cz4McP4FzubCOyBWPiQAAAAASUVORK5CYII=) ;применение российских печатных плат (Bтоп = 7 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGbSURBVDhP7VK7isJAFJ2f8DcCiiRp/AHtRLsk
+iIWFFhY2toKFKKROa2UhiHZiYSfaKIjgExW0EPHVKIqv7BnvbhAXl22221PMnHvvOTd3ZsLMN7g/
+QOR2u1n8JwNWSCm0PAzb9Xo9n8/PtcvlgiSAcDKZtNttKr1+AVLLRuh2u9Fo1G63G4aBEC3Y4XBI
+JBKyLOfzeRKVSiWXywXdfr+fzWbI7HY7j8dDVVYul2u1WqfTcTqdm81mtVo5HI7FYoGW8XicROPx
+OJVKEWfH45FYOp0G7/V6MCCsVCqZTIZKuVyu3++D8JGwTafTQCCQzWYfVTMcDnu93mKxuF6vEdbr
+dZhBlsslVm4YDAaRSIQx1mq1EGJCSZJ8Ph+urlqt2my2UCikKAqm5QbrWoLBYKFQ2G63fr8fYTKZ
+RAbHRbtmszkajZCEmL8DttPpFIvF5vM5PiIIAmq4e1VVeacvUGuGk7ndbgzQaDSooOu6KIqapg2H
+Q4Q4KKSk/nw4evNnYuF7ho+EDSt6YH0hVAIeYo63P987/Bt+g782mOYH38fpp3zGW7cAAAAASUVO
+RK5CYII=) </sup>;применение российских вторичных преобразователей питания (Bтоп = 6 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAUCAIAAAALACogAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF/SURBVDhP5ZK9isJQEIXzOr6CjRGiTSrBwijY
+WKSyEVMGoyAoBIMIgmBtFbCwshG7gFE0T2BsNxDERvxZs+dm5LIou/sAe8DLN5M5k5lrhOhnPR4P
+Oj9jEf9mgKiamIAZkL3H4i0phFhhFLmu6/s+AB6Birh4P67lclmpVCRJOhwOCNkbttutoiipVGq/
+3yNEi2q1inAwGCDc7XY4p9Op53nMcL1ebds+nU7D4TCfzyNlWVaxWASUSqXFYgEYjUblchmVzMAH
+Xa/Xk8kE0G63MQNA1/XVagVwHCeZTPb7ffBzB5RiSiwHDsMwnU6rqkohaTab9Xo9gIAt4dlsNjAk
+EglautPpiKJYr9fBrVYrk8l0u93z+cwM+HHhAU7TNLEGIJfLjcdjzIw7pQXQWgiC4CPWfD5vNpvI
+NhqNQqEAMAwDBgDp+ccdj0dN02RZxqsvlwtSaFmr1bLZLF0rupKIXz8NevBdLxl2S7fbDSOiMW/z
+nomLmf74+N71Dw1R9AUr3ll6ozhRGgAAAABJRU5ErkJggg==) </sup>;применение российских микросхем и модулей связи и навигации
+(Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGFSURBVDhP7ZItqwJBGIXnP9ithgWxbrGIGMVs
+WRBkLbqIgs2iwSJ4Yc26Bg0qfiGCimUtYrLabIJoE/zauWd9L6Nc4e4fuCcMzztzzsw7O8v4n7Is
+i0YBDgGIrALY4/Gg4hMgAcfjkdg+gRzvgAWC6/WKsVKpJJNJAAxsMpmEw+FgMLhcLp8ens/nQ6FQ
+LBbb7/cod7udoiiFQgFsB0qlEqjT6ciyDOh2u4FAAGAYRi6XA8xms8FgUC6Xwff7/efSq9WqVqsB
+xuOxSCLT7/e/nopGo4fDAfMMoWaz6XK5RqORHeU8nU77fL56vQ4eDoc4JxKJeL3e9XqNGXa73bbb
+raZpbrebmoY1k8l4PB50b2/A+WazaTQaAJhf7xCPx0+nU6vVUlUVZbvd9vv9gPP5TB8NvWBk8/nc
+NE1d14vFIurpdCpJ0mKxqFarOId8CIjHYdlsNpVK4Vpij16vl0gkKA+JNyG9WqI9KEOCldzvGXZ5
+il6UFnAzmvl0Q84/3y/9B5zF+TcEbIUtK3nojAAAAABJRU5ErkJggg==) ;применение российских интерфейсных микросхем и преобразователей
+(Bтоп = 8 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAVCAIAAAAW+SPgAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VExq4JQGHUP+iXSf3CopaA2IWir
+DFobAqEpghoiJJwkRTLHao0kaEgCqalZiAhqElqe6ct39Io8eATv7e8M1/Ode77Ddz+p4D1erxc5
+ExK6fd93XdfzvER9Pp9QoJPyMwI4RT4EuADiIgLacEqSVCwWZVkOs03TrNfrk8kkMgToFwSh0Wjs
+93uU8/m8VCqdz2dw6nK5DIfD3W6Xy+UURYHU6XRqtdp2u2VZ9na7Xa9XTdMYhrFtm/qIAJMoiqqq
+giBJ13WQarVqWRYIsFwux+NxvBOkchxH+Gq1ymQyaFgsFkQBDocDytD9eDy63W4qlWq32ygxd6vV
+SqfT6/Ua5Ww2azabPM87jkMlS9hsNuVyGaTX6xmGgXFpmkYk3ofU+/2OqzCbrAnDYDIQPHc0GoFU
+KpXpdApCgPVTx+MRz8rn8/1+n6in06lQKGSz2cFgQExA/HciQzjrO/L9f4VuUuM6IcSaKElDnP1L
+/Lt/4i/uIPgCazFLcJVt9F4AAAAASUVORK5CYII=) ;применение российских полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGuSURBVDhP7ZI/66lxGMa/Xod3YZBMYjaxKYPN
+QPKnSJks9ItFshCDQUkMZGKwkBKF2MQiKQaD/8/5PL5OP+cM55wXcK7h2/Vc9//7foTyRzyfT/k+
+Ho/7/Q5RA/i4XC63202aATapSKsUJQS2N/2Z79Pjer3yoieTSavVutvt1AqLxSIajVarVWnj7fV6
+4XC42WzCQSQSwQFCvNhut/F4vFwuWyyWQqGA2ul0zGZzsVi02Wzj8Xg0Gul0OqfTmclksIrT6UQh
+WD6fl2nI7fP5IF8vVCqVYDC4Wq0MBsN0On1vaT6fx2Ix2f1kMtFqtYPBIJ1OH49Hui+VSugOh4Pi
+agBFXC6XRqNJpVJqtKIkEgkhBH3Ch8MhveVyuUAgcDgcBFnP5zMG0phMJumRzWb7/b5er6/Vaiit
+VisUCq3Xa/j34Wazmd/vhzAAY0DYm91ufxnf4AZiuVx6PB7GcrvdTIJKbqPR6PV6abrb7aJwRCAn
+FPv9vt1uNxqNzWbDt7wUO6nX6+wE/nlZ8N0SkP/Cp4dUuKY8KBAwPICsKG3w35SXs4pfKvwL/gf8
+HYryA1YLeIUnz/t1AAAAAElFTkSuQmCC) </sup>;применение российских силовых полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGXSURBVDhP7ZI9y4FxFMbvL+Ar2HwHpeRjmAwG
+g/JIJJlkUWIyWNxlMZgYiDKhhMGChCh5yWIk8vb8bke6LU/szzWcruucc/3/5/+i3L/EX4bb7Ua8
+Xq+nB87nM1IzUCB7uVykA7zkKyNAKvoUfURaRQr6/b7f7/d4PPl8HvkcqdlstlotiHgWi0WpVNrt
+dvBardZoNFRVjUQiSM2ANRgMms3mbDaLHI1GNpvN6/U6nc7tdiujTyaTer2uGY7HIx2wTqdjt9sh
+gUAgFApBGIN9ICCVSu33e8jzDIfDIZfLzWYzeLFYtFqt0+k0nU6vViupZjIZ6VRk6EQiYTAYwuEw
+HLjdbqPR2G63RbIEJ4HQrJ2BqYiVSsVkMjHxYDCIx+OFQsFisQyHQ0q9Xm+5XD4NvAhM4HA4iC6X
+KxaLQaLRqNyMQGZRNptNMpn0+Xyclcslxf2y9s8D4/GYDNtKt/ZwsG63W61WpSavNp/Py+Xyer2G
+S+sLb39JuvUvLVz/G7RrZQ0KRCnoMyIlL3jb4RP8Gz7Bl4b7/RfepPBVgm9AugAAAABJRU5ErkJg
+gg==) </sup>;применение российских пассивных элементов стандартных (Bтоп = 3 балла), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAYCAIAAAB8wupbAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG4SURBVDhP7VI9y0FhGD6/weYP+AEssiLlYziz
+QUZRymAwKLMoOhYDMwZJCrGIkkIxSCGRkrD5/jiuxy0dy5t3eLf3qnOf677OfT3389zP4cRf4ifD
+/X5HvF6vp9MJkRQOD3C73RCfZUxFCoBTHYEUjl4E8LcNOJ/PiNVq1e129/t9cBSwLc3n82azeblc
+WNWzA9LJZAI+HA7tdnsymTQYDPSVg9Xr9er1eofDQZLL5bJYLFartdFoLBYLm822Wq08Hg9tj2u3
+27S2VqtdLpeDwUCpVCLFTpxOJ0g8Hler1ePxGBye15S63W6xWATBYiqVqtVq5XK5QqGw2WwymUyl
+UuF5fr/fo4AZ6vW6QqEwm8273Q5pNpuVyWTRaBS8VqtB3263RqNxOp0yA7ocDofRaCSXy/P5PCRB
+EBKJhE6nS6VSSCORiMlkKpVK4K8pEXw+H9brdDoajQZpr9fDZKRTJs7BGovFwuFwMBjE6dfrNU7v
+9/sDgQB0VED8uOlyuYymmPTxeGTriOJsNguFQul0mlJpE+DjX8I36cUjpWqKBHZo/ALo+1bhkSrS
+auCjwzf4N3yDvzaI4gPLzxFV7uBOcwAAAABJRU5ErkJggg==) </sup>;применение российских конденсаторов большой емкости (Bтоп = 4 балла), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGWSURBVDhP7VG7isJQEE3pP+QXrMU2oIIoGLCw
+kYCIoIWIXcAiTZqAgiCCVQqRtD4QG0HECIJEQbBTtPALRJD4SvYkN9xdhAW334EM55w7Z+5kLmP/
+HpZlIb9eLwCSQR3D8/m83W6Px4NIyPf7HQotogHKQPWYy98qENPpNBQKFYtFdAR1btB1PZfLaZrm
+FtimadZqNSjH4xE0nU5fr9dKpaIoCihzOp3q9fp8Puc4bjAYQBJFsVwu9/t9QRD2+30ymYS4WCwK
+hYJjQD+MC4QGw+EQIBKJjMdjgGg0erlccFU2m02lUrIsOwZ8iFarha4Ed7tdv9/f6XQmkwlRRqNR
+IBA4HA7AjuF8PkuS5PP5qtUqKNaQyWRYlt1sNqAYuFQqrVYrcsTQtfR6vXw+DwDzcrncbrfBYBBd
+Mf1ut4P+vSVsHbnZbGIMAPxDu90GSCQSs9kMAEGq0Z1Zr9c8z8disUajQc4Mw4jH4+FwWFVVUJSS
+t3IfyfJ+mj4fBTh7AyQcA5FQSgGxUeWnx7vh8/g3fBJ/NNj2F7s+g7O79ytMAAAAAElFTkSuQmCC
+) </sup>;применение российских сенсорных элементов (Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAXCAIAAABrvZPKAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIPSURBVDhP7ZJPq2lRGMb31NfwBSTlT4mvIJGB
+jDBBSZQBRUohJMmAEgZCMhGliBKlJCMhyYASIxH5d/Z99lly3G7nDu4d3brPYO/fetb7rvWudy2K
+/l4fnwLc7/fH40EcwPuQyb/dbpfLBe4r53q9wkEQGCYRmXoOaJosQZEfERbC9z2ILBqJRLxeL3Hy
++bxYLK5UKmDMMvtXq1WbzdbtdomFbywWc7lcy+USfD6fJRKJXq8Hj8djpVIJR6vVzudzOFS73Q6H
+w/F4nMfjTadTWHa7XaVS5XI5uVy+2Wzg1Ot1s9kMwLp+vx/g8/kymQyTv1qt8INMJlOz2QRwOJzR
+aARQq9XD4RCQzWaNRiMgFAql02lAIBBIpVIApn4cuFQqFYtFMOR0OmUyWb/fR9rxeIRTq9UcDgcA
+RXk8HoDb7UZRACZ/MBhIpVIWi9Xr9TCEhEIhl8udzWZkaLFYRCLRbrc7nU44FA6r0WhIsylcFbkC
+hUJhtVoBwWCwXC4XCgU+n4/TIS6ZTKJHk8kEs2ghalmv12Akfr0f9AZxADabvVgsADqdLpFIfE4+
+RW6H6Hn/6Ad6YzAYsMPhcIAVjUYFAgHaiUvdbrdw8JZeZWIJ8rTAaByFelqtVqfTQQSx8EXbG43G
+fr8Hk9Dv9FU/RELfE177kOGvYt4v0SsI8O78Jhn6af8/0P/8v9O/nU/TPwDXmhtQQjVL3QAAAABJ
+RU5ErkJggg==) ;применение российских периферийных микросхем (Bтоп = 8 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAIAAADJt1n/AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHiSURBVDhP7ZK/y4FRFMevv8A/wK6sFiMWm8kk
+RZlIIqIMj2RUYrMgRVn8msgglJCSpEwsRLJZ/PZ+H8f78D71DnrX9zvcPvfcc+45597D7r/r9hDg
+er1eLhdirALzwTg7Ho/n85lMEJgsYMEIEBgCM1zz3H374S7aQqfTCWu9XrfZbHS63W4tFstkMgHz
+mWezWTAYLBaLYPJoNpt+v7/RaIAhj8ejUCjoqFqtymSyXq8HZpvNJhKJ5HI5rVabzWZhQh6dTpfJ
+ZIxGY7/fh2W9Xuv1etRIRTkcjk6nwwfv93tUAkomk6FQCOB2uwOBACAcDkejUcB4PNZoNMITmM3m
+drsNfr72dDrlOI4KGwwGcrl8OBzGYjHUBctqtTIYDAB6IKfTORqNAHwwklutVolEEo/HsYWQkzFW
+LpdpWygUpFIpPdJisVAqlYlEAszQxuFwAKVSKbQK6Ha7aAFdqVSqWq1GwXjRVqsFRkW4Op/Po4vX
+kKAxn88HsNvt1Hw6nUZ7j8OnqG1BDP+EHrxeL2LAMCGnWq12uVwmkwlVwIKBgajh94liu90OtVUq
+leVyiTOaivl8XiqV6K73KRLpVTZEVb17C99DHyESgxXeEA0A+YFFloezWD8yf6r/4A/1h+D7/Qv8
+uGgNZwuOCAAAAABJRU5ErkJggg==) </sup>;применение российских микросхем памяти (Bтоп = 11 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHuSURBVDhP7VJL6+FhFPYR+AC+gZI9G1bKwsqC
+ZEcUJcpSNhYWIiU7JZeFDeW6YKHkllJyi4VQCBss3H//53Wmf9PMv2maWcxmnsXpOZfnPe8578vj
+OO71ej2fz8fjAQIXIBeWOAWBnzkPmu9ln5Zwv99hN5tNLBa7Xq/gyWTSbDb3ej1wVLL+QL1er9Vq
+IHTW4XDI5XLz+fyd5Ewmk0gkQmo8HqfT6Wg0qlAojscjUkyPkMvlkkqlgUAA7n6/VyqVaKLX61ut
+FiLT6dRgMJxOJ3CCVqtdLBYgvMvlMhwOwVCkUqlAIpGIWq0GCYfDXq8XBG0hoIbAarUKBoMguBGb
+H+x2u6VSKTqo2+1KJBJMiJk7nQ4iy+XSaDSiEziQSCRIxeanbYVCIT6fj6J3Aef3+wUCQTweJ7dY
+LIrF4slkcj6frVYrstlstlKpIMXmp4ObzaZQKNxut7vdzuPxVKtVmUyWyWSQws5tNluj0ej3+06n
+E8tyu90oY3p6FYJOp4P1+XxE8vm8RqN5Z74Gm3+9XuM+drvd4XCUy2VEZ7OZXC7Hm1ksFtwCEWwH
+behHgQCI0ArY/O12u1QqDQYD+CiCxRSFQmE0GoGjjkq/xLf/QyAxbZRAkV+AvR8EdLfPPj9Efrf/
+H+C//u/wb/Uc9wFZDq0o+ZNlVwAAAABJRU5ErkJggg==) </sup>;применение российских соединителей (в том числе разъемов, жгутов, кабелей) (Bтоп = 6 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAIAAAAf7rriAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHgSURBVDhP7VJLy6lRGN0lf8IPMMAPMFFKipKJ
+GChz14yQkcsvkJRiggmKDJhQLlGEFCMDIiNMUC65fLzf8j1ffW/n1KlzxmcN9l7r2c/az7Mv7PV6
+fXwBhPsCRZ7PJ3EKAhQhEGf8EFL58vF4YLxer8lkcrfbgW82G7fbnUqlwJHJMDWbzV6vB0I4nU61
+Wm08HpPMZDKMsfV6DZ5Op6vVqslkmkwmkCwWi/n9fo1GEw6HoQ+Hg8FgcLlcRqOxXq8jgiNotdrF
+YgF+uVwwlkolFHibO50OJvSjUChAisWiWq0G6ff7FosFBG2rVKrZbAYOs91uF4vF8/kc8t02kEgk
+BoMByHK5lMlk3W43l8uVy2Va1ev11DbB6/UGg0GQtxn3IRAIrFYrikDm83mhUBgIBN6JHLdarUQi
+UaVSAW+3261WKxqNYndIRobRaCSRSKbT6fl8jkQiOItcLo/H41hCtsPhQAHwUCgETifFXXy3Ddhs
+tuPxmM1mdTod5Ha7lUqltETgvyKcGJnH4/H5fHAWCgVo3JxSqXQ6nWazGf0jcr/fb7cbvTlxcuJT
+sEajgVcdDofQlLHf7xGhl+dX+x0/bZOTdiVQhP9DfwFDNkAVKA+cIiT/ZP6e/wn/zX8FjvsEz7r0
+DN8+OjcAAAAASUVORK5CYII=) </sup>;применение российских катушек индуктивности и трансформаторов
+(Bтоп = 3 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHpSURBVDhP7VI9q8FRHD7lM/gGFpNPwMJiMigs
+XsqEwUsKg1GysDDIYDIoZVBikCJClCiDlwwMLIpE3q77/P1ux73d7h3uHe5yn+H8n+d3fi/POefP
+Xh643W5Y7w+Q5JHr9crjfOWEIY80QJxHkHG5XECGw2GxWAShrfV63Wq1KIHhs1wue73e6XTiGZPJ
+pN/vgwDH41EqlRqNRnBqZ7fbbTYbCKyxbrfr8XjUarXBYCCr6XRaoVBotdpQKEQmM5mM1+sFATqd
+jsPhiEaj4BjGGo3G+XyGUKlU5ArT4AgEXebzOUg2m3W5XCCHw6HZbFar1VgsBgk7gn9gOp3mcjky
+r1Qq4/H4ZrPBzN1uhwi23G43SCQSCQaD5Hc2myEi1NfrdYlEotPpUAOJXmKx2GKx7Pd7SCCVSplM
+JpBarZZIJMxms1wuH4/HiAj12+12MBiIRKJkMglZqVRgT6/XYw4kulitVpwOJ4cE8Bz5fB7k6R8I
+h8PoDSKTyeggqCmVSo/NN+CC6ZmIY2XtdrtcLhcKhUAgsFgsENJoND6fD1bhczQaIYILxij+56A7
+DRDeH1fldDpRsFqtaBu/h9/vxyPhUJCU+hWe/gGk8iEEPofkZzB4w5EAPgfkfeSbYuDD/B/gv/53
++Nv6+/0VdWmkwcFJ5uAAAAAASUVORK5CYII=)
+из 29.32.30.375Устройства преобразования видеоинформации (преобразования видеосигнала в цифровые данные), применяемые
+в составе продукции отрасли специального машиностроениявыполнение на территории Российской Федерации требований
+(в совокупности 140 баллов):наличие у юридического лица - налогового резидента Российской Федерации,
+не находящегося под контролем иностранного государства,
+и (или) международной организации, и (или) иностранного юридического
+или физического лица, и (или) иностранной структуры без образования юридического лица<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGHSURBVDhPzZBPqwFhFIdn6WvI1kcYpdQoi5Gw
+sGQlvoDu0geYsvIByCSxUrazRZRSsrDSlCz9ibhj7jPONFm51+7+yus5Z37nvOc9ivtWj8dDTsdx
+BN4VBO4AOL0C6PspWEL6EXKKCe12O/mkBCkEv4ZIwlqtFo1GAbp4N5zP56+nPIvr2rZdLBbj8Xin
+05FMu91WVRXwCyaTSTgczmQyMC2bzSY18/k8EolMp1OSm81G0zSAIZX7/Q61Wq1cLgdcLpfr9Qqg
+QqEwGAyA2WyWSCQAr0D2ZRiGFEiIbrdbuVyWt67X62QyCdDdL2g0GtlsFmBKrEC/3+/1egCq1+uh
+UGg4HMKKbJO5GQAQ92Kx6Ha7AOJVx+PxcDicTidCf62sKBaLyXssy6pUKtvtdrlcjkajYEiE2dvS
+eDzO5/OpVMo0TR5drVZ1XS+VSul0mmIMTIFVWvsjvdHrDci7gRSjI+nEYLCc4g7aI2W1WklK4l+l
+7Pd7/j4o4Pd3N/LX+tkNH+nfFbjuD0sbxWsbwK0pAAAAAElFTkSuQmCC) </sup>:прав на конструкторскую и техническую документацию для проектирования, производства, модернизации и развития соответствующей продукции
+на территории Российской Федерации в соответствии со спецификацией
+на готовое изделие в следующем составе:спецификация на готовое изделие с указанием сборочных единиц и деталей;схема электрическая принципиальная;исключительных или неисключительных (но неотзывных) прав на программное обеспечение;подтверждение осуществления на территории Российской Федерации процессов проектирования схемотехники, конструкции модуля, топологии печатных плат, встроенного программного обеспечения, а также наличия соответствующих кадров и затрат на их содержание;выполнение на территории Российской Федерации технологической операции - поверхностный монтаж чип-компонентов на печатную плату
+выполнение на территории Российской Федерации дополнительных требований:установка программного обеспечения, если оно является неотъемлемой частью оборудования (20 баллов);сборка электронного оборудования (корпусирование) (20 баллов);функциональное тестирование готового изделия и проведение технического контроля соответствия требованиям технических условий готового изделия (20 баллов);выполнение дополнительных требований по применению компонентов:применение российских системообразующих микросхем (Bтоп = 14 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VK9isJAGNynyDP4AkJExMYuhY0I
+pjCBYGWvWKUT9A1srFKZNL6ACMFUioWdIihoFRBEYuHf3my+veW4Qs7+plhmZr/5dr9NGH+L1+tF
+6/P5JPIuoKoVwSoCYGjweDyoDUDypxPHMVZUMsopQP5ygE6nUyqVQNBCnHC73Xq9XqFQGAwGaQH3
+PC+Xy1mWdTweSVYqFRAcKAJRFM1mMxBd16/XK07PZrNo1u12HceBv91u6/W6DKgLoA0qQJIkyefz
+k8kkCALf9+Esl0vTNEFEgMZaLBZoD/d0OkGGYcgYazQa4MBms7FtG0TOcL/fU59Xq9XRaAS33W6v
+Vqtardbv9+G7rqtp2nQ6BWfYSIsFms3mfD5fr9eZTAYSs5XLZZDL5XI+nzEeOAMbj8eGYaDfcDgU
+Oc5brVaxWISDu5FDwMDiSsjsdrvD4UAuYb/f0zzph5GAlEMTwOXO99OpXeXIX0OBXClSkCQfEIGP
+8B/4Cz4McP4FzubCOyBWPiQAAAAASUVORK5CYII=) ;применение российских печатных плат (Bтоп = 7 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGbSURBVDhP7VK7isJAFJ2f8DcCiiRp/AHtRLsk
+iIWFFhY2toKFKKROa2UhiHZiYSfaKIjgExW0EPHVKIqv7BnvbhAXl22221PMnHvvOTd3ZsLMN7g/
+QOR2u1n8JwNWSCm0PAzb9Xo9n8/PtcvlgiSAcDKZtNttKr1+AVLLRuh2u9Fo1G63G4aBEC3Y4XBI
+JBKyLOfzeRKVSiWXywXdfr+fzWbI7HY7j8dDVVYul2u1WqfTcTqdm81mtVo5HI7FYoGW8XicROPx
+OJVKEWfH45FYOp0G7/V6MCCsVCqZTIZKuVyu3++D8JGwTafTQCCQzWYfVTMcDnu93mKxuF6vEdbr
+dZhBlsslVm4YDAaRSIQx1mq1EGJCSZJ8Ph+urlqt2my2UCikKAqm5QbrWoLBYKFQ2G63fr8fYTKZ
+RAbHRbtmszkajZCEmL8DttPpFIvF5vM5PiIIAmq4e1VVeacvUGuGk7ndbgzQaDSooOu6KIqapg2H
+Q4Q4KKSk/nw4evNnYuF7ho+EDSt6YH0hVAIeYo63P987/Bt+g782mOYH38fpp3zGW7cAAAAASUVO
+RK5CYII=) </sup>;применение российских вторичных преобразователей питания (Bтоп = 6 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAUCAIAAAALACogAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF/SURBVDhP5ZK9isJQEIXzOr6CjRGiTSrBwijY
+WKSyEVMGoyAoBIMIgmBtFbCwshG7gFE0T2BsNxDERvxZs+dm5LIou/sAe8DLN5M5k5lrhOhnPR4P
+Oj9jEf9mgKiamIAZkL3H4i0phFhhFLmu6/s+AB6Birh4P67lclmpVCRJOhwOCNkbttutoiipVGq/
+3yNEi2q1inAwGCDc7XY4p9Op53nMcL1ebds+nU7D4TCfzyNlWVaxWASUSqXFYgEYjUblchmVzMAH
+Xa/Xk8kE0G63MQNA1/XVagVwHCeZTPb7ffBzB5RiSiwHDsMwnU6rqkohaTab9Xo9gIAt4dlsNjAk
+EglautPpiKJYr9fBrVYrk8l0u93z+cwM+HHhAU7TNLEGIJfLjcdjzIw7pQXQWgiC4CPWfD5vNpvI
+NhqNQqEAMAwDBgDp+ccdj0dN02RZxqsvlwtSaFmr1bLZLF0rupKIXz8NevBdLxl2S7fbDSOiMW/z
+nomLmf74+N71Dw1R9AUr3ll6ozhRGgAAAABJRU5ErkJggg==) </sup>;применение российских микросхем и модулей связи и навигации
+(Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGFSURBVDhP7ZItqwJBGIXnP9ithgWxbrGIGMVs
+WRBkLbqIgs2iwSJ4Yc26Bg0qfiGCimUtYrLabIJoE/zauWd9L6Nc4e4fuCcMzztzzsw7O8v4n7Is
+i0YBDgGIrALY4/Gg4hMgAcfjkdg+gRzvgAWC6/WKsVKpJJNJAAxsMpmEw+FgMLhcLp8ens/nQ6FQ
+LBbb7/cod7udoiiFQgFsB0qlEqjT6ciyDOh2u4FAAGAYRi6XA8xms8FgUC6Xwff7/efSq9WqVqsB
+xuOxSCLT7/e/nopGo4fDAfMMoWaz6XK5RqORHeU8nU77fL56vQ4eDoc4JxKJeL3e9XqNGXa73bbb
+raZpbrebmoY1k8l4PB50b2/A+WazaTQaAJhf7xCPx0+nU6vVUlUVZbvd9vv9gPP5TB8NvWBk8/nc
+NE1d14vFIurpdCpJ0mKxqFarOId8CIjHYdlsNpVK4Vpij16vl0gkKA+JNyG9WqI9KEOCldzvGXZ5
+il6UFnAzmvl0Q84/3y/9B5zF+TcEbIUtK3nojAAAAABJRU5ErkJggg==) ;применение российских интерфейсных микросхем и преобразователей
+(Bтоп = 8 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAVCAIAAAAW+SPgAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VExq4JQGHUP+iXSf3CopaA2IWir
+DFobAqEpghoiJJwkRTLHao0kaEgCqalZiAhqElqe6ct39Io8eATv7e8M1/Ode77Ddz+p4D1erxc5
+ExK6fd93XdfzvER9Pp9QoJPyMwI4RT4EuADiIgLacEqSVCwWZVkOs03TrNfrk8kkMgToFwSh0Wjs
+93uU8/m8VCqdz2dw6nK5DIfD3W6Xy+UURYHU6XRqtdp2u2VZ9na7Xa9XTdMYhrFtm/qIAJMoiqqq
+giBJ13WQarVqWRYIsFwux+NxvBOkchxH+Gq1ymQyaFgsFkQBDocDytD9eDy63W4qlWq32ygxd6vV
+SqfT6/Ua5Ww2azabPM87jkMlS9hsNuVyGaTX6xmGgXFpmkYk3ofU+/2OqzCbrAnDYDIQPHc0GoFU
+KpXpdApCgPVTx+MRz8rn8/1+n6in06lQKGSz2cFgQExA/HciQzjrO/L9f4VuUuM6IcSaKElDnP1L
+/Lt/4i/uIPgCazFLcJVt9F4AAAAASUVORK5CYII=) ;применение российских полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGuSURBVDhP7ZI/66lxGMa/Xod3YZBMYjaxKYPN
+QPKnSJks9ItFshCDQUkMZGKwkBKF2MQiKQaD/8/5PL5OP+cM55wXcK7h2/Vc9//7foTyRzyfT/k+
+Ho/7/Q5RA/i4XC63202aATapSKsUJQS2N/2Z79Pjer3yoieTSavVutvt1AqLxSIajVarVWnj7fV6
+4XC42WzCQSQSwQFCvNhut/F4vFwuWyyWQqGA2ul0zGZzsVi02Wzj8Xg0Gul0OqfTmclksIrT6UQh
+WD6fl2nI7fP5IF8vVCqVYDC4Wq0MBsN0On1vaT6fx2Ix2f1kMtFqtYPBIJ1OH49Hui+VSugOh4Pi
+agBFXC6XRqNJpVJqtKIkEgkhBH3Ch8MhveVyuUAgcDgcBFnP5zMG0phMJumRzWb7/b5er6/Vaiit
+VisUCq3Xa/j34Wazmd/vhzAAY0DYm91ufxnf4AZiuVx6PB7GcrvdTIJKbqPR6PV6abrb7aJwRCAn
+FPv9vt1uNxqNzWbDt7wUO6nX6+wE/nlZ8N0SkP/Cp4dUuKY8KBAwPICsKG3w35SXs4pfKvwL/gf8
+HYryA1YLeIUnz/t1AAAAAElFTkSuQmCC) </sup>;применение российских силовых полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGXSURBVDhP7ZI9y4FxFMbvL+Ar2HwHpeRjmAwG
+g/JIJJlkUWIyWNxlMZgYiDKhhMGChCh5yWIk8vb8bke6LU/szzWcruucc/3/5/+i3L/EX4bb7Ua8
+Xq+nB87nM1IzUCB7uVykA7zkKyNAKvoUfURaRQr6/b7f7/d4PPl8HvkcqdlstlotiHgWi0WpVNrt
+dvBardZoNFRVjUQiSM2ANRgMms3mbDaLHI1GNpvN6/U6nc7tdiujTyaTer2uGY7HIx2wTqdjt9sh
+gUAgFApBGIN9ICCVSu33e8jzDIfDIZfLzWYzeLFYtFqt0+k0nU6vViupZjIZ6VRk6EQiYTAYwuEw
+HLjdbqPR2G63RbIEJ4HQrJ2BqYiVSsVkMjHxYDCIx+OFQsFisQyHQ0q9Xm+5XD4NvAhM4HA4iC6X
+KxaLQaLRqNyMQGZRNptNMpn0+Xyclcslxf2y9s8D4/GYDNtKt/ZwsG63W61WpSavNp/Py+Xyer2G
+S+sLb39JuvUvLVz/G7RrZQ0KRCnoMyIlL3jb4RP8Gz7Bl4b7/RfepPBVgm9AugAAAABJRU5ErkJg
+gg==) ;применение российских пассивных элементов стандартных (Bтоп = 3 балла), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAYCAIAAAB8wupbAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG4SURBVDhP7VI9y0FhGD6/weYP+AEssiLlYziz
+QUZRymAwKLMoOhYDMwZJCrGIkkIxSCGRkrD5/jiuxy0dy5t3eLf3qnOf677OfT3389zP4cRf4ifD
+/X5HvF6vp9MJkRQOD3C73RCfZUxFCoBTHYEUjl4E8LcNOJ/PiNVq1e129/t9cBSwLc3n82azeblc
+WNWzA9LJZAI+HA7tdnsymTQYDPSVg9Xr9er1eofDQZLL5bJYLFartdFoLBYLm822Wq08Hg9tj2u3
+27S2VqtdLpeDwUCpVCLFTpxOJ0g8Hler1ePxGBye15S63W6xWATBYiqVqtVq5XK5QqGw2WwymUyl
+UuF5fr/fo4AZ6vW6QqEwm8273Q5pNpuVyWTRaBS8VqtB3263RqNxOp0yA7ocDofRaCSXy/P5PCRB
+EBKJhE6nS6VSSCORiMlkKpVK4K8pEXw+H9brdDoajQZpr9fDZKRTJs7BGovFwuFwMBjE6dfrNU7v
+9/sDgQB0VED8uOlyuYymmPTxeGTriOJsNguFQul0mlJpE+DjX8I36cUjpWqKBHZo/ALo+1bhkSrS
+auCjwzf4N3yDvzaI4gPLzxFV7uBOcwAAAABJRU5ErkJggg==) </sup>;применение российских конденсаторов большой емкости (Bтоп = 4 балла), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGWSURBVDhP7VG7isJQEE3pP+QXrMU2oIIoGLCw
+kYCIoIWIXcAiTZqAgiCCVQqRtD4QG0HECIJEQbBTtPALRJD4SvYkN9xdhAW334EM55w7Z+5kLmP/
+HpZlIb9eLwCSQR3D8/m83W6Px4NIyPf7HQotogHKQPWYy98qENPpNBQKFYtFdAR1btB1PZfLaZrm
+FtimadZqNSjH4xE0nU5fr9dKpaIoCihzOp3q9fp8Puc4bjAYQBJFsVwu9/t9QRD2+30ymYS4WCwK
+hYJjQD+MC4QGw+EQIBKJjMdjgGg0erlccFU2m02lUrIsOwZ8iFarha4Ed7tdv9/f6XQmkwlRRqNR
+IBA4HA7AjuF8PkuS5PP5qtUqKNaQyWRYlt1sNqAYuFQqrVYrcsTQtfR6vXw+DwDzcrncbrfBYBBd
+Mf1ut4P+vSVsHbnZbGIMAPxDu90GSCQSs9kMAEGq0Z1Zr9c8z8disUajQc4Mw4jH4+FwWFVVUJSS
+t3IfyfJ+mj4fBTh7AyQcA5FQSgGxUeWnx7vh8/g3fBJ/NNj2F7s+g7O79ytMAAAAAElFTkSuQmCC
+) </sup>;применение российских сенсорных элементов (Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAXCAIAAABrvZPKAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIPSURBVDhP7ZJPq2lRGMb31NfwBSTlT4mvIJGB
+jDBBSZQBRUohJMmAEgZCMhGliBKlJCMhyYASIxH5d/Z99lly3G7nDu4d3brPYO/fetb7rvWudy2K
+/l4fnwLc7/fH40EcwPuQyb/dbpfLBe4r53q9wkEQGCYRmXoOaJosQZEfERbC9z2ILBqJRLxeL3Hy
++bxYLK5UKmDMMvtXq1WbzdbtdomFbywWc7lcy+USfD6fJRKJXq8Hj8djpVIJR6vVzudzOFS73Q6H
+w/F4nMfjTadTWHa7XaVS5XI5uVy+2Wzg1Ot1s9kMwLp+vx/g8/kymQyTv1qt8INMJlOz2QRwOJzR
+aARQq9XD4RCQzWaNRiMgFAql02lAIBBIpVIApn4cuFQqFYtFMOR0OmUyWb/fR9rxeIRTq9UcDgcA
+RXk8HoDb7UZRACZ/MBhIpVIWi9Xr9TCEhEIhl8udzWZkaLFYRCLRbrc7nU44FA6r0WhIsylcFbkC
+hUJhtVoBwWCwXC4XCgU+n4/TIS6ZTKJHk8kEs2ghalmv12Akfr0f9AZxADabvVgsADqdLpFIfE4+
+RW6H6Hn/6Ad6YzAYsMPhcIAVjUYFAgHaiUvdbrdw8JZeZWIJ8rTAaByFelqtVqfTQQSx8EXbG43G
+fr8Hk9Dv9FU/RELfE177kOGvYt4v0SsI8O78Jhn6af8/0P/8v9O/nU/TPwDXmhtQQjVL3QAAAABJ
+RU5ErkJggg==) ;применение российских периферийных микросхем (Bтоп = 8 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAIAAADJt1n/AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHiSURBVDhP7ZK/y4FRFMevv8A/wK6sFiMWm8kk
+RZlIIqIMj2RUYrMgRVn8msgglJCSpEwsRLJZ/PZ+H8f78D71DnrX9zvcPvfcc+45597D7r/r9hDg
+er1eLhdirALzwTg7Ho/n85lMEJgsYMEIEBgCM1zz3H374S7aQqfTCWu9XrfZbHS63W4tFstkMgHz
+mWezWTAYLBaLYPJoNpt+v7/RaIAhj8ejUCjoqFqtymSyXq8HZpvNJhKJ5HI5rVabzWZhQh6dTpfJ
+ZIxGY7/fh2W9Xuv1etRIRTkcjk6nwwfv93tUAkomk6FQCOB2uwOBACAcDkejUcB4PNZoNMITmM3m
+drsNfr72dDrlOI4KGwwGcrl8OBzGYjHUBctqtTIYDAB6IKfTORqNAHwwklutVolEEo/HsYWQkzFW
+LpdpWygUpFIpPdJisVAqlYlEAszQxuFwAKVSKbQK6Ha7aAFdqVSqWq1GwXjRVqsFRkW4Op/Po4vX
+kKAxn88HsNvt1Hw6nUZ7j8OnqG1BDP+EHrxeL2LAMCGnWq12uVwmkwlVwIKBgajh94liu90OtVUq
+leVyiTOaivl8XiqV6K73KRLpVTZEVb17C99DHyESgxXeEA0A+YFFloezWD8yf6r/4A/1h+D7/Qv8
+uGgNZwuOCAAAAABJRU5ErkJggg==) ;применение российских микросхем памяти (Bтоп = 11 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHuSURBVDhP7VJL6+FhFPYR+AC+gZI9G1bKwsqC
+ZEcUJcpSNhYWIiU7JZeFDeW6YKHkllJyi4VQCBss3H//53Wmf9PMv2maWcxmnsXpOZfnPe8578vj
+OO71ej2fz8fjAQIXIBeWOAWBnzkPmu9ln5Zwv99hN5tNLBa7Xq/gyWTSbDb3ej1wVLL+QL1er9Vq
+IHTW4XDI5XLz+fyd5Ewmk0gkQmo8HqfT6Wg0qlAojscjUkyPkMvlkkqlgUAA7n6/VyqVaKLX61ut
+FiLT6dRgMJxOJ3CCVqtdLBYgvMvlMhwOwVCkUqlAIpGIWq0GCYfDXq8XBG0hoIbAarUKBoMguBGb
+H+x2u6VSKTqo2+1KJBJMiJk7nQ4iy+XSaDSiEziQSCRIxeanbYVCIT6fj6J3Aef3+wUCQTweJ7dY
+LIrF4slkcj6frVYrstlstlKpIMXmp4ObzaZQKNxut7vdzuPxVKtVmUyWyWSQws5tNluj0ej3+06n
+E8tyu90oY3p6FYJOp4P1+XxE8vm8RqN5Z74Gm3+9XuM+drvd4XCUy2VEZ7OZXC7Hm1ksFtwCEWwH
+behHgQCI0ArY/O12u1QqDQYD+CiCxRSFQmE0GoGjjkq/xLf/QyAxbZRAkV+AvR8EdLfPPj9Efrf/
+H+C//u/wb/Uc9wFZDq0o+ZNlVwAAAABJRU5ErkJggg==) ;применение российских соединителей (в том числе разъемов, жгутов, кабелей) (Bтоп = 6 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAIAAAAf7rriAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHgSURBVDhP7VJLy6lRGN0lf8IPMMAPMFFKipKJ
+GChz14yQkcsvkJRiggmKDJhQLlGEFCMDIiNMUC65fLzf8j1ffW/n1KlzxmcN9l7r2c/az7Mv7PV6
+fXwBhPsCRZ7PJ3EKAhQhEGf8EFL58vF4YLxer8lkcrfbgW82G7fbnUqlwJHJMDWbzV6vB0I4nU61
+Wm08HpPMZDKMsfV6DZ5Op6vVqslkmkwmkCwWi/n9fo1GEw6HoQ+Hg8FgcLlcRqOxXq8jgiNotdrF
+YgF+uVwwlkolFHibO50OJvSjUChAisWiWq0G6ff7FosFBG2rVKrZbAYOs91uF4vF8/kc8t02kEgk
+BoMByHK5lMlk3W43l8uVy2Va1ev11DbB6/UGg0GQtxn3IRAIrFYrikDm83mhUBgIBN6JHLdarUQi
+UaVSAW+3261WKxqNYndIRobRaCSRSKbT6fl8jkQiOItcLo/H41hCtsPhQAHwUCgETifFXXy3Ddhs
+tuPxmM1mdTod5Ha7lUqltETgvyKcGJnH4/H5fHAWCgVo3JxSqXQ6nWazGf0jcr/fb7cbvTlxcuJT
+sEajgVcdDofQlLHf7xGhl+dX+x0/bZOTdiVQhP9DfwFDNkAVKA+cIiT/ZP6e/wn/zX8FjvsEz7r0
+DN8+OjcAAAAASUVORK5CYII=) </sup>;применение российских катушек индуктивности и трансформаторов
+(Bтоп = 3 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHpSURBVDhP7VI9q8FRHD7lM/gGFpNPwMJiMigs
+XsqEwUsKg1GysDDIYDIoZVBikCJClCiDlwwMLIpE3q77/P1ux73d7h3uHe5yn+H8n+d3fi/POefP
+Xh643W5Y7w+Q5JHr9crjfOWEIY80QJxHkHG5XECGw2GxWAShrfV63Wq1KIHhs1wue73e6XTiGZPJ
+pN/vgwDH41EqlRqNRnBqZ7fbbTYbCKyxbrfr8XjUarXBYCCr6XRaoVBotdpQKEQmM5mM1+sFATqd
+jsPhiEaj4BjGGo3G+XyGUKlU5ArT4AgEXebzOUg2m3W5XCCHw6HZbFar1VgsBgk7gn9gOp3mcjky
+r1Qq4/H4ZrPBzN1uhwi23G43SCQSCQaD5Hc2myEi1NfrdYlEotPpUAOJXmKx2GKx7Pd7SCCVSplM
+JpBarZZIJMxms1wuH4/HiAj12+12MBiIRKJkMglZqVRgT6/XYw4kulitVpwOJ4cE8Bz5fB7k6R8I
+h8PoDSKTyeggqCmVSo/NN+CC6ZmIY2XtdrtcLhcKhUAgsFgsENJoND6fD1bhczQaIYILxij+56A7
+DRDeH1fldDpRsFqtaBu/h9/vxyPhUJCU+hWe/gGk8iEEPofkZzB4w5EAPgfkfeSbYuDD/B/gv/53
++Nv6+/0VdWmkwcFJ5uAAAAAASUVORK5CYII=)
+из 29.32.30.346Электронный блок фронтального распознавания объектов, применяемый в составе продукции отрасли специального машиностроениявыполнение на территории Российской Федерации требований
+(в совокупности 140 баллов):наличие у юридического лица - налогового резидента Российской Федерации,
+не находящегося под контролем иностранного государства,
+и (или) международной организации, и (или) иностранного юридического
+или физического лица, и (или) иностранной структуры без образования юридического лица<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGHSURBVDhPzZBPqwFhFIdn6WvI1kcYpdQoi5Gw
+sGQlvoDu0geYsvIByCSxUrazRZRSsrDSlCz9ibhj7jPONFm51+7+yus5Z37nvOc9ivtWj8dDTsdx
+BN4VBO4AOL0C6PspWEL6EXKKCe12O/mkBCkEv4ZIwlqtFo1GAbp4N5zP56+nPIvr2rZdLBbj8Xin
+05FMu91WVRXwCyaTSTgczmQyMC2bzSY18/k8EolMp1OSm81G0zSAIZX7/Q61Wq1cLgdcLpfr9Qqg
+QqEwGAyA2WyWSCQAr0D2ZRiGFEiIbrdbuVyWt67X62QyCdDdL2g0GtlsFmBKrEC/3+/1egCq1+uh
+UGg4HMKKbJO5GQAQ92Kx6Ha7AOJVx+PxcDicTidCf62sKBaLyXssy6pUKtvtdrlcjkajYEiE2dvS
+eDzO5/OpVMo0TR5drVZ1XS+VSul0mmIMTIFVWvsjvdHrDci7gRSjI+nEYLCc4g7aI2W1WklK4l+l
+7Pd7/j4o4Pd3N/LX+tkNH+nfFbjuD0sbxWsbwK0pAAAAAElFTkSuQmCC) </sup>:прав на конструкторскую и техническую документацию для проектирования, производства, модернизации и развития соответствующей продукции
+на территории Российской Федерации в соответствии со спецификацией
+на готовое изделие в следующем составе:спецификация на готовое изделие с указанием сборочных единиц и деталей;схема электрическая принципиальная;исключительных или неисключительных (но неотзывных) прав на программное обеспечение;подтверждение осуществления на территории Российской Федерации процессов проектирования схемотехники, конструкции модуля, топологии печатных плат, встроенного программного обеспечения, а также наличия соответствующих кадров и затрат на их содержание;выполнение на территории Российской Федерации технологической операции - поверхностный монтаж чип-компонентов на печатную плату
+выполнение на территории Российской Федерации дополнительных требований:установка программного обеспечения, если оно является неотъемлемой частью оборудования (20 баллов);сборка электронного оборудования (корпусирование) (20 баллов);
+функциональное тестирование готового изделия и проведение технического контроля соответствия требованиям технических условий готового изделия (20 баллов);выполнение дополнительных требований по применению компонентов:применение российских системообразующих микросхем (Bтоп = 14 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VK9isJAGNynyDP4AkJExMYuhY0I
+pjCBYGWvWKUT9A1srFKZNL6ACMFUioWdIihoFRBEYuHf3my+veW4Qs7+plhmZr/5dr9NGH+L1+tF
+6/P5JPIuoKoVwSoCYGjweDyoDUDypxPHMVZUMsopQP5ygE6nUyqVQNBCnHC73Xq9XqFQGAwGaQH3
+PC+Xy1mWdTweSVYqFRAcKAJRFM1mMxBd16/XK07PZrNo1u12HceBv91u6/W6DKgLoA0qQJIkyefz
+k8kkCALf9+Esl0vTNEFEgMZaLBZoD/d0OkGGYcgYazQa4MBms7FtG0TOcL/fU59Xq9XRaAS33W6v
+Vqtardbv9+G7rqtp2nQ6BWfYSIsFms3mfD5fr9eZTAYSs5XLZZDL5XI+nzEeOAMbj8eGYaDfcDgU
+Oc5brVaxWISDu5FDwMDiSsjsdrvD4UAuYb/f0zzph5GAlEMTwOXO99OpXeXIX0OBXClSkCQfEIGP
+8B/4Cz4McP4FzubCOyBWPiQAAAAASUVORK5CYII=) ;применение российских печатных плат (Bтоп = 7 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGbSURBVDhP7VK7isJAFJ2f8DcCiiRp/AHtRLsk
+iIWFFhY2toKFKKROa2UhiHZiYSfaKIjgExW0EPHVKIqv7BnvbhAXl22221PMnHvvOTd3ZsLMN7g/
+QOR2u1n8JwNWSCm0PAzb9Xo9n8/PtcvlgiSAcDKZtNttKr1+AVLLRuh2u9Fo1G63G4aBEC3Y4XBI
+JBKyLOfzeRKVSiWXywXdfr+fzWbI7HY7j8dDVVYul2u1WqfTcTqdm81mtVo5HI7FYoGW8XicROPx
+OJVKEWfH45FYOp0G7/V6MCCsVCqZTIZKuVyu3++D8JGwTafTQCCQzWYfVTMcDnu93mKxuF6vEdbr
+dZhBlsslVm4YDAaRSIQx1mq1EGJCSZJ8Ph+urlqt2my2UCikKAqm5QbrWoLBYKFQ2G63fr8fYTKZ
+RAbHRbtmszkajZCEmL8DttPpFIvF5vM5PiIIAmq4e1VVeacvUGuGk7ndbgzQaDSooOu6KIqapg2H
+Q4Q4KKSk/nw4evNnYuF7ho+EDSt6YH0hVAIeYo63P987/Bt+g782mOYH38fpp3zGW7cAAAAASUVO
+RK5CYII=) </sup>;применение российских вторичных преобразователей питания (Bтоп = 6 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAUCAIAAAALACogAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF/SURBVDhP5ZK9isJQEIXzOr6CjRGiTSrBwijY
+WKSyEVMGoyAoBIMIgmBtFbCwshG7gFE0T2BsNxDERvxZs+dm5LIou/sAe8DLN5M5k5lrhOhnPR4P
+Oj9jEf9mgKiamIAZkL3H4i0phFhhFLmu6/s+AB6Birh4P67lclmpVCRJOhwOCNkbttutoiipVGq/
+3yNEi2q1inAwGCDc7XY4p9Op53nMcL1ebds+nU7D4TCfzyNlWVaxWASUSqXFYgEYjUblchmVzMAH
+Xa/Xk8kE0G63MQNA1/XVagVwHCeZTPb7ffBzB5RiSiwHDsMwnU6rqkohaTab9Xo9gIAt4dlsNjAk
+EglautPpiKJYr9fBrVYrk8l0u93z+cwM+HHhAU7TNLEGIJfLjcdjzIw7pQXQWgiC4CPWfD5vNpvI
+NhqNQqEAMAwDBgDp+ccdj0dN02RZxqsvlwtSaFmr1bLZLF0rupKIXz8NevBdLxl2S7fbDSOiMW/z
+nomLmf74+N71Dw1R9AUr3ll6ozhRGgAAAABJRU5ErkJggg==) </sup>;применение российских микросхем и модулей связи и навигации
+(Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGFSURBVDhP7ZItqwJBGIXnP9ithgWxbrGIGMVs
+WRBkLbqIgs2iwSJ4Yc26Bg0qfiGCimUtYrLabIJoE/zauWd9L6Nc4e4fuCcMzztzzsw7O8v4n7Is
+i0YBDgGIrALY4/Gg4hMgAcfjkdg+gRzvgAWC6/WKsVKpJJNJAAxsMpmEw+FgMLhcLp8ens/nQ6FQ
+LBbb7/cod7udoiiFQgFsB0qlEqjT6ciyDOh2u4FAAGAYRi6XA8xms8FgUC6Xwff7/efSq9WqVqsB
+xuOxSCLT7/e/nopGo4fDAfMMoWaz6XK5RqORHeU8nU77fL56vQ4eDoc4JxKJeL3e9XqNGXa73bbb
+raZpbrebmoY1k8l4PB50b2/A+WazaTQaAJhf7xCPx0+nU6vVUlUVZbvd9vv9gPP5TB8NvWBk8/nc
+NE1d14vFIurpdCpJ0mKxqFarOId8CIjHYdlsNpVK4Vpij16vl0gkKA+JNyG9WqI9KEOCldzvGXZ5
+il6UFnAzmvl0Q84/3y/9B5zF+TcEbIUtK3nojAAAAABJRU5ErkJggg==) ;применение российских интерфейсных микросхем и преобразователей
+(Bтоп = 8 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAVCAIAAAAW+SPgAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VExq4JQGHUP+iXSf3CopaA2IWir
+DFobAqEpghoiJJwkRTLHao0kaEgCqalZiAhqElqe6ct39Io8eATv7e8M1/Ode77Ddz+p4D1erxc5
+ExK6fd93XdfzvER9Pp9QoJPyMwI4RT4EuADiIgLacEqSVCwWZVkOs03TrNfrk8kkMgToFwSh0Wjs
+93uU8/m8VCqdz2dw6nK5DIfD3W6Xy+UURYHU6XRqtdp2u2VZ9na7Xa9XTdMYhrFtm/qIAJMoiqqq
+giBJ13WQarVqWRYIsFwux+NxvBOkchxH+Gq1ymQyaFgsFkQBDocDytD9eDy63W4qlWq32ygxd6vV
+SqfT6/Ua5Ww2azabPM87jkMlS9hsNuVyGaTX6xmGgXFpmkYk3ofU+/2OqzCbrAnDYDIQPHc0GoFU
+KpXpdApCgPVTx+MRz8rn8/1+n6in06lQKGSz2cFgQExA/HciQzjrO/L9f4VuUuM6IcSaKElDnP1L
+/Lt/4i/uIPgCazFLcJVt9F4AAAAASUVORK5CYII=) ;применение российских полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGuSURBVDhP7ZI/66lxGMa/Xod3YZBMYjaxKYPN
+QPKnSJks9ItFshCDQUkMZGKwkBKF2MQiKQaD/8/5PL5OP+cM55wXcK7h2/Vc9//7foTyRzyfT/k+
+Ho/7/Q5RA/i4XC63202aATapSKsUJQS2N/2Z79Pjer3yoieTSavVutvt1AqLxSIajVarVWnj7fV6
+4XC42WzCQSQSwQFCvNhut/F4vFwuWyyWQqGA2ul0zGZzsVi02Wzj8Xg0Gul0OqfTmclksIrT6UQh
+WD6fl2nI7fP5IF8vVCqVYDC4Wq0MBsN0On1vaT6fx2Ix2f1kMtFqtYPBIJ1OH49Hui+VSugOh4Pi
+agBFXC6XRqNJpVJqtKIkEgkhBH3Ch8MhveVyuUAgcDgcBFnP5zMG0phMJumRzWb7/b5er6/Vaiit
+VisUCq3Xa/j34Wazmd/vhzAAY0DYm91ufxnf4AZiuVx6PB7GcrvdTIJKbqPR6PV6abrb7aJwRCAn
+FPv9vt1uNxqNzWbDt7wUO6nX6+wE/nlZ8N0SkP/Cp4dUuKY8KBAwPICsKG3w35SXs4pfKvwL/gf8
+HYryA1YLeIUnz/t1AAAAAElFTkSuQmCC) </sup>;применение российских силовых полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGXSURBVDhP7ZI9y4FxFMbvL+Ar2HwHpeRjmAwG
+g/JIJJlkUWIyWNxlMZgYiDKhhMGChCh5yWIk8vb8bke6LU/szzWcruucc/3/5/+i3L/EX4bb7Ua8
+Xq+nB87nM1IzUCB7uVykA7zkKyNAKvoUfURaRQr6/b7f7/d4PPl8HvkcqdlstlotiHgWi0WpVNrt
+dvBardZoNFRVjUQiSM2ANRgMms3mbDaLHI1GNpvN6/U6nc7tdiujTyaTer2uGY7HIx2wTqdjt9sh
+gUAgFApBGIN9ICCVSu33e8jzDIfDIZfLzWYzeLFYtFqt0+k0nU6vViupZjIZ6VRk6EQiYTAYwuEw
+HLjdbqPR2G63RbIEJ4HQrJ2BqYiVSsVkMjHxYDCIx+OFQsFisQyHQ0q9Xm+5XD4NvAhM4HA4iC6X
+KxaLQaLRqNyMQGZRNptNMpn0+Xyclcslxf2y9s8D4/GYDNtKt/ZwsG63W61WpSavNp/Py+Xyer2G
+S+sLb39JuvUvLVz/G7RrZQ0KRCnoMyIlL3jb4RP8Gz7Bl4b7/RfepPBVgm9AugAAAABJRU5ErkJg
+gg==) ;применение российских пассивных элементов стандартных (Bтоп = 3 балла), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAYCAIAAAB8wupbAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG4SURBVDhP7VI9y0FhGD6/weYP+AEssiLlYziz
+QUZRymAwKLMoOhYDMwZJCrGIkkIxSCGRkrD5/jiuxy0dy5t3eLf3qnOf677OfT3389zP4cRf4ifD
+/X5HvF6vp9MJkRQOD3C73RCfZUxFCoBTHYEUjl4E8LcNOJ/PiNVq1e129/t9cBSwLc3n82azeblc
+WNWzA9LJZAI+HA7tdnsymTQYDPSVg9Xr9er1eofDQZLL5bJYLFartdFoLBYLm822Wq08Hg9tj2u3
+27S2VqtdLpeDwUCpVCLFTpxOJ0g8Hler1ePxGBye15S63W6xWATBYiqVqtVq5XK5QqGw2WwymUyl
+UuF5fr/fo4AZ6vW6QqEwm8273Q5pNpuVyWTRaBS8VqtB3263RqNxOp0yA7ocDofRaCSXy/P5PCRB
+EBKJhE6nS6VSSCORiMlkKpVK4K8pEXw+H9brdDoajQZpr9fDZKRTJs7BGovFwuFwMBjE6dfrNU7v
+9/sDgQB0VED8uOlyuYymmPTxeGTriOJsNguFQul0mlJpE+DjX8I36cUjpWqKBHZo/ALo+1bhkSrS
+auCjwzf4N3yDvzaI4gPLzxFV7uBOcwAAAABJRU5ErkJggg==) </sup>;применение российских конденсаторов большой емкости (Bтоп = 4 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGWSURBVDhP7VG7isJQEE3pP+QXrMU2oIIoGLCw
+kYCIoIWIXcAiTZqAgiCCVQqRtD4QG0HECIJEQbBTtPALRJD4SvYkN9xdhAW334EM55w7Z+5kLmP/
+HpZlIb9eLwCSQR3D8/m83W6Px4NIyPf7HQotogHKQPWYy98qENPpNBQKFYtFdAR1btB1PZfLaZrm
+FtimadZqNSjH4xE0nU5fr9dKpaIoCihzOp3q9fp8Puc4bjAYQBJFsVwu9/t9QRD2+30ymYS4WCwK
+hYJjQD+MC4QGw+EQIBKJjMdjgGg0erlccFU2m02lUrIsOwZ8iFarha4Ed7tdv9/f6XQmkwlRRqNR
+IBA4HA7AjuF8PkuS5PP5qtUqKNaQyWRYlt1sNqAYuFQqrVYrcsTQtfR6vXw+DwDzcrncbrfBYBBd
+Mf1ut4P+vSVsHbnZbGIMAPxDu90GSCQSs9kMAEGq0Z1Zr9c8z8disUajQc4Mw4jH4+FwWFVVUJSS
+t3IfyfJ+mj4fBTh7AyQcA5FQSgGxUeWnx7vh8/g3fBJ/NNj2F7s+g7O79ytMAAAAAElFTkSuQmCC
+) ;
+применение российских сенсорных элементов (Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAXCAIAAABrvZPKAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIPSURBVDhP7ZJPq2lRGMb31NfwBSTlT4mvIJGB
+jDBBSZQBRUohJMmAEgZCMhGliBKlJCMhyYASIxH5d/Z99lly3G7nDu4d3brPYO/fetb7rvWudy2K
+/l4fnwLc7/fH40EcwPuQyb/dbpfLBe4r53q9wkEQGCYRmXoOaJosQZEfERbC9z2ILBqJRLxeL3Hy
++bxYLK5UKmDMMvtXq1WbzdbtdomFbywWc7lcy+USfD6fJRKJXq8Hj8djpVIJR6vVzudzOFS73Q6H
+w/F4nMfjTadTWHa7XaVS5XI5uVy+2Wzg1Ot1s9kMwLp+vx/g8/kymQyTv1qt8INMJlOz2QRwOJzR
+aARQq9XD4RCQzWaNRiMgFAql02lAIBBIpVIApn4cuFQqFYtFMOR0OmUyWb/fR9rxeIRTq9UcDgcA
+RXk8HoDb7UZRACZ/MBhIpVIWi9Xr9TCEhEIhl8udzWZkaLFYRCLRbrc7nU44FA6r0WhIsylcFbkC
+hUJhtVoBwWCwXC4XCgU+n4/TIS6ZTKJHk8kEs2ghalmv12Akfr0f9AZxADabvVgsADqdLpFIfE4+
+RW6H6Hn/6Ad6YzAYsMPhcIAVjUYFAgHaiUvdbrdw8JZeZWIJ8rTAaByFelqtVqfTQQSx8EXbG43G
+fr8Hk9Dv9FU/RELfE177kOGvYt4v0SsI8O78Jhn6af8/0P/8v9O/nU/TPwDXmhtQQjVL3QAAAABJ
+RU5ErkJggg==) ;применение российских периферийных микросхем (Bтоп = 8 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAIAAADJt1n/AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHiSURBVDhP7ZK/y4FRFMevv8A/wK6sFiMWm8kk
+RZlIIqIMj2RUYrMgRVn8msgglJCSpEwsRLJZ/PZ+H8f78D71DnrX9zvcPvfcc+45597D7r/r9hDg
+er1eLhdirALzwTg7Ho/n85lMEJgsYMEIEBgCM1zz3H374S7aQqfTCWu9XrfZbHS63W4tFstkMgHz
+mWezWTAYLBaLYPJoNpt+v7/RaIAhj8ejUCjoqFqtymSyXq8HZpvNJhKJ5HI5rVabzWZhQh6dTpfJ
+ZIxGY7/fh2W9Xuv1etRIRTkcjk6nwwfv93tUAkomk6FQCOB2uwOBACAcDkejUcB4PNZoNMITmM3m
+drsNfr72dDrlOI4KGwwGcrl8OBzGYjHUBctqtTIYDAB6IKfTORqNAHwwklutVolEEo/HsYWQkzFW
+LpdpWygUpFIpPdJisVAqlYlEAszQxuFwAKVSKbQK6Ha7aAFdqVSqWq1GwXjRVqsFRkW4Op/Po4vX
+kKAxn88HsNvt1Hw6nUZ7j8OnqG1BDP+EHrxeL2LAMCGnWq12uVwmkwlVwIKBgajh94liu90OtVUq
+leVyiTOaivl8XiqV6K73KRLpVTZEVb17C99DHyESgxXeEA0A+YFFloezWD8yf6r/4A/1h+D7/Qv8
+uGgNZwuOCAAAAABJRU5ErkJggg==) </sup>;
+применение российских микросхем памяти (Bтоп = 11 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHuSURBVDhP7VJL6+FhFPYR+AC+gZI9G1bKwsqC
+ZEcUJcpSNhYWIiU7JZeFDeW6YKHkllJyi4VQCBss3H//53Wmf9PMv2maWcxmnsXpOZfnPe8578vj
+OO71ej2fz8fjAQIXIBeWOAWBnzkPmu9ln5Zwv99hN5tNLBa7Xq/gyWTSbDb3ej1wVLL+QL1er9Vq
+IHTW4XDI5XLz+fyd5Ewmk0gkQmo8HqfT6Wg0qlAojscjUkyPkMvlkkqlgUAA7n6/VyqVaKLX61ut
+FiLT6dRgMJxOJ3CCVqtdLBYgvMvlMhwOwVCkUqlAIpGIWq0GCYfDXq8XBG0hoIbAarUKBoMguBGb
+H+x2u6VSKTqo2+1KJBJMiJk7nQ4iy+XSaDSiEziQSCRIxeanbYVCIT6fj6J3Aef3+wUCQTweJ7dY
+LIrF4slkcj6frVYrstlstlKpIMXmp4ObzaZQKNxut7vdzuPxVKtVmUyWyWSQws5tNluj0ej3+06n
+E8tyu90oY3p6FYJOp4P1+XxE8vm8RqN5Z74Gm3+9XuM+drvd4XCUy2VEZ7OZXC7Hm1ksFtwCEWwH
+behHgQCI0ArY/O12u1QqDQYD+CiCxRSFQmE0GoGjjkq/xLf/QyAxbZRAkV+AvR8EdLfPPj9Efrf/
+H+C//u/wb/Uc9wFZDq0o+ZNlVwAAAABJRU5ErkJggg==) ;применение российских соединителей (в том числе разъемов, жгутов, кабелей) (Bтоп = 6 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAIAAAAf7rriAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHgSURBVDhP7VJLy6lRGN0lf8IPMMAPMFFKipKJ
+GChz14yQkcsvkJRiggmKDJhQLlGEFCMDIiNMUC65fLzf8j1ffW/n1KlzxmcN9l7r2c/az7Mv7PV6
+fXwBhPsCRZ7PJ3EKAhQhEGf8EFL58vF4YLxer8lkcrfbgW82G7fbnUqlwJHJMDWbzV6vB0I4nU61
+Wm08HpPMZDKMsfV6DZ5Op6vVqslkmkwmkCwWi/n9fo1GEw6HoQ+Hg8FgcLlcRqOxXq8jgiNotdrF
+YgF+uVwwlkolFHibO50OJvSjUChAisWiWq0G6ff7FosFBG2rVKrZbAYOs91uF4vF8/kc8t02kEgk
+BoMByHK5lMlk3W43l8uVy2Va1ev11DbB6/UGg0GQtxn3IRAIrFYrikDm83mhUBgIBN6JHLdarUQi
+UaVSAW+3261WKxqNYndIRobRaCSRSKbT6fl8jkQiOItcLo/H41hCtsPhQAHwUCgETifFXXy3Ddhs
+tuPxmM1mdTod5Ha7lUqltETgvyKcGJnH4/H5fHAWCgVo3JxSqXQ6nWazGf0jcr/fb7cbvTlxcuJT
+sEajgVcdDofQlLHf7xGhl+dX+x0/bZOTdiVQhP9DfwFDNkAVKA+cIiT/ZP6e/wn/zX8FjvsEz7r0
+DN8+OjcAAAAASUVORK5CYII=) </sup>;применение российских катушек индуктивности и трансформаторов
+(Bтоп = 3 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHpSURBVDhP7VI9q8FRHD7lM/gGFpNPwMJiMigs
+XsqEwUsKg1GysDDIYDIoZVBikCJClCiDlwwMLIpE3q77/P1ux73d7h3uHe5yn+H8n+d3fi/POefP
+Xh643W5Y7w+Q5JHr9crjfOWEIY80QJxHkHG5XECGw2GxWAShrfV63Wq1KIHhs1wue73e6XTiGZPJ
+pN/vgwDH41EqlRqNRnBqZ7fbbTYbCKyxbrfr8XjUarXBYCCr6XRaoVBotdpQKEQmM5mM1+sFATqd
+jsPhiEaj4BjGGo3G+XyGUKlU5ArT4AgEXebzOUg2m3W5XCCHw6HZbFar1VgsBgk7gn9gOp3mcjky
+r1Qq4/H4ZrPBzN1uhwi23G43SCQSCQaD5Hc2myEi1NfrdYlEotPpUAOJXmKx2GKx7Pd7SCCVSplM
+JpBarZZIJMxms1wuH4/HiAj12+12MBiIRKJkMglZqVRgT6/XYw4kulitVpwOJ4cE8Bz5fB7k6R8I
+h8PoDSKTyeggqCmVSo/NN+CC6ZmIY2XtdrtcLhcKhUAgsFgsENJoND6fD1bhczQaIYILxij+56A7
+DRDeH1fldDpRsFqtaBu/h9/vxyPhUJCU+hWe/gGk8iEEPofkZzB4w5EAPgfkfeSbYuDD/B/gv/53
++Nv6+/0VdWmkwcFJ5uAAAAAASUVORK5CYII=)
+из 29.32.30.348Электронный блок кругового видеонаблюдения, применяемый в составе продукции отрасли специального машиностроениявыполнение на территории Российской Федерации требований
+(в совокупности 140 баллов):наличие у юридического лица - налогового резидента Российской Федерации,
+не находящегося под контролем иностранного государства,
+и (или) международной организации, и (или) иностранного юридического
+или физического лица, и (или) иностранной структуры без образования юридического лица ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGHSURBVDhPzZBPqwFhFIdn6WvI1kcYpdQoi5Gw
+sGQlvoDu0geYsvIByCSxUrazRZRSsrDSlCz9ibhj7jPONFm51+7+yus5Z37nvOc9ivtWj8dDTsdx
+BN4VBO4AOL0C6PspWEL6EXKKCe12O/mkBCkEv4ZIwlqtFo1GAbp4N5zP56+nPIvr2rZdLBbj8Xin
+05FMu91WVRXwCyaTSTgczmQyMC2bzSY18/k8EolMp1OSm81G0zSAIZX7/Q61Wq1cLgdcLpfr9Qqg
+QqEwGAyA2WyWSCQAr0D2ZRiGFEiIbrdbuVyWt67X62QyCdDdL2g0GtlsFmBKrEC/3+/1egCq1+uh
+UGg4HMKKbJO5GQAQ92Kx6Ha7AOJVx+PxcDicTidCf62sKBaLyXssy6pUKtvtdrlcjkajYEiE2dvS
+eDzO5/OpVMo0TR5drVZ1XS+VSul0mmIMTIFVWvsjvdHrDci7gRSjI+nEYLCc4g7aI2W1WklK4l+l
+7Pd7/j4o4Pd3N/LX+tkNH+nfFbjuD0sbxWsbwK0pAAAAAElFTkSuQmCC) :прав на конструкторскую и техническую документацию для проектирования, производства, модернизации и развития соответствующей продукции
+на территории Российской Федерации в соответствии со спецификацией
+на готовое изделие в следующем составе:спецификация на готовое изделие с указанием сборочных единиц и деталей;схема электрическая принципиальная;исключительных или неисключительных (но неотзывных) прав на программное обеспечение;подтверждение осуществления на территории Российской Федерации процессов проектирования схемотехники, конструкции модуля, топологии печатных плат, встроенного программного обеспечения, а также наличия соответствующих кадров и затрат на их содержание;
+выполнение на территории Российской Федерации технологической операции - поверхностный монтаж чип-компонентов на печатную плату
+выполнение на территории Российской Федерации дополнительных требований:установка программного обеспечения, если оно является неотъемлемой частью оборудования (20 баллов);сборка электронного оборудования (корпусирование) (20 баллов);функциональное тестирование готового изделия и проведение технического контроля соответствия требованиям технических условий готового изделия (20 баллов);выполнение дополнительных требований по применению компонентов:применение российских системообразующих микросхем (Bтоп = 14 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VK9isJAGNynyDP4AkJExMYuhY0I
+pjCBYGWvWKUT9A1srFKZNL6ACMFUioWdIihoFRBEYuHf3my+veW4Qs7+plhmZr/5dr9NGH+L1+tF
+6/P5JPIuoKoVwSoCYGjweDyoDUDypxPHMVZUMsopQP5ygE6nUyqVQNBCnHC73Xq9XqFQGAwGaQH3
+PC+Xy1mWdTweSVYqFRAcKAJRFM1mMxBd16/XK07PZrNo1u12HceBv91u6/W6DKgLoA0qQJIkyefz
+k8kkCALf9+Esl0vTNEFEgMZaLBZoD/d0OkGGYcgYazQa4MBms7FtG0TOcL/fU59Xq9XRaAS33W6v
+Vqtardbv9+G7rqtp2nQ6BWfYSIsFms3mfD5fr9eZTAYSs5XLZZDL5XI+nzEeOAMbj8eGYaDfcDgU
+Oc5brVaxWISDu5FDwMDiSsjsdrvD4UAuYb/f0zzph5GAlEMTwOXO99OpXeXIX0OBXClSkCQfEIGP
+8B/4Cz4McP4FzubCOyBWPiQAAAAASUVORK5CYII=) ;применение российских печатных плат (Bтоп = 7 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGbSURBVDhP7VK7isJAFJ2f8DcCiiRp/AHtRLsk
+iIWFFhY2toKFKKROa2UhiHZiYSfaKIjgExW0EPHVKIqv7BnvbhAXl22221PMnHvvOTd3ZsLMN7g/
+QOR2u1n8JwNWSCm0PAzb9Xo9n8/PtcvlgiSAcDKZtNttKr1+AVLLRuh2u9Fo1G63G4aBEC3Y4XBI
+JBKyLOfzeRKVSiWXywXdfr+fzWbI7HY7j8dDVVYul2u1WqfTcTqdm81mtVo5HI7FYoGW8XicROPx
+OJVKEWfH45FYOp0G7/V6MCCsVCqZTIZKuVyu3++D8JGwTafTQCCQzWYfVTMcDnu93mKxuF6vEdbr
+dZhBlsslVm4YDAaRSIQx1mq1EGJCSZJ8Ph+urlqt2my2UCikKAqm5QbrWoLBYKFQ2G63fr8fYTKZ
+RAbHRbtmszkajZCEmL8DttPpFIvF5vM5PiIIAmq4e1VVeacvUGuGk7ndbgzQaDSooOu6KIqapg2H
+Q4Q4KKSk/nw4evNnYuF7ho+EDSt6YH0hVAIeYo63P987/Bt+g782mOYH38fpp3zGW7cAAAAASUVO
+RK5CYII=) </sup>;применение российских вторичных преобразователей питания (Bтоп = 6 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAUCAIAAAALACogAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF/SURBVDhP5ZK9isJQEIXzOr6CjRGiTSrBwijY
+WKSyEVMGoyAoBIMIgmBtFbCwshG7gFE0T2BsNxDERvxZs+dm5LIou/sAe8DLN5M5k5lrhOhnPR4P
+Oj9jEf9mgKiamIAZkL3H4i0phFhhFLmu6/s+AB6Birh4P67lclmpVCRJOhwOCNkbttutoiipVGq/
+3yNEi2q1inAwGCDc7XY4p9Op53nMcL1ebds+nU7D4TCfzyNlWVaxWASUSqXFYgEYjUblchmVzMAH
+Xa/Xk8kE0G63MQNA1/XVagVwHCeZTPb7ffBzB5RiSiwHDsMwnU6rqkohaTab9Xo9gIAt4dlsNjAk
+EglautPpiKJYr9fBrVYrk8l0u93z+cwM+HHhAU7TNLEGIJfLjcdjzIw7pQXQWgiC4CPWfD5vNpvI
+NhqNQqEAMAwDBgDp+ccdj0dN02RZxqsvlwtSaFmr1bLZLF0rupKIXz8NevBdLxl2S7fbDSOiMW/z
+nomLmf74+N71Dw1R9AUr3ll6ozhRGgAAAABJRU5ErkJggg==) </sup>;применение российских микросхем и модулей связи и навигации
+(Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGFSURBVDhP7ZItqwJBGIXnP9ithgWxbrGIGMVs
+WRBkLbqIgs2iwSJ4Yc26Bg0qfiGCimUtYrLabIJoE/zauWd9L6Nc4e4fuCcMzztzzsw7O8v4n7Is
+i0YBDgGIrALY4/Gg4hMgAcfjkdg+gRzvgAWC6/WKsVKpJJNJAAxsMpmEw+FgMLhcLp8ens/nQ6FQ
+LBbb7/cod7udoiiFQgFsB0qlEqjT6ciyDOh2u4FAAGAYRi6XA8xms8FgUC6Xwff7/efSq9WqVqsB
+xuOxSCLT7/e/nopGo4fDAfMMoWaz6XK5RqORHeU8nU77fL56vQ4eDoc4JxKJeL3e9XqNGXa73bbb
+raZpbrebmoY1k8l4PB50b2/A+WazaTQaAJhf7xCPx0+nU6vVUlUVZbvd9vv9gPP5TB8NvWBk8/nc
+NE1d14vFIurpdCpJ0mKxqFarOId8CIjHYdlsNpVK4Vpij16vl0gkKA+JNyG9WqI9KEOCldzvGXZ5
+il6UFnAzmvl0Q84/3y/9B5zF+TcEbIUtK3nojAAAAABJRU5ErkJggg==) ;применение российских интерфейсных микросхем и преобразователей
+(Bтоп = 8 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAVCAIAAAAW+SPgAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VExq4JQGHUP+iXSf3CopaA2IWir
+DFobAqEpghoiJJwkRTLHao0kaEgCqalZiAhqElqe6ct39Io8eATv7e8M1/Ode77Ddz+p4D1erxc5
+ExK6fd93XdfzvER9Pp9QoJPyMwI4RT4EuADiIgLacEqSVCwWZVkOs03TrNfrk8kkMgToFwSh0Wjs
+93uU8/m8VCqdz2dw6nK5DIfD3W6Xy+UURYHU6XRqtdp2u2VZ9na7Xa9XTdMYhrFtm/qIAJMoiqqq
+giBJ13WQarVqWRYIsFwux+NxvBOkchxH+Gq1ymQyaFgsFkQBDocDytD9eDy63W4qlWq32ygxd6vV
+SqfT6/Ua5Ww2azabPM87jkMlS9hsNuVyGaTX6xmGgXFpmkYk3ofU+/2OqzCbrAnDYDIQPHc0GoFU
+KpXpdApCgPVTx+MRz8rn8/1+n6in06lQKGSz2cFgQExA/HciQzjrO/L9f4VuUuM6IcSaKElDnP1L
+/Lt/4i/uIPgCazFLcJVt9F4AAAAASUVORK5CYII=) ;применение российских полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGuSURBVDhP7ZI/66lxGMa/Xod3YZBMYjaxKYPN
+QPKnSJks9ItFshCDQUkMZGKwkBKF2MQiKQaD/8/5PL5OP+cM55wXcK7h2/Vc9//7foTyRzyfT/k+
+Ho/7/Q5RA/i4XC63202aATapSKsUJQS2N/2Z79Pjer3yoieTSavVutvt1AqLxSIajVarVWnj7fV6
+4XC42WzCQSQSwQFCvNhut/F4vFwuWyyWQqGA2ul0zGZzsVi02Wzj8Xg0Gul0OqfTmclksIrT6UQh
+WD6fl2nI7fP5IF8vVCqVYDC4Wq0MBsN0On1vaT6fx2Ix2f1kMtFqtYPBIJ1OH49Hui+VSugOh4Pi
+agBFXC6XRqNJpVJqtKIkEgkhBH3Ch8MhveVyuUAgcDgcBFnP5zMG0phMJumRzWb7/b5er6/Vaiit
+VisUCq3Xa/j34Wazmd/vhzAAY0DYm91ufxnf4AZiuVx6PB7GcrvdTIJKbqPR6PV6abrb7aJwRCAn
+FPv9vt1uNxqNzWbDt7wUO6nX6+wE/nlZ8N0SkP/Cp4dUuKY8KBAwPICsKG3w35SXs4pfKvwL/gf8
+HYryA1YLeIUnz/t1AAAAAElFTkSuQmCC) </sup>;применение российских силовых полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGXSURBVDhP7ZI9y4FxFMbvL+Ar2HwHpeRjmAwG
+g/JIJJlkUWIyWNxlMZgYiDKhhMGChCh5yWIk8vb8bke6LU/szzWcruucc/3/5/+i3L/EX4bb7Ua8
+Xq+nB87nM1IzUCB7uVykA7zkKyNAKvoUfURaRQr6/b7f7/d4PPl8HvkcqdlstlotiHgWi0WpVNrt
+dvBardZoNFRVjUQiSM2ANRgMms3mbDaLHI1GNpvN6/U6nc7tdiujTyaTer2uGY7HIx2wTqdjt9sh
+gUAgFApBGIN9ICCVSu33e8jzDIfDIZfLzWYzeLFYtFqt0+k0nU6vViupZjIZ6VRk6EQiYTAYwuEw
+HLjdbqPR2G63RbIEJ4HQrJ2BqYiVSsVkMjHxYDCIx+OFQsFisQyHQ0q9Xm+5XD4NvAhM4HA4iC6X
+KxaLQaLRqNyMQGZRNptNMpn0+Xyclcslxf2y9s8D4/GYDNtKt/ZwsG63W61WpSavNp/Py+Xyer2G
+S+sLb39JuvUvLVz/G7RrZQ0KRCnoMyIlL3jb4RP8Gz7Bl4b7/RfepPBVgm9AugAAAABJRU5ErkJg
+gg==) ;применение российских пассивных элементов стандартных (Bтоп = 3 балла), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAYCAIAAAB8wupbAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG4SURBVDhP7VI9y0FhGD6/weYP+AEssiLlYziz
+QUZRymAwKLMoOhYDMwZJCrGIkkIxSCGRkrD5/jiuxy0dy5t3eLf3qnOf677OfT3389zP4cRf4ifD
+/X5HvF6vp9MJkRQOD3C73RCfZUxFCoBTHYEUjl4E8LcNOJ/PiNVq1e129/t9cBSwLc3n82azeblc
+WNWzA9LJZAI+HA7tdnsymTQYDPSVg9Xr9er1eofDQZLL5bJYLFartdFoLBYLm822Wq08Hg9tj2u3
+27S2VqtdLpeDwUCpVCLFTpxOJ0g8Hler1ePxGBye15S63W6xWATBYiqVqtVq5XK5QqGw2WwymUyl
+UuF5fr/fo4AZ6vW6QqEwm8273Q5pNpuVyWTRaBS8VqtB3263RqNxOp0yA7ocDofRaCSXy/P5PCRB
+EBKJhE6nS6VSSCORiMlkKpVK4K8pEXw+H9brdDoajQZpr9fDZKRTJs7BGovFwuFwMBjE6dfrNU7v
+9/sDgQB0VED8uOlyuYymmPTxeGTriOJsNguFQul0mlJpE+DjX8I36cUjpWqKBHZo/ALo+1bhkSrS
+auCjwzf4N3yDvzaI4gPLzxFV7uBOcwAAAABJRU5ErkJggg==) </sup>;применение российских конденсаторов большой емкости (Bтоп = 4 балла), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGWSURBVDhP7VG7isJQEE3pP+QXrMU2oIIoGLCw
+kYCIoIWIXcAiTZqAgiCCVQqRtD4QG0HECIJEQbBTtPALRJD4SvYkN9xdhAW334EM55w7Z+5kLmP/
+HpZlIb9eLwCSQR3D8/m83W6Px4NIyPf7HQotogHKQPWYy98qENPpNBQKFYtFdAR1btB1PZfLaZrm
+FtimadZqNSjH4xE0nU5fr9dKpaIoCihzOp3q9fp8Puc4bjAYQBJFsVwu9/t9QRD2+30ymYS4WCwK
+hYJjQD+MC4QGw+EQIBKJjMdjgGg0erlccFU2m02lUrIsOwZ8iFarha4Ed7tdv9/f6XQmkwlRRqNR
+IBA4HA7AjuF8PkuS5PP5qtUqKNaQyWRYlt1sNqAYuFQqrVYrcsTQtfR6vXw+DwDzcrncbrfBYBBd
+Mf1ut4P+vSVsHbnZbGIMAPxDu90GSCQSs9kMAEGq0Z1Zr9c8z8disUajQc4Mw4jH4+FwWFVVUJSS
+t3IfyfJ+mj4fBTh7AyQcA5FQSgGxUeWnx7vh8/g3fBJ/NNj2F7s+g7O79ytMAAAAAElFTkSuQmCC
+) </sup>;применение российских сенсорных элементов (Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAXCAIAAABrvZPKAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIPSURBVDhP7ZJPq2lRGMb31NfwBSTlT4mvIJGB
+jDBBSZQBRUohJMmAEgZCMhGliBKlJCMhyYASIxH5d/Z99lly3G7nDu4d3brPYO/fetb7rvWudy2K
+/l4fnwLc7/fH40EcwPuQyb/dbpfLBe4r53q9wkEQGCYRmXoOaJosQZEfERbC9z2ILBqJRLxeL3Hy
++bxYLK5UKmDMMvtXq1WbzdbtdomFbywWc7lcy+USfD6fJRKJXq8Hj8djpVIJR6vVzudzOFS73Q6H
+w/F4nMfjTadTWHa7XaVS5XI5uVy+2Wzg1Ot1s9kMwLp+vx/g8/kymQyTv1qt8INMJlOz2QRwOJzR
+aARQq9XD4RCQzWaNRiMgFAql02lAIBBIpVIApn4cuFQqFYtFMOR0OmUyWb/fR9rxeIRTq9UcDgcA
+RXk8HoDb7UZRACZ/MBhIpVIWi9Xr9TCEhEIhl8udzWZkaLFYRCLRbrc7nU44FA6r0WhIsylcFbkC
+hUJhtVoBwWCwXC4XCgU+n4/TIS6ZTKJHk8kEs2ghalmv12Akfr0f9AZxADabvVgsADqdLpFIfE4+
+RW6H6Hn/6Ad6YzAYsMPhcIAVjUYFAgHaiUvdbrdw8JZeZWIJ8rTAaByFelqtVqfTQQSx8EXbG43G
+fr8Hk9Dv9FU/RELfE177kOGvYt4v0SsI8O78Jhn6af8/0P/8v9O/nU/TPwDXmhtQQjVL3QAAAABJ
+RU5ErkJggg==) ;применение российских периферийных микросхем (Bтоп = 8 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAIAAADJt1n/AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHiSURBVDhP7ZK/y4FRFMevv8A/wK6sFiMWm8kk
+RZlIIqIMj2RUYrMgRVn8msgglJCSpEwsRLJZ/PZ+H8f78D71DnrX9zvcPvfcc+45597D7r/r9hDg
+er1eLhdirALzwTg7Ho/n85lMEJgsYMEIEBgCM1zz3H374S7aQqfTCWu9XrfZbHS63W4tFstkMgHz
+mWezWTAYLBaLYPJoNpt+v7/RaIAhj8ejUCjoqFqtymSyXq8HZpvNJhKJ5HI5rVabzWZhQh6dTpfJ
+ZIxGY7/fh2W9Xuv1etRIRTkcjk6nwwfv93tUAkomk6FQCOB2uwOBACAcDkejUcB4PNZoNMITmM3m
+drsNfr72dDrlOI4KGwwGcrl8OBzGYjHUBctqtTIYDAB6IKfTORqNAHwwklutVolEEo/HsYWQkzFW
+LpdpWygUpFIpPdJisVAqlYlEAszQxuFwAKVSKbQK6Ha7aAFdqVSqWq1GwXjRVqsFRkW4Op/Po4vX
+kKAxn88HsNvt1Hw6nUZ7j8OnqG1BDP+EHrxeL2LAMCGnWq12uVwmkwlVwIKBgajh94liu90OtVUq
+leVyiTOaivl8XiqV6K73KRLpVTZEVb17C99DHyESgxXeEA0A+YFFloezWD8yf6r/4A/1h+D7/Qv8
+uGgNZwuOCAAAAABJRU5ErkJggg==) </sup>;применение российских микросхем памяти (Bтоп = 11 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHuSURBVDhP7VJL6+FhFPYR+AC+gZI9G1bKwsqC
+ZEcUJcpSNhYWIiU7JZeFDeW6YKHkllJyi4VQCBss3H//53Wmf9PMv2maWcxmnsXpOZfnPe8578vj
+OO71ej2fz8fjAQIXIBeWOAWBnzkPmu9ln5Zwv99hN5tNLBa7Xq/gyWTSbDb3ej1wVLL+QL1er9Vq
+IHTW4XDI5XLz+fyd5Ewmk0gkQmo8HqfT6Wg0qlAojscjUkyPkMvlkkqlgUAA7n6/VyqVaKLX61ut
+FiLT6dRgMJxOJ3CCVqtdLBYgvMvlMhwOwVCkUqlAIpGIWq0GCYfDXq8XBG0hoIbAarUKBoMguBGb
+H+x2u6VSKTqo2+1KJBJMiJk7nQ4iy+XSaDSiEziQSCRIxeanbYVCIT6fj6J3Aef3+wUCQTweJ7dY
+LIrF4slkcj6frVYrstlstlKpIMXmp4ObzaZQKNxut7vdzuPxVKtVmUyWyWSQws5tNluj0ej3+06n
+E8tyu90oY3p6FYJOp4P1+XxE8vm8RqN5Z74Gm3+9XuM+drvd4XCUy2VEZ7OZXC7Hm1ksFtwCEWwH
+behHgQCI0ArY/O12u1QqDQYD+CiCxRSFQmE0GoGjjkq/xLf/QyAxbZRAkV+AvR8EdLfPPj9Efrf/
+H+C//u/wb/Uc9wFZDq0o+ZNlVwAAAABJRU5ErkJggg==) ;применение российских соединителей (в том числе разъемов, жгутов, кабелей) (Bтоп = 6 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAIAAAAf7rriAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHgSURBVDhP7VJLy6lRGN0lf8IPMMAPMFFKipKJ
+GChz14yQkcsvkJRiggmKDJhQLlGEFCMDIiNMUC65fLzf8j1ffW/n1KlzxmcN9l7r2c/az7Mv7PV6
+fXwBhPsCRZ7PJ3EKAhQhEGf8EFL58vF4YLxer8lkcrfbgW82G7fbnUqlwJHJMDWbzV6vB0I4nU61
+Wm08HpPMZDKMsfV6DZ5Op6vVqslkmkwmkCwWi/n9fo1GEw6HoQ+Hg8FgcLlcRqOxXq8jgiNotdrF
+YgF+uVwwlkolFHibO50OJvSjUChAisWiWq0G6ff7FosFBG2rVKrZbAYOs91uF4vF8/kc8t02kEgk
+BoMByHK5lMlk3W43l8uVy2Va1ev11DbB6/UGg0GQtxn3IRAIrFYrikDm83mhUBgIBN6JHLdarUQi
+UaVSAW+3261WKxqNYndIRobRaCSRSKbT6fl8jkQiOItcLo/H41hCtsPhQAHwUCgETifFXXy3Ddhs
+tuPxmM1mdTod5Ha7lUqltETgvyKcGJnH4/H5fHAWCgVo3JxSqXQ6nWazGf0jcr/fb7cbvTlxcuJT
+sEajgVcdDofQlLHf7xGhl+dX+x0/bZOTdiVQhP9DfwFDNkAVKA+cIiT/ZP6e/wn/zX8FjvsEz7r0
+DN8+OjcAAAAASUVORK5CYII=) </sup>;применение российских катушек индуктивности и трансформаторов
+(Bтоп = 3 балла), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHpSURBVDhP7VI9q8FRHD7lM/gGFpNPwMJiMigs
+XsqEwUsKg1GysDDIYDIoZVBikCJClCiDlwwMLIpE3q77/P1ux73d7h3uHe5yn+H8n+d3fi/POefP
+Xh643W5Y7w+Q5JHr9crjfOWEIY80QJxHkHG5XECGw2GxWAShrfV63Wq1KIHhs1wue73e6XTiGZPJ
+pN/vgwDH41EqlRqNRnBqZ7fbbTYbCKyxbrfr8XjUarXBYCCr6XRaoVBotdpQKEQmM5mM1+sFATqd
+jsPhiEaj4BjGGo3G+XyGUKlU5ArT4AgEXebzOUg2m3W5XCCHw6HZbFar1VgsBgk7gn9gOp3mcjky
+r1Qq4/H4ZrPBzN1uhwi23G43SCQSCQaD5Hc2myEi1NfrdYlEotPpUAOJXmKx2GKx7Pd7SCCVSplM
+JpBarZZIJMxms1wuH4/HiAj12+12MBiIRKJkMglZqVRgT6/XYw4kulitVpwOJ4cE8Bz5fB7k6R8I
+h8PoDSKTyeggqCmVSo/NN+CC6ZmIY2XtdrtcLhcKhUAgsFgsENJoND6fD1bhczQaIYILxij+56A7
+DRDeH1fldDpRsFqtaBu/h9/vxyPhUJCU+hWe/gGk8iEEPofkZzB4w5EAPgfkfeSbYuDD/B/gv/53
++Nv6+/0VdWmkwcFJ5uAAAAAASUVORK5CYII=) </sup>
+из 29.32.30.345Электронный блок предупреждения
+об опасном сближении, применяемый в составе продукции отрасли специального машиностроениявыполнение на территории Российской Федерации требований
+(в совокупности 140 баллов):наличие у юридического лица - налогового резидента Российской Федерации,
+не находящегося под контролем иностранного государства, и (или) международной организации, и (или) иностранного юридического
+или физического лица, и (или) иностранной структуры без образования юридического лица ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGHSURBVDhPzZBPqwFhFIdn6WvI1kcYpdQoi5Gw
+sGQlvoDu0geYsvIByCSxUrazRZRSsrDSlCz9ibhj7jPONFm51+7+yus5Z37nvOc9ivtWj8dDTsdx
+BN4VBO4AOL0C6PspWEL6EXKKCe12O/mkBCkEv4ZIwlqtFo1GAbp4N5zP56+nPIvr2rZdLBbj8Xin
+05FMu91WVRXwCyaTSTgczmQyMC2bzSY18/k8EolMp1OSm81G0zSAIZX7/Q61Wq1cLgdcLpfr9Qqg
+QqEwGAyA2WyWSCQAr0D2ZRiGFEiIbrdbuVyWt67X62QyCdDdL2g0GtlsFmBKrEC/3+/1egCq1+uh
+UGg4HMKKbJO5GQAQ92Kx6Ha7AOJVx+PxcDicTidCf62sKBaLyXssy6pUKtvtdrlcjkajYEiE2dvS
+eDzO5/OpVMo0TR5drVZ1XS+VSul0mmIMTIFVWvsjvdHrDci7gRSjI+nEYLCc4g7aI2W1WklK4l+l
+7Pd7/j4o4Pd3N/LX+tkNH+nfFbjuD0sbxWsbwK0pAAAAAElFTkSuQmCC) :прав на конструкторскую и техническую документацию для проектирования, производства, модернизации и развития соответствующей продукции
+на территории Российской Федерации в соответствии со спецификацией
+на готовое изделие в следующем составе:спецификация на готовое изделие с указанием сборочных единиц и деталей;схема электрическая принципиальная;
+исключительных или неисключительных (но неотзывных) прав на программное обеспечение;подтверждение осуществления на территории Российской Федерации процессов проектирования схемотехники, конструкции модуля, топологии печатных плат, встроенного программного обеспечения, а также наличия соответствующих кадров и затрат на их содержание;выполнение на территории Российской Федерации технологической операции - поверхностный монтаж чип-компонентов на печатную плату
+выполнение на территории Российской Федерации дополнительных требований:установка программного обеспечения, если оно является неотъемлемой частью оборудования (20 баллов);сборка электронного оборудования (корпусирование) (20 баллов);функциональное тестирование готового изделия и проведение технического контроля соответствия требованиям технических условий готового изделия (20 баллов);выполнение дополнительных требований по применению компонентов:применение российских системообразующих микросхем (Bтоп = 14 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VK9isJAGNynyDP4AkJExMYuhY0I
+pjCBYGWvWKUT9A1srFKZNL6ACMFUioWdIihoFRBEYuHf3my+veW4Qs7+plhmZr/5dr9NGH+L1+tF
+6/P5JPIuoKoVwSoCYGjweDyoDUDypxPHMVZUMsopQP5ygE6nUyqVQNBCnHC73Xq9XqFQGAwGaQH3
+PC+Xy1mWdTweSVYqFRAcKAJRFM1mMxBd16/XK07PZrNo1u12HceBv91u6/W6DKgLoA0qQJIkyefz
+k8kkCALf9+Esl0vTNEFEgMZaLBZoD/d0OkGGYcgYazQa4MBms7FtG0TOcL/fU59Xq9XRaAS33W6v
+Vqtardbv9+G7rqtp2nQ6BWfYSIsFms3mfD5fr9eZTAYSs5XLZZDL5XI+nzEeOAMbj8eGYaDfcDgU
+Oc5brVaxWISDu5FDwMDiSsjsdrvD4UAuYb/f0zzph5GAlEMTwOXO99OpXeXIX0OBXClSkCQfEIGP
+8B/4Cz4McP4FzubCOyBWPiQAAAAASUVORK5CYII=) ;применение российских печатных плат (Bтоп = 7 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGbSURBVDhP7VK7isJAFJ2f8DcCiiRp/AHtRLsk
+iIWFFhY2toKFKKROa2UhiHZiYSfaKIjgExW0EPHVKIqv7BnvbhAXl22221PMnHvvOTd3ZsLMN7g/
+QOR2u1n8JwNWSCm0PAzb9Xo9n8/PtcvlgiSAcDKZtNttKr1+AVLLRuh2u9Fo1G63G4aBEC3Y4XBI
+JBKyLOfzeRKVSiWXywXdfr+fzWbI7HY7j8dDVVYul2u1WqfTcTqdm81mtVo5HI7FYoGW8XicROPx
+OJVKEWfH45FYOp0G7/V6MCCsVCqZTIZKuVyu3++D8JGwTafTQCCQzWYfVTMcDnu93mKxuF6vEdbr
+dZhBlsslVm4YDAaRSIQx1mq1EGJCSZJ8Ph+urlqt2my2UCikKAqm5QbrWoLBYKFQ2G63fr8fYTKZ
+RAbHRbtmszkajZCEmL8DttPpFIvF5vM5PiIIAmq4e1VVeacvUGuGk7ndbgzQaDSooOu6KIqapg2H
+Q4Q4KKSk/nw4evNnYuF7ho+EDSt6YH0hVAIeYo63P987/Bt+g782mOYH38fpp3zGW7cAAAAASUVO
+RK5CYII=) </sup>;применение российских вторичных преобразователей питания (Bтоп = 6 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAUCAIAAAALACogAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF/SURBVDhP5ZK9isJQEIXzOr6CjRGiTSrBwijY
+WKSyEVMGoyAoBIMIgmBtFbCwshG7gFE0T2BsNxDERvxZs+dm5LIou/sAe8DLN5M5k5lrhOhnPR4P
+Oj9jEf9mgKiamIAZkL3H4i0phFhhFLmu6/s+AB6Birh4P67lclmpVCRJOhwOCNkbttutoiipVGq/
+3yNEi2q1inAwGCDc7XY4p9Op53nMcL1ebds+nU7D4TCfzyNlWVaxWASUSqXFYgEYjUblchmVzMAH
+Xa/Xk8kE0G63MQNA1/XVagVwHCeZTPb7ffBzB5RiSiwHDsMwnU6rqkohaTab9Xo9gIAt4dlsNjAk
+EglautPpiKJYr9fBrVYrk8l0u93z+cwM+HHhAU7TNLEGIJfLjcdjzIw7pQXQWgiC4CPWfD5vNpvI
+NhqNQqEAMAwDBgDp+ccdj0dN02RZxqsvlwtSaFmr1bLZLF0rupKIXz8NevBdLxl2S7fbDSOiMW/z
+nomLmf74+N71Dw1R9AUr3ll6ozhRGgAAAABJRU5ErkJggg==) </sup>;применение российских микросхем и модулей связи и навигации
+(Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGFSURBVDhP7ZItqwJBGIXnP9ithgWxbrGIGMVs
+WRBkLbqIgs2iwSJ4Yc26Bg0qfiGCimUtYrLabIJoE/zauWd9L6Nc4e4fuCcMzztzzsw7O8v4n7Is
+i0YBDgGIrALY4/Gg4hMgAcfjkdg+gRzvgAWC6/WKsVKpJJNJAAxsMpmEw+FgMLhcLp8ens/nQ6FQ
+LBbb7/cod7udoiiFQgFsB0qlEqjT6ciyDOh2u4FAAGAYRi6XA8xms8FgUC6Xwff7/efSq9WqVqsB
+xuOxSCLT7/e/nopGo4fDAfMMoWaz6XK5RqORHeU8nU77fL56vQ4eDoc4JxKJeL3e9XqNGXa73bbb
+raZpbrebmoY1k8l4PB50b2/A+WazaTQaAJhf7xCPx0+nU6vVUlUVZbvd9vv9gPP5TB8NvWBk8/nc
+NE1d14vFIurpdCpJ0mKxqFarOId8CIjHYdlsNpVK4Vpij16vl0gkKA+JNyG9WqI9KEOCldzvGXZ5
+il6UFnAzmvl0Q84/3y/9B5zF+TcEbIUtK3nojAAAAABJRU5ErkJggg==) ;применение российских интерфейсных микросхем и преобразователей
+(Bтоп = 8 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAVCAIAAAAW+SPgAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhP7VExq4JQGHUP+iXSf3CopaA2IWir
+DFobAqEpghoiJJwkRTLHao0kaEgCqalZiAhqElqe6ct39Io8eATv7e8M1/Ode77Ddz+p4D1erxc5
+ExK6fd93XdfzvER9Pp9QoJPyMwI4RT4EuADiIgLacEqSVCwWZVkOs03TrNfrk8kkMgToFwSh0Wjs
+93uU8/m8VCqdz2dw6nK5DIfD3W6Xy+UURYHU6XRqtdp2u2VZ9na7Xa9XTdMYhrFtm/qIAJMoiqqq
+giBJ13WQarVqWRYIsFwux+NxvBOkchxH+Gq1ymQyaFgsFkQBDocDytD9eDy63W4qlWq32ygxd6vV
+SqfT6/Ua5Ww2azabPM87jkMlS9hsNuVyGaTX6xmGgXFpmkYk3ofU+/2OqzCbrAnDYDIQPHc0GoFU
+KpXpdApCgPVTx+MRz8rn8/1+n6in06lQKGSz2cFgQExA/HciQzjrO/L9f4VuUuM6IcSaKElDnP1L
+/Lt/4i/uIPgCazFLcJVt9F4AAAAASUVORK5CYII=) ;применение российских полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGuSURBVDhP7ZI/66lxGMa/Xod3YZBMYjaxKYPN
+QPKnSJks9ItFshCDQUkMZGKwkBKF2MQiKQaD/8/5PL5OP+cM55wXcK7h2/Vc9//7foTyRzyfT/k+
+Ho/7/Q5RA/i4XC63202aATapSKsUJQS2N/2Z79Pjer3yoieTSavVutvt1AqLxSIajVarVWnj7fV6
+4XC42WzCQSQSwQFCvNhut/F4vFwuWyyWQqGA2ul0zGZzsVi02Wzj8Xg0Gul0OqfTmclksIrT6UQh
+WD6fl2nI7fP5IF8vVCqVYDC4Wq0MBsN0On1vaT6fx2Ix2f1kMtFqtYPBIJ1OH49Hui+VSugOh4Pi
+agBFXC6XRqNJpVJqtKIkEgkhBH3Ch8MhveVyuUAgcDgcBFnP5zMG0phMJumRzWb7/b5er6/Vaiit
+VisUCq3Xa/j34Wazmd/vhzAAY0DYm91ufxnf4AZiuVx6PB7GcrvdTIJKbqPR6PV6abrb7aJwRCAn
+FPv9vt1uNxqNzWbDt7wUO6nX6+wE/nlZ8N0SkP/Cp4dUuKY8KBAwPICsKG3w35SXs4pfKvwL/gf8
+HYryA1YLeIUnz/t1AAAAAElFTkSuQmCC) </sup>;применение российских силовых полупроводниковых приборов (Bтоп = 5 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAIAAACNlFiOAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGXSURBVDhP7ZI9y4FxFMbvL+Ar2HwHpeRjmAwG
+g/JIJJlkUWIyWNxlMZgYiDKhhMGChCh5yWIk8vb8bke6LU/szzWcruucc/3/5/+i3L/EX4bb7Ua8
+Xq+nB87nM1IzUCB7uVykA7zkKyNAKvoUfURaRQr6/b7f7/d4PPl8HvkcqdlstlotiHgWi0WpVNrt
+dvBardZoNFRVjUQiSM2ANRgMms3mbDaLHI1GNpvN6/U6nc7tdiujTyaTer2uGY7HIx2wTqdjt9sh
+gUAgFApBGIN9ICCVSu33e8jzDIfDIZfLzWYzeLFYtFqt0+k0nU6vViupZjIZ6VRk6EQiYTAYwuEw
+HLjdbqPR2G63RbIEJ4HQrJ2BqYiVSsVkMjHxYDCIx+OFQsFisQyHQ0q9Xm+5XD4NvAhM4HA4iC6X
+KxaLQaLRqNyMQGZRNptNMpn0+Xyclcslxf2y9s8D4/GYDNtKt/ZwsG63W61WpSavNp/Py+Xyer2G
+S+sLb39JuvUvLVz/G7RrZQ0KRCnoMyIlL3jb4RP8Gz7Bl4b7/RfepPBVgm9AugAAAABJRU5ErkJg
+gg==) </sup>;применение российских пассивных элементов стандартных (Bтоп = 3 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAYCAIAAAB8wupbAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG4SURBVDhP7VI9y0FhGD6/weYP+AEssiLlYziz
+QUZRymAwKLMoOhYDMwZJCrGIkkIxSCGRkrD5/jiuxy0dy5t3eLf3qnOf677OfT3389zP4cRf4ifD
+/X5HvF6vp9MJkRQOD3C73RCfZUxFCoBTHYEUjl4E8LcNOJ/PiNVq1e129/t9cBSwLc3n82azeblc
+WNWzA9LJZAI+HA7tdnsymTQYDPSVg9Xr9er1eofDQZLL5bJYLFartdFoLBYLm822Wq08Hg9tj2u3
+27S2VqtdLpeDwUCpVCLFTpxOJ0g8Hler1ePxGBye15S63W6xWATBYiqVqtVq5XK5QqGw2WwymUyl
+UuF5fr/fo4AZ6vW6QqEwm8273Q5pNpuVyWTRaBS8VqtB3263RqNxOp0yA7ocDofRaCSXy/P5PCRB
+EBKJhE6nS6VSSCORiMlkKpVK4K8pEXw+H9brdDoajQZpr9fDZKRTJs7BGovFwuFwMBjE6dfrNU7v
+9/sDgQB0VED8uOlyuYymmPTxeGTriOJsNguFQul0mlJpE+DjX8I36cUjpWqKBHZo/ALo+1bhkSrS
+auCjwzf4N3yDvzaI4gPLzxFV7uBOcwAAAABJRU5ErkJggg==) ;применение российских конденсаторов большой емкости (Bтоп = 4 балла), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAVCAIAAADAXPmFAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGWSURBVDhP7VG7isJQEE3pP+QXrMU2oIIoGLCw
+kYCIoIWIXcAiTZqAgiCCVQqRtD4QG0HECIJEQbBTtPALRJD4SvYkN9xdhAW334EM55w7Z+5kLmP/
+HpZlIb9eLwCSQR3D8/m83W6Px4NIyPf7HQotogHKQPWYy98qENPpNBQKFYtFdAR1btB1PZfLaZrm
+FtimadZqNSjH4xE0nU5fr9dKpaIoCihzOp3q9fp8Puc4bjAYQBJFsVwu9/t9QRD2+30ymYS4WCwK
+hYJjQD+MC4QGw+EQIBKJjMdjgGg0erlccFU2m02lUrIsOwZ8iFarha4Ed7tdv9/f6XQmkwlRRqNR
+IBA4HA7AjuF8PkuS5PP5qtUqKNaQyWRYlt1sNqAYuFQqrVYrcsTQtfR6vXw+DwDzcrncbrfBYBBd
+Mf1ut4P+vSVsHbnZbGIMAPxDu90GSCQSs9kMAEGq0Z1Zr9c8z8disUajQc4Mw4jH4+FwWFVVUJSS
+t3IfyfJ+mj4fBTh7AyQcA5FQSgGxUeWnx7vh8/g3fBJ/NNj2F7s+g7O79ytMAAAAAElFTkSuQmCC
+) </sup>;применение российских сенсорных элементов (Bтоп = 10 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAXCAIAAABrvZPKAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIPSURBVDhP7ZJPq2lRGMb31NfwBSTlT4mvIJGB
+jDBBSZQBRUohJMmAEgZCMhGliBKlJCMhyYASIxH5d/Z99lly3G7nDu4d3brPYO/fetb7rvWudy2K
+/l4fnwLc7/fH40EcwPuQyb/dbpfLBe4r53q9wkEQGCYRmXoOaJosQZEfERbC9z2ILBqJRLxeL3Hy
++bxYLK5UKmDMMvtXq1WbzdbtdomFbywWc7lcy+USfD6fJRKJXq8Hj8djpVIJR6vVzudzOFS73Q6H
+w/F4nMfjTadTWHa7XaVS5XI5uVy+2Wzg1Ot1s9kMwLp+vx/g8/kymQyTv1qt8INMJlOz2QRwOJzR
+aARQq9XD4RCQzWaNRiMgFAql02lAIBBIpVIApn4cuFQqFYtFMOR0OmUyWb/fR9rxeIRTq9UcDgcA
+RXk8HoDb7UZRACZ/MBhIpVIWi9Xr9TCEhEIhl8udzWZkaLFYRCLRbrc7nU44FA6r0WhIsylcFbkC
+hUJhtVoBwWCwXC4XCgU+n4/TIS6ZTKJHk8kEs2ghalmv12Akfr0f9AZxADabvVgsADqdLpFIfE4+
+RW6H6Hn/6Ad6YzAYsMPhcIAVjUYFAgHaiUvdbrdw8JZeZWIJ8rTAaByFelqtVqfTQQSx8EXbG43G
+fr8Hk9Dv9FU/RELfE177kOGvYt4v0SsI8O78Jhn6af8/0P/8v9O/nU/TPwDXmhtQQjVL3QAAAABJ
+RU5ErkJggg==) ;применение российских периферийных микросхем (Bтоп = 8 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAIAAADJt1n/AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHiSURBVDhP7ZK/y4FRFMevv8A/wK6sFiMWm8kk
+RZlIIqIMj2RUYrMgRVn8msgglJCSpEwsRLJZ/PZ+H8f78D71DnrX9zvcPvfcc+45597D7r/r9hDg
+er1eLhdirALzwTg7Ho/n85lMEJgsYMEIEBgCM1zz3H374S7aQqfTCWu9XrfZbHS63W4tFstkMgHz
+mWezWTAYLBaLYPJoNpt+v7/RaIAhj8ejUCjoqFqtymSyXq8HZpvNJhKJ5HI5rVabzWZhQh6dTpfJ
+ZIxGY7/fh2W9Xuv1etRIRTkcjk6nwwfv93tUAkomk6FQCOB2uwOBACAcDkejUcB4PNZoNMITmM3m
+drsNfr72dDrlOI4KGwwGcrl8OBzGYjHUBctqtTIYDAB6IKfTORqNAHwwklutVolEEo/HsYWQkzFW
+LpdpWygUpFIpPdJisVAqlYlEAszQxuFwAKVSKbQK6Ha7aAFdqVSqWq1GwXjRVqsFRkW4Op/Po4vX
+kKAxn88HsNvt1Hw6nUZ7j8OnqG1BDP+EHrxeL2LAMCGnWq12uVwmkwlVwIKBgajh94liu90OtVUq
+leVyiTOaivl8XiqV6K73KRLpVTZEVb17C99DHyESgxXeEA0A+YFFloezWD8yf6r/4A/1h+D7/Qv8
+uGgNZwuOCAAAAABJRU5ErkJggg==) </sup>;применение российских микросхем памяти (Bтоп = 11 баллов), расчет баллов осуществляется по формуле<sup> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHuSURBVDhP7VJL6+FhFPYR+AC+gZI9G1bKwsqC
+ZEcUJcpSNhYWIiU7JZeFDeW6YKHkllJyi4VQCBss3H//53Wmf9PMv2maWcxmnsXpOZfnPe8578vj
+OO71ej2fz8fjAQIXIBeWOAWBnzkPmu9ln5Zwv99hN5tNLBa7Xq/gyWTSbDb3ej1wVLL+QL1er9Vq
+IHTW4XDI5XLz+fyd5Ewmk0gkQmo8HqfT6Wg0qlAojscjUkyPkMvlkkqlgUAA7n6/VyqVaKLX61ut
+FiLT6dRgMJxOJ3CCVqtdLBYgvMvlMhwOwVCkUqlAIpGIWq0GCYfDXq8XBG0hoIbAarUKBoMguBGb
+H+x2u6VSKTqo2+1KJBJMiJk7nQ4iy+XSaDSiEziQSCRIxeanbYVCIT6fj6J3Aef3+wUCQTweJ7dY
+LIrF4slkcj6frVYrstlstlKpIMXmp4ObzaZQKNxut7vdzuPxVKtVmUyWyWSQws5tNluj0ej3+06n
+E8tyu90oY3p6FYJOp4P1+XxE8vm8RqN5Z74Gm3+9XuM+drvd4XCUy2VEZ7OZXC7Hm1ksFtwCEWwH
+behHgQCI0ArY/O12u1QqDQYD+CiCxRSFQmE0GoGjjkq/xLf/QyAxbZRAkV+AvR8EdLfPPj9Efrf/
+H+C//u/wb/Uc9wFZDq0o+ZNlVwAAAABJRU5ErkJggg==) </sup>;применение российских соединителей (в том числе разъемов, жгутов, кабелей) (Bтоп = 6 баллов), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAIAAAAf7rriAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHgSURBVDhP7VJLy6lRGN0lf8IPMMAPMFFKipKJ
+GChz14yQkcsvkJRiggmKDJhQLlGEFCMDIiNMUC65fLzf8j1ffW/n1KlzxmcN9l7r2c/az7Mv7PV6
+fXwBhPsCRZ7PJ3EKAhQhEGf8EFL58vF4YLxer8lkcrfbgW82G7fbnUqlwJHJMDWbzV6vB0I4nU61
+Wm08HpPMZDKMsfV6DZ5Op6vVqslkmkwmkCwWi/n9fo1GEw6HoQ+Hg8FgcLlcRqOxXq8jgiNotdrF
+YgF+uVwwlkolFHibO50OJvSjUChAisWiWq0G6ff7FosFBG2rVKrZbAYOs91uF4vF8/kc8t02kEgk
+BoMByHK5lMlk3W43l8uVy2Va1ev11DbB6/UGg0GQtxn3IRAIrFYrikDm83mhUBgIBN6JHLdarUQi
+UaVSAW+3261WKxqNYndIRobRaCSRSKbT6fl8jkQiOItcLo/H41hCtsPhQAHwUCgETifFXXy3Ddhs
+tuPxmM1mdTod5Ha7lUqltETgvyKcGJnH4/H5fHAWCgVo3JxSqXQ6nWazGf0jcr/fb7cbvTlxcuJT
+sEajgVcdDofQlLHf7xGhl+dX+x0/bZOTdiVQhP9DfwFDNkAVKA+cIiT/ZP6e/wn/zX8FjvsEz7r0
+DN8+OjcAAAAASUVORK5CYII=) ;применение российских катушек индуктивности и трансформаторов
+(Bтоп = 3 балла), расчет баллов осуществляется по формуле ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHpSURBVDhP7VI9q8FRHD7lM/gGFpNPwMJiMigs
+XsqEwUsKg1GysDDIYDIoZVBikCJClCiDlwwMLIpE3q77/P1ux73d7h3uHe5yn+H8n+d3fi/POefP
+Xh643W5Y7w+Q5JHr9crjfOWEIY80QJxHkHG5XECGw2GxWAShrfV63Wq1KIHhs1wue73e6XTiGZPJ
+pN/vgwDH41EqlRqNRnBqZ7fbbTYbCKyxbrfr8XjUarXBYCCr6XRaoVBotdpQKEQmM5mM1+sFATqd
+jsPhiEaj4BjGGo3G+XyGUKlU5ArT4AgEXebzOUg2m3W5XCCHw6HZbFar1VgsBgk7gn9gOp3mcjky
+r1Qq4/H4ZrPBzN1uhwi23G43SCQSCQaD5Hc2myEi1NfrdYlEotPpUAOJXmKx2GKx7Pd7SCCVSplM
+JpBarZZIJMxms1wuH4/HiAj12+12MBiIRKJkMglZqVRgT6/XYw4kulitVpwOJ4cE8Bz5fB7k6R8I
+h8PoDSKTyeggqCmVSo/NN+CC6ZmIY2XtdrtcLhcKhUAgsFgsENJoND6fD1bhczQaIYILxij+56A7
+DRDeH1fldDpRsFqtaBu/h9/vxyPhUJCU+hWe/gGk8iEEPofkZzB4w5EAPgfkfeSbYuDD/B/gv/53
++Nv6+/0VdWmkwcFJ5uAAAAAASUVORK5CYII=)
+X. Продукция промышленности строительных материалов23.19.12.160Пеностекло в форме блоков, плит или аналогичных формосуществление на территории Российской Федерации следующих операций:
 переработка исходного стекла и изготовление стеклянной шихты для производства блоков пеностекла;
 производство (вспенивание и отжиг) блоков пеностекла; изготовление теплоизоляционных изделий из пеностекла простой формы (плиты) и фасонных изделий сложной формы (скорлупы, сегменты, колена и пр.) методом механической обработки блоков пеностекла22.21.41.111 Плиты, листы теплоизоляционные из вспененного пенополистиролаосуществление на территории Российской Федерации следующих операций:
 добыча природных углеводородов (нефть, попутный газ) и переработка исходного сырья в полистирол вспенивающийся (ПСВ);
@@ -12168,7 +16016,61 @@ gg==) - максимально возможная сумма баллов для
 управлением), блоки предохранителей
 с электронным управлением, блоки реле и силовых электронных ключей с электронным управлением, электронные блоки управления распределением электроэнергии и прочее)не менее 200 балловне менее 200 балловне менее 205 балловне менее 205 балловне менее 245 баллов29.32.30.358Приборы управления видеообзором
 и видеорегистрациейне менее 200 балловне менее 200 балловне менее 205 балловне менее 205 балловне менее 245 баллов29.32.30.357Приборы управления функциями комфортане менее 200 балловне менее 200 балловне менее 205 балловне менее 205 балловне менее 245 баллов29.32.30.357Приборы бесключевого доступа, зажигания
-и противоугонная системане менее 200 балловне менее 200 балловне менее 205 балловне менее 205 балловне менее 245 баллов29.32.30.357Приборы управления системами автомобиляне менее 200 балловне менее 200 балловне менее 205 балловне менее 205 балловне менее 245 баллов29.32.30.16329.32.30.35329.32.30.354Тахографы и другие приборы мониторинга состояния водителяне менее 200 балловне менее 200 балловне менее 205 балловне менее 205 балловне менее 245 баллов29.32.30.37329.32.30.375Дисплеи, мониторы, информационные панелине менее 200 балловне менее 200 балловне менее 205 балловне менее 205 балловне менее 245 баллов39. Для целей получения государственной поддержки в рамках постановления Правительства Российской Федерации от 26 апреля 2017 г. № 496 "О государственной поддержке российских организаций промышленности гражданского назначения в целях снижения затрат на транспортировку продукции" при производстве в течение календарного года юридическим лицом продукции (жатки навесные для уборки зерновых, масличных, бобовых, крупяных культур и кукурузы, трав, силоса и соломы, камыша и сахарного тростника; подборщики для зерновых, масличных, бобовых, крупяных культур; машины для уборки урожая и обмолота прочие, не включенные в другие группировки) должны выполняться технологические и производственные операции (условия), предусмотренные разделом III настоящего приложения в отношении этой продукции, обеспечивающие достижение следующих процентных показателей совокупного количества баллов от максимально возможного количества баллов (без учета баллов за научно-исследовательские и (или) опытно-конструкторские работы) для соответствующей продукции, с которыми дополнительно суммируются полученные баллы за осуществление научно-исследовательских и (или) опытно-конструкторских работ на территории Российской Федерации:Код по ОК 034-2014 (КПЕС 2008)Наименование продукциидо 31 декабря
+и противоугонная системане менее 200 балловне менее 200 балловне менее 205 балловне менее 205 балловне менее 245 баллов29.32.30.357Приборы управления системами автомобиляне менее 200 балловне менее 200 балловне менее 205 балловне менее 205 балловне менее 245 баллов29.32.30.16329.32.30.35329.32.30.354Тахографы и другие приборы мониторинга состояния водителяне менее 200 балловне менее 200 балловне менее 205 балловне менее 205 балловне менее 245 баллов29.32.30.37329.32.30.375Дисплеи, мониторы, информационные панелине менее 200 балловне менее 200 балловне менее 205 балловне менее 205 балловне менее 245 баллов38.1. Отнесение продукции радиоэлектроники к российской промышленной продукции возможно при достижении следующего суммарного количества баллов за выполнение на территориях государств - членов Евразийского экономического союза указанных операций (условий) для каждой единицы продукции (в части указанных наименований продукции):Код
+по ОК 034-2014
+(КПЕС 2008)Наименование продукциидо 2026 года включительно2027 год2028 год2029 год и далееиз 29.32.30.320
+из 29.32.30.321
+из 29.32.30.322
+из 29.32.30.323
+Электронный блок управления двигателем, применяемый в составе продукции отрасли специального машиностроения
+не менее 200 балловне менее 205 балловне менее 205 балловне менее 245 балловиз 29.32.30.330из 29.32.30.331из 29.32.30.332из 30.99.10.144Электронный блок управления трансмиссией, применяемый в составе продукции отрасли специального машиностроения
+не менее 200 балловне менее 205 балловне менее 205 балловне менее 245 балловиз 29.32.30.339Электронный блок управления приводом вспомогательного оборудования (механизмом отбора мощности), применяемый в составе продукции отрасли специального машиностроения
+не менее 200 балловне менее 205 балловне менее 205 балловне менее 245 балловиз 29.32.30.151Электронный блок управления рулевым управлением, применяемый в составе продукции отрасли специального машиностроения
+не менее 200 балловне менее 205 балловне менее 205 балловне менее 245 балловиз 29.32.30.359Электронный блок управления гидравлическим оборудованием, применяемый в составе продукции отрасли специального машиностроения
+не менее 200 балловне менее 205 балловне менее 205 балловне менее 245 балловиз 29.32.30.380Электронный блок управления навесными
+и прицепными модулями (автоматическое управление навесным или прицепным технологическим оборудованием), применяемый в составе продукции отрасли специального машиностроения
+не менее 200 балловне менее 205 балловне менее 205 балловне менее 245 балловиз 29.32.30.358Многофункциональная консоль управления агрегатами (кнопочного, сенсорного устройства ввода данных для управления агрегатами машины, навесным и прицепным технологическим оборудованием), применяемая в составе продукции отрасли специального машиностроения
+не менее 200 балловне менее 205 балловне менее 205 балловне менее 245 балловиз 29.32.30.364из 29.32.30.365из 29.32.30.366Электронный блок управления телематической системой (передачи данных от машины о местоположении, скорости, ускорении, времени движения, расходе топлива и др.), применяемый в составе продукции отрасли специального машиностроения
+не менее 200 балловне менее 205 балловне менее 205 балловне менее 245 балловиз 29.32.30.366Электронный блок управления
+с искусственным интеллектом
+для бортовых электронных систем, применяемый в составе продукции отрасли специального машиностроения
+не менее 200 балловне менее 205 балловне менее 205 балловне менее 245 балловиз 29.32.30.350Электронный блок управления бортовыми системами (автоматическим включением освещения, запиранием и отпиранием дверей и т.п.), применяемый в составе продукции отрасли специального машиностроения
+не менее 200 балловне менее 205 балловне менее 205 балловне менее 245 балловиз 29.32.30.361Электронный блок информирования
+в отношении работы (вывода информации
+на устройства отображения информации), применяемый в составе продукции отрасли специального машиностроения
+не менее 200 балловне менее 205 балловне менее 205 балловне менее 245 балловиз 29.32.30.382из 29.32.30.383Электронный блок управления диагностикой (определения технического состояния электронных систем и агрегатов машины), применяемый в составе продукции отрасли специального машиностроения
+не менее 200 балловне менее 205 балловне менее 205 балловне менее 245 балловиз 29.32.30.363Электронная комбинация приборов (световой индикации и звукового информирования оператора (водителя)
+о режимах работы и техническом состоянии машины), применяемых в составе продукции отрасли специального машиностроения
+не менее 200 балловне менее 205 балловне менее 205 балловне менее 245 балловиз 29.32.30.355Электронный блок управления климатом (параметрами воздушной среды в кабине), применяемый в составе продукции отрасли специального машиностроения
+не менее 200 балловне менее 205 балловне менее 205 балловне менее 245 балловиз 29.32.30.350Электронный блок управления замком зажигания (системой старт-стоп), применяемый в составе продукции отрасли специального машиностроения
+не менее 200 балловне менее 205 балловне менее 205 балловне менее 245 балловиз 29.32.30.373Устройства отображения информации, применяемые в составе продукции отрасли специального машиностроения
+не менее 200 балловне менее 205 балловне менее 205 балловне менее 245 балловиз 29.32.30.386Джойстик управления (машиной,
+навесным и прицепным технологическим оборудованием), применяемый в составе продукции отрасли специального машиностроения
+не менее 200 балловне менее 205 балловне менее 205 балловне менее 245 балловиз 29.32.30.351Электронный блок автоматического управления (управления машиной
+без физического воздействия оператора (водителя), применяемый в составе продукции отрасли специального машиностроения
+не менее 200 балловне менее 205 балловне менее 205 балловне менее 245 балловиз 29.32.30.358Электронный блок ввода информации оператором (водителем) и задания режимов работы (введения необходимых данных
+для автоматического движения машины
+и выполнения технологических операций), применяемый в составе продукции
+отрасли специального машиностроенияне менее 200 балловне менее 205 балловне менее 205 балловне менее 245 балловиз 29.32.30.381Электронный блок управления точной навигацией (определением пространственного местоположения машины по сигналам глобальных навигационных спутниковых систем
+и локальных систем навигации
+с погрешностью определения координат
+не более ±15 см), применяемый в составе продукции отрасли специального машиностроения
+не менее 200 балловне менее 205 балловне менее 205 балловне менее 245 балловиз 29.32.30.349Электронный блок управления параллельным вождением (рулевым управлением с поддержанием заданного направления, разворотом, сохранением выполненной работы), применяемый
+в составе продукции отрасли
+специального машиностроения
+не менее 200 балловне менее 205 балловне менее 205 балловне менее 245 балловиз 29.32.30.374Комбинированная антенна
+(приемо-передающая антенна, работающая одновременно в нескольких частотных диапазонах), применяемая в составе продукции отрасли специального машиностроения
+не менее 200 балловне менее 205 балловне менее 205 балловне менее 245 балловиз 29.32.30.375Устройства преобразования видеоинформации (преобразования видеосигнала в цифровые данные), применяемые в составе продукции
+отрасли специального машиностроения
+не менее 200 балловне менее 205 балловне менее 205 балловне менее 245 балловиз 29.32.30.346Электронный блок фронтального распознавания объектов, применяемый
+в составе продукции отрасли специального машиностроения
+не менее 200 балловне менее 205 балловне менее 205 балловне менее 245 балловиз 29.32.30.348Электронный блок кругового видеонаблюдения, применяемый
+в составе продукции отрасли
+специального машиностроения
+не менее 200 балловне менее 205 балловне менее 205 балловне менее 245 балловиз 29.32.30.345Электронный блок предупреждения
+об опасном сближении, применяемый
+в составе продукции отрасли
+специального машиностроенияне менее 200 балловне менее 205 балловне менее 205 балловне менее 245 баллов39. Для целей получения государственной поддержки в рамках постановления Правительства Российской Федерации от 26 апреля 2017 г. № 496 "О государственной поддержке российских организаций промышленности гражданского назначения в целях снижения затрат на транспортировку продукции" при производстве в течение календарного года юридическим лицом продукции (жатки навесные для уборки зерновых, масличных, бобовых, крупяных культур и кукурузы, трав, силоса и соломы, камыша и сахарного тростника; подборщики для зерновых, масличных, бобовых, крупяных культур; машины для уборки урожая и обмолота прочие, не включенные в другие группировки) должны выполняться технологические и производственные операции (условия), предусмотренные разделом III настоящего приложения в отношении этой продукции, обеспечивающие достижение следующих процентных показателей совокупного количества баллов от максимально возможного количества баллов (без учета баллов за научно-исследовательские и (или) опытно-конструкторские работы) для соответствующей продукции, с которыми дополнительно суммируются полученные баллы за осуществление научно-исследовательских и (или) опытно-конструкторских работ на территории Российской Федерации:Код по ОК 034-2014 (КПЕС 2008)Наименование продукциидо 31 декабря
 2024 г.с 1 января
 2025 г.с 1 января
 2027 г.из 28.30.59из 28.30.91Жатки навесные для уборки зерновых, масличных, бобовых, крупяных культур
