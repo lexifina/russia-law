@@ -1,0 +1,28 @@
+{
+ "acts": 30,
+ "amending_acts": 186,
+ "amendment": 193,
+ "codes": 0,
+ "commits": 224,
+ "constitution": 1,
+ "editions": 304,
+ "editorial": 0,
+ "evidence": {
+  "edition": 1694,
+  "note": 448,
+  "note (edition without text)": 8
+ },
+ "first": "1993-12-12",
+ "first_text": 0,
+ "fkz": 29,
+ "future_commits": 0,
+ "fz": 0,
+ "last": "2026-09-04",
+ "original": 30,
+ "retroactive": 0,
+ "texts": 299,
+ "texts_sha256": "fc634e266bbf857bc36496c5844832021a8714d38f3ffca2b51557ede4cbb20c",
+ "today": "2026-10-28",
+ "unreadable": 0,
+ "without_text": 5
+}
