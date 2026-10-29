@@ -1,0 +1,16 @@
+The legal texts are the Constitution of the Russian Federation, as published by the Official Internet Portal
+of Legal Information (pravo.gov.ru), system "Законодательство России" (actual.pravo.gov.ru), retrieved 29 October 2026.
+
+Official texts of laws are not protected by copyright in Russia: Civil Code of the Russian Federation,
+art. 1259(6) ("Не являются объектами авторских прав ... официальные документы государственных органов ...,
+в том числе законы, другие нормативные акты, судебные решения ...") - official documents, including laws and other
+normative acts, are not objects of copyright.
+
+Changes made by Lexifina: each edition was converted to one Markdown file per article, one paragraph per line;
+the portal's amendment notes were left out of the text; one missing full stop in article 55(1) of the portal's
+editions of 1996 to 2019 was restored from the original and current text; and the editions were arranged as git
+commits credited to the decrees and laws that made each change. The wording of the law was not otherwise changed.
+The portal does not endorse this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools)
+are dedicated to the public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/

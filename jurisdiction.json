@@ -1,0 +1,10 @@
+{
+  "path": "ru",
+  "code": "RU",
+  "name": "Russia",
+  "level": "country",
+  "repo": "https://github.com/lexifina/russia-law",
+  "build": "built: Constitution of the Russian Federation, 21 editions 1993-2022",
+  "register": null,
+  "register_date": "2026-10-29"
+}

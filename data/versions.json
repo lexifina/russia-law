@@ -1,0 +1,139 @@
+{
+ "country": "RU",
+ "acts": [
+  {
+   "slug": "konstitutsiya",
+   "short": "Конституция РФ",
+   "title": "Конституция Российской Федерации",
+   "url": "http://pravo.gov.ru/",
+   "versions": [
+    {
+     "from": "1993-12-12",
+     "units": 139,
+     "source_url": "http://actual.pravo.gov.ru:8000/api/ebpi/redtext?bpa=ebpi&t=98016&ttl=3",
+     "sha256": "1e2d3a69989311b28274042b2d04b1e20ae1debba5c7c1dcb653490b06ac5552"
+    },
+    {
+     "from": "1996-01-09",
+     "units": 139,
+     "source_url": "http://actual.pravo.gov.ru:8000/api/ebpi/redtext?bpa=ebpi&t=7399&ttl=3",
+     "sha256": "ab6bd4f78db6bf8b0188f2aa02f6a1d428445e2dd76d15b3cf9954dabbb7628d"
+    },
+    {
+     "from": "1996-02-10",
+     "units": 139,
+     "source_url": "http://actual.pravo.gov.ru:8000/api/ebpi/redtext?bpa=ebpi&t=7400&ttl=3",
+     "sha256": "e998309971f3928f832370d3bd6578f7e8fdf9317b62dc9f3f94e2a9c5354539"
+    },
+    {
+     "from": "2001-06-09",
+     "units": 139,
+     "source_url": "http://actual.pravo.gov.ru:8000/api/ebpi/redtext?bpa=ebpi&t=7401&ttl=3",
+     "sha256": "5ef62bccf49354085543fd3ee53979d67fb23c610eccb6a300e4d949e3f816eb"
+    },
+    {
+     "from": "2003-07-25",
+     "units": 139,
+     "source_url": "http://actual.pravo.gov.ru:8000/api/ebpi/redtext?bpa=ebpi&t=7402&ttl=3",
+     "sha256": "499fa48c4d1f6fb1e1cd7355664ca012e9b4ac35e13245b492f5ba1024453964"
+    },
+    {
+     "from": "2005-12-01",
+     "units": 139,
+     "source_url": "http://actual.pravo.gov.ru:8000/api/ebpi/redtext?bpa=ebpi&t=7403&ttl=3",
+     "sha256": "d16053f814ea5cc69f88565f467d2411adcd2273f48227eef562a1e43b4aba2e"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 139,
+     "source_url": "http://actual.pravo.gov.ru:8000/api/ebpi/redtext?bpa=ebpi&t=7404&ttl=3",
+     "sha256": "ee43cccefe17b6c67ff8868ff107b57da453b232d7b62d1ec27daa6bbd1da09c"
+    },
+    {
+     "from": "2007-07-01",
+     "units": 139,
+     "source_url": "http://actual.pravo.gov.ru:8000/api/ebpi/redtext?bpa=ebpi&t=7405&ttl=3",
+     "sha256": "bddee1719d08095abfbb9f04309eb6d1af27554f830b2569a2603ad1fa723bb0"
+    },
+    {
+     "from": "2008-01-01",
+     "units": 139,
+     "source_url": "http://actual.pravo.gov.ru:8000/api/ebpi/redtext?bpa=ebpi&t=7406&ttl=3",
+     "sha256": "091ea1a5b70fb88e56bcba238a4ea514338dce34e1d58a13d3aba0e3f85400bc"
+    },
+    {
+     "from": "2008-03-01",
+     "units": 139,
+     "source_url": "http://actual.pravo.gov.ru:8000/api/ebpi/redtext?bpa=ebpi&t=7407&ttl=3",
+     "sha256": "ff3a8e0922ebb70821fc7fca28ae6505c75615c859cad5a246675fa5b6f3e157"
+    },
+    {
+     "from": "2008-12-30",
+     "units": 139,
+     "source_url": "http://actual.pravo.gov.ru:8000/api/ebpi/redtext?bpa=ebpi&t=7408&ttl=3",
+     "sha256": "41c782dfed1e85174c99e208291bf768fc610f20885f952163fa1aa7cdc89cdf"
+    },
+    {
+     "from": "2008-12-30",
+     "units": 139,
+     "source_url": "http://actual.pravo.gov.ru:8000/api/ebpi/redtext?bpa=ebpi&t=7409&ttl=3",
+     "sha256": "d8b0e430e2371608f8abd15d4578f048ad780b5aed0e38d948511f954753a3e2"
+    },
+    {
+     "from": "2014-02-05",
+     "units": 139,
+     "source_url": "http://actual.pravo.gov.ru:8000/api/ebpi/redtext?bpa=ebpi&t=7410&ttl=3",
+     "sha256": "18641b04064b868d5f94d7fd8982281e58d555bfcf0ac587770a73dca3c33dd4"
+    },
+    {
+     "from": "2014-03-21",
+     "units": 139,
+     "source_url": "http://actual.pravo.gov.ru:8000/api/ebpi/redtext?bpa=ebpi&t=7411&ttl=3",
+     "sha256": "594ff19438bef36dc48776174d0ac5732ff9a5905fc4d1b474fecb9cd63f77b9"
+    },
+    {
+     "from": "2014-07-21",
+     "units": 139,
+     "source_url": "http://actual.pravo.gov.ru:8000/api/ebpi/redtext?bpa=ebpi&t=7412&ttl=3",
+     "sha256": "6c25c93d4909a51cada70f2bc22afaf32856f3929a4256ff5189dada197ff775"
+    },
+    {
+     "from": "2019-03-27",
+     "units": 139,
+     "source_url": "http://actual.pravo.gov.ru:8000/api/ebpi/redtext?bpa=ebpi&t=312718&ttl=3",
+     "sha256": "63d8699816a5976db180344ce4a3cdf0db62903dac99048b88b6672f967e8c63"
+    },
+    {
+     "from": "2020-07-04",
+     "units": 140,
+     "source_url": "http://actual.pravo.gov.ru:8000/api/ebpi/redtext?bpa=ebpi&t=332063&ttl=3",
+     "sha256": "881e45096168b829c01459fea6985abd52eadc400ae761195cfee8128d5d242e"
+    },
+    {
+     "from": "2022-10-05",
+     "units": 140,
+     "source_url": "http://actual.pravo.gov.ru:8000/api/ebpi/redtext?bpa=ebpi&t=406780&ttl=3",
+     "sha256": "da4f612a319ed169575846d2f973d1cab8cc8f34903762631a15d7d0729e5243"
+    },
+    {
+     "from": "2022-10-05",
+     "units": 140,
+     "source_url": "http://actual.pravo.gov.ru:8000/api/ebpi/redtext?bpa=ebpi&t=406782&ttl=3",
+     "sha256": "23207c9e5277c369d2c9fe45a9d764e67ddfae8fc800e0cb1255b82554636489"
+    },
+    {
+     "from": "2022-10-05",
+     "units": 140,
+     "source_url": "http://actual.pravo.gov.ru:8000/api/ebpi/redtext?bpa=ebpi&t=406783&ttl=3",
+     "sha256": "419b433975a7a00cee1557b3eb8ee6a72139a08b87b1857c55734a6b1a322f0d"
+    },
+    {
+     "from": "2022-10-05",
+     "units": 140,
+     "source_url": "http://actual.pravo.gov.ru:8000/api/ebpi/redtext?bpa=ebpi&t=406785&ttl=3",
+     "sha256": "9d3ec31ff2c1f6d8d059269faa024eeafdf4c891758908ce08960fc85534ea8c"
+    }
+   ]
+  }
+ ]
+}
