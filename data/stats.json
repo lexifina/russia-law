@@ -1,0 +1,29 @@
+{
+ "acts": 3045,
+ "amending_acts": 7936,
+ "amendment": 9811,
+ "codes": 32,
+ "commits": 12882,
+ "constitution": 1,
+ "editions": 24373,
+ "editorial": 28,
+ "evidence": {
+  "edition": 109024,
+  "edition list (edition without text)": 4646,
+  "note": 28777,
+  "note (edition without text)": 1829
+ },
+ "first": "1991-04-25",
+ "first_text": 0,
+ "fkz": 29,
+ "future_commits": 155,
+ "fz": 2983,
+ "last": "2026-10-25",
+ "original": 3042,
+ "retroactive": 19,
+ "texts": 20173,
+ "texts_sha256": "85d062b2b276641907e123bab35056f91feb9b7c3ae033543e1f77b0ae95a344",
+ "today": "2026-10-29",
+ "unreadable": 0,
+ "without_text": 4200
+}

@@ -1,0 +1,53 @@
+{
+  "corpus": "ru/national/acts",
+  "name": "Federal law of the Russian Federation (Constitution, federal constitutional laws, codes, federal laws)",
+  "label": "Russia",
+  "language": "ru",
+  "checked_on": "2026-10-29",
+  "history": "in-force",
+  "history_from": "1991-04-25",
+  "record_to": "2026-10-25",
+  "record_note": "3045 acts from the state system \"Законодательство России\" (1 Constitution, 29 federal constitutional laws, 32 codes, 2983 federal laws), every edition it holds a text for, to the in-force date of 2026-10-25; data built 2026-10-29.",
+  "in_force_trailer": "In-force",
+  "has_future_branch": true,
+  "future_branch": "future",
+  "laws": {
+    "constitution": 1,
+    "federal_constitutional_laws": 29,
+    "codes": 32,
+    "federal_laws": 2983
+  },
+  "built": "2026-10-29",
+  "dates": {
+    "commit": "in-force (the date the system gives each edition: \"на <date>\")",
+    "other_trailers": [
+      "Enacted"
+    ],
+    "time": "12:00 Europe/Moscow (offset of the day, rules hard-coded)",
+    "before_1970": "clamped to 1970-01-01",
+    "future": "branch future, never merged"
+  },
+  "author": {
+    "amendment": "the act the edition names (refadoption), or for an edition without text of its own, the act its history note or edition list points to",
+    "original": "the act itself",
+    "editorial": "the publisher (editions that name no act)",
+    "evidence_trailer": "Evidence"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "groups": "any one line",
+    "conditions": "all of a line",
+    "when_absent": "not extracted for Russia yet; transitional provisions are in the amending act at the Source link",
+    "default_reach": {
+      "rule": "no retroactive effect unless the law says so; never for laws that establish or aggravate liability, or impose new taxes or worsen taxpayers' position",
+      "meaning": "a law applies to relations that arise after it enters into force; it applies to earlier relations only where the law expressly provides for it; a law that establishes or aggravates liability, or establishes new taxes or worsens the position of taxpayers, has no retroactive force",
+      "authority": "Constitution of the Russian Federation, articles 54 and 57; Civil Code of the Russian Federation, part one, article 4(1); Criminal Code, article 10",
+      "decided_here": false
+    }
+  },
+  "citation": {
+    "file": "((?:constitution|(?:fkz|code|fz)/[0-9]{4}-[0-9a-z-]+))/0*([0-9]+(?:-[0-9]+)*)\\.md",
+    "cites": "(^|[^0-9-])([Сс]тать[а-яё]*|ст\\.) ?{n}([^0-9-]|$)"
+  },
+  "tool": "tools/in_force_on.py"
+}
