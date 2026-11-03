@@ -4,7 +4,7 @@
   "name": "Russia",
   "level": "country",
   "repo": "https://github.com/lexifina/russia-law",
-  "build": "built: Constitution of the Russian Federation, 21 editions 1993-2022",
+  "build": "Constitution plus 5 current-text federal laws signed in 1991–1999",
   "register": null,
-  "register_date": "2026-10-29"
+  "register_date": "2026-11-03"
 }

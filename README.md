@@ -10,7 +10,7 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | --- | --- | ---: | --- |
 | `konstitutsiya/` | Конституция Российской Федерации (the Constitution) | 21 | From adoption by referendum (12 December 1993) to the amendments of 4 October 2022, through every decree and law that changed the text (the latest, 8-FKZ, effective 5 October 2022) |
 
-Only the Constitution is covered so far. Codes and federal laws are not yet in the record.
+The Constitution and five current-text federal laws are covered.
 
 ## Dates
 
@@ -43,6 +43,18 @@ The author of a commit is the decree or law that made the change, with an e-mail
 | --- | --- | ---: | --- |
 | `konstitutsiya/` | Конституция Российской Федерации | 21 | С принятия на референдуме (12 декабря 1993 г.) по поправки 4 октября 2022 г., через все указы и законы, изменявшие текст (последний - 8-ФКЗ, действует с 5 октября 2022 г.) |
 
-Пока включена только Конституция. Кодексы и федеральные законы ещё не добавлены.
+Включены Конституция и пять федеральных законов в действующих редакциях. Кодексы ещё не добавлены.
 
 **Источник.** Официальный интернет-портал правовой информации (pravo.gov.ru), ИПС «Законодательство России». Официальные тексты законов не являются объектами авторского права (ГК РФ, ст. 1259, п. 6). Самая новая редакция сверена с текущим текстом портала дословно.
+
+## Current-text additions (signed 1991–1999)
+
+These five federal acts each have one current official edition. Earlier editions are not yet recorded. The In-force trailer uses the date stated on that edition.
+
+| Folder | Act | Current edition applies from |
+| --- | --- | --- |
+| `fz/1994-5-fz/` | О порядке опубликования и вступления в силу федеральных конституционных законов, федеральных законов, актов палат Федерального Собрания | 2019-05-01 |
+| `fz/1995-82-fz/` | Об общественных объединениях | 2026-03-03 |
+| `fz/1995-181-fz/` | О социальной защите инвалидов в Российской Федерации | 2026-09-01 |
+| `fz/1996-7-fz/` | О некоммерческих организациях | 2026-09-01 |
+| `fz/1999-92-fz/` | О Российской трехсторонней комиссии по регулированию социально-трудовых отношений | 2017-01-09 |
