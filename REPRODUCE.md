@@ -115,3 +115,10 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none: no model wrote or transformed any text; Claude Code (claude-opus-5-5) wrote Lexifina's code.
+
+
+## Current editions signed 2010–2017
+
+One official current edition per added act. Source response SHA-256 and edition references are recorded in `data/signed-2010-2017.json` and the law commits. All legal wording comes from official HTML. Source notes remain in the text. In-force-basis identifies the edition and its amending instrument or the original commencement clause. GPT-6 wrote the collection, parsing, and verification code; no model wrote or corrected legal text.
+
+The exact offline renderer and appender are `tools/current_text_2010_2017.py` and `tools/append_signed_2010_2017.py`. The appender accepts the recorded metadata and original official JSON response files named by SHA-256, checks their hashes, and reconstructs the appended history from the recorded baseline.
