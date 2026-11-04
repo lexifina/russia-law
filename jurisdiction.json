@@ -4,7 +4,7 @@
   "name": "Russia",
   "level": "country",
   "repo": "https://github.com/lexifina/russia-law",
-  "build": "Constitution plus 5 current-text federal laws signed in 1991–1999",
+  "build": "Constitution, five federal laws signed 1991–1999, and 130 current-text acts signed 2000–2009",
   "register": null,
   "register_date": "2026-11-03"
 }
