@@ -14,7 +14,7 @@ The Constitution and 135 current-text federal instruments are covered.
 
 ## Dates
 
-- Each commit is dated at noon, Europe/Moscow, on the day the edition took effect, as the portal dates it.
+- Constitution history commits are dated at noon, Europe/Moscow, on the portal edition day. For the 130 additional current-text acts signed 2000–2009, author dates and In-force trailers state source-based legal effect; committer timestamps preserve append order.
 - Editions from 1996 to 2005 are credited to the Presidential decrees that changed the list of the Federation's subjects (article 65); later ones to federal constitutional laws and the 2008, 2014 and 2020 amendments.
 - Several editions share a day when more than one law took effect together (30 December 2008, 5 October 2022); they are commits on the same day in the portal's own order.
 
@@ -27,7 +27,7 @@ The Constitution and 135 current-text federal instruments are covered.
 
 ## What "author" means
 
-The author of a commit is the decree or law that made the change, with an e-mail address that cannot exist, so `git blame` and `git log --author` name them. The committer is always Lexifina.
+The authors of Constitution history commits name the decree or law that made the change. The 130 additional current-text acts are credited to the official publisher; their In-force-basis trailers identify the legal commencement evidence. Publisher addresses use the reserved .invalid domain. The committer is Lexifina.
 
 ---
 
@@ -43,7 +43,7 @@ The author of a commit is the decree or law that made the change, with an e-mail
 | --- | --- | ---: | --- |
 | `konstitutsiya/` | Конституция Российской Федерации | 21 | С принятия на референдуме (12 декабря 1993 г.) по поправки 4 октября 2022 г., через все указы и законы, изменявшие текст (последний - 8-ФКЗ, действует с 5 октября 2022 г.) |
 
-Включены Конституция и пять федеральных законов в действующих редакциях. Кодексы ещё не добавлены.
+Включены Конституция и 135 федеральных актов в действующих редакциях, в том числе Уголовно-процессуальный и Трудовой кодексы. Для 130 актов, подписанных в 2000–2009 годах, представлена одна полная текущая редакция; ранние редакции пока не включены.
 
 **Источник.** Официальный интернет-портал правовой информации (pravo.gov.ru), ИПС «Законодательство России». Официальные тексты законов не являются объектами авторского права (ГК РФ, ст. 1259, п. 6). Самая новая редакция сверена с текущим текстом портала дословно.
 
