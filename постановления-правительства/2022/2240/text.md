@@ -602,7 +602,41 @@
 спиртовые настойки (исключая ликеры) и прочие спиртные напитки35,
 но не менее 5 евро
 за литрвсе недружественные государства<sup>2</sup>по 31 декабря
-2027 г. включительно2905 45 000 9Глицерин прочий35все недружественные государства<sup>2</sup>по 31 декабря 2027 г. включительно3303 00 100 0Духи35 20недружественные государства<sup>2</sup>, за исключением Венгрии, Словакии, Республики Корея
+2027 г. включительно2905 45 000 9Глицерин прочий35все недружественные государства<sup>2</sup>по 31 декабря 2027 г. включительно2909 60 000 0Изопропилбензола гидропероксид;гипериз;1-метил-1-фенилэтилгидропероксид; ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAUCAIAAADkwkEeAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACDSURBVDhP3ZDLEcAgCAVty4Zoh25sxmIIEnSe
+30lumexJwX2oQd7zdydRcCJnqFCyjdE51q5d3RQtc4QAAxwzsKkF4lkBZ1LEZyh4M3AWd1AsaKw2
+5+72gZug85xl0Pk9awWcadDmB9Cph/yEG5R0YaXM7C46Sssu1Jnj5w3OI77riFwy1mHr73kgZwAA
+AABJRU5ErkJggg==) , ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAUCAIAAADkwkEeAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACDSURBVDhP3ZDLEcAgCAVty4Zoh25sxmIIEnSe
+30lumexJwX2oQd7zdydRcCJnqFCyjdE51q5d3RQtc4QAAxwzsKkF4lkBZ1LEZyh4M3AWd1AsaKw2
+5+72gZug85xl0Pk9awWcadDmB9Cph/yEG5R0YaXM7C46Sssu1Jnj5w3OI77riFwy1mHr73kgZwAA
+AABJRU5ErkJggg==) -диметилбензилгидропероксид; ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAUCAIAAADkwkEeAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACDSURBVDhP3ZDLEcAgCAVty4Zoh25sxmIIEnSe
+30lumexJwX2oQd7zdydRcCJnqFCyjdE51q5d3RQtc4QAAxwzsKkF4lkBZ1LEZyh4M3AWd1AsaKw2
+5+72gZug85xl0Pk9awWcadDmB9Cph/yEG5R0YaXM7C46Sssu1Jnj5w3OI77riFwy1mHr73kgZwAA
+AABJRU5ErkJggg==) -кумолгидропероксид; ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAUCAIAAADkwkEeAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACDSURBVDhP3ZDLEcAgCAVty4Zoh25sxmIIEnSe
+30lumexJwX2oQd7zdydRcCJnqFCyjdE51q5d3RQtc4QAAxwzsKkF4lkBZ1LEZyh4M3AWd1AsaKw2
+5+72gZug85xl0Pk9awWcadDmB9Cph/yEG5R0YaXM7C46Sssu1Jnj5w3OI77riFwy1mHr73kgZwAA
+AABJRU5ErkJggg==) -кумилгидропероксид;кумола гидропероксид;куменилгидропероксид;7-кумилгидропероксид;isopropylbenzene hydroperoxide;hyperiz;1-Methyl-1-phenylethyl hydroperoxide; ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAUCAIAAADkwkEeAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACDSURBVDhP3ZDLEcAgCAVty4Zoh25sxmIIEnSe
+30lumexJwX2oQd7zdydRcCJnqFCyjdE51q5d3RQtc4QAAxwzsKkF4lkBZ1LEZyh4M3AWd1AsaKw2
+5+72gZug85xl0Pk9awWcadDmB9Cph/yEG5R0YaXM7C46Sssu1Jnj5w3OI77riFwy1mHr73kgZwAA
+AABJRU5ErkJggg==) , ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAUCAIAAADkwkEeAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACDSURBVDhP3ZDLEcAgCAVty4Zoh25sxmIIEnSe
+30lumexJwX2oQd7zdydRcCJnqFCyjdE51q5d3RQtc4QAAxwzsKkF4lkBZ1LEZyh4M3AWd1AsaKw2
+5+72gZug85xl0Pk9awWcadDmB9Cph/yEG5R0YaXM7C46Sssu1Jnj5w3OI77riFwy1mHr73kgZwAA
+AABJRU5ErkJggg==) -dimethylbenzyl hydroperoxide; ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAUCAIAAADkwkEeAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACDSURBVDhP3ZDLEcAgCAVty4Zoh25sxmIIEnSe
+30lumexJwX2oQd7zdydRcCJnqFCyjdE51q5d3RQtc4QAAxwzsKkF4lkBZ1LEZyh4M3AWd1AsaKw2
+5+72gZug85xl0Pk9awWcadDmB9Cph/yEG5R0YaXM7C46Sssu1Jnj5w3OI77riFwy1mHr73kgZwAA
+AABJRU5ErkJggg==) -Cumene hydroperoxide; ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAUCAIAAADkwkEeAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACDSURBVDhP3ZDLEcAgCAVty4Zoh25sxmIIEnSe
+30lumexJwX2oQd7zdydRcCJnqFCyjdE51q5d3RQtc4QAAxwzsKkF4lkBZ1LEZyh4M3AWd1AsaKw2
+5+72gZug85xl0Pk9awWcadDmB9Cph/yEG5R0YaXM7C46Sssu1Jnj5w3OI77riFwy1mHr73kgZwAA
+AABJRU5ErkJggg==) -Cumyl hydroperoxide;cumyl hydroperoxide;cumene hydroperoxide;cumenyl hydroperoxide;7-Cumyl hydroperoxide25.5недружественные государства<sup>2</sup>,
+за исключением Венгрии
+и Словакиипо 31 декабря 2027 г. включительно3303 00 100 0Духи35 20недружественные государства<sup>2</sup>, за исключением Венгрии, Словакии, Республики Корея
 и Франции Францияпо 31 декабря 2027 г. включительно3303 00 900 0Туалетная вода35 20недружественные государства<sup>2</sup>, за исключением Венгрии, Словакии, Республики Корея
 и Франции Францияпо 31 декабря 2027 г. включительно3304 10 000 0Средства
 для макияжа губ35недружественные государства<sup>2</sup>, за исключением Венгрии, Словакии, Италии и Республики Кореяпо 31 декабря 2027 г. включительно3304 20 000 0Средства для макияжа глаз35недружественные государства<sup>2</sup>,
@@ -630,7 +664,9 @@
 и Словакиипо 31 декабря 2027 г. включительно3925 90 800 1Прочие детали строительные,
 из пластмасс, в другом месте не поименованные
 или не включенные, изготовленные
-из полиуретана35все недружественные государства<sup>2</sup>по 31 декабря 2027 г. включительно4412Фанера клееная, панели фанерованные
+из полиуретана35все недружественные государства<sup>2</sup>по 31 декабря 2027 г. включительно4004 00 000 0Резиновая крошка, полученная в результате механического дробления отработанных шин35недружественные государства<sup>2</sup>,
+за исключением Венгрии
+и Словакиипо 31 декабря 2027 г. включительно4412Фанера клееная, панели фанерованные
 и аналогичная слоистая древесина50все недружественные государства<sup>2</sup>по 31 декабря 2027 г. включительно4814 20 000 0Обои и аналогичные настенные покрытия, состоящие из бумаги, покрытой с лицевой стороны зернистым, тисненым, окрашенным, с отпечатанным рисунком или иным способом декорированным слоем пластмассы50,
 но не менее 1,5 евро
 за 1 кгЛитва, Латвия, Эстонияпо 31 декабря 2027 г. включительно 6201 40 000 0Пальто, полупальто, накидки, плащи, куртки (включая лыжные), ветровки, штормовки
@@ -778,7 +814,7 @@
 забоя животных, линеметы, прочие35.3все недружественные государства<sup>2</sup>по 31 декабря 2027 г. включительно9305 20 000 1Стволы ружей
 или винтовок товарной позиции 930335все недружественные государства<sup>2</sup>по 31 декабря 2027 г. включительно9306 21 000 0Патроны для гладкоствольного оружия35все недружественные государства<sup>2</sup>по 31 декабря 2027 г. включительно9306 29 000 0Части для патронов
 для гладкоствольного оружия; пульки
-для пневматического оружия35все недружественные государства<sup>2</sup>по 31 декабря 2027 г. включительно9607 19 000 0Застежки-молнии прочие50Литва, Латвия, Эстонияпо 31 декабря 2027 г. включительно________________________<sup>1</sup> Для целей применения настоящего документа следует руководствоваться исключительно кодом ТН ВЭД ЕАЭС, наименование товара приведено для удобства пользования.<sup>2</sup> Иностранные государства и территории, совершающие в отношении Российской Федерации, российских юридических лиц и физических лиц недружественные действия, указанные в перечне, утвержденном распоряжением Правительства Российской Федерации от 5 марта 2022 г. № 430-р.<sup>3</sup> За исключением спортивного оружия и принадлежностей, ввозимых для обеспечения сборных команд Российской Федерации при подтверждении Министерством спорта Российской Федерации целевого назначения ввозимого товара.<sup>4</sup> За исключением продуктов детского, диетического лечебного и диетического профилактического питания при представлении свидетельства о государственной регистрации продукции, подтверждающего соответствие продукции требованиям технических регламентов Евразийского экономического союза (технических регламентов Таможенного союза).<sup>5</sup> Для целей применения ставки ввозной таможенной пошлины следует руководствоваться как кодом ТН ВЭД ЕАЭС, так и наименованием товара. ПРИЛОЖЕНИЕ
+для пневматического оружия35все недружественные государства<sup>2</sup>по 31 декабря 2027 г. включительно9607 19 000 0Застежки-молнии прочие50Литва, Латвия, Эстонияпо 31 декабря 2027 г. включительно________________________<sup>1</sup> Для целей применения настоящего документа следует руководствоваться исключительно кодом ТН ВЭД ЕАЭС (кроме случая, предусмотренного сноской 5), наименование товара приведено для удобства пользования.<sup>2</sup> Иностранные государства и территории, совершающие в отношении Российской Федерации, российских юридических лиц и физических лиц недружественные действия, указанные в перечне, утвержденном распоряжением Правительства Российской Федерации от 5 марта 2022 г. № 430-р.<sup>3</sup> За исключением спортивного оружия и принадлежностей, ввозимых для обеспечения сборных команд Российской Федерации при подтверждении Министерством спорта Российской Федерации целевого назначения ввозимого товара.<sup>4</sup> За исключением продуктов детского, диетического лечебного и диетического профилактического питания, лечебно-столовых и лечебных природных минеральных вод при представлении свидетельства о государственной регистрации продукции, подтверждающего соответствие продукции требованиям технических регламентов Евразийского экономического союза (технических регламентов Таможенного союза).<sup>5</sup> Для целей применения ставки ввозной таможенной пошлины следует руководствоваться как кодом ТН ВЭД ЕАЭС, так и наименованием товара. ПРИЛОЖЕНИЕ
 к постановлению Правительства Российской Федерации
 от 7 декабря 2022 г. № 2240 ПЕРЕЧЕНЬ
 товаров, происхождение которых может подтверждаться сертификатом о происхождении товара, оформленным в соответствии с абзацем седьмым пункта 1.2 постановления Правительства Российской Федерации от 7 декабря 2022 г. № 2240 Список изменяющих документов Код
