@@ -59,6 +59,8 @@ def build(part,base,ref):
   thin.append(copy)
  metadata=json.dumps({'acts':thin,'commits':commits,'baseline_sha':base,'record_date':'2026-11-04','first_law':None,'history':'current-only','image_status':'deferred'},ensure_ascii=False,sort_keys=True,indent=2).encode('utf-8')+b'\n'
  files={'README.md':readme.encode('utf-8'),'jurisdiction.json':json.dumps(jurisdiction,ensure_ascii=False,indent=2).encode()+b'\n','laws.csv':law_csv,'data/laws.csv':law_csv,'data/signed-2010-2017.json':metadata,'REPRODUCE.md':reproduce.encode('utf-8')}
+ # Since 2026-11-14 README.md is the Russian README on the serbia-law model (README.en.md beside it): left as it is.
+ if b'](README.en.md)' in blob(base,'README.md'):files.pop('README.md')
  for name in ['append_signed_2010_2017.py','current_text_2010_2017.py','check_words.py']:files['tools/'+name]=(Path(__file__).resolve().parent/name).read_bytes()
  msg='Russia: current federal acts signed 2010–2017\n\nKind: documentation\nSource: http://actual.pravo.gov.ru/\n'
  stream=commit(ref,parent,'Lexifina <russia-law@lexifina.com> 1793782800 +0000','Lexifina <russia-law@lexifina.com> '+str(old+len(part['acts'])+1)+' +0000',msg,files)+b'done\n'
