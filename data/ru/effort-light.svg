@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="752" viewBox="0 0 880 752" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
-<rect x="0.5" y="0.5" width="879" height="751" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="703" viewBox="0 0 880 703" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
+<rect x="0.5" y="0.5" width="879" height="702" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
 <text x="24" y="38" font-size="16" font-weight="600" fill="#1f2328">Право России как история в git</text>
 <rect x="562.6" y="24.5" width="165" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
 <text x="645.0" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">данные до 29 окт. 2026 г.</text>
@@ -90,7 +90,7 @@
 <text x="456.0" y="498.5" font-size="11.5" fill="#59636e">охваченные высшие суды</text>
 <g><title>Судебная практика: 0 %</title><rect x="692.0" y="479.5" width="91.5" height="8" rx="4" fill="#eff2f5"/></g>
 <text x="839.5" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">0 %</text>
-<rect x="24.5" y="562.5" width="831" height="152" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<rect x="24.5" y="562.5" width="831" height="116" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
 <text x="40.5" y="588.5" font-size="14" font-weight="600" fill="#1f2328">Точность содержимого</text>
 <text x="40.5" y="612.5" font-size="13" fill="#1f2328">С датой вступления в силу</text>
 <text x="40.5" y="628.5" font-size="11.5" fill="#59636e">доля изменений</text>
@@ -100,11 +100,10 @@
 <text x="40.5" y="664.5" font-size="11.5" fill="#59636e">строка Source или ссылка в коммите</text>
 <g><title>С официальным источником: 100 %</title><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
 <text x="424.0" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100 %</text>
-<text x="40.5" y="684.5" font-size="13" fill="#1f2328">Сверено с официальным источником</text>
-<text x="40.5" y="700.5" font-size="11.5" fill="#59636e">Официальный интернет-портал правовой информации (pravo.gov.ru)</text>
-<text x="424.0" y="688.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">29 окт. 2026 г.</text>
 <text x="456.0" y="612.5" font-size="13" fill="#1f2328">Корпусы страны в global-law</text>
 <text x="456.0" y="628.5" font-size="11.5" fill="#59636e">федеральные акты: 1, региональные акты: 82</text>
 <text x="839.5" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">83</text>
-<text x="24" y="736" font-size="11.5" fill="#59636e">lexifina/russia-law на 5fe7c49, собрано 2026-11-13. Без коммитов документации. Охват: 1 acts, 21 dated versions from 1993-12-12 to 2022-10-05</text>
+<text x="456.0" y="648.5" font-size="13" fill="#1f2328">Сверено с официальным источником</text>
+<text x="456.0" y="664.5" font-size="11.5" fill="#59636e">Официальный интернет-портал правовой информации (pravo.gov.ru)</text>
+<text x="839.5" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">29 окт. 2026 г.</text>
 </svg>
