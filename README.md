@@ -30,7 +30,8 @@
 
 - **[Спросите Claude о праве России](https://global-law.lexifina.com/v1/try_claude?country=russia)**: открывает Claude с готовым первым вопросом.
 - **[Спросите ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=russia)**: тот же вопрос в ChatGPT.
-- **[Вызовите API в браузере](https://global-law.lexifina.com/v1/search_law?query=%D0%B5%D0%B6%D0%B5%D0%B3%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9+%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA&jurisdictions=russia)**: поиск по праву России по словам «ежегодный отпуск», ответ в формате JSON. Документация [здесь](https://lexifina.com/api/global-law).
+- **[Ищите в праве России на нашем сайте](https://lexifina.com/law?country=russia&q=%D0%B5%D0%B6%D0%B5%D0%B3%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9+%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA)**: поиск «ежегодный отпуск», с текстом каждой нормы и её редакциями, без регистрации.
+- **[REST API для разработчиков](https://global-law.lexifina.com/v1/search_law?query=%D0%B5%D0%B6%D0%B5%D0%B3%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9+%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA&jurisdiction=russia)**: тот же поиск в формате JSON, без ключа. Документация [здесь](https://lexifina.com/api/global-law).
 
 Оба ассистента читают данные через бесплатный коннектор Global law (MCP, `https://global-law.lexifina.com/mcp`); в первый раз чат даёт ссылку, по которой коннектор добавляется. Спрашивайте на русском или на английском.
 
