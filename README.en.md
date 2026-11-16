@@ -61,6 +61,7 @@ Each edition of the Constitution is credited to the act the portal names for it:
 - `tools/check_words.py` compares the letters and digits of each text with the portal's own HTML: the 130 acts signed 2000-2009 match, none missing, extra or different. The Constitution's newest edition matches the portal's current text word for word.
 - Two builds of the acts signed 2000-2009 from the same inputs gave the same commits. Results are in [`REPRODUCE.md`](REPRODUCE.md).
 - History is append-only: published commits are not replaced and tags are not moved.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Russian law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 
