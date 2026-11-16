@@ -84,6 +84,10 @@ python3 tools/law.py show 2026-11-01 russia/national/acts/fz/2001/197/text.md
 
 Это перевод английской версии ([README.en.md](README.en.md)); если они расходятся, действует английская версия.
 
+## Визуализации
+
+- [visualisations/](visualisations/): графики по данным этого репозитория. Ещё не построены.
+
 ## Ещё
 
 Из репозитория [lexifina/global-law](https://github.com/lexifina/global-law) (на английском):

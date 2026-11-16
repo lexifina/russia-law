@@ -82,6 +82,10 @@ See [`LICENSE`](LICENSE). Official texts of laws are not objects of copyright in
 
 No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by AI models (Claude Opus 5.5 for the Constitution, GPT-6 for the other acts; see [`REPRODUCE.md`](REPRODUCE.md)).
 
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
+
 ## More
 
 From [lexifina/global-law](https://github.com/lexifina/global-law):
