@@ -1,0 +1,1901 @@
+{
+ "note": "In-force corrections for commits whose recorded day is the IPS edition date where the IPS uses the amending act's own date; in_force null = not readable from the amending act.",
+ "corrections": [
+  {
+   "commit": "bd9227e6e4fb8257c2222191f5e001450945d0db",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 284,
+   "recorded_in_force": "2022-07-14",
+   "in_force": "2022-01-01",
+   "in_force_basis": "Федеральный закон от 14.07.2022 № 260-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования, за исключением абзацев пятого и шестого пункта 4 статьи 1 настоящего Федерального\"; earliest official publication 2022-01-01 (the IPS dates this edition 14.07.2022, the act's own date)"
+  },
+  {
+   "commit": "dea0bbc18e157a2d3ea9b715241bf93799fe9455",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 281,
+   "recorded_in_force": "2022-03-25",
+   "in_force": "2022-04-05",
+   "in_force_basis": "Федеральный закон от 25.03.2022 № 63-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2022-03-25 (the IPS dates this edition 25.03.2022, the act's own date)"
+  },
+  {
+   "commit": "332297fc4244e0955ac781b6e044d06f82a6937c",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 279,
+   "recorded_in_force": "2022-03-06",
+   "in_force": "2022-03-17",
+   "in_force_basis": "Федеральный закон от 06.03.2022 № 38-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2022-03-06 (the IPS dates this edition 06.03.2022, the act's own date)"
+  },
+  {
+   "commit": "6e6e0e552c3448bbcef915e58f584b8fe9ec37ad",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 277,
+   "recorded_in_force": "2022-01-28",
+   "in_force": "2022-02-08",
+   "in_force_basis": "Федеральный закон от 28.01.2022 № 3-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2022-01-28 (the IPS dates this edition 28.01.2022, the act's own date)"
+  },
+  {
+   "commit": "7fbf3f291e150f39e85e2e0f50583b7951561b0a",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 276,
+   "recorded_in_force": "2021-12-30",
+   "in_force": "2022-01-10",
+   "in_force_basis": "Федеральный закон от 30.12.2021 № 499-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2021-12-30 (the IPS dates this edition 30.12.2021, the act's own date)"
+  },
+  {
+   "commit": "33d4fa281426eb88fe0109578d533905ead7ddbb",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 275,
+   "recorded_in_force": "2021-12-30",
+   "in_force": "2022-01-10",
+   "in_force_basis": "Федеральный закон от 30.12.2021 № 458-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2021-12-30 (the IPS dates this edition 30.12.2021, the act's own date)"
+  },
+  {
+   "commit": "a5a486fb261218add4741e07cfc1684ff8591f01",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 272,
+   "recorded_in_force": "2021-07-01",
+   "in_force": "2021-07-12",
+   "in_force_basis": "Федеральный закон от 01.07.2021 № 292-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2021-07-01 (the IPS dates this edition 01.07.2021, the act's own date)"
+  },
+  {
+   "commit": "65f509c0dbd3769ef3d65bb4d4f670ee15f4031f",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 271,
+   "recorded_in_force": "2021-07-01",
+   "in_force": "2021-07-12",
+   "in_force_basis": "Федеральный закон от 01.07.2021 № 281-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2021-07-01 (the IPS dates this edition 01.07.2021, the act's own date)"
+  },
+  {
+   "commit": "e6876454cf4a618ffd4f94b1a0209bad1da7bc70",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 270,
+   "recorded_in_force": "2021-07-01",
+   "in_force": "2021-07-12",
+   "in_force_basis": "Федеральный закон от 01.07.2021 № 259-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2021-07-01 (the IPS dates this edition 01.07.2021, the act's own date)"
+  },
+  {
+   "commit": "da4c5a371478f8bf456040de936f3aa3cba42670",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 269,
+   "recorded_in_force": "2021-07-01",
+   "in_force": "2021-07-12",
+   "in_force_basis": "Федеральный закон от 01.07.2021 № 258-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2021-07-01 (the IPS dates this edition 01.07.2021, the act's own date)"
+  },
+  {
+   "commit": "fa3da7f46189f280912b62c8b1be6f2e44a6735f",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 268,
+   "recorded_in_force": "2021-07-01",
+   "in_force": "2021-07-12",
+   "in_force_basis": "Федеральный закон от 01.07.2021 № 248-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2021-07-01 (the IPS dates this edition 01.07.2021, the act's own date)"
+  },
+  {
+   "commit": "8fc467777c081e9696b85775fa0c0909d0e1dd05",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 267,
+   "recorded_in_force": "2021-07-01",
+   "in_force": "2021-07-12",
+   "in_force_basis": "Федеральный закон от 01.07.2021 № 241-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2021-07-01 (the IPS dates this edition 01.07.2021, the act's own date)"
+  },
+  {
+   "commit": "0d3e7f349adc53d3fa38917d09f7a24684ddb3ef",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 266,
+   "recorded_in_force": "2021-06-11",
+   "in_force": "2021-06-22",
+   "in_force_basis": "Федеральный закон от 11.06.2021 № 216-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2021-06-11 (the IPS dates this edition 11.06.2021, the act's own date)"
+  },
+  {
+   "commit": "a0dc9f379e5713d6d0c8137cf356078c722a0363",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 265,
+   "recorded_in_force": "2021-06-11",
+   "in_force": "2021-06-22",
+   "in_force_basis": "Федеральный закон от 11.06.2021 № 215-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2021-06-11 (the IPS dates this edition 11.06.2021, the act's own date)"
+  },
+  {
+   "commit": "8fbbb536396d382546357a786f8a4d36fe5470b4",
+   "act_path": "кодексы/гражданский-кодекс/часть-4",
+   "edition": 32,
+   "recorded_in_force": "2021-06-11",
+   "in_force": "2021-06-22",
+   "in_force_basis": "Федеральный закон от 11.06.2021 № 213-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2021-06-11 (the IPS dates this edition 11.06.2021, the act's own date)"
+  },
+  {
+   "commit": "c0e5965826cc41f2d404ae43c1847ac3e599ad0d",
+   "act_path": "кодексы/гражданский-кодекс/часть-4",
+   "edition": 31,
+   "recorded_in_force": "2021-06-11",
+   "in_force": "2021-06-22",
+   "in_force_basis": "Федеральный закон от 11.06.2021 № 212-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2021-06-11 (the IPS dates this edition 11.06.2021, the act's own date)"
+  },
+  {
+   "commit": "f9ca4d5b972cb146bcd8bd390e6d88df524f6515",
+   "act_path": "кодексы/гражданский-кодекс/часть-4",
+   "edition": 30,
+   "recorded_in_force": "2021-04-30",
+   "in_force": "2021-05-11",
+   "in_force_basis": "Федеральный закон от 30.04.2021 № 107-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2021-04-30 (the IPS dates this edition 30.04.2021, the act's own date)"
+  },
+  {
+   "commit": "1300803f53933e4d334ccb687c04cdf078107072",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 264,
+   "recorded_in_force": "2021-04-05",
+   "in_force": "2021-04-16",
+   "in_force_basis": "Федеральный закон от 05.04.2021 № 59-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2021-04-05 (the IPS dates this edition 05.04.2021, the act's own date)"
+  },
+  {
+   "commit": "fad6ab84824fb3d579519dea3e36a917c9a4d93e",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 73,
+   "recorded_in_force": "2021-03-09",
+   "in_force": "2021-03-20",
+   "in_force_basis": "Федеральный закон от 09.03.2021 № 33-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2021-03-09 (the IPS dates this edition 09.03.2021, the act's own date)"
+  },
+  {
+   "commit": "ec88a15f3f587771373eec8b52ddcd5f65892264",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 262,
+   "recorded_in_force": "2021-02-24",
+   "in_force": "2021-03-07",
+   "in_force_basis": "Федеральный закон от 24.02.2021 № 25-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2021-02-24 (the IPS dates this edition 24.02.2021, the act's own date)"
+  },
+  {
+   "commit": "a4a7e8cf746b3881507287e6446a03256e84b733",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 261,
+   "recorded_in_force": "2021-02-24",
+   "in_force": "2021-03-07",
+   "in_force_basis": "Федеральный закон от 24.02.2021 № 16-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2021-02-24 (the IPS dates this edition 24.02.2021, the act's own date)"
+  },
+  {
+   "commit": "b5117675d1d383cddd3397ac99b9ccbec025970d",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 260,
+   "recorded_in_force": "2020-12-30",
+   "in_force": "2021-01-10",
+   "in_force_basis": "Федеральный закон от 30.12.2020 № 543-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2020-12-30 (the IPS dates this edition 30.12.2020, the act's own date)"
+  },
+  {
+   "commit": "b88dc67cf47ae857cc0c7b6749fc9516ccbea4a4",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 259,
+   "recorded_in_force": "2020-12-30",
+   "in_force": "2021-01-10",
+   "in_force_basis": "Федеральный закон от 30.12.2020 № 538-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2020-12-30 (the IPS dates this edition 30.12.2020, the act's own date)"
+  },
+  {
+   "commit": "553c77f735e668fa145e56134b110a99571d7dc3",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 258,
+   "recorded_in_force": "2020-12-30",
+   "in_force": "2021-01-10",
+   "in_force_basis": "Федеральный закон от 30.12.2020 № 526-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2020-12-30 (the IPS dates this edition 30.12.2020, the act's own date)"
+  },
+  {
+   "commit": "ea9ea405f548e37417c225d4d2e568abed41e543",
+   "act_path": "кодексы/гражданский-кодекс/часть-4",
+   "edition": 28,
+   "recorded_in_force": "2020-12-30",
+   "in_force": "2021-01-10",
+   "in_force_basis": "Федеральный закон от 30.12.2020 № 527-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2020-12-30 (the IPS dates this edition 30.12.2020, the act's own date)"
+  },
+  {
+   "commit": "35a5f1d975101f3e0013521a7033812bcc33efd8",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 257,
+   "recorded_in_force": "2020-12-08",
+   "in_force": "2020-12-19",
+   "in_force_basis": "Федеральный закон от 08.12.2020 № 425-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2020-12-08 (the IPS dates this edition 08.12.2020, the act's own date)"
+  },
+  {
+   "commit": "196f4f67e8d0a0a07b7076404441b3e5f3f3d16e",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 256,
+   "recorded_in_force": "2020-10-27",
+   "in_force": "2020-11-07",
+   "in_force_basis": "Федеральный закон от 27.10.2020 № 352-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2020-10-27 (the IPS dates this edition 27.10.2020, the act's own date)"
+  },
+  {
+   "commit": "1ea02cb9c786d727fd8aabadf1372124d7798bc4",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 255,
+   "recorded_in_force": "2020-07-31",
+   "in_force": "2020-08-11",
+   "in_force_basis": "Федеральный закон от 31.07.2020 № 260-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2020-07-31 (the IPS dates this edition 31.07.2020, the act's own date)"
+  },
+  {
+   "commit": "3f0f7ac3ba9847b019baa4a010f32741bfcd4a52",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 253,
+   "recorded_in_force": "2020-06-08",
+   "in_force": "2020-06-19",
+   "in_force_basis": "Федеральный закон от 08.06.2020 № 170-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2020-06-08 (the IPS dates this edition 08.06.2020, the act's own date)"
+  },
+  {
+   "commit": "114ed325e49e7b5f711aad184186ec161f27cf99",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 251,
+   "recorded_in_force": "2020-04-01",
+   "in_force": "2020-01-01",
+   "in_force_basis": "Федеральный закон от 01.04.2020 № 100-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2020-01-01 (the IPS dates this edition 01.04.2020, the act's own date)"
+  },
+  {
+   "commit": "fbb3d126769e3e6e973edd0dabaaea3763658258",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 250,
+   "recorded_in_force": "2020-04-01",
+   "in_force": "2020-01-01",
+   "in_force_basis": "Федеральный закон от 01.04.2020 № 95-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2020-01-01 (the IPS dates this edition 01.04.2020, the act's own date)"
+  },
+  {
+   "commit": "ed4c7af888f6c9b9c676dd4e2080cf1babd1cb33",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 249,
+   "recorded_in_force": "2020-04-01",
+   "in_force": "2020-01-01",
+   "in_force_basis": "Федеральный закон от 01.04.2020 № 94-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2020-01-01 (the IPS dates this edition 01.04.2020, the act's own date)"
+  },
+  {
+   "commit": "0b7d3d7b97f1a4e778525b094e9f62fa175845fd",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 248,
+   "recorded_in_force": "2020-04-01",
+   "in_force": "2020-01-12",
+   "in_force_basis": "Федеральный закон от 01.04.2020 № 73-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2020-01-01 (the IPS dates this edition 01.04.2020, the act's own date)"
+  },
+  {
+   "commit": "0623803a8d236210d70ee67bcb22a355fba976c8",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 247,
+   "recorded_in_force": "2020-02-18",
+   "in_force": "2020-02-29",
+   "in_force_basis": "Федеральный закон от 18.02.2020 № 22-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2020-02-18 (the IPS dates this edition 18.02.2020, the act's own date)"
+  },
+  {
+   "commit": "c850d34fbbab565450150e56cfb7f558456eac3a",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 246,
+   "recorded_in_force": "2019-12-27",
+   "in_force": "2020-01-08",
+   "in_force_basis": "Федеральный закон от 27.12.2019 № 500-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2019-12-28 (the IPS dates this edition 27.12.2019, the act's own date)"
+  },
+  {
+   "commit": "466168cf2a3aa31a33c9ccf16b0a83a6d3fe1876",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 245,
+   "recorded_in_force": "2019-12-02",
+   "in_force": "2019-01-12",
+   "in_force_basis": "Федеральный закон от 02.12.2019 № 410-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2019-01-01 (the IPS dates this edition 02.12.2019, the act's own date)"
+  },
+  {
+   "commit": "0b38e8314a929d9eb39e2851998dbf0202618c35",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 244,
+   "recorded_in_force": "2019-11-04",
+   "in_force": "2019-11-15",
+   "in_force_basis": "Федеральный закон от 04.11.2019 № 354-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2019-11-04 (the IPS dates this edition 04.11.2019, the act's own date)"
+  },
+  {
+   "commit": "fd6244f94e65fe9bd3287eafcbf74cec3c591392",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 243,
+   "recorded_in_force": "2019-10-16",
+   "in_force": "2019-10-27",
+   "in_force_basis": "Федеральный закон от 16.10.2019 № 340-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2019-10-16 (the IPS dates this edition 16.10.2019, the act's own date)"
+  },
+  {
+   "commit": "82aae4f97980336fd7bc04e3a00f175529be906e",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 242,
+   "recorded_in_force": "2019-08-02",
+   "in_force": "2019-08-13",
+   "in_force_basis": "Федеральный закон от 02.08.2019 № 308-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2019-08-02 (the IPS dates this edition 02.08.2019, the act's own date)"
+  },
+  {
+   "commit": "51ab76852fb5baacc91dd7d5e4766c6b91b64197",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 241,
+   "recorded_in_force": "2019-08-02",
+   "in_force": "2019-08-13",
+   "in_force_basis": "Федеральный закон от 02.08.2019 № 304-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2019-08-02 (the IPS dates this edition 02.08.2019, the act's own date)"
+  },
+  {
+   "commit": "3bf0aa50e965d1c23efdcfda44e18c1d9134a20c",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 240,
+   "recorded_in_force": "2019-07-26",
+   "in_force": "2019-08-06",
+   "in_force_basis": "Федеральный закон от 26.07.2019 № 209-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2019-07-26 (the IPS dates this edition 26.07.2019, the act's own date)"
+  },
+  {
+   "commit": "6a79bec014148e1d9724068284faee4c6df10eaa",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 239,
+   "recorded_in_force": "2019-07-26",
+   "in_force": "2019-08-06",
+   "in_force_basis": "Федеральный закон от 26.07.2019 № 206-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2019-07-26 (the IPS dates this edition 26.07.2019, the act's own date)"
+  },
+  {
+   "commit": "43ff5e01bf6da14de2795c02b2f583fbbcd719f0",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 237,
+   "recorded_in_force": "2019-06-17",
+   "in_force": "2019-06-28",
+   "in_force_basis": "Федеральный закон от 17.06.2019 № 146-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2019-06-17 (the IPS dates this edition 17.06.2019, the act's own date)"
+  },
+  {
+   "commit": "9a3f7f030fb9fcb2e458a80ce576305a97479aec",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 233,
+   "recorded_in_force": "2018-12-27",
+   "in_force": "2019-01-08",
+   "in_force_basis": "Федеральный закон от 27.12.2018 № 569-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2018-12-28 (the IPS dates this edition 27.12.2018, the act's own date)"
+  },
+  {
+   "commit": "c51490b8e2397c0cabfedbd27aa30832cc3e6f21",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 69,
+   "recorded_in_force": "2018-07-29",
+   "in_force": "2018-08-10",
+   "in_force_basis": "Федеральный закон от 29.07.2018 № 225-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2018-07-30 (the IPS dates this edition 29.07.2018, the act's own date)"
+  },
+  {
+   "commit": "8509000b6b9b9be91db95cae2ec5a2cad47502ab",
+   "act_path": "кодексы/гражданский-кодекс/часть-4",
+   "edition": 17,
+   "recorded_in_force": "2015-12-30",
+   "in_force": "2017-01-01",
+   "in_force_basis": "Федеральный закон от 30.12.2015 № 431-ФЗ: Own clause: \"вступает в силу с 1 января 2017 года, за исключением пункта 3 статьи 28 настоящего Федерального закона\" (the IPS dates this edition 30.12.2015, the act's own date)"
+  },
+  {
+   "commit": "3e12054eca264049c4989fad075eb2b9ea895f02",
+   "act_path": "кодексы/гражданский-кодекс/часть-4",
+   "edition": 16,
+   "recorded_in_force": "2015-11-28",
+   "in_force": "2015-12-09",
+   "in_force_basis": "Федеральный закон от 28.11.2015 № 358-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2015-11-28 (the IPS dates this edition 28.11.2015, the act's own date)"
+  },
+  {
+   "commit": "742082b8c5c44628e6b766d6898f93af57604e73",
+   "act_path": "кодексы/гражданский-кодекс/часть-4",
+   "edition": 15,
+   "recorded_in_force": "2015-11-28",
+   "in_force": "2015-12-09",
+   "in_force_basis": "Федеральный закон от 28.11.2015 № 342-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2015-11-28 (the IPS dates this edition 28.11.2015, the act's own date)"
+  },
+  {
+   "commit": "70c641a81227b151bd50712bc3f6662e90e0bab4",
+   "act_path": "кодексы/гражданский-кодекс/часть-4",
+   "edition": 13,
+   "recorded_in_force": "2015-06-29",
+   "in_force": "2016-01-01",
+   "in_force_basis": "Федеральный закон от 29.06.2015 № 205-ФЗ: Own clause: \"вступает в силу с 1 января 2016 года\" (the IPS dates this edition 29.06.2015, the act's own date)"
+  },
+  {
+   "commit": "69386dfe5c7185e3e65b396994ad718f643f44b6",
+   "act_path": "кодексы/гражданский-кодекс/часть-4",
+   "edition": 12,
+   "recorded_in_force": "2014-12-31",
+   "in_force": "2015-01-11",
+   "in_force_basis": "Федеральный закон от 31.12.2014 № 530-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2014-12-31 (the IPS dates this edition 31.12.2014, the act's own date)"
+  },
+  {
+   "commit": "1dfa94f8d6be996befccd68c43f866da10bc5add",
+   "act_path": "кодексы/гражданский-кодекс/часть-4",
+   "edition": 11,
+   "recorded_in_force": "2014-03-12",
+   "in_force": "2014-10-01",
+   "in_force_basis": "Федеральный закон от 12.03.2014 № 35-ФЗ: Own clause: \"вступает в силу с 1 октября 2014 года, за исключением положений, для которых настоящей статьей установлены иные сроки вступления их в силу\" (the IPS dates this edition 12.03.2014, the act's own date)"
+  },
+  {
+   "commit": "cf9458f3ed6335555dd8931a25c7e32f3a3ee63a",
+   "act_path": "кодексы/гражданский-кодекс/часть-4",
+   "edition": 10,
+   "recorded_in_force": "2013-07-23",
+   "in_force": "2013-08-03",
+   "in_force_basis": "Федеральный закон от 23.07.2013 № 222-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2013-07-23 (the IPS dates this edition 23.07.2013, the act's own date)"
+  },
+  {
+   "commit": "8e84737d9d141254adbef3990b54c490275f2a1d",
+   "act_path": "кодексы/гражданский-кодекс/часть-4",
+   "edition": 9,
+   "recorded_in_force": "2013-07-02",
+   "in_force": "2013-08-01",
+   "in_force_basis": "Федеральный закон от 02.07.2013 № 187-ФЗ: Own clause: \"вступает в силу с 1 августа 2013 года\" (the IPS dates this edition 02.07.2013, the act's own date)"
+  },
+  {
+   "commit": "00219f6ab09daf358b1a2a6fe067b995a74126cb",
+   "act_path": "кодексы/гражданский-кодекс/часть-4",
+   "edition": 8,
+   "recorded_in_force": "2013-07-02",
+   "in_force": "2013-09-01",
+   "in_force_basis": "Федеральный закон от 02.07.2013 № 185-ФЗ: Own clause: \"вступает в силу с 1 сентября 2013 года, за исключением положений, для которых настоящей статьей установлен иной срок вступления их в силу\" (the IPS dates this edition 02.07.2013, the act's own date)"
+  },
+  {
+   "commit": "84cd005e69c5d570cf19142bf6a9f04c4af604c1",
+   "act_path": "кодексы/гражданский-кодекс/часть-3",
+   "edition": 9,
+   "recorded_in_force": "2012-10-02",
+   "in_force": "2014-01-10",
+   "in_force_basis": "Федеральный закон от 02.10.2012 № 166-ФЗ: Own clause: \"вступает в силу с 10 января 2014 года, за исключением положений, для которых настоящей статьей установлены иные сроки вступления их в силу\" (the IPS dates this edition 02.10.2012, the act's own date)"
+  },
+  {
+   "commit": "833b7815334a8a0f3d4175418efef73057e4a99f",
+   "act_path": "кодексы/гражданский-кодекс/часть-3",
+   "edition": 8,
+   "recorded_in_force": "2012-06-05",
+   "in_force": "2012-06-07",
+   "in_force_basis": "Федеральный закон от 05.06.2012 № 51-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2012-06-07 (the IPS dates this edition 05.06.2012, the act's own date)"
+  },
+  {
+   "commit": "971ac7aee5503a2afc7ad000cd7f2b833fdf6d3f",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 40,
+   "recorded_in_force": "2011-11-28",
+   "in_force": "2012-01-01",
+   "in_force_basis": "Федеральный закон от 28.11.2011 № 336-ФЗ: Own clause: \"вступает в силу с 1 января 2012 года, за исключением статей 2 и 3 настоящего Федерального закона\" (the IPS dates this edition 28.11.2011, the act's own date)"
+  },
+  {
+   "commit": "521bdf30976aa7a026d805fa2608b09ac9886b8a",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 39,
+   "recorded_in_force": "2011-11-21",
+   "in_force": "2011-12-03",
+   "in_force_basis": "Федеральный закон от 21.11.2011 № 329-ФЗ: Own clause: \"вступает в силу по истечении десяти дней после дня его официального опубликования, за исключением статьи 12 настоящего Федерального закона\"; earliest official publication 2011-11-22 (the IPS dates this edition 21.11.2011, the act's own date)"
+  },
+  {
+   "commit": "eaa9a785a8b40d914196820b906599d1bde416fb",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 38,
+   "recorded_in_force": "2011-10-19",
+   "in_force": "2011-11-01",
+   "in_force_basis": "Федеральный закон от 19.10.2011 № 284-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2011-10-21 (the IPS dates this edition 19.10.2011, the act's own date)"
+  },
+  {
+   "commit": "ba7a2886350d9dd5c324e8faf29f48c3439a5b2e",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 37,
+   "recorded_in_force": "2011-07-19",
+   "in_force": "2011-10-21",
+   "in_force_basis": "Федеральный закон от 19.07.2011 № 248-ФЗ: Own clause: \"вступает в силу по истечении девяноста дней после дня его официального опубликования, за исключением статьи 37 настоящего Федерального закона\"; earliest official publication 2011-07-22 (the IPS dates this edition 19.07.2011, the act's own date)"
+  },
+  {
+   "commit": "fedd78ebeb548557181d3458f532e490e4d12c29",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 36,
+   "recorded_in_force": "2011-07-18",
+   "in_force": "2011-10-21",
+   "in_force_basis": "Федеральный закон от 18.07.2011 № 216-ФЗ: Own clause: \"вступает в силу по истечении девяноста дней после дня его официального опубликования\"; earliest official publication 2011-07-22 (the IPS dates this edition 18.07.2011, the act's own date)"
+  },
+  {
+   "commit": "25badf34855ca081f487091b6c825b0007561e77",
+   "act_path": "кодексы/гражданский-кодекс/часть-4",
+   "edition": 6,
+   "recorded_in_force": "2010-10-04",
+   "in_force": "2010-10-19",
+   "in_force_basis": "Федеральный закон от 04.10.2010 № 259-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2010-10-08 (the IPS dates this edition 04.10.2010, the act's own date)"
+  },
+  {
+   "commit": "479faa52a34107abef2f2a17c721068ee791b484",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 34,
+   "recorded_in_force": "2010-05-08",
+   "in_force": "2011-01-01",
+   "in_force_basis": "Федеральный закон от 08.05.2010 № 83-ФЗ: Own clause: \"вступает в силу с 1 января 2011 года, за исключением положений, для которых настоящей статьей установлены иные сроки вступления их в силу\" (the IPS dates this edition 08.05.2010, the act's own date)"
+  },
+  {
+   "commit": "b8e6b88c6bba645c9674ffd56f0b9ddd61d55883",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 79,
+   "recorded_in_force": "2010-05-06",
+   "in_force": "2010-05-10",
+   "in_force_basis": "Федеральный закон от 06.05.2010 № 81-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2010-05-10 (the IPS dates this edition 06.05.2010, the act's own date)"
+  },
+  {
+   "commit": "20de0cecfee84695a3815e928d2cc982687d05b5",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 77,
+   "recorded_in_force": "2010-04-05",
+   "in_force": "2010-04-18",
+   "in_force_basis": "Федеральный закон от 05.04.2010 № 48-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2010-04-07 (the IPS dates this edition 05.04.2010, the act's own date)"
+  },
+  {
+   "commit": "816dc12092c19c1902524736f08dca8d01df5fa5",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 76,
+   "recorded_in_force": "2010-03-29",
+   "in_force": "2010-04-02",
+   "in_force_basis": "Федеральный закон от 29.03.2010 № 33-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2010-04-02 (the IPS dates this edition 29.03.2010, the act's own date)"
+  },
+  {
+   "commit": "fcff8cc9c1bf4de9be4bb14899c5efc6e3a306d0",
+   "act_path": "кодексы/гражданский-кодекс/часть-4",
+   "edition": 5,
+   "recorded_in_force": "2010-02-24",
+   "in_force": "2010-03-09",
+   "in_force_basis": "Федеральный закон от 24.02.2010 № 17-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2010-02-26 (the IPS dates this edition 24.02.2010, the act's own date)"
+  },
+  {
+   "commit": "1d0b50f02431c1fca84c953c4f49fffd64f07070",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 75,
+   "recorded_in_force": "2010-02-21",
+   "in_force": "2010-02-22",
+   "in_force_basis": "Федеральный закон от 21.02.2010 № 16-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2010-02-22 (the IPS dates this edition 21.02.2010, the act's own date)"
+  },
+  {
+   "commit": "27de6224933ee7d4b223e77674fd7b194060ebb6",
+   "act_path": "кодексы/гражданский-кодекс/часть-4",
+   "edition": 4,
+   "recorded_in_force": "2010-02-21",
+   "in_force": "2010-03-05",
+   "in_force_basis": "Федеральный закон от 21.02.2010 № 13-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2010-02-22 (the IPS dates this edition 21.02.2010, the act's own date)"
+  },
+  {
+   "commit": "b05787de6943f150f3ef6504c788a9b59d37ae0c",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 74,
+   "recorded_in_force": "2009-12-29",
+   "in_force": "2010-01-01",
+   "in_force_basis": "Федеральный закон от 29.12.2009 № 383-ФЗ: Own clause: \"вступает в силу с 1 января 2010 года, за исключением положений, для которых настоящей статьей установлен иной порядок вступления в силу\" (the IPS dates this edition 29.12.2009, the act's own date)"
+  },
+  {
+   "commit": "18a17d266c9820db13c8758b7fd87f333ca92552",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 73,
+   "recorded_in_force": "2009-12-27",
+   "in_force": "2010-01-01",
+   "in_force_basis": "Федеральный закон от 27.12.2009 № 377-ФЗ: Own clause: \"вступает в силу с 1 января 2010 года, за исключением статей 6 и 7 настоящего Федерального закона\" (the IPS dates this edition 27.12.2009, the act's own date)"
+  },
+  {
+   "commit": "fa1c61015f7196d0ea902a00fabf382145af432f",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 72,
+   "recorded_in_force": "2009-12-17",
+   "in_force": "2009-12-21",
+   "in_force_basis": "Федеральный закон от 17.12.2009 № 324-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2009-12-21 (the IPS dates this edition 17.12.2009, the act's own date)"
+  },
+  {
+   "commit": "2e44a8b1a64397c32032ddca0ce2d72573058e2e",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 70,
+   "recorded_in_force": "2009-11-03",
+   "in_force": "2009-11-17",
+   "in_force_basis": "Федеральный закон от 03.11.2009 № 245-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2009-11-06 (the IPS dates this edition 03.11.2009, the act's own date)"
+  },
+  {
+   "commit": "c28581a5bb712b2ff4cc2d74a51ac46fafbcc84d",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 69,
+   "recorded_in_force": "2009-10-30",
+   "in_force": "2009-11-13",
+   "in_force_basis": "Федеральный закон от 30.10.2009 № 241-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2009-11-02 (the IPS dates this edition 30.10.2009, the act's own date)"
+  },
+  {
+   "commit": "0f128fd4eaec793b092e29fec87b8c165c5af570",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 68,
+   "recorded_in_force": "2009-07-29",
+   "in_force": "2009-10-30",
+   "in_force_basis": "Федеральный закон от 29.07.2009 № 216-ФЗ: Own clause: \"вступает в силу по истечении девяноста дней после дня его официального опубликования\"; earliest official publication 2009-07-31 (the IPS dates this edition 29.07.2009, the act's own date)"
+  },
+  {
+   "commit": "bcecad42cba4a511d7802f39dabbc8180c0897fb",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 67,
+   "recorded_in_force": "2009-07-27",
+   "in_force": "2009-07-30",
+   "in_force_basis": "Федеральный закон от 27.07.2009 № 215-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2009-07-30 (the IPS dates this edition 27.07.2009, the act's own date)"
+  },
+  {
+   "commit": "3f8d496fb9a6a74299abb76464b44a87a7fa1bc4",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 66,
+   "recorded_in_force": "2009-07-24",
+   "in_force": "2010-04-01",
+   "in_force_basis": "Федеральный закон от 24.07.2009 № 209-ФЗ: Own clause: \"вступает в силу с 1 апреля 2010 года, за исключением части 4 статьи 20, частей 2 - 13 статьи 21, пунктов 2, 3, 5 и 6 статьи 62, пунктов 4 и 5 статьи 65 настоящего Федерального \" (the IPS dates this edition 24.07.2009, the act's own date)"
+  },
+  {
+   "commit": "46182b9e560d7e4d88cebe2507eb78e2a7fa8e6a",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 33,
+   "recorded_in_force": "2009-07-17",
+   "in_force": "2009-07-20",
+   "in_force_basis": "Федеральный закон от 17.07.2009 № 145-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2009-07-20 (the IPS dates this edition 17.07.2009, the act's own date)"
+  },
+  {
+   "commit": "4c4b4d8d0c88ef0bbd35da9d851583e5db71b612",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 65,
+   "recorded_in_force": "2009-06-29",
+   "in_force": "2009-07-10",
+   "in_force_basis": "Федеральный закон от 29.06.2009 № 141-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2009-06-29 (the IPS dates this edition 29.06.2009, the act's own date)"
+  },
+  {
+   "commit": "365776e60cac6b6b6d75f76e1b794a21ac9cd7d8",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 64,
+   "recorded_in_force": "2009-06-03",
+   "in_force": "2009-06-19",
+   "in_force_basis": "Федеральный закон от 03.06.2009 № 106-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2009-06-08 (the IPS dates this edition 03.06.2009, the act's own date)"
+  },
+  {
+   "commit": "c3395bb6d47e14717975b7a175c570e018d3f655",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 63,
+   "recorded_in_force": "2009-04-28",
+   "in_force": "2009-05-15",
+   "in_force_basis": "Федеральный закон от 28.04.2009 № 66-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2009-05-04 (the IPS dates this edition 28.04.2009, the act's own date)"
+  },
+  {
+   "commit": "d779347c83d3adb42f5a447f1aff202c9a3f1cae",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 32,
+   "recorded_in_force": "2009-04-09",
+   "in_force": "2009-04-24",
+   "in_force_basis": "Федеральный закон от 09.04.2009 № 56-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2009-04-13 (the IPS dates this edition 09.04.2009, the act's own date)"
+  },
+  {
+   "commit": "246397a82c31d13e201cd004be26eced90ef82ce",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 62,
+   "recorded_in_force": "2009-02-13",
+   "in_force": "2009-02-27",
+   "in_force_basis": "Федеральный закон от 13.02.2009 № 20-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2009-02-16 (the IPS dates this edition 13.02.2009, the act's own date)"
+  },
+  {
+   "commit": "df4e009f4e658fc2ee0edaebff82867da7f667d9",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 61,
+   "recorded_in_force": "2008-12-30",
+   "in_force": "2009-01-11",
+   "in_force_basis": "Федеральный закон от 30.12.2008 № 321-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2008-12-31 (the IPS dates this edition 30.12.2008, the act's own date)"
+  },
+  {
+   "commit": "ae3c83f3b59a0b743180eb1a1de261060d348016",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 31,
+   "recorded_in_force": "2008-12-30",
+   "in_force": "2009-03-01",
+   "in_force_basis": "Федеральный закон от 30.12.2008 № 308-ФЗ: Own clause: \"вступает в силу с 1 марта 2009 года, за исключением положений, для которых настоящей статьей предусмотрены иные сроки вступления их в силу\" (the IPS dates this edition 30.12.2008, the act's own date)"
+  },
+  {
+   "commit": "b04c8d90d07a16230b74f59a6724cd8ecf8a1f63",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 60,
+   "recorded_in_force": "2008-12-25",
+   "in_force": "2009-01-09",
+   "in_force_basis": "Федеральный закон от 25.12.2008 № 280-ФЗ: Own clause: \"вступает в силу по истечении десяти дней после дня его официального опубликования\"; earliest official publication 2008-12-29 (the IPS dates this edition 25.12.2008, the act's own date)"
+  },
+  {
+   "commit": "2220d7d6b0523fe96f9023352fc5b5ad26e88d7f",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 30,
+   "recorded_in_force": "2008-12-25",
+   "in_force": "2009-01-09",
+   "in_force_basis": "Федеральный закон от 25.12.2008 № 280-ФЗ: Own clause: \"вступает в силу по истечении десяти дней после дня его официального опубликования\"; earliest official publication 2008-12-29 (the IPS dates this edition 25.12.2008, the act's own date)"
+  },
+  {
+   "commit": "546989a39626a551f31f64327612faacced55670",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 59,
+   "recorded_in_force": "2008-12-22",
+   "in_force": "2010-01-01",
+   "in_force_basis": "Федеральный закон от 22.12.2008 № 272-ФЗ: Own clause: \"вступает в силу с 1 января 2010 года, за исключением пункта 11 статьи 2 и статьи 8 настоящего Федерального закона\" (the IPS dates this edition 22.12.2008, the act's own date)"
+  },
+  {
+   "commit": "a136fbb1d6dfc6c45aa4431389d0173ea8f458a3",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 58,
+   "recorded_in_force": "2008-11-25",
+   "in_force": "2008-12-09",
+   "in_force_basis": "Федеральный закон от 25.11.2008 № 218-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2008-11-28 (the IPS dates this edition 25.11.2008, the act's own date)"
+  },
+  {
+   "commit": "780f29ceb3e5cae26b1ba72baac4af8baa7993ea",
+   "act_path": "кодексы/гражданский-кодекс/часть-4",
+   "edition": 3,
+   "recorded_in_force": "2008-11-08",
+   "in_force": "2008-11-10",
+   "in_force_basis": "Федеральный закон от 08.11.2008 № 201-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2008-11-10 (the IPS dates this edition 08.11.2008, the act's own date)"
+  },
+  {
+   "commit": "90722b840974c546b1ca8d16be425dfcd43eae70",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 57,
+   "recorded_in_force": "2008-07-22",
+   "in_force": "2008-08-08",
+   "in_force_basis": "Федеральный закон от 22.07.2008 № 145-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2008-07-28 (the IPS dates this edition 22.07.2008, the act's own date)"
+  },
+  {
+   "commit": "58dace5b6a5c165142da0e83f426d499793e6ce5",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 29,
+   "recorded_in_force": "2008-07-14",
+   "in_force": "2008-07-18",
+   "in_force_basis": "Федеральный закон от 14.07.2008 № 118-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования, за исключением пункта 8 статьи 1 и статьи 17 настоящего Федерального закона\"; earliest official publication 2008-07-18 (the IPS dates this edition 14.07.2008, the act's own date)"
+  },
+  {
+   "commit": "4c228387525705cb00afb5d63bcb7cc16fb6b32d",
+   "act_path": "кодексы/гражданский-кодекс/часть-4",
+   "edition": 2,
+   "recorded_in_force": "2008-06-30",
+   "in_force": "2008-07-18",
+   "in_force_basis": "Федеральный закон от 30.06.2008 № 104-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2008-07-07 (the IPS dates this edition 30.06.2008, the act's own date)"
+  },
+  {
+   "commit": "7dcb27ce9bf40ba65aba98e33639654cea7fd592",
+   "act_path": "кодексы/гражданский-кодекс/часть-3",
+   "edition": 7,
+   "recorded_in_force": "2008-06-30",
+   "in_force": "2008-07-18",
+   "in_force_basis": "Федеральный закон от 30.06.2008 № 105-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2008-07-07 (the IPS dates this edition 30.06.2008, the act's own date)"
+  },
+  {
+   "commit": "3b26f8e3d892dbd1e7555df50ae3eba07851de27",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 56,
+   "recorded_in_force": "2008-05-13",
+   "in_force": "2008-05-17",
+   "in_force_basis": "Федеральный закон от 13.05.2008 № 66-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования, за исключением абзацев пятого и шестого подпункта \"в\" пункта 4 статьи 2 настоящег\"; earliest official publication 2008-05-17 (the IPS dates this edition 13.05.2008, the act's own date)"
+  },
+  {
+   "commit": "2d1ee6944085020533f913b07a62301824a7bf0e",
+   "act_path": "кодексы/гражданский-кодекс/часть-3",
+   "edition": 6,
+   "recorded_in_force": "2008-04-29",
+   "in_force": "2008-05-16",
+   "in_force_basis": "Федеральный закон от 29.04.2008 № 54-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2008-05-05 (the IPS dates this edition 29.04.2008, the act's own date)"
+  },
+  {
+   "commit": "790a4ebb813a8ae870dcd0149447f0a5373073e6",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 28,
+   "recorded_in_force": "2008-04-24",
+   "in_force": "2008-09-01",
+   "in_force_basis": "Федеральный закон от 24.04.2008 № 49-ФЗ: Own clause: \"вступает в силу с 1 сентября 2008 года\" (the IPS dates this edition 24.04.2008, the act's own date)"
+  },
+  {
+   "commit": "4cacd233bf7dfa3ea1475f014fc6a8bf2c3a8b4c",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 55,
+   "recorded_in_force": "2008-04-08",
+   "in_force": "2008-04-23",
+   "in_force_basis": "Федеральный закон от 08.04.2008 № 43-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2008-04-12 (the IPS dates this edition 08.04.2008, the act's own date)"
+  },
+  {
+   "commit": "a1768ffb18720d3a198de8c44b53586a4c7f1aca",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 54,
+   "recorded_in_force": "2008-02-14",
+   "in_force": "2008-02-27",
+   "in_force_basis": "Федеральный закон от 14.02.2008 № 11-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2008-02-16 (the IPS dates this edition 14.02.2008, the act's own date)"
+  },
+  {
+   "commit": "01d67fb8c13f0cd1e8678c85778f1b90840ad29e",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 53,
+   "recorded_in_force": "2007-12-06",
+   "in_force": "2007-12-21",
+   "in_force_basis": "Федеральный закон от 06.12.2007 № 335-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2007-12-10 (the IPS dates this edition 06.12.2007, the act's own date)"
+  },
+  {
+   "commit": "20df61db92a438fd602f3464a55976e719e7f6ff",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 52,
+   "recorded_in_force": "2007-12-06",
+   "in_force": "2008-01-01",
+   "in_force_basis": "Федеральный закон от 06.12.2007 № 333-ФЗ: Own clause: \"вступает в силу с 1 января 2008 года, за исключением положений, для которых настоящей статьей установлены иные сроки вступления их в силу\" (the IPS dates this edition 06.12.2007, the act's own date)"
+  },
+  {
+   "commit": "7d1d460172f045c8fdbf7f1b9f90a6c4f1445952",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 27,
+   "recorded_in_force": "2007-12-06",
+   "in_force": null,
+   "in_force_basis": "Федеральный закон от 06.12.2007 № 334-ФЗ: clause not read: \"вступает в силу по истечении 10 дней после дня его официального опубликования, за исключением положений, для которых настоящей статьей установлены иные сроки вступления в силу\""
+  },
+  {
+   "commit": "9755661c2c3b15f0e1c670edc2ec38f190ae96c3",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 51,
+   "recorded_in_force": "2007-12-01",
+   "in_force": "2007-12-03",
+   "in_force_basis": "Федеральный закон от 01.12.2007 № 318-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2007-12-03 (the IPS dates this edition 01.12.2007, the act's own date)"
+  },
+  {
+   "commit": "d75520b7931d2a183767e77ed7fd3fc8b94ee6ca",
+   "act_path": "кодексы/гражданский-кодекс/часть-3",
+   "edition": 5,
+   "recorded_in_force": "2007-11-29",
+   "in_force": "2007-12-14",
+   "in_force_basis": "Федеральный закон от 29.11.2007 № 281-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2007-12-03 (the IPS dates this edition 29.11.2007, the act's own date)"
+  },
+  {
+   "commit": "945ae1635f001bca30db3e69db5df0c01ac24985",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 26,
+   "recorded_in_force": "2007-11-29",
+   "in_force": "2007-12-14",
+   "in_force_basis": "Федеральный закон от 29.11.2007 № 287-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2007-12-03 (the IPS dates this edition 29.11.2007, the act's own date)"
+  },
+  {
+   "commit": "e1526b8f6b00c996354d6c6bae5c9c4923b2f87e",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 50,
+   "recorded_in_force": "2007-11-04",
+   "in_force": "2007-12-06",
+   "in_force_basis": "Федеральный закон от 04.11.2007 № 252-ФЗ: Own clause: \"вступает в силу по истечении тридцати дней после дня его официального опубликования\"; earliest official publication 2007-11-05 (the IPS dates this edition 04.11.2007, the act's own date)"
+  },
+  {
+   "commit": "28d581792ff1c0795a96258102e2a74c5c10053c",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 25,
+   "recorded_in_force": "2007-11-04",
+   "in_force": "2007-11-05",
+   "in_force_basis": "Федеральный закон от 04.11.2007 № 251-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2007-11-05 (the IPS dates this edition 04.11.2007, the act's own date)"
+  },
+  {
+   "commit": "269b813999d857e60919986638380db830a29f4d",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 24,
+   "recorded_in_force": "2007-10-25",
+   "in_force": "2007-12-12",
+   "in_force_basis": "Федеральный закон от 25.10.2007 № 234-ФЗ: Own clause: \"вступает в силу по истечении сорока пяти дней после дня его официального опубликования\"; earliest official publication 2007-10-27 (the IPS dates this edition 25.10.2007, the act's own date)"
+  },
+  {
+   "commit": "e257a9e1dccdd4b006cd1ea6978cf95b876a89ab",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 23,
+   "recorded_in_force": "2007-10-02",
+   "in_force": "2007-10-06",
+   "in_force_basis": "Федеральный закон от 02.10.2007 № 225-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования, за исключением положений, для которых настоящей статьей предусмотрены иные сроки \"; earliest official publication 2007-10-06 (the IPS dates this edition 02.10.2007, the act's own date)"
+  },
+  {
+   "commit": "3921f5664f0c41bda19f931c22e4fc87f70a523b",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 49,
+   "recorded_in_force": "2007-07-24",
+   "in_force": "2007-09-07",
+   "in_force_basis": "Федеральный закон от 24.07.2007 № 214-ФЗ: Own clause: \"вступает в силу с 7 сентября 2007 года, за исключением статьи 26 настоящего Федерального закона\" (the IPS dates this edition 24.07.2007, the act's own date)"
+  },
+  {
+   "commit": "dceba08c7fd1065b94e87ed980a1245a50fb635e",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 48,
+   "recorded_in_force": "2007-07-24",
+   "in_force": "2007-08-10",
+   "in_force_basis": "Федеральный закон от 24.07.2007 № 211-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2007-07-30 (the IPS dates this edition 24.07.2007, the act's own date)"
+  },
+  {
+   "commit": "6012dd9cece68d579a24426a8b474641f5105f76",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 47,
+   "recorded_in_force": "2007-07-24",
+   "in_force": "2007-08-10",
+   "in_force_basis": "Федеральный закон от 24.07.2007 № 203-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2007-07-30 (the IPS dates this edition 24.07.2007, the act's own date)"
+  },
+  {
+   "commit": "6140561f64f8f2695a8237c27b8461059a99cbe3",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 22,
+   "recorded_in_force": "2007-07-24",
+   "in_force": "2007-10-01",
+   "in_force_basis": "Федеральный закон от 24.07.2007 № 218-ФЗ: Own clause: \"вступает в силу с 1 октября 2007 года, за исключением положений, для которых настоящей статьей предусмотрены иные сроки вступления в силу\" (the IPS dates this edition 24.07.2007, the act's own date)"
+  },
+  {
+   "commit": "8b440c35a5cb72636555d72e0498edb1e3a8ec44",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 21,
+   "recorded_in_force": "2007-07-19",
+   "in_force": "2008-01-01",
+   "in_force_basis": "Федеральный закон от 19.07.2007 № 197-ФЗ: Own clause: \"вступает в силу с 1 января 2008 года\" (the IPS dates this edition 19.07.2007, the act's own date)"
+  },
+  {
+   "commit": "da499b26a962615e0b8ec26f80c1b5765daa52aa",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 20,
+   "recorded_in_force": "2007-06-26",
+   "in_force": "2007-07-02",
+   "in_force_basis": "Федеральный закон от 26.06.2007 № 118-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования, за исключением статьи 47 настоящего Федерального закона\"; earliest official publication 2007-07-02 (the IPS dates this edition 26.06.2007, the act's own date)"
+  },
+  {
+   "commit": "b5c361f9136be498fe6115eacedbdf43bf1dec0b",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 46,
+   "recorded_in_force": "2007-05-10",
+   "in_force": "2007-06-01",
+   "in_force_basis": "Федеральный закон от 10.05.2007 № 70-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2007-05-21 (the IPS dates this edition 10.05.2007, the act's own date)"
+  },
+  {
+   "commit": "a103a3f0a2ff393c95db2d5954b8e8c27d8c792a",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 19,
+   "recorded_in_force": "2007-04-20",
+   "in_force": "2007-04-23",
+   "in_force_basis": "Федеральный закон от 20.04.2007 № 53-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования, за исключением подпункта \"б\" пункта 9 статьи 1 настоящего Федерального закона\"; earliest official publication 2007-04-23 (the IPS dates this edition 20.04.2007, the act's own date)"
+  },
+  {
+   "commit": "7c59d622fd810811af9213cf47bb2a1eb25b4126",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 45,
+   "recorded_in_force": "2007-04-09",
+   "in_force": "2007-04-23",
+   "in_force_basis": "Федеральный закон от 09.04.2007 № 46-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2007-04-12 (the IPS dates this edition 09.04.2007, the act's own date)"
+  },
+  {
+   "commit": "93352ed252960153c6f3e692b10015a866b1d7f2",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 44,
+   "recorded_in_force": "2007-04-09",
+   "in_force": "2007-04-12",
+   "in_force_basis": "Федеральный закон от 09.04.2007 № 42-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2007-04-12 (the IPS dates this edition 09.04.2007, the act's own date)"
+  },
+  {
+   "commit": "06d33c5a18a5191f720c709364c3823f22111135",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 18,
+   "recorded_in_force": "2007-01-26",
+   "in_force": "2007-02-09",
+   "in_force_basis": "Федеральный закон от 26.01.2007 № 5-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2007-01-29 (the IPS dates this edition 26.01.2007, the act's own date)"
+  },
+  {
+   "commit": "4a8635a7abf7bc95afd909adeaf2fd973f0392e5",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 43,
+   "recorded_in_force": "2006-12-30",
+   "in_force": "2007-01-12",
+   "in_force_basis": "Федеральный закон от 30.12.2006 № 283-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2007-01-01 (the IPS dates this edition 30.12.2006, the act's own date)"
+  },
+  {
+   "commit": "94a594912a348cc1f88a5b42187b74a384dc0c68",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 17,
+   "recorded_in_force": "2006-12-30",
+   "in_force": "2007-01-01",
+   "in_force_basis": "Федеральный закон от 30.12.2006 № 276-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования, за исключением статьи 4 настоящего Федерального закона\"; earliest official publication 2007-01-01 (the IPS dates this edition 30.12.2006, the act's own date)"
+  },
+  {
+   "commit": "0efae7d9bdd7f87494c2a83a41423adfd21a15bc",
+   "act_path": "кодексы/гражданский-кодекс/часть-3",
+   "edition": 4,
+   "recorded_in_force": "2006-12-29",
+   "in_force": "2007-01-01",
+   "in_force_basis": "Федеральный закон от 29.12.2006 № 258-ФЗ: Own clause: \"вступает в силу с 1 января 2007 года, за исключением положений, для которых настоящей статьей установлены иные сроки вступления в силу\" (the IPS dates this edition 29.12.2006, the act's own date)"
+  },
+  {
+   "commit": "6d7463ef8261a60e27d4fbee246aa16ede54574e",
+   "act_path": "кодексы/гражданский-кодекс/часть-3",
+   "edition": 3,
+   "recorded_in_force": "2006-12-18",
+   "in_force": "2006-12-21",
+   "in_force_basis": "Федеральный закон от 18.12.2006 № 231-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования, за исключением статей 4 - 12, 14 - 16, пунктов 1 - 12, 14 - 16 статьи 17, статей \"; earliest official publication 2006-12-21 (the IPS dates this edition 18.12.2006, the act's own date)"
+  },
+  {
+   "commit": "6b1c58e4e160abbd2d3b4ab06e03854a056ea5fe",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 16,
+   "recorded_in_force": "2006-12-18",
+   "in_force": "2006-12-21",
+   "in_force_basis": "Федеральный закон от 18.12.2006 № 231-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования, за исключением статей 4 - 12, 14 - 16, пунктов 1 - 12, 14 - 16 статьи 17, статей \"; earliest official publication 2006-12-21 (the IPS dates this edition 18.12.2006, the act's own date)"
+  },
+  {
+   "commit": "6cdcc921e26329be9efad4494635a4618a31ac23",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 42,
+   "recorded_in_force": "2006-12-04",
+   "in_force": "2006-12-08",
+   "in_force_basis": "Федеральный закон от 04.12.2006 № 201-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования, за исключением статей 19, 20, 24, 26 - 29, 31, 34, 38, 39 настоящего Федерального\"; earliest official publication 2006-12-08 (the IPS dates this edition 04.12.2006, the act's own date)"
+  },
+  {
+   "commit": "28da10679957fee4f2923a5f7e1c2520d7c5fb07",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 41,
+   "recorded_in_force": "2006-07-27",
+   "in_force": "2006-07-29",
+   "in_force_basis": "Федеральный закон от 27.07.2006 № 153-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования, за исключением статей 8 и 14 настоящего Федерального закона\"; earliest official publication 2006-07-29 (the IPS dates this edition 27.07.2006, the act's own date)"
+  },
+  {
+   "commit": "0ba7e1876204836605be3a8fcc2f62f9553a2dc9",
+   "act_path": "кодексы/гражданский-кодекс/часть-3",
+   "edition": 2,
+   "recorded_in_force": "2006-06-03",
+   "in_force": "2006-06-05",
+   "in_force_basis": "Федеральный закон от 03.06.2006 № 73-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования, за исключением статей 12 и 19 настоящего Федерального закона\"; earliest official publication 2006-06-05 (the IPS dates this edition 03.06.2006, the act's own date)"
+  },
+  {
+   "commit": "cbf10cfa7e245cd698702d38d3ac75555c8e4bd2",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 15,
+   "recorded_in_force": "2006-02-02",
+   "in_force": "2006-02-06",
+   "in_force_basis": "Федеральный закон от 02.02.2006 № 19-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2006-02-06 (the IPS dates this edition 02.02.2006, the act's own date)"
+  },
+  {
+   "commit": "720ab0983bfca271c78b70d4dc3eb93f64e816d4",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 40,
+   "recorded_in_force": "2006-01-05",
+   "in_force": null,
+   "in_force_basis": "Федеральный закон от 05.01.2006 № 11-ФЗ: clause not read: \"вступает в силу по истечении 30 дней после дня его официального опубликования\""
+  },
+  {
+   "commit": "e1c2f4cce1466cde059322fc5992c2e7c4e44a1f",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 39,
+   "recorded_in_force": "2005-12-19",
+   "in_force": "2006-01-02",
+   "in_force_basis": "Федеральный закон от 19.12.2005 № 161-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2005-12-22 (the IPS dates this edition 19.12.2005, the act's own date)"
+  },
+  {
+   "commit": "3067761c90fa5709093b19e32751417485a6e7ec",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 38,
+   "recorded_in_force": "2005-07-21",
+   "in_force": null,
+   "in_force_basis": "Федеральный закон от 21.07.2005 № 93-ФЗ: clause not read: \"вступает в силу по истечении 10 дней после дня его официального опубликования, за исключением статьи 2, пункта 1, подпункта \"а\", абзаца второго подпункта \"в\", подпункта \"г\" пун\""
+  },
+  {
+   "commit": "2497c85bfd5c47cdcd37601989459ac5e77cfb4c",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 14,
+   "recorded_in_force": "2005-07-18",
+   "in_force": "2005-07-20",
+   "in_force_basis": "Федеральный закон от 18.07.2005 № 89-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования и распространяется на отношения, возникшие из договоров банковского счета, заключе\"; earliest official publication 2005-07-20 (the IPS dates this edition 18.07.2005, the act's own date)"
+  },
+  {
+   "commit": "b34b55dedbe515c1935dd3eb89653c6ef80995d5",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 13,
+   "recorded_in_force": "2005-05-09",
+   "in_force": "2005-08-08",
+   "in_force_basis": "Федеральный закон от 09.05.2005 № 45-ФЗ: Own clause: \"вступает в силу по истечении девяноста дней после дня его официального опубликования\"; earliest official publication 2005-05-09 (the IPS dates this edition 09.05.2005, the act's own date)"
+  },
+  {
+   "commit": "671cd7afb896cb0a5ed02c6ba021e3cf7e5a1970",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 12,
+   "recorded_in_force": "2005-03-21",
+   "in_force": "2005-04-04",
+   "in_force_basis": "Федеральный закон от 21.03.2005 № 22-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2005-03-24 (the IPS dates this edition 21.03.2005, the act's own date)"
+  },
+  {
+   "commit": "90412f4ca5adad1f79574129c2362d24b61bfd37",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 11,
+   "recorded_in_force": "2004-12-30",
+   "in_force": "2005-06-01",
+   "in_force_basis": "Федеральный закон от 30.12.2004 № 219-ФЗ: Own clause: \"вступает в силу с 1 июня 2005 года, за исключением пункта 1 и подпункта \"б\" пункта 3 статьи 1 настоящего Федерального закона\" (the IPS dates this edition 30.12.2004, the act's own date)"
+  },
+  {
+   "commit": "b67b8a93edcb3f10d1cb1b2ea54dbcfaa4c19567",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 10,
+   "recorded_in_force": "2004-12-29",
+   "in_force": "2005-01-14",
+   "in_force_basis": "Федеральный закон от 29.12.2004 № 189-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2005-01-03 (the IPS dates this edition 29.12.2004, the act's own date)"
+  },
+  {
+   "commit": "4ecf0e70d88b2c6ce913f6a41e778a5afb9cc173",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 37,
+   "recorded_in_force": "2004-12-28",
+   "in_force": null,
+   "in_force_basis": "Федеральный закон от 28.12.2004 № 187-ФЗ: clause not read: \"вступает в силу по истечении 30 дней после дня его официального опубликования\""
+  },
+  {
+   "commit": "386c47b920e646e02c36042b34cc203091a8795e",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 36,
+   "recorded_in_force": "2004-12-28",
+   "in_force": "2005-01-10",
+   "in_force_basis": "Федеральный закон от 28.12.2004 № 175-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2004-12-30 (the IPS dates this edition 28.12.2004, the act's own date)"
+  },
+  {
+   "commit": "c943e25d2ad52fbc529b4f8404c2b0be50274dc5",
+   "act_path": "кодексы/гражданский-кодекс/часть-3",
+   "edition": 1,
+   "recorded_in_force": "2004-12-02",
+   "in_force": "2004-12-17",
+   "in_force_basis": "Федеральный закон от 02.12.2004 № 156-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2004-12-06 (the IPS dates this edition 02.12.2004, the act's own date)"
+  },
+  {
+   "commit": "893a9459f1c36b2ab37e605b211226c8d288aa5d",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 35,
+   "recorded_in_force": "2004-07-26",
+   "in_force": "2004-08-06",
+   "in_force_basis": "Федеральный закон от 26.07.2004 № 78-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2004-07-26 (the IPS dates this edition 26.07.2004, the act's own date)"
+  },
+  {
+   "commit": "c101745adef9093e9afb300ad75ece67a4850721",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 34,
+   "recorded_in_force": "2004-07-21",
+   "in_force": "2004-07-26",
+   "in_force_basis": "Федеральный закон от 21.07.2004 № 74-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2004-07-26 (the IPS dates this edition 21.07.2004, the act's own date)"
+  },
+  {
+   "commit": "09cb5c82e2b440355281bec47a049a8d70246719",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 33,
+   "recorded_in_force": "2004-07-21",
+   "in_force": "2004-08-06",
+   "in_force_basis": "Федеральный закон от 21.07.2004 № 73-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2004-07-26 (the IPS dates this edition 21.07.2004, the act's own date)"
+  },
+  {
+   "commit": "6e477db20532a983b4bd493bd5b6c5c04cb1fc75",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 9,
+   "recorded_in_force": "2003-12-23",
+   "in_force": "2003-12-27",
+   "in_force_basis": "Федеральный закон от 23.12.2003 № 182-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2003-12-27 (the IPS dates this edition 23.12.2003, the act's own date)"
+  },
+  {
+   "commit": "40d7a209f9d28158a284aa9cf7f64a1b406d9cbb",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 32,
+   "recorded_in_force": "2003-12-08",
+   "in_force": "2004-01-01",
+   "in_force_basis": "Федеральный закон от 08.12.2003 № 169-ФЗ: Own clause: \"вступает в силу с 1 января 2004 года, за исключением статьи 22, которая вступает в силу со дня официального опубликования настоящего Федерального закона\" (the IPS dates this edition 08.12.2003, the act's own date)"
+  },
+  {
+   "commit": "4b42a204ba432998b26f7aa75ab4fb1b2dcfeabe",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 31,
+   "recorded_in_force": "2003-12-08",
+   "in_force": "2003-12-11",
+   "in_force_basis": "Федеральный закон от 08.12.2003 № 162-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования, за исключением пунктов 154, 155, 158 статьи 1 настоящего Федерального закона\"; earliest official publication 2003-12-11 (the IPS dates this edition 08.12.2003, the act's own date)"
+  },
+  {
+   "commit": "b7bd51dd874a059462032f0aec7032dba0650809",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 8,
+   "recorded_in_force": "2003-11-11",
+   "in_force": "2004-01-01",
+   "in_force_basis": "Федеральный закон от 11.11.2003 № 138-ФЗ: Own clause: \"вступает в силу с 1 января 2004 года\" (the IPS dates this edition 11.11.2003, the act's own date)"
+  },
+  {
+   "commit": "e75656587765188308fd97a1291bfcf46000f037",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 30,
+   "recorded_in_force": "2003-07-07",
+   "in_force": "2003-07-09",
+   "in_force_basis": "Федеральный закон от 07.07.2003 № 111-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2003-07-09 (the IPS dates this edition 07.07.2003, the act's own date)"
+  },
+  {
+   "commit": "5d21c09cb1a011fabbd01bf6895469209ea2bf9f",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 29,
+   "recorded_in_force": "2003-07-04",
+   "in_force": "2003-07-07",
+   "in_force_basis": "Федеральный закон от 04.07.2003 № 98-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2003-07-07 (the IPS dates this edition 04.07.2003, the act's own date)"
+  },
+  {
+   "commit": "929ae8cc076d247cd3166d6a3da8343e004cc124",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 28,
+   "recorded_in_force": "2003-07-04",
+   "in_force": "2003-07-18",
+   "in_force_basis": "Федеральный закон от 04.07.2003 № 94-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2003-07-07 (the IPS dates this edition 04.07.2003, the act's own date)"
+  },
+  {
+   "commit": "737b3fa9b8acd14911f4e2dbe7a8bf9eaf4dd3d2",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 27,
+   "recorded_in_force": "2003-04-08",
+   "in_force": "2003-04-11",
+   "in_force_basis": "Федеральный закон от 08.04.2003 № 45-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2003-04-11 (the IPS dates this edition 08.04.2003, the act's own date)"
+  },
+  {
+   "commit": "ea85c8be5d1f4a5e727af5feaf58e46d2bcbb9a7",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 7,
+   "recorded_in_force": "2003-03-26",
+   "in_force": "2003-03-29",
+   "in_force_basis": "Федеральный закон от 26.03.2003 № 37-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2003-03-29 (the IPS dates this edition 26.03.2003, the act's own date)"
+  },
+  {
+   "commit": "75e55a71d8dcdaa6b917017c1f7d48b9649c5258",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 26,
+   "recorded_in_force": "2003-03-11",
+   "in_force": "2003-03-14",
+   "in_force_basis": "Федеральный закон от 11.03.2003 № 30-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2003-03-14 (the IPS dates this edition 11.03.2003, the act's own date)"
+  },
+  {
+   "commit": "0fa1b93d19b95b2b7c298f2244393e52b3c61914",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 6,
+   "recorded_in_force": "2003-01-10",
+   "in_force": "2003-01-13",
+   "in_force_basis": "Федеральный закон от 10.01.2003 № 15-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2003-01-13 (the IPS dates this edition 10.01.2003, the act's own date)"
+  },
+  {
+   "commit": "da1bf0c54928ae2496ca8758baad903849602486",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 5,
+   "recorded_in_force": "2003-01-10",
+   "in_force": null,
+   "in_force_basis": "Федеральный закон от 10.01.2003 № 8-ФЗ: clause not read: \"вступает в силу по истечении одного месяца со дня его официального опубликования\""
+  },
+  {
+   "commit": "92b9945deaa825fdce016da2b19cd7f20940bb7a",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 4,
+   "recorded_in_force": "2002-11-26",
+   "in_force": "2002-11-29",
+   "in_force_basis": "Федеральный закон от 26.11.2002 № 152-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2002-11-29 (the IPS dates this edition 26.11.2002, the act's own date)"
+  },
+  {
+   "commit": "73b6f4363cc93231dece4152a14bab94e82b01ef",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 25,
+   "recorded_in_force": "2002-10-31",
+   "in_force": "2002-11-04",
+   "in_force_basis": "Федеральный закон от 31.10.2002 № 133-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2002-11-04 (the IPS dates this edition 31.10.2002, the act's own date)"
+  },
+  {
+   "commit": "a38266947b2b9488f13e83da9e38262f0f083556",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 24,
+   "recorded_in_force": "2002-07-25",
+   "in_force": "2002-08-09",
+   "in_force_basis": "Федеральный закон от 25.07.2002 № 112-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2002-07-29 (the IPS dates this edition 25.07.2002, the act's own date)"
+  },
+  {
+   "commit": "e51ac66084266e5d7278d5ccdc412a20e40f160c",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 23,
+   "recorded_in_force": "2002-07-24",
+   "in_force": "2002-07-27",
+   "in_force_basis": "Федеральный закон от 24.07.2002 № 103-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2002-07-27 (the IPS dates this edition 24.07.2002, the act's own date)"
+  },
+  {
+   "commit": "260d1278c304a52b06afb6c5a0f51f9839b5b502",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 22,
+   "recorded_in_force": "2002-06-25",
+   "in_force": "2002-07-01",
+   "in_force_basis": "Федеральный закон от 25.06.2002 № 72-ФЗ: Own clause: \"вступает в силу с 1 июля 2002 года\" (the IPS dates this edition 25.06.2002, the act's own date)"
+  },
+  {
+   "commit": "0846fc8d58aef7f4260bf8ad44632df635674b8d",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 21,
+   "recorded_in_force": "2002-05-07",
+   "in_force": null,
+   "in_force_basis": "Федеральный закон от 07.05.2002 № 50-ФЗ: clause not read: \"вступает в силу по истечении одного месяца со дня его официального опубликования\""
+  },
+  {
+   "commit": "dd0e0d243fba0e74167867e50cf9840475eca98b",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 20,
+   "recorded_in_force": "2002-05-07",
+   "in_force": "2002-05-13",
+   "in_force_basis": "Федеральный закон от 07.05.2002 № 48-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2002-05-13 (the IPS dates this edition 07.05.2002, the act's own date)"
+  },
+  {
+   "commit": "8c1203dd3eea5791d0964ae62367007b1f277643",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 19,
+   "recorded_in_force": "2002-03-14",
+   "in_force": "2002-03-18",
+   "in_force_basis": "Федеральный закон от 14.03.2002 № 29-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2002-03-18 (the IPS dates this edition 14.03.2002, the act's own date)"
+  },
+  {
+   "commit": "f5925df175b1f52d2bbbd47387003b890d78e521",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 18,
+   "recorded_in_force": "2002-03-04",
+   "in_force": "2002-03-06",
+   "in_force_basis": "Федеральный закон от 04.03.2002 № 23-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2002-03-06 (the IPS dates this edition 04.03.2002, the act's own date)"
+  },
+  {
+   "commit": "a0e1bea5d9766b906f9183955bfbb690b8455e04",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 17,
+   "recorded_in_force": "2001-12-29",
+   "in_force": "2001-12-31",
+   "in_force_basis": "Федеральный закон от 29.12.2001 № 192-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2001-12-31 (the IPS dates this edition 29.12.2001, the act's own date)"
+  },
+  {
+   "commit": "4df81bf34d0c1be5b621c1435720695198dbb5b7",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 16,
+   "recorded_in_force": "2001-11-17",
+   "in_force": "2001-11-19",
+   "in_force_basis": "Федеральный закон от 17.11.2001 № 145-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2001-11-19 (the IPS dates this edition 17.11.2001, the act's own date)"
+  },
+  {
+   "commit": "f7fdd9ff2147e65024367f52652c39770f0c8a38",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 15,
+   "recorded_in_force": "2001-11-17",
+   "in_force": "2001-11-19",
+   "in_force_basis": "Федеральный закон от 17.11.2001 № 144-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2001-11-19 (the IPS dates this edition 17.11.2001, the act's own date)"
+  },
+  {
+   "commit": "66aa73bcac9dff78ffd1b99712e6a39d58341b5e",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 14,
+   "recorded_in_force": "2001-08-07",
+   "in_force": "2002-02-01",
+   "in_force_basis": "Федеральный закон от 07.08.2001 № 121-ФЗ: Own clause: \"вступает в силу с 1 февраля 2002 года\" (the IPS dates this edition 07.08.2001, the act's own date)"
+  },
+  {
+   "commit": "21eef7893d1338e6172edaf2a1739a1ed592442b",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 13,
+   "recorded_in_force": "2001-06-19",
+   "in_force": "2001-06-23",
+   "in_force_basis": "Федеральный закон от 19.06.2001 № 84-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2001-06-23 (the IPS dates this edition 19.06.2001, the act's own date)"
+  },
+  {
+   "commit": "abcd096eaffdb0809a20d85835e2fd4ff0a45b2e",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 12,
+   "recorded_in_force": "2001-06-19",
+   "in_force": "2001-06-23",
+   "in_force_basis": "Федеральный закон от 19.06.2001 № 83-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2001-06-23 (the IPS dates this edition 19.06.2001, the act's own date)"
+  },
+  {
+   "commit": "1055161481627132cc9d721126a54b8c6041f8c2",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 11,
+   "recorded_in_force": "2001-03-20",
+   "in_force": "2001-03-23",
+   "in_force_basis": "Федеральный закон от 20.03.2001 № 26-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2001-03-23 (the IPS dates this edition 20.03.2001, the act's own date)"
+  },
+  {
+   "commit": "cff8efa816b51e4834e69da6b9b8ecf1fb281c0c",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 10,
+   "recorded_in_force": "2001-03-09",
+   "in_force": "2001-03-12",
+   "in_force_basis": "Федеральный закон от 09.03.2001 № 25-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования, за исключением:пункта 5 статьи 2, который вступает в силу с 1 января 2002 года;пу\"; earliest official publication 2001-03-12 (the IPS dates this edition 09.03.2001, the act's own date)"
+  },
+  {
+   "commit": "a3cea3c2c50823ea65d467589321569f6c96f388",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 3,
+   "recorded_in_force": "1999-12-17",
+   "in_force": "1999-12-20",
+   "in_force_basis": "Федеральный закон от 17.12.1999 № 213-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 1999-12-20 (the IPS dates this edition 17.12.1999, the act's own date)"
+  },
+  {
+   "commit": "79189a911784bcf21fea6c415a4c6f5f2dedd33e",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 9,
+   "recorded_in_force": "1999-07-09",
+   "in_force": "1999-07-12",
+   "in_force_basis": "Федеральный закон от 09.07.1999 № 158-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 1999-07-12 (the IPS dates this edition 09.07.1999, the act's own date)"
+  },
+  {
+   "commit": "d8d47c7bac0103e9ac52b72771b89e93931c61ba",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 8,
+   "recorded_in_force": "1999-07-09",
+   "in_force": "1999-07-12",
+   "in_force_basis": "Федеральный закон от 09.07.1999 № 157-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 1999-07-12 (the IPS dates this edition 09.07.1999, the act's own date)"
+  },
+  {
+   "commit": "63c29fcfcaad50a077701bcd68c0562b853601b7",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 7,
+   "recorded_in_force": "1999-07-09",
+   "in_force": "1999-07-12",
+   "in_force_basis": "Федеральный закон от 09.07.1999 № 156-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 1999-07-12 (the IPS dates this edition 09.07.1999, the act's own date)"
+  },
+  {
+   "commit": "4015c39f3736f2d55c9f2e6a4e0bf45e5da15963",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 6,
+   "recorded_in_force": "1999-03-18",
+   "in_force": "1999-03-22",
+   "in_force_basis": "Федеральный закон от 18.03.1999 № 50-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 1999-03-22 (the IPS dates this edition 18.03.1999, the act's own date)"
+  },
+  {
+   "commit": "833eaef2ce88286c6a95b515a3061131dde86b9d",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 4,
+   "recorded_in_force": "1999-02-09",
+   "in_force": "1999-02-12",
+   "in_force_basis": "Федеральный закон от 09.02.1999 № 26-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 1999-02-12 (the IPS dates this edition 09.02.1999, the act's own date)"
+  },
+  {
+   "commit": "ca9f69d3de10ea73d9456fe6fac91a2ee7bfe54f",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 3,
+   "recorded_in_force": "1999-02-09",
+   "in_force": "1999-02-12",
+   "in_force_basis": "Федеральный закон от 09.02.1999 № 24-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 1999-02-12 (the IPS dates this edition 09.02.1999, the act's own date)"
+  },
+  {
+   "commit": "abbe425e9f31297fbb329e2c26fbdf19db3620ea",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 2,
+   "recorded_in_force": "1998-06-25",
+   "in_force": "1998-06-29",
+   "in_force_basis": "Федеральный закон от 25.06.1998 № 92-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 1998-06-29 (the IPS dates this edition 25.06.1998, the act's own date)"
+  },
+  {
+   "commit": "7f567e42f955896c2f58c55a6340752a47f9e42d",
+   "act_path": "кодексы/уголовный-кодекс",
+   "edition": 1,
+   "recorded_in_force": "1998-05-27",
+   "in_force": "1998-05-30",
+   "in_force_basis": "Федеральный закон от 27.05.1998 № 77-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 1998-05-30 (the IPS dates this edition 27.05.1998, the act's own date)"
+  },
+  {
+   "commit": "3180ec7a4758d7fc5402b8bb0ab2d102efc0fe9a",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 2,
+   "recorded_in_force": "1997-10-24",
+   "in_force": "1997-10-27",
+   "in_force_basis": "Федеральный закон от 24.10.1997 № 133-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 1997-10-27 (the IPS dates this edition 24.10.1997, the act's own date)"
+  },
+  {
+   "commit": "e0f97ce4f004b401158bcf9ae8fce9af36280a32",
+   "act_path": "кодексы/гражданский-кодекс/часть-2",
+   "edition": 1,
+   "recorded_in_force": "1996-08-12",
+   "in_force": "1996-08-15",
+   "in_force_basis": "Федеральный закон от 12.08.1996 № 110-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 1996-08-15 (the IPS dates this edition 12.08.1996, the act's own date)"
+  },
+  {
+   "commit": "dd91cd6a49c22adfd1780288058bfe4188d768db",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 117,
+   "recorded_in_force": "2022-02-25",
+   "in_force": "2022-03-08",
+   "in_force_basis": "Федеральный закон от 25.02.2022 № 20-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2022-02-25 (the IPS dates this edition 25.02.2022, the act's own date)"
+  },
+  {
+   "commit": "fd49d75e2b2790f8931a0a6753f71a2df0017d68",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 115,
+   "recorded_in_force": "2021-12-21",
+   "in_force": "2023-03-01",
+   "in_force_basis": "Федеральный закон от 21.12.2021 № 430-ФЗ: Own clause: \"вступает в силу с 1 марта 2023 года, за исключением пункта 2 статьи 1 настоящего Федерального закона\" (the IPS dates this edition 21.12.2021, the act's own date)"
+  },
+  {
+   "commit": "e0590ec878f2a8f0ef8733c40a36bcac03c0e829",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 112,
+   "recorded_in_force": "2021-06-11",
+   "in_force": "2021-06-22",
+   "in_force_basis": "Федеральный закон от 11.06.2021 № 211-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2021-06-11 (the IPS dates this edition 11.06.2021, the act's own date)"
+  },
+  {
+   "commit": "c14fc300ff4276d716a77b30b12d36565bdf8fab",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 111,
+   "recorded_in_force": "2021-03-09",
+   "in_force": "2021-03-20",
+   "in_force_basis": "Федеральный закон от 09.03.2021 № 33-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2021-03-09 (the IPS dates this edition 09.03.2021, the act's own date)"
+  },
+  {
+   "commit": "e27dc66ded468bfd4cce4a96565ef3d724c57937",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 109,
+   "recorded_in_force": "2020-07-31",
+   "in_force": "2020-08-11",
+   "in_force_basis": "Федеральный закон от 31.07.2020 № 251-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2020-07-31 (the IPS dates this edition 31.07.2020, the act's own date)"
+  },
+  {
+   "commit": "7f23c5b827caad4751a00479c617e0a256c7bafc",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 50,
+   "recorded_in_force": "2011-04-06",
+   "in_force": "2011-04-19",
+   "in_force_basis": "Федеральный закон от 06.04.2011 № 65-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2011-04-08 (the IPS dates this edition 06.04.2011, the act's own date)"
+  },
+  {
+   "commit": "3d13b8dabb49a5431a3deb68fe1a53aa3ac28b4e",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 48,
+   "recorded_in_force": "2010-07-27",
+   "in_force": "2011-01-01",
+   "in_force_basis": "Федеральный закон от 27.07.2010 № 194-ФЗ: Own clause: \"вступает в силу с 1 января 2011 года\" (the IPS dates this edition 27.07.2010, the act's own date)"
+  },
+  {
+   "commit": "56e8bcfed4f122ab0604e916e7de12ad0d14f7d8",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 159,
+   "recorded_in_force": "2010-05-08",
+   "in_force": "2011-01-01",
+   "in_force_basis": "Федеральный закон от 08.05.2010 № 83-ФЗ: Own clause: \"вступает в силу с 1 января 2011 года, за исключением положений, для которых настоящей статьей установлены иные сроки вступления их в силу\" (the IPS dates this edition 08.05.2010, the act's own date)"
+  },
+  {
+   "commit": "5dff1b50eef12b7883e5385c1330a6bcae1d7229",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 46,
+   "recorded_in_force": "2009-12-27",
+   "in_force": "2009-12-31",
+   "in_force_basis": "Федеральный закон от 27.12.2009 № 352-ФЗ: Own clause: \"вступает в силу с 31 декабря 2009 года\" (the IPS dates this edition 27.12.2009, the act's own date)"
+  },
+  {
+   "commit": "7271374ff5f28c554387ec877e87d896bd119cd0",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 45,
+   "recorded_in_force": "2009-07-17",
+   "in_force": "2009-07-20",
+   "in_force_basis": "Федеральный закон от 17.07.2009 № 145-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2009-07-20 (the IPS dates this edition 17.07.2009, the act's own date)"
+  },
+  {
+   "commit": "1e85722898d24cad0ebd5bbbd09a31a38074681d",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 44,
+   "recorded_in_force": "2009-06-29",
+   "in_force": "2009-07-10",
+   "in_force_basis": "Федеральный закон от 29.06.2009 № 132-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2009-06-29 (the IPS dates this edition 29.06.2009, the act's own date)"
+  },
+  {
+   "commit": "de31dfe05d9db710cbb0b1fdaa38c278b5b777af",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 43,
+   "recorded_in_force": "2009-02-09",
+   "in_force": "2009-02-24",
+   "in_force_basis": "Федеральный закон от 09.02.2009 № 7-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2009-02-13 (the IPS dates this edition 09.02.2009, the act's own date)"
+  },
+  {
+   "commit": "c70f8198b66329ba7323963cf9d65cb3563610e2",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 42,
+   "recorded_in_force": "2008-12-30",
+   "in_force": "2008-12-31",
+   "in_force_basis": "Федеральный закон от 30.12.2008 № 315-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2008-12-31 (the IPS dates this edition 30.12.2008, the act's own date)"
+  },
+  {
+   "commit": "d965b7e601f85b07f0b6e059e6cdadeaca7417e6",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 41,
+   "recorded_in_force": "2008-12-30",
+   "in_force": "2009-07-01",
+   "in_force_basis": "Федеральный закон от 30.12.2008 № 312-ФЗ: Own clause: \"вступает в силу с 1 июля 2009 года\" (the IPS dates this edition 30.12.2008, the act's own date)"
+  },
+  {
+   "commit": "84621995f136339bece1b853d5265da83cb4de8b",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 40,
+   "recorded_in_force": "2008-12-30",
+   "in_force": "2008-12-31",
+   "in_force_basis": "Федеральный закон от 30.12.2008 № 311-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования, за исключением статьи 2 настоящего Федерального закона\"; earliest official publication 2008-12-31 (the IPS dates this edition 30.12.2008, the act's own date)"
+  },
+  {
+   "commit": "bdf7ee23478c26613482521eddc1b4c27bf55f1d",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 39,
+   "recorded_in_force": "2008-12-30",
+   "in_force": "2009-01-11",
+   "in_force_basis": "Федеральный закон от 30.12.2008 № 306-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2008-12-31 (the IPS dates this edition 30.12.2008, the act's own date)"
+  },
+  {
+   "commit": "09910df297ddad3c69a91dc473afa43596673be8",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 38,
+   "recorded_in_force": "2008-07-23",
+   "in_force": "2009-01-01",
+   "in_force_basis": "Федеральный закон от 23.07.2008 № 160-ФЗ: Own clause: \"вступает в силу с 1 января 2009 года\" (the IPS dates this edition 23.07.2008, the act's own date)"
+  },
+  {
+   "commit": "1b7bcb64bcf67b02b3f457d2bc655af3ad32d991",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 37,
+   "recorded_in_force": "2008-07-22",
+   "in_force": "2008-10-24",
+   "in_force_basis": "Федеральный закон от 22.07.2008 № 141-ФЗ: Own clause: \"вступает в силу по истечении девяноста дней после дня его официального опубликования, за исключением статей 3, 4, пункта 3 статьи 5, пункта 1, подпунктов \"а\", \"в\", \"е\" пункта 2\"; earliest official publication 2008-07-25 (the IPS dates this edition 22.07.2008, the act's own date)"
+  },
+  {
+   "commit": "f222d2ceef2639e9a6c4da7172f2ba0a1e44cbd4",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 36,
+   "recorded_in_force": "2008-07-14",
+   "in_force": "2008-07-18",
+   "in_force_basis": "Федеральный закон от 14.07.2008 № 118-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования, за исключением пункта 8 статьи 1 и статьи 17 настоящего Федерального закона\"; earliest official publication 2008-07-18 (the IPS dates this edition 14.07.2008, the act's own date)"
+  },
+  {
+   "commit": "db55d59bc5c6bf0166770e5fcdbb677171e7a4a3",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 35,
+   "recorded_in_force": "2008-05-13",
+   "in_force": "2008-05-16",
+   "in_force_basis": "Федеральный закон от 13.05.2008 № 68-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2008-05-16 (the IPS dates this edition 13.05.2008, the act's own date)"
+  },
+  {
+   "commit": "5b13338f7a709946b2d8e6efe27d7db052afcd6c",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 34,
+   "recorded_in_force": "2008-04-24",
+   "in_force": "2008-09-01",
+   "in_force_basis": "Федеральный закон от 24.04.2008 № 49-ФЗ: Own clause: \"вступает в силу с 1 сентября 2008 года\" (the IPS dates this edition 24.04.2008, the act's own date)"
+  },
+  {
+   "commit": "e3382d3e10597e8553306bb8267228888b865a33",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 33,
+   "recorded_in_force": "2007-12-06",
+   "in_force": "2008-01-01",
+   "in_force_basis": "Федеральный закон от 06.12.2007 № 333-ФЗ: Own clause: \"вступает в силу с 1 января 2008 года, за исключением положений, для которых настоящей статьей установлены иные сроки вступления их в силу\" (the IPS dates this edition 06.12.2007, the act's own date)"
+  },
+  {
+   "commit": "1d456a5cdb416ded5e4803a05bfecd783ea7644c",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 32,
+   "recorded_in_force": "2007-12-01",
+   "in_force": "2007-12-03",
+   "in_force_basis": "Федеральный закон от 01.12.2007 № 318-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2007-12-03 (the IPS dates this edition 01.12.2007, the act's own date)"
+  },
+  {
+   "commit": "5b7d805a3e0af9bcbb86d6231b3e6b13e00cc527",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 31,
+   "recorded_in_force": "2007-10-02",
+   "in_force": "2007-10-06",
+   "in_force_basis": "Федеральный закон от 02.10.2007 № 225-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования, за исключением положений, для которых настоящей статьей предусмотрены иные сроки \"; earliest official publication 2007-10-06 (the IPS dates this edition 02.10.2007, the act's own date)"
+  },
+  {
+   "commit": "b15f6a21ff0346dfe8a4976ec938286e983357b7",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 30,
+   "recorded_in_force": "2007-07-19",
+   "in_force": "2008-01-01",
+   "in_force_basis": "Федеральный закон от 19.07.2007 № 197-ФЗ: Own clause: \"вступает в силу с 1 января 2008 года\" (the IPS dates this edition 19.07.2007, the act's own date)"
+  },
+  {
+   "commit": "c1472a7690fd213c6296f42635cf833f97bc87c9",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 29,
+   "recorded_in_force": "2007-06-26",
+   "in_force": "2007-07-02",
+   "in_force_basis": "Федеральный закон от 26.06.2007 № 118-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования, за исключением статьи 47 настоящего Федерального закона\"; earliest official publication 2007-07-02 (the IPS dates this edition 26.06.2007, the act's own date)"
+  },
+  {
+   "commit": "893e374b983bce500d12cd4a22e2c1ea35209e75",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 28,
+   "recorded_in_force": "2007-02-05",
+   "in_force": "2007-02-19",
+   "in_force_basis": "Федеральный закон от 05.02.2007 № 13-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2007-02-08 (the IPS dates this edition 05.02.2007, the act's own date)"
+  },
+  {
+   "commit": "a9fa7a9223513b201da86761797c32589a06c79c",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 27,
+   "recorded_in_force": "2006-12-29",
+   "in_force": "2007-01-01",
+   "in_force_basis": "Федеральный закон от 29.12.2006 № 258-ФЗ: Own clause: \"вступает в силу с 1 января 2007 года, за исключением положений, для которых настоящей статьей установлены иные сроки вступления в силу\" (the IPS dates this edition 29.12.2006, the act's own date)"
+  },
+  {
+   "commit": "6c291b20076fc88b6e62afb2505b24d4a3c42cff",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 26,
+   "recorded_in_force": "2006-12-18",
+   "in_force": "2007-01-01",
+   "in_force_basis": "Федеральный закон от 18.12.2006 № 232-ФЗ: Own clause: \"вступает в силу с 1 января 2007 года, за исключением статьи 23, пунктов 3 и 8, подпункта \"б\" пункта 9, пунктов 13 и 14 статьи 25, подпункта \"б\" пункта 2 и пункта 3 статьи 26, п\" (the IPS dates this edition 18.12.2006, the act's own date)"
+  },
+  {
+   "commit": "c7a31c9f6bc321742631d0965adcee06fa946049",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 25,
+   "recorded_in_force": "2006-12-18",
+   "in_force": "2006-12-21",
+   "in_force_basis": "Федеральный закон от 18.12.2006 № 231-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования, за исключением статей 4 - 12, 14 - 16, пунктов 1 - 12, 14 - 16 статьи 17, статей \"; earliest official publication 2006-12-21 (the IPS dates this edition 18.12.2006, the act's own date)"
+  },
+  {
+   "commit": "814d40dda3a65c590daa1bffbcd43e714d0034c6",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 24,
+   "recorded_in_force": "2006-12-04",
+   "in_force": "2006-12-08",
+   "in_force_basis": "Федеральный закон от 04.12.2006 № 201-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования, за исключением статей 19, 20, 24, 26 - 29, 31, 34, 38, 39 настоящего Федерального\"; earliest official publication 2006-12-08 (the IPS dates this edition 04.12.2006, the act's own date)"
+  },
+  {
+   "commit": "ed10081dc54d3b432086fc3bfd98f6a6096450a6",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 23,
+   "recorded_in_force": "2006-11-03",
+   "in_force": "2007-01-06",
+   "in_force_basis": "Федеральный закон от 03.11.2006 № 175-ФЗ: Own clause: \"вступает в силу по истечении шестидесяти дней после дня его официального опубликования, за исключением статей 7 и 8 настоящего Федерального закона\"; earliest official publication 2006-11-06 (the IPS dates this edition 03.11.2006, the act's own date)"
+  },
+  {
+   "commit": "43ac03903eb6090ebcb5f10410d1f466fe7a67f2",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 22,
+   "recorded_in_force": "2006-07-27",
+   "in_force": "2006-08-09",
+   "in_force_basis": "Федеральный закон от 27.07.2006 № 138-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2006-07-29 (the IPS dates this edition 27.07.2006, the act's own date)"
+  },
+  {
+   "commit": "c42073864466a11a270e1803a68fcbc7db160c80",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 21,
+   "recorded_in_force": "2006-06-30",
+   "in_force": "2006-09-01",
+   "in_force_basis": "Федеральный закон от 30.06.2006 № 93-ФЗ: Own clause: \"вступает в силу с 1 сентября 2006 года, за исключением статьи 6 настоящего Федерального закона\" (the IPS dates this edition 30.06.2006, the act's own date)"
+  },
+  {
+   "commit": "738b405a81dfa18d0e2e5690d07fabbbaa15a9a1",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 20,
+   "recorded_in_force": "2006-06-03",
+   "in_force": "2006-06-05",
+   "in_force_basis": "Федеральный закон от 03.06.2006 № 73-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования, за исключением статей 12 и 19 настоящего Федерального закона\"; earliest official publication 2006-06-05 (the IPS dates this edition 03.06.2006, the act's own date)"
+  },
+  {
+   "commit": "082dbfb28b6395175bd046e747e0c4c9a0202d3b",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 19,
+   "recorded_in_force": "2006-01-10",
+   "in_force": "2006-04-17",
+   "in_force_basis": "Федеральный закон от 10.01.2006 № 18-ФЗ: Own clause: \"вступает в силу по истечении девяноста дней после дня его официального опубликования\"; earliest official publication 2006-01-16 (the IPS dates this edition 10.01.2006, the act's own date)"
+  },
+  {
+   "commit": "eb5ef1c1fe79ad2d88111e32a5513544cc15b71c",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 18,
+   "recorded_in_force": "2006-01-03",
+   "in_force": "2006-01-20",
+   "in_force_basis": "Федеральный закон от 03.01.2006 № 6-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2006-01-09 (the IPS dates this edition 03.01.2006, the act's own date)"
+  },
+  {
+   "commit": "253d0161250c76273c48590020c0e38bec0cf8bb",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 17,
+   "recorded_in_force": "2005-07-21",
+   "in_force": "2005-07-25",
+   "in_force_basis": "Федеральный закон от 21.07.2005 № 109-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2005-07-25 (the IPS dates this edition 21.07.2005, the act's own date)"
+  },
+  {
+   "commit": "a2b10a6cf000458cec015b6acb3a23151bdcdb1b",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 16,
+   "recorded_in_force": "2005-07-02",
+   "in_force": "2005-07-04",
+   "in_force_basis": "Федеральный закон от 02.07.2005 № 83-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2005-07-04 (the IPS dates this edition 02.07.2005, the act's own date)"
+  },
+  {
+   "commit": "2ff4e445bcf5d1c57ae85ee8c90c73408d35961f",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 15,
+   "recorded_in_force": "2004-12-30",
+   "in_force": "2005-01-01",
+   "in_force_basis": "Федеральный закон от 30.12.2004 № 217-ФЗ: Own clause: \"вступает в силу с 1 января 2005 года\" (the IPS dates this edition 30.12.2004, the act's own date)"
+  },
+  {
+   "commit": "efb7627baac5e047c6ec7511f350999bc62985c9",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 14,
+   "recorded_in_force": "2004-12-30",
+   "in_force": "2005-01-01",
+   "in_force_basis": "Федеральный закон от 30.12.2004 № 213-ФЗ: Own clause: \"вступает в силу с 1 января 2005 года\" (the IPS dates this edition 30.12.2004, the act's own date)"
+  },
+  {
+   "commit": "6e3642ebb7fa9929882b4fbb4416e66c603cb1ae",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 13,
+   "recorded_in_force": "2004-12-29",
+   "in_force": "2005-01-10",
+   "in_force_basis": "Федеральный закон от 29.12.2004 № 192-ФЗ: Default commencement: Federal Law 5-FZ of 1994, article 6 (ten days after official publication); no own commencement clause; earliest official publication 2004-12-30 (the IPS dates this edition 29.12.2004, the act's own date)"
+  },
+  {
+   "commit": "c50964cbc5eeabc821b70413d88861f40ad1870f",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 12,
+   "recorded_in_force": "2004-07-29",
+   "in_force": "2004-08-02",
+   "in_force_basis": "Федеральный закон от 29.07.2004 № 97-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования, за исключением статьи 1 и пунктов 1 и 2 статьи 2 настоящего Федерального закона\"; earliest official publication 2004-08-02 (the IPS dates this edition 29.07.2004, the act's own date)"
+  },
+  {
+   "commit": "a4858f1a70367643e4fb7cacf0b199ca6dfc6cf6",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 11,
+   "recorded_in_force": "2004-06-29",
+   "in_force": "2004-07-01",
+   "in_force_basis": "Федеральный закон от 29.06.2004 № 58-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования, за исключением статей 54 и 62 настоящего Федерального закона\"; earliest official publication 2004-07-01 (the IPS dates this edition 29.06.2004, the act's own date)"
+  },
+  {
+   "commit": "9a3709e7f5ae5fe72b2abf834f18ef585b4497ca",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 10,
+   "recorded_in_force": "2003-12-23",
+   "in_force": "2003-12-27",
+   "in_force_basis": "Федеральный закон от 23.12.2003 № 182-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2003-12-27 (the IPS dates this edition 23.12.2003, the act's own date)"
+  },
+  {
+   "commit": "4cc95cb9aeebe2d2d8e917e412a120ebba4adb58",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 9,
+   "recorded_in_force": "2003-01-10",
+   "in_force": "2003-01-13",
+   "in_force_basis": "Федеральный закон от 10.01.2003 № 15-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2003-01-13 (the IPS dates this edition 10.01.2003, the act's own date)"
+  },
+  {
+   "commit": "a27e9ae4289433f132d05b270d09f521581fa03e",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 8,
+   "recorded_in_force": "2002-11-26",
+   "in_force": "2002-11-29",
+   "in_force_basis": "Федеральный закон от 26.11.2002 № 152-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2002-11-29 (the IPS dates this edition 26.11.2002, the act's own date)"
+  },
+  {
+   "commit": "4a9a807e8786008d78830637511f133d45b11596",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 7,
+   "recorded_in_force": "2002-11-14",
+   "in_force": "2002-12-02",
+   "in_force_basis": "Федеральный закон от 14.11.2002 № 161-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2002-12-02 (the IPS dates this edition 14.11.2002, the act's own date)"
+  },
+  {
+   "commit": "185720c3989e4e3045ea8931144e0508aba79dfe",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 6,
+   "recorded_in_force": "2002-03-21",
+   "in_force": "2002-07-01",
+   "in_force_basis": "Федеральный закон от 21.03.2002 № 31-ФЗ: Own clause: \"вступает в силу с 1 июля 2002 года\" (the IPS dates this edition 21.03.2002, the act's own date)"
+  },
+  {
+   "commit": "408b98dbf0c350f2a617ea827794684ac1130a70",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 5,
+   "recorded_in_force": "2001-05-15",
+   "in_force": "2001-05-21",
+   "in_force_basis": "Федеральный закон от 15.05.2001 № 54-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2001-05-21 (the IPS dates this edition 15.05.2001, the act's own date)"
+  },
+  {
+   "commit": "741547f510b397251e6f8131422a6558e60092de",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 4,
+   "recorded_in_force": "2001-04-16",
+   "in_force": "2001-04-23",
+   "in_force_basis": "Федеральный закон от 16.04.2001 № 45-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 2001-04-23 (the IPS dates this edition 16.04.2001, the act's own date)"
+  },
+  {
+   "commit": "561346f7730f1d388af2a38637f4df8e521c8d05",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 3,
+   "recorded_in_force": "1999-07-08",
+   "in_force": "1999-07-12",
+   "in_force_basis": "Федеральный закон от 08.07.1999 № 138-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 1999-07-12 (the IPS dates this edition 08.07.1999, the act's own date)"
+  },
+  {
+   "commit": "da7d33d116640d0d5ee30eaf23543b75d656f7a8",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 2,
+   "recorded_in_force": "1996-08-12",
+   "in_force": "1996-08-14",
+   "in_force_basis": "Федеральный закон от 12.08.1996 № 111-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 1996-08-14 (the IPS dates this edition 12.08.1996, the act's own date)"
+  },
+  {
+   "commit": "3f95dc99bfc0bdbb5288493485af56415a746f71",
+   "act_path": "кодексы/гражданский-кодекс/часть-1",
+   "edition": 1,
+   "recorded_in_force": "1996-02-20",
+   "in_force": "1996-02-24",
+   "in_force_basis": "Федеральный закон от 20.02.1996 № 18-ФЗ: Own clause: \"вступает в силу со дня его официального опубликования\"; earliest official publication 1996-02-24 (the IPS dates this edition 20.02.1996, the act's own date)"
+  }
+ ]
+}
