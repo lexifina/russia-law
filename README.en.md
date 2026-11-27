@@ -11,9 +11,9 @@ The law of Russia as a git history: one file per act (per article for the Consti
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Russia's national law, which global-law reads at `russia/national/acts/`.
 
-**What is in it now:** the Constitution, in 21 versions from 12 December 1993 to 5 October 2022; and 1,790 federal acts signed 1994-2017, each in its current text only: 33 federal constitutional laws, 4 codes and 1,753 federal laws. [`laws.csv`](laws.csv) lists every federal act with its official number, state and source.
+**What is in it now:** the Constitution, in 21 versions from 12 December 1993 to 5 October 2022; 21 codes (parts of the Civil and Tax Codes counted separately) in every edition the portal holds, 2 377 versions in all, from the day each code took effect, one file per article; federal laws signed 2018-2026, 265 acts in 832 versions; and the acts signed 1994-2017 in their current text only. In all 2 017 federal-law and 34 federal-constitutional-law folders. [`laws.csv`](laws.csv) lists the acts signed 1994-2017; [`STRUCTURE.md`](STRUCTURE.md) describes the layout.
 
-Each act is in `<kind>/<year>/<number>/` (`fkz/` federal constitutional laws, `fz/` federal laws and codes), one file `text.md` per act: `fz/2001/197/` is the Трудовой кодекс Российской Федерации, the Labour Code, Federal Law 197-FZ of 30 December 2001. The Constitution is `constitution/konstitutsiya/`, one file per article, as are the five acts of 1994-1999. Until 10 November 2026 the folders were named by act id (`fz/2001-197-fz/`); `git log --follow` follows the move, and `data/paths.json` maps each id to its folder.
+Each code is in `кодексы/<кодекс>/`, one file per article (`кодексы/трудовой-кодекс/статья-81.md`; `статья-19.1.md` is Article 19¹), with `оглавление.md` (its parts, chapters and article titles); the Civil and Tax Codes have a folder per part (`кодексы/гражданский-кодекс/часть-1/`) and the Code of Administrative Offences one per chapter. Federal laws are in `федеральные-законы/<год>/<номер>-ФЗ/` and federal constitutional laws in `федеральные-конституционные-законы/<год>/<номер>-ФКЗ/`: one file per article for acts signed from 2018, one `text.md` for the earlier ones. The Constitution is `конституция/`, one file per article. Until 27 November 2026 the folders had Latin names (`fz/2001/197/`, `constitution/konstitutsiya/`); `git log --follow` follows the move, and `data/paths.json` maps every earlier folder to its folder.
 
 The text is in Russian, as the portal publishes it; acts signed from 2000 keep the portal's notes ("(В редакции ...)") in the text. An English translation is not part of this record.
 
@@ -21,10 +21,10 @@ The text is in Russian, as the portal publishes it; acts signed from 2000 keep t
 
 | Question | Command |
 | --- | --- |
-| Every change to the Labour Code | `git log -p --word-diff --follow -- fz/2001/197/text.md` |
-| Which act wrote each line of the Labour Code? | `git blame fz/2001/197/text.md` |
-| Every version of the Labour Code, with the day each took effect | `git log --follow --diff-filter=AM --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- fz/2001/197/text.md` |
-| The Labour Code in one of those versions | `git show <commit>:fz/2001-197-fz/text.md` |
+| Every change to Article 81 of the Labour Code | `git log -p --word-diff --follow -- кодексы/трудовой-кодекс/статья-81.md` |
+| Which act wrote each line of Article 81 of the Labour Code? | `git blame кодексы/трудовой-кодекс/статья-81.md` |
+| Every version of Article 81 of the Labour Code, with the day each took effect | `git log --follow --diff-filter=AM --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- кодексы/трудовой-кодекс/статья-81.md` |
+| Article 81 in one of those versions | `git show <commit>:кодексы/трудовой-кодекс/статья-81.md` |
 
 **Outside git**, we also host this record publicly, for free:
 
@@ -40,7 +40,7 @@ Both assistants read the record through the free Global law connector (MCP, `htt
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add russia/national/acts
-python3 tools/law.py show 2026-11-01 russia/national/acts/fz/2001/197/text.md
+python3 tools/law.py show 2026-11-01 russia/national/acts/кодексы/трудовой-кодекс/статья-81.md
 ```
 
 Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
@@ -65,8 +65,8 @@ Each edition of the Constitution is credited to the act the portal names for it:
 
 ## What it does not show
 
-- **Earlier versions of acts other than the Constitution.** Each is here in its current text only, so `git blame` names the publisher for every line, not the amending law.
-- **Most federal law.** Only 4 codes are here (the Labour, Criminal Procedure, Civil Procedure and Administrative Court Procedure Codes): not the Civil, Criminal or Tax Codes. Acts signed after 2017 are not here, and 178 acts signed 2000-2009 are held back until their dates or tables can be verified (`REPRODUCE.md`).
+- **Earlier versions of acts signed 1994-2017 other than the Constitution and the codes.** Each is here in its current text only. Code editions the portal lists without a text (for the Civil Code, part one, 2011-2019) are carried by the next edition that has one; its commit names them in `Also-amended-by:` trailers.
+- **Some federal law.** Codes not yet built (among them the Air, Merchant Shipping and Inland Water Transport Codes), amending laws signed 2018-2026 as files of their own (they are the authors of the changes), ratification laws, laws no longer in force, and 178 acts signed 2000-2009 held back until their dates or tables can be verified (`REPRODUCE.md`). Laws whose commencement clause names a date set by another act are held (`REPRODUCE.md`).
 - **Decrees, regulations, regional law, case law and treaties' texts.**
 - **Images in acts signed 2010-2017**: their verbal text is here, the pictures are not.
 
@@ -74,7 +74,7 @@ Each edition of the Constitution is credited to the act the portal names for it:
 
 | Source | Kind | Past versions | Notes |
 | --- | --- | --- | --- |
-| [Официальный интернет-портал правовой информации](http://actual.pravo.gov.ru) (pravo.gov.ru), system "Законодательство России" | Official portal of legal information | yes, every edition with its date; built for the Constitution only | The text of every edition and the act that made it; the source of every act here |
+| [Официальный интернет-портал правовой информации](http://actual.pravo.gov.ru) (pravo.gov.ru), system "Законодательство России" | Official portal of legal information | yes, every edition with its date; built for the Constitution, the codes and the laws signed 2018-2026 | The text of every edition and the act that made it: actual.pravo.gov.ru for the Constitution and the acts signed 1994-2017, ips.pravo.gov.ru (the same system's public API) for the codes and the laws signed 2018-2026 |
 
 ## Licence
 

@@ -122,3 +122,17 @@ Model use at data-build time:
 One official current edition per added act. Source response SHA-256 and edition references are recorded in `data/signed-2010-2017.json` and the law commits. All legal wording comes from official HTML. Source notes remain in the text. In-force-basis identifies the edition and its amending instrument or the original commencement clause. GPT-6 wrote the collection, parsing, and verification code; no model wrote or corrected legal text.
 
 The exact offline renderer and appender are `tools/current_text_2010_2017.py` and `tools/append_signed_2010_2017.py`. The appender accepts the recorded metadata and original official JSON response files named by SHA-256, checks their hashes, and reconstructs the appended history from the recorded baseline.
+
+
+## Codes and laws signed 2018–2026 (added 2026-11-27)
+
+Source: the IPS "Законодательство России" at ips.pravo.gov.ru, the public JSON API of the system's own web client
+(`document_card.json?nd=<nd>` lists every edition with its date and amending act; `documenttext?nd=<nd>&rdk=<id>`
+is the text of one edition; `search.json` lists acts by type and signing date). Commencement laws were read on
+actual.pravo.gov.ru. Plain HTTP, no login, at most 5 requests in flight, stepping down at the first timeout or 5xx.
+The runner is `scripts/russia-law/runner/` in the Lexifina workspace (`fetch_ips.py`, `fetch_fz.py`, `parse_code.py`,
+`build_codes.py`, `build_fz.py`); every response is cached gzip-compressed by the SHA-256 of its URL and each commit
+records the response's SHA-256. The same responses give the same trees.
+
+Held: laws whose commencement clause the builder does not read (a period it does not parse, or a day set by another
+act), laws in force only after the build day, and editions after the build day.
